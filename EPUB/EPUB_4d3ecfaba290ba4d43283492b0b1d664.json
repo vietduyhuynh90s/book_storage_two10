@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cach-nguoi-do-thai-quan-ly-tien-tai-san_20094.html",
+    "title" : "Cách Người Do Thái Quản Lý Tiền & Tài Sản",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 15216,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_4d3ecfaba290ba4d43283492b0b1d664.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_4d3ecfaba290ba4d43283492b0b1d664.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2038,
+    "title" : "nghe-thuat-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2373,
+    "title" : "nghe-thuat-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2325,
+    "title" : "nghe-thuat-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1202,
+    "title" : "nghe-thuat-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "nghe-thuat-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2450,
+    "title" : "nghe-thuat-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2045,
+    "title" : "nghe-thuat-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-1.mp3",
+    "title" : "nghe-thuat-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-2.mp3",
+    "title" : "nghe-thuat-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-3.mp3",
+    "title" : "nghe-thuat-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-4.mp3",
+    "title" : "nghe-thuat-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-5.mp3",
+    "title" : "nghe-thuat-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-6.mp3",
+    "title" : "nghe-thuat-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghe-thuat-5/nghe-thuat-7.mp3",
+    "title" : "nghe-thuat-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
