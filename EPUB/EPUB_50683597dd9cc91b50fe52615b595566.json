@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/so-tay-huong-dan-su-dung-dan-ong-lam-bach-sac_10314.html",
+    "title" : "Sổ Tay Hướng dẫn sử dụng đàn ông - Lam Bạch Sắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lam Bạch Sắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 53377,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_50683597dd9cc91b50fe52615b595566.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_50683597dd9cc91b50fe52615b595566.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2640,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2694,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3239,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2868,
+    "title" : "Truyện Ngôn Tình Sắc Vui Nhộn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2439,
+    "title" : "Truyện Ngôn Tình Sắc Vui Nhộn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2780,
+    "title" : "Truyện Ngôn Tình Sắc Vui Nhộn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4313,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2646,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2169,
+    "title" : "Truyện Ngôn Tình Nghe Là Hết Buồn Liền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "Truyện Ngôn Tình Sắc Cực Vui",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2864,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2794,
+    "title" : "Truyện Ngôn Tình Sắc Cực Vui",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2762,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2902,
+    "title" : "Truyện Ngôn Tình Sắc Cực Vui",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2159,
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/1.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/10.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/11.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/12.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/13.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/14.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/15.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Vui Nhộn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/16.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Vui Nhộn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/17.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/18.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Vui Nhộn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/19.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/2.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/3.mp3",
+    "title" : "Truyện Ngôn Tình Nghe Là Hết Buồn Liền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/4.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Vui",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/5.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/6.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Vui",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/7.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/8.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Vui",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-dan-su-dung-dan-ong/9.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hài Hước",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

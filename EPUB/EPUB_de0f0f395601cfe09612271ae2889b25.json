@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-be-tho-ngay-dung-hong-tron-da-chi-thuong-lang_10380.html",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn - Dạ Chi Thương Lang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Chi Thương Lang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 81032,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_de0f0f395601cfe09612271ae2889b25.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_de0f0f395601cfe09612271ae2889b25.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4742,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 1 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5192,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 10 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4876,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 11 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5058,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 12 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4960,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 13 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5054,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 14 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4803,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 15 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6432,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 16 Tập Cuối - Dạ Chi Thương Lan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4684,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 2 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4919,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 3 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4948,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 4 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4994,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 5 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5008,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 6 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5171,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 7 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5033,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 8 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5158,
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 9 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/1.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 1 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/10.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 10 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/11.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 11 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/12.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 12 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/13.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 13 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/14.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 14 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/15.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 15 - Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/16.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 16 Tập Cuối - Dạ Chi Thương Lan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/2.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 2 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/3.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 3 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/4.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 4 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/5.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 5 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/6.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 6 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/7.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 7 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/8.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 8 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-be-tho-ngay-dung-hong-tron/9.mp3",
+    "title" : "Cô Bé Thơ Ngây Đừng Hòng Trốn Tập 9 - Tác Giả Dạ Chi Thương Lan - Diễn Đọc Huệ Leo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

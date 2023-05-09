@@ -1,0 +1,1433 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truyen-thuyet-chi-chu-dich-phu-nhan_13035.html",
+    "title" : "Truyền Thuyết Chi Chủ Đích Phu Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Doãn Gia",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 466018,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_3887707e04192973a5cb5193a0c285bc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_3887707e04192973a5cb5193a0c285bc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4016,
+    "title" : "Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3851,
+    "title" : "Tập 100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3583,
+    "title" : "Tập 101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3904,
+    "title" : "Tập 102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3673,
+    "title" : "Tập 103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3621,
+    "title" : "Tập 104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3811,
+    "title" : "Tập 105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3606,
+    "title" : "Tập 106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3581,
+    "title" : "Tập 107",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3541,
+    "title" : "Tập 108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "Tập 109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3881,
+    "title" : "Tập 110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "Tập 111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7126,
+    "title" : "Tập 112",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13130,
+    "title" : "Tập 113",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14635,
+    "title" : "Tập 114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10268,
+    "title" : "Truyền Thuyết Chi Chủ Đích Phu Nhân -💝 Tập 115 (Hết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11417,
+    "title" : "Truyền Thuyết Chi Chủ Đích Phu Nhân 🌸Hết-💝 Phiên Ngoại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3614,
+    "title" : "Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3733,
+    "title" : "Tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3669,
+    "title" : "Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3623,
+    "title" : "Tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "Tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3611,
+    "title" : "Tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Tập 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "Tập 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Tập 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "Tập 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3621,
+    "title" : "Tập 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "Tập 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3733,
+    "title" : "Tập 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3743,
+    "title" : "Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "Tập 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Tập 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Tập 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "Tập 33 (H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "Tập 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "Tập 35(H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "Tập 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "Tập 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "Tập 38(H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3708,
+    "title" : "Tập 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Tập 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "Tập 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "Tập 42(H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "Tập 43(H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "Tập 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "Tập 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "Tập 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Tập 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "Tập 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "Tập 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3864,
+    "title" : "Tập 50(H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "Tập 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Tập 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3694,
+    "title" : "Tập 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "Tập 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "Tập 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "Tập 56 (H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3664,
+    "title" : "Tập 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3621,
+    "title" : "Tập 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3561,
+    "title" : "Tập 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "Tập 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "Tập 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3567,
+    "title" : "Tập 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3673,
+    "title" : "Tập 63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Tập 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "Tập 65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "Tập 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3572,
+    "title" : "Tập 67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "Tập 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Tập 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Tập 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "Tập 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Tập 72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "Tập 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3679,
+    "title" : "Tập 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3687,
+    "title" : "Tập 75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "Tập 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3712,
+    "title" : "Tập 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "Tập 78 (H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "Tập 79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3828,
+    "title" : "Tập 8 (H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3696,
+    "title" : "Tập 80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "Tập 81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "Tập 82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Tập 83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3742,
+    "title" : "Tập 84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "Tập 85 (H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tập 86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3594,
+    "title" : "Tập 87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Tập 88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "Tập 89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3715,
+    "title" : "Tập 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "Tập 90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3679,
+    "title" : "Tập 91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "Tập 92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3628,
+    "title" : "Tập 93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "Tập 94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "Tập 95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3648,
+    "title" : "Tập 96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3707,
+    "title" : "Tập 97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "Tập 98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3624,
+    "title" : "Tập 99",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/1.mp3",
+    "title" : "Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/10.mp3",
+    "title" : "Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/100.mp3",
+    "title" : "Tập 100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/101.mp3",
+    "title" : "Tập 101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/102.mp3",
+    "title" : "Tập 102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/103.mp3",
+    "title" : "Tập 103",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/104.mp3",
+    "title" : "Tập 104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/105.mp3",
+    "title" : "Tập 105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/106.mp3",
+    "title" : "Tập 106",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/107.mp3",
+    "title" : "Tập 107",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/108.mp3",
+    "title" : "Tập 108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/109.mp3",
+    "title" : "Tập 109",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/11.mp3",
+    "title" : "Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/110.mp3",
+    "title" : "Tập 110",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/111.mp3",
+    "title" : "Tập 111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/112.mp3",
+    "title" : "Tập 112",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/113.mp3",
+    "title" : "Tập 113",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/114.mp3",
+    "title" : "Tập 114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/115.mp3",
+    "title" : "Truyền Thuyết Chi Chủ Đích Phu Nhân -💝 Tập 115 (Hết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/116.mp3",
+    "title" : "Truyền Thuyết Chi Chủ Đích Phu Nhân 🌸Hết-💝 Phiên Ngoại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/12.mp3",
+    "title" : "Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/13.mp3",
+    "title" : "Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/14.mp3",
+    "title" : "Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/15.mp3",
+    "title" : "Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/16.mp3",
+    "title" : "Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/17.mp3",
+    "title" : "Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/18.mp3",
+    "title" : "Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/19.mp3",
+    "title" : "Tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/2.mp3",
+    "title" : "Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/20.mp3",
+    "title" : "Tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/21.mp3",
+    "title" : "Tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/22.mp3",
+    "title" : "Tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/23.mp3",
+    "title" : "Tập 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/24.mp3",
+    "title" : "Tập 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/25.mp3",
+    "title" : "Tập 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/26.mp3",
+    "title" : "Tập 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/27.mp3",
+    "title" : "Tập 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/28.mp3",
+    "title" : "Tập 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/29.mp3",
+    "title" : "Tập 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/3.mp3",
+    "title" : "Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/30.mp3",
+    "title" : "Tập 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/31.mp3",
+    "title" : "Tập 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/32.mp3",
+    "title" : "Tập 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/33.mp3",
+    "title" : "Tập 33 (H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/34.mp3",
+    "title" : "Tập 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/35.mp3",
+    "title" : "Tập 35(H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/36.mp3",
+    "title" : "Tập 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/37.mp3",
+    "title" : "Tập 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/38.mp3",
+    "title" : "Tập 38(H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/39.mp3",
+    "title" : "Tập 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/4.mp3",
+    "title" : "Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/40.mp3",
+    "title" : "Tập 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/41.mp3",
+    "title" : "Tập 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/42.mp3",
+    "title" : "Tập 42(H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/43.mp3",
+    "title" : "Tập 43(H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/44.mp3",
+    "title" : "Tập 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/45.mp3",
+    "title" : "Tập 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/46.mp3",
+    "title" : "Tập 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/47.mp3",
+    "title" : "Tập 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/48.mp3",
+    "title" : "Tập 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/49.mp3",
+    "title" : "Tập 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/5.mp3",
+    "title" : "Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/50.mp3",
+    "title" : "Tập 50(H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/51.mp3",
+    "title" : "Tập 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/52.mp3",
+    "title" : "Tập 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/53.mp3",
+    "title" : "Tập 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/54.mp3",
+    "title" : "Tập 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/55.mp3",
+    "title" : "Tập 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/56.mp3",
+    "title" : "Tập 56 (H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/57.mp3",
+    "title" : "Tập 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/58.mp3",
+    "title" : "Tập 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/59.mp3",
+    "title" : "Tập 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/6.mp3",
+    "title" : "Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/60.mp3",
+    "title" : "Tập 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/61.mp3",
+    "title" : "Tập 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/62.mp3",
+    "title" : "Tập 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/63.mp3",
+    "title" : "Tập 63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/64.mp3",
+    "title" : "Tập 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/65.mp3",
+    "title" : "Tập 65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/66.mp3",
+    "title" : "Tập 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/67.mp3",
+    "title" : "Tập 67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/68.mp3",
+    "title" : "Tập 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/69.mp3",
+    "title" : "Tập 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/7.mp3",
+    "title" : "Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/70.mp3",
+    "title" : "Tập 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/71.mp3",
+    "title" : "Tập 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/72.mp3",
+    "title" : "Tập 72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/73.mp3",
+    "title" : "Tập 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/74.mp3",
+    "title" : "Tập 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/75.mp3",
+    "title" : "Tập 75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/76.mp3",
+    "title" : "Tập 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/77.mp3",
+    "title" : "Tập 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/78.mp3",
+    "title" : "Tập 78 (H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/79.mp3",
+    "title" : "Tập 79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/8.mp3",
+    "title" : "Tập 8 (H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/80.mp3",
+    "title" : "Tập 80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/81.mp3",
+    "title" : "Tập 81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/82.mp3",
+    "title" : "Tập 82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/83.mp3",
+    "title" : "Tập 83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/84.mp3",
+    "title" : "Tập 84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/85.mp3",
+    "title" : "Tập 85 (H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/86.mp3",
+    "title" : "Tập 86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/87.mp3",
+    "title" : "Tập 87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/88.mp3",
+    "title" : "Tập 88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/89.mp3",
+    "title" : "Tập 89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/9.mp3",
+    "title" : "Tập 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/90.mp3",
+    "title" : "Tập 90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/91.mp3",
+    "title" : "Tập 91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/92.mp3",
+    "title" : "Tập 92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/93.mp3",
+    "title" : "Tập 93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/94.mp3",
+    "title" : "Tập 94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/95.mp3",
+    "title" : "Tập 95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/96.mp3",
+    "title" : "Tập 96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/97.mp3",
+    "title" : "Tập 97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/98.mp3",
+    "title" : "Tập 98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-thuyet-chi-chu-dich-phu-nhan/99.mp3",
+    "title" : "Tập 99",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

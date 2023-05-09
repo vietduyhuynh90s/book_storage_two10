@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/madame-chic-rat-than-thai-rat-paris_14858.html",
+    "title" : "Madame Chic - Rất Thần Thái, Rất Paris",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jennifer L. Scott",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18158,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a0c01ce414ecf872d2c7cb39e09085f2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a0c01ce414ecf872d2c7cb39e09085f2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/MCRTTRP/Madame%20Chic%2C%20r%E1%BA%A5t%20th%E1%BA%A7n%20th%C3%A1i%20r%E1%BA%A5t%20Pari%20-%20Jennifer%20L.Scott%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18158,
+    "title" : "Madame Chic, rất thần thái rất Pari - Jennifer L.Scott (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/MCRTTRP/Madame%20Chic%2C%20r%E1%BA%A5t%20th%E1%BA%A7n%20th%C3%A1i%20r%E1%BA%A5t%20Pari%20-%20Jennifer%20L.Scott%20%28128kbit_AAC%29.mp3",
+    "title" : "Madame Chic, rất thần thái rất Pari - Jennifer L.Scott (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

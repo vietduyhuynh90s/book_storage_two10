@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/buoc-cham-lai-giua-the-gian-voi-va_17664.html",
+    "title" : "Bước Chậm Lại Giữa Thế Gian Vội Vã",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hae Min",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15129,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_cd1d06e403c7dfdfa2ebb253ee90c5db.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_cd1d06e403c7dfdfa2ebb253ee90c5db.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/buoc-cham-lai-giua-the-gian-voi-va.sna/Buoc%20Cham%20Lai%20Giua%20The%20Gian%20Voi%20Va%20-%20HAE%20MIN_Chu%CC%9Bo%CC%9Bng%201%20%2B%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4300,
+    "title" : "Buoc Cham Lai Giua The Gian Voi Va - HAE MIN Chương 1 + 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buoc-cham-lai-giua-the-gian-voi-va.sna/Buoc%20Cham%20Lai%20Giua%20The%20Gian%20Voi%20Va%20-%20HAE%20MIN_Chu%CC%9Bo%CC%9Bng%203%20%2B%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "Buoc Cham Lai Giua The Gian Voi Va - HAE MIN Chương 3 + 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buoc-cham-lai-giua-the-gian-voi-va.sna/Buoc%20Cham%20Lai%20Giua%20The%20Gian%20Voi%20Va%20-%20HAE%20MIN_Chu%CC%9Bo%CC%9Bng%205%20%2B%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3354,
+    "title" : "Buoc Cham Lai Giua The Gian Voi Va - HAE MIN Chương 5 + 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buoc-cham-lai-giua-the-gian-voi-va.sna/Buoc%20Cham%20Lai%20Giua%20The%20Gian%20Voi%20Va%20-%20HAE%20MIN_Chu%CC%9Bo%CC%9Bng%207%20%2B%208%20%2B%20Ket.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "Buoc Cham Lai Giua The Gian Voi Va - HAE MIN Chương 7 + 8 + Ket",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/buoc-cham-lai-giua-the-gian-voi-va.sna/Buoc%20Cham%20Lai%20Giua%20The%20Gian%20Voi%20Va%20-%20HAE%20MIN_Chu%CC%9Bo%CC%9Bng%201%20%2B%202.mp3",
+    "title" : "Buoc Cham Lai Giua The Gian Voi Va - HAE MIN Chương 1 + 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-cham-lai-giua-the-gian-voi-va.sna/Buoc%20Cham%20Lai%20Giua%20The%20Gian%20Voi%20Va%20-%20HAE%20MIN_Chu%CC%9Bo%CC%9Bng%203%20%2B%204.mp3",
+    "title" : "Buoc Cham Lai Giua The Gian Voi Va - HAE MIN Chương 3 + 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-cham-lai-giua-the-gian-voi-va.sna/Buoc%20Cham%20Lai%20Giua%20The%20Gian%20Voi%20Va%20-%20HAE%20MIN_Chu%CC%9Bo%CC%9Bng%205%20%2B%206.mp3",
+    "title" : "Buoc Cham Lai Giua The Gian Voi Va - HAE MIN Chương 5 + 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-cham-lai-giua-the-gian-voi-va.sna/Buoc%20Cham%20Lai%20Giua%20The%20Gian%20Voi%20Va%20-%20HAE%20MIN_Chu%CC%9Bo%CC%9Bng%207%20%2B%208%20%2B%20Ket.mp3",
+    "title" : "Buoc Cham Lai Giua The Gian Voi Va - HAE MIN Chương 7 + 8 + Ket",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

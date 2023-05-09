@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trang-thuong-huyen_15276.html",
+    "title" : "Trăng Thượng Huyền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bùi Ngọc Phúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19944,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a11955e590b90ba5d59af17916e4bf07.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a11955e590b90ba5d59af17916e4bf07.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trang-thuong-huyen/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2609,
+    "title" : "Tập 01 - Truyện TLXH mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "Tập 02 - Truyện TLXH mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3173,
+    "title" : "Tập 03 - Truyện TLXH mới nhất do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3197,
+    "title" : "Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3018,
+    "title" : "Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2321,
+    "title" : "Tập 07 (HẾT)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trang-thuong-huyen/1.mp3",
+    "title" : "Tập 01 - Truyện TLXH mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/2.mp3",
+    "title" : "Tập 02 - Truyện TLXH mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/3.mp3",
+    "title" : "Tập 03 - Truyện TLXH mới nhất do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/4.mp3",
+    "title" : "Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/5.mp3",
+    "title" : "Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/6.mp3",
+    "title" : "Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-thuong-huyen/7.mp3",
+    "title" : "Tập 07 (HẾT)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

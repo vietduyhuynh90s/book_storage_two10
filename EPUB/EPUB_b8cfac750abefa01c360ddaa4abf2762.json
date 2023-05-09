@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/me-lo-quan-yukito-ayatsuji_9558.html",
+    "title" : "Mê Lộ Quán - Yukito Ayatsuji.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yukito Ayatsuji",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24540,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b8cfac750abefa01c360ddaa4abf2762.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b8cfac750abefa01c360ddaa4abf2762.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me-lo-quan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "Tách Gỉa : Yukito Ayatsuji - MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "Tách Gỉa : Yukito Ayatsuji - MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "Án Mạng thứ nhất - MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4087,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1848,
+    "title" : "Tập CUỐI 7 - Hung Thủ Cuối Cùng lộ mặt | Truyện trinh thám kinh dị - MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me-lo-quan/1.mp3",
+    "title" : "Tách Gỉa : Yukito Ayatsuji - MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/2.mp3",
+    "title" : "Tách Gỉa : Yukito Ayatsuji - MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/3.mp3",
+    "title" : "Án Mạng thứ nhất - MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/4.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/5.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/6.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-lo-quan/7.mp3",
+    "title" : "Tập CUỐI 7 - Hung Thủ Cuối Cùng lộ mặt | Truyện trinh thám kinh dị - MC Thanh Bình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

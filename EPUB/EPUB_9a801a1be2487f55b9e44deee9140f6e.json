@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-song-khong-gioi-han_16747.html",
+    "title" : "Cuộc Sống Không Giới Hạn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nick Vujicic",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44631,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_9a801a1be2487f55b9e44deee9140f6e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_9a801a1be2487f55b9e44deee9140f6e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/01.LoiTua/01.%20Loi%20tua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 729,
+    "title" : "01. Loi tua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/02.%20Hay%20de%20chinh%20minh%20la%20dieu%20ky%20dieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2209,
+    "title" : "02. Hay de chinh minh la dieu ky dieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/03.%20Dua%20tre%20tat%20nguyen%20cung%20coi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2340,
+    "title" : "03. Dua tre tat nguyen cung coi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/04.%20Cuoi%20duong%20ham%20sinh%20ra%20dieu%20ky%20dieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2256,
+    "title" : "04. Cuoi duong ham sinh ra dieu ky dieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/05.%20Khong%20tay%20Khong%20chan%20Khong%20gioi%20han.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2434,
+    "title" : "05. Khong tay Khong chan Khong gioi han",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/06.%20Sang%20suot%20nho%20trai%20nghiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2015,
+    "title" : "06. Sang suot nho trai nghiem",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/07.%20Co%20niem%20tin%20Co%20tat%20ca.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1855,
+    "title" : "07. Co niem tin Co tat ca",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/08.%20Niem%20tin%20ben%20re.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "08. Niem tin ben re",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/09.%20Hay%20yeu%20con%20nguoi%20von%20co%20cua%20ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1734,
+    "title" : "09. Hay yeu con nguoi von co cua ban",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/10.%20Hai%20long%20voi%20ban%20than%20de%20toa%20sang%20nu%20cuoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1644,
+    "title" : "10. Hai long voi ban than de toa sang nu cuoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/11.%20Dieu%20ky%20dieu%20cua%20thai%20do%20tich%20cuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1981,
+    "title" : "11. Dieu ky dieu cua thai do tich cuc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/12.%20Thai%20do%20hanh%20dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "12. Thai do hanh dong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/13.%20Khong%20tay%20nhung%20khong%20chien%20bai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "13. Khong tay nhung khong chien bai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/14.%20Dung%20de%20noi%20so%20am%20anh%20ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1431,
+    "title" : "14. Dung de noi so am anh ban",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/15.%20Hay%20dung%20day%20sau%20moi%20lan%20vap%20nga.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2378,
+    "title" : "15. Hay dung day sau moi lan vap nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/16.%20Cau%20hoc%20tro%20moi%20tron%20trong%20bui%20cay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2785,
+    "title" : "16. Cau hoc tro moi tron trong bui cay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/17.%20Hay%20tin%20nguoi%20khac%20du%20it%20hay%20nhieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2422,
+    "title" : "17. Hay tin nguoi khac du it hay nhieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/18.%20Khong%20quan%20Khong%20dien%20thuyet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1624,
+    "title" : "18. Khong quan Khong dien thuyet",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/19.%20Nam%20bat%20co%20hoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2984,
+    "title" : "19. Nam bat co hoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/20.%20Nhung%20quy%20tac%20dien%20ro.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "20. Nhung quy tac dien ro",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/21.%20Thuc%20hien%20su%20menh%20cua%20minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1827,
+    "title" : "21. Thuc hien su menh cua minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/22.%20Tao%20nen%20phep%20mau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2087,
+    "title" : "22. Tao nen phep mau",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/01.LoiTua/01.%20Loi%20tua.mp3",
+    "title" : "01. Loi tua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/02.%20Hay%20de%20chinh%20minh%20la%20dieu%20ky%20dieu.mp3",
+    "title" : "02. Hay de chinh minh la dieu ky dieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/03.%20Dua%20tre%20tat%20nguyen%20cung%20coi.mp3",
+    "title" : "03. Dua tre tat nguyen cung coi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/04.%20Cuoi%20duong%20ham%20sinh%20ra%20dieu%20ky%20dieu.mp3",
+    "title" : "04. Cuoi duong ham sinh ra dieu ky dieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/05.%20Khong%20tay%20Khong%20chan%20Khong%20gioi%20han.mp3",
+    "title" : "05. Khong tay Khong chan Khong gioi han",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/06.%20Sang%20suot%20nho%20trai%20nghiem.mp3",
+    "title" : "06. Sang suot nho trai nghiem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/07.%20Co%20niem%20tin%20Co%20tat%20ca.mp3",
+    "title" : "07. Co niem tin Co tat ca",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/08.%20Niem%20tin%20ben%20re.mp3",
+    "title" : "08. Niem tin ben re",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/09.%20Hay%20yeu%20con%20nguoi%20von%20co%20cua%20ban.mp3",
+    "title" : "09. Hay yeu con nguoi von co cua ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/10.%20Hai%20long%20voi%20ban%20than%20de%20toa%20sang%20nu%20cuoi.mp3",
+    "title" : "10. Hai long voi ban than de toa sang nu cuoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/11.%20Dieu%20ky%20dieu%20cua%20thai%20do%20tich%20cuc.mp3",
+    "title" : "11. Dieu ky dieu cua thai do tich cuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/12.%20Thai%20do%20hanh%20dong.mp3",
+    "title" : "12. Thai do hanh dong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/13.%20Khong%20tay%20nhung%20khong%20chien%20bai.mp3",
+    "title" : "13. Khong tay nhung khong chien bai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/14.%20Dung%20de%20noi%20so%20am%20anh%20ban.mp3",
+    "title" : "14. Dung de noi so am anh ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/15.%20Hay%20dung%20day%20sau%20moi%20lan%20vap%20nga.mp3",
+    "title" : "15. Hay dung day sau moi lan vap nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/16.%20Cau%20hoc%20tro%20moi%20tron%20trong%20bui%20cay.mp3",
+    "title" : "16. Cau hoc tro moi tron trong bui cay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/17.%20Hay%20tin%20nguoi%20khac%20du%20it%20hay%20nhieu.mp3",
+    "title" : "17. Hay tin nguoi khac du it hay nhieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/18.%20Khong%20quan%20Khong%20dien%20thuyet.mp3",
+    "title" : "18. Khong quan Khong dien thuyet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/19.%20Nam%20bat%20co%20hoi.mp3",
+    "title" : "19. Nam bat co hoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/20.%20Nhung%20quy%20tac%20dien%20ro.mp3",
+    "title" : "20. Nhung quy tac dien ro",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/21.%20Thuc%20hien%20su%20menh%20cua%20minh.mp3",
+    "title" : "21. Thuc hien su menh cua minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01.LoiTua/22.%20Tao%20nen%20phep%20mau.mp3",
+    "title" : "22. Tao nen phep mau",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

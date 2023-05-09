@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/on-nhu-no-tuong-cong-co-linh_10724.html",
+    "title" : "Ôn Nhu Nộ Tướng Công - Cổ Linh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24397,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_add95e592f799438b49f68aef849c6ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_add95e592f799438b49f68aef849c6ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/on-nhu-no-tuong-cong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7338,
+    "title" : "Ôn Nhu Nộ Tướng Công Tập 1 _ Hương Giang I Ngôn Tình Ngọt Ngào HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-no-tuong-cong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7536,
+    "title" : "Ôn Nhu Nộ Tướng Công Tập 2 _ Hương Giang | Audio Ngôn Tình HE ngọt ngào lãng mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/on-nhu-no-tuong-cong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9523,
+    "title" : "Ôn Nhu Nộ Tướng Công _ Tập 3 [ Hết ] _ Hương Giang_ audio Ngôn Tình HE Sủng Ngòn Ngọt",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/on-nhu-no-tuong-cong/1.mp3",
+    "title" : "Ôn Nhu Nộ Tướng Công Tập 1 _ Hương Giang I Ngôn Tình Ngọt Ngào HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-no-tuong-cong/2.mp3",
+    "title" : "Ôn Nhu Nộ Tướng Công Tập 2 _ Hương Giang | Audio Ngôn Tình HE ngọt ngào lãng mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/on-nhu-no-tuong-cong/3.mp3",
+    "title" : "Ôn Nhu Nộ Tướng Công _ Tập 3 [ Hết ] _ Hương Giang_ audio Ngôn Tình HE Sủng Ngòn Ngọt",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tran-bach-phuc-co-ma_17799.html",
+    "title" : "Trấn Bạch Phục Có Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhất Đạo Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 121883,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5efa5990af162cedc9c71244117f5a87.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5efa5990af162cedc9c71244117f5a87.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5535,
+    "title" : "trấn bạch phục có ma 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4426,
+    "title" : "trấn bạch phục có ma 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8717,
+    "title" : "trấn bạch phục có ma 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2002,
+    "title" : "trấn bạch phục có ma 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3864,
+    "title" : "trấn bạch phục có ma 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8282,
+    "title" : "trấn bạch phục có ma 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7222,
+    "title" : "trấn bạch phục có ma 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7693,
+    "title" : "trấn bạch phục có ma 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5861,
+    "title" : "trấn bạch phục có ma 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1180,
+    "title" : "trấn bạch phục có ma 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6542,
+    "title" : "trấn bạch phục có ma 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3950,
+    "title" : "trấn bạch phục có ma 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4250,
+    "title" : "trấn bạch phục có ma 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3945,
+    "title" : "trấn bạch phục có ma 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7743,
+    "title" : "trấn bạch phục có ma 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6600,
+    "title" : "trấn bạch phục có ma 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "trấn bạch phục có ma 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "trấn bạch phục có ma 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7107,
+    "title" : "trấn bạch phục có ma 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6710,
+    "title" : "trấn bạch phục có ma 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7230,
+    "title" : "trấn bạch phục có ma 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3877,
+    "title" : "trấn bạch phục có ma 22",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2001.mp3",
+    "title" : "trấn bạch phục có ma 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2002.mp3",
+    "title" : "trấn bạch phục có ma 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2003.mp3",
+    "title" : "trấn bạch phục có ma 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2004.mp3",
+    "title" : "trấn bạch phục có ma 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2005.mp3",
+    "title" : "trấn bạch phục có ma 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2006.mp3",
+    "title" : "trấn bạch phục có ma 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2007.mp3",
+    "title" : "trấn bạch phục có ma 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2008.mp3",
+    "title" : "trấn bạch phục có ma 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2009.mp3",
+    "title" : "trấn bạch phục có ma 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2010.mp3",
+    "title" : "trấn bạch phục có ma 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2011.mp3",
+    "title" : "trấn bạch phục có ma 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2012.mp3",
+    "title" : "trấn bạch phục có ma 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2013.mp3",
+    "title" : "trấn bạch phục có ma 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2014.mp3",
+    "title" : "trấn bạch phục có ma 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2015.mp3",
+    "title" : "trấn bạch phục có ma 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2016.mp3",
+    "title" : "trấn bạch phục có ma 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2017.mp3",
+    "title" : "trấn bạch phục có ma 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2018.mp3",
+    "title" : "trấn bạch phục có ma 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2019.mp3",
+    "title" : "trấn bạch phục có ma 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2020.mp3",
+    "title" : "trấn bạch phục có ma 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2021.mp3",
+    "title" : "trấn bạch phục có ma 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-bach-phuc-co-ma-03/tr%E1%BA%A5n%20b%E1%BA%A1ch%20ph%E1%BB%A5c%20c%C3%B3%20ma%2022.mp3",
+    "title" : "trấn bạch phục có ma 22",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

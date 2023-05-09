@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-quoc-thanh-quan-uc_10418.html",
+    "title" : "Tam @ Quốc - Thành Quân Ức",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thành Quân Ức",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30957,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_58617471de7fd552e09ff742e1c8a256.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_58617471de7fd552e09ff742e1c8a256.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 960,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1146,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 987,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1892,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1782,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1500,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1097,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2095,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2003,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1149,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1001,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1030,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1308,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 22 - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1644,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1093,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1333,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1603,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1023,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1038,
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/1.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/10.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/11.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/12.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/13.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/14.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/15.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/16.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/17.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/18.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/19.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/2.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/20.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/21.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/22.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 22 - Phần Cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/3.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/4.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/5.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/6.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/7.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/8.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-quoc-kinh-doanh/9.mp3",
+    "title" : "Tam Quốc @ Diễn Nghĩa - Sách Kinh Doanh - Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

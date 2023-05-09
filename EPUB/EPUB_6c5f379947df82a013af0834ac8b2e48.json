@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tui-nho-ben-nguc-trai_15885.html",
+    "title" : "Túi Nhỏ Bên Ngực Trái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giản Diệc Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 71492,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_6c5f379947df82a013af0834ac8b2e48.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_6c5f379947df82a013af0834ac8b2e48.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3872,
+    "title" : "KLM|",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4546,
+    "title" : "KLM| Quà sinh nhật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "KLM| Hợp đồng đĩa nhạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3509,
+    "title" : "KLM| : Chia tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4142,
+    "title" : "KLM| : Có thai?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "KLM|:Cố Dao là con ai?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4005,
+    "title" : "KLM| C58-62:Cái chết của Nhan Thanh Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3944,
+    "title" : "KLM| Dẫn rắn ra khỏi hang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3217,
+    "title" : "KLM|: Chương 68- hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4510,
+    "title" : "KLM| Chương6-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4338,
+    "title" : "KLM| Chương12-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4132,
+    "title" : "KLM| C 18-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5482,
+    "title" : "KLM| C 21-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4403,
+    "title" : "KLM| C25-27:Chạy 3000m",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4612,
+    "title" : "KLM| C28-30: WC nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4564,
+    "title" : "KLM-Đi nông thôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4416,
+    "title" : "KLM| C34-36: Hôn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/1.mp3",
+    "title" : "KLM|",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/10.mp3",
+    "title" : "KLM| Quà sinh nhật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/11.mp3",
+    "title" : "KLM| Hợp đồng đĩa nhạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/12.mp3",
+    "title" : "KLM| : Chia tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/13.mp3",
+    "title" : "KLM| : Có thai?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/14.mp3",
+    "title" : "KLM|:Cố Dao là con ai?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/15.mp3",
+    "title" : "KLM| C58-62:Cái chết của Nhan Thanh Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/16.mp3",
+    "title" : "KLM| Dẫn rắn ra khỏi hang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/17.mp3",
+    "title" : "KLM|: Chương 68- hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/2.mp3",
+    "title" : "KLM| Chương6-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/3.mp3",
+    "title" : "KLM| Chương12-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/4.mp3",
+    "title" : "KLM| C 18-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/5.mp3",
+    "title" : "KLM| C 21-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/6.mp3",
+    "title" : "KLM| C25-27:Chạy 3000m",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/7.mp3",
+    "title" : "KLM| C28-30: WC nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/8.mp3",
+    "title" : "KLM-Đi nông thôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tui-nho-ben-nguc-trai/9.mp3",
+    "title" : "KLM| C34-36: Hôn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

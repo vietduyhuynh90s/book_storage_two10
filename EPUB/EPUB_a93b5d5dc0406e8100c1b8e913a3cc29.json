@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hong-nhan-da-truan_15931.html",
+    "title" : "Hồng Nhan Đa Truân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Như Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 61260,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a93b5d5dc0406e8100c1b8e913a3cc29.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a93b5d5dc0406e8100c1b8e913a3cc29.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "Tập 01- Truyện tâm lý xã hội quá hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3023,
+    "title" : "Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "Tập 11 - Truyện tâm lý xã hội thực tế quá hay do MC Đình Duy đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "Tập 13 - Truyện tâm lý xã hội thực tế rất hay MC Đình Duy đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2523,
+    "title" : "Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2667,
+    "title" : "Tập 16 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2720,
+    "title" : "Tập 17 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2827,
+    "title" : "Tập 18 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2990,
+    "title" : "Tập 19 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "Tập 02 - Truyện tâm lý xã hội quá hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "Tập 20 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "Tập 21 (HẾT) - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3149,
+    "title" : "Tập 03 - Truyện tâm lý xã hội quá hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3078,
+    "title" : "Tập 04 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2932,
+    "title" : "Tập 05 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "Tập 06 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2772,
+    "title" : "Tập 07 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3018,
+    "title" : "Tập 08 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "Tập 09 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/1.mp3",
+    "title" : "Tập 01- Truyện tâm lý xã hội quá hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/10.mp3",
+    "title" : "Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/11.mp3",
+    "title" : "Tập 11 - Truyện tâm lý xã hội thực tế quá hay do MC Đình Duy đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/12.mp3",
+    "title" : "Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/13.mp3",
+    "title" : "Tập 13 - Truyện tâm lý xã hội thực tế rất hay MC Đình Duy đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/14.mp3",
+    "title" : "Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/15.mp3",
+    "title" : "Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/16.mp3",
+    "title" : "Tập 16 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/17.mp3",
+    "title" : "Tập 17 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/18.mp3",
+    "title" : "Tập 18 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/19.mp3",
+    "title" : "Tập 19 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/2.mp3",
+    "title" : "Tập 02 - Truyện tâm lý xã hội quá hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/20.mp3",
+    "title" : "Tập 20 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/21.mp3",
+    "title" : "Tập 21 (HẾT) - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/3.mp3",
+    "title" : "Tập 03 - Truyện tâm lý xã hội quá hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/4.mp3",
+    "title" : "Tập 04 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/5.mp3",
+    "title" : "Tập 05 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/6.mp3",
+    "title" : "Tập 06 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/7.mp3",
+    "title" : "Tập 07 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/8.mp3",
+    "title" : "Tập 08 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-nhan-da-truan/9.mp3",
+    "title" : "Tập 09 - Truyện tâm lý xã hội rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

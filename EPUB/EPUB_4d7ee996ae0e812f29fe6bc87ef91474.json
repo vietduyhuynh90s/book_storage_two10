@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kinh-doanh-theo-mang-tu-a-den-z_16991.html",
+    "title" : "Kinh Doanh Theo Mạng Từ A Đến Z",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Don Failla",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 4454,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_4d7ee996ae0e812f29fe6bc87ef91474.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_4d7ee996ae0e812f29fe6bc87ef91474.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "Phần 1: Những khách hàng tiềm năng thường hỏi - P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 739,
+    "title" : "Phần 1: Những khách hàng tiềm năng thường hỏi - P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P1_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 499,
+    "title" : "Phần 1: Những khách hàng tiềm năng thường hỏi - P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1382,
+    "title" : "Phần 2: Những phân phối viên mới khởi sự thường hỏi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 994,
+    "title" : "Phần 3: Những nhà phân phối lão luyện thường hỏi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P1_1.mp3",
+    "title" : "Phần 1: Những khách hàng tiềm năng thường hỏi - P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P1_2.mp3",
+    "title" : "Phần 1: Những khách hàng tiềm năng thường hỏi - P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P1_3.mp3",
+    "title" : "Phần 1: Những khách hàng tiềm năng thường hỏi - P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P2.mp3",
+    "title" : "Phần 2: Những phân phối viên mới khởi sự thường hỏi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKinhDoanhTheoMangTuADenZ/KinhDoanhTheoMangTuAdenZ_P3.mp3",
+    "title" : "Phần 3: Những nhà phân phối lão luyện thường hỏi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

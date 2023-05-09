@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nua-thoi-gian-am-ap_15381.html",
+    "title" : "Nửa Thời Gian Ấm Áp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đồng Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 67821,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_7d2262ce85c93ee61a5c451cdc9eb9c4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_7d2262ce85c93ee61a5c451cdc9eb9c4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10221,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/1.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/2.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/3.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/4.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/5.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/6.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/7.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/8.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-thoi-gian-am-ap/9.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

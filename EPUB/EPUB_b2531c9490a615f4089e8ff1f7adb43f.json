@@ -1,0 +1,989 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/than-ma-cuu-bien-duy-nhat-thien-tu_9592.html",
+    "title" : "Thần Ma Cửu Biến - Duy Nhất Thiên Tử.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duy Nhất Thiên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 284886,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b2531c9490a615f4089e8ff1f7adb43f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b2531c9490a615f4089e8ff1f7adb43f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "Chương Xuyên việt Hoàng Thạch Trấn #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3611,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3556,
+    "title" : "Chương: Hoàng Kim Quyền #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "Chương: Miểu sát #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3547,
+    "title" : "Chương: Trong chiến đấu #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "Chương: Truyền tống #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "Chương: : Thần Ma Cốc #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Chương: : Cứu viện #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3809,
+    "title" : "Chương: Bất phân thắng bại#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "Chương Lâu Lan Trấn#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "Chương: Hồn lực công kích#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3478,
+    "title" : "Chương: Nhị cấp Võ hùng#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3385,
+    "title" : "Chương: Hoàng Bối ngư#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "Chương: Thủy Lôi Thuật#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "Chương: Thiên phú kỹ năng#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3553,
+    "title" : "Chương: Lôi gia#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "Chương: Hợp Hoan Lão Tổ#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "Chương: Rời khỏi Man Tộc#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "Chương Sóng ngầm khởi động#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "Mix by audio-joiner.com",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "Chương Sơn động, Địa cấp vũ kỹ#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3762,
+    "title" : "Chương Vô tình gặp Yêu Dạ#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "Chương Cự Nhân Tộc#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Chương Bạch Cốt Chân Quân#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3711,
+    "title" : "Chương Huyền Âm thần vệ#audiobook#xuy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3711,
+    "title" : "Chương Toàn diệt ngư nhân#audiobook#xuy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3577,
+    "title" : "Chương Kỳ Lân Phủ#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3711,
+    "title" : "Chương Mộ Võ Đế#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "THẦN MA CỬU BIẾN Phân 19a- Chương Gặp lại Tiểu Hỏa#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "THẦN MA CỬU BIẾN Phân 19b- Chương Kỳ Lân Chân Thân#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3778,
+    "title" : "THẦN MA CỬU BIẾN Phân 20a- Chương Cấm chế mở ra#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3463,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "THẦN MA CỬU BIẾN Phân 20b- Chương Xích Hỏa Luân#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "THẦN MA CỬU BIẾN Phân 21a- Chương Máu huyết#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3437,
+    "title" : "THẦN MA CỬU BIẾN Phân 21b- Chương Đấu giá bắt đầu#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3446,
+    "title" : "THẦN MA CỬU BIẾN Phân 22a- Chương Ngũ Lôi Oanh Đỉnh#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "THẦN MA CỬU BIẾN Phân 22b- Chương Kiếm công tử#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "Chương Thể Áo Nghĩa#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "Chương Thanh Cương Thuẫn#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "Chương Tiểu Thiên Thủy Giới#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Chương Lộ ra nanh vuốt#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3417,
+    "title" : "49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3505,
+    "title" : "Chương Băng Ách Tinh Cầu#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3691,
+    "title" : "Chương Vô Thanh Ba Động Trảm#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Chương Biến thân#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "Chương Huyết Vương Tinh#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3505,
+    "title" : "Chương Tộc trưởng #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "Chương Không có mắt#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3164,
+    "title" : "Chương Phó trưởng trấn#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3577,
+    "title" : "Chương Viện tử giá trên trờin#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "Chương Phú hào ức vạn#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3572,
+    "title" : "Chương Đại A Tu La Đao Trận#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3531,
+    "title" : "Chương: Thoát đi#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3462,
+    "title" : "Chương Dọa lùi#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3508,
+    "title" : "Chương Đệ tử phổ thông#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "Chương Nhất Tinh đệ tử#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "Chương Tịch trưởng lão#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3199,
+    "title" : "Chương Kém rất xa#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3494,
+    "title" : "Chương Long Văn cùng Thải Linh#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "Chương Đánh chết Quỷ Đế#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "Chương Thiên thần khí#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Chương Gặp lại cố nhân#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "Chương Tiểu Hỏa tiến giai#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "Chương: Đẫm máu kinh hồn #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3527,
+    "title" : "Chương Thực lực của Lâm Nguyệt#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "Chương Phiên Thiên Ấn#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "Chương Phệ thần cổ đằng#audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3685,
+    "title" : "Chương Giáo chủ Tam Âm Thánh Giáo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3648,
+    "title" : "Chương Viễn cổ dị thú: Hống Thiên Ngưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "Chương Võ Thánh Đào Thiên Tuyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3546,
+    "title" : "Chương Trận đấu đê giai đệ tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "Chương Thủy Ấn Ký",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "Chương Hỗn Độn Châu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5735,
+    "title" : "Chương Bạo Liệt Pháp Tắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Chương: Tiểu thư gặp rủi ro #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Chương: Phách không quyền #audiobook#xuyenviet#laotrantv",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/1.mp3",
+    "title" : "Chương Xuyên việt Hoàng Thạch Trấn #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/11.mp3",
+    "title" : "Chương: Hoàng Kim Quyền #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/13.mp3",
+    "title" : "Chương: Miểu sát #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/14.mp3",
+    "title" : "Chương: Trong chiến đấu #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/15.mp3",
+    "title" : "Chương: Truyền tống #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/16.mp3",
+    "title" : "Chương: : Thần Ma Cốc #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/17.mp3",
+    "title" : "Chương: : Cứu viện #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/19.mp3",
+    "title" : "Chương: Bất phân thắng bại#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/2.mp3",
+    "title" : "Chương Lâu Lan Trấn#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/20.mp3",
+    "title" : "Chương: Hồn lực công kích#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/21.mp3",
+    "title" : "Chương: Nhị cấp Võ hùng#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/22.mp3",
+    "title" : "Chương: Hoàng Bối ngư#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/23.mp3",
+    "title" : "Chương: Thủy Lôi Thuật#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/24.mp3",
+    "title" : "Chương: Thiên phú kỹ năng#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/25.mp3",
+    "title" : "Chương: Lôi gia#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/26.mp3",
+    "title" : "Chương: Hợp Hoan Lão Tổ#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/27.mp3",
+    "title" : "Chương: Rời khỏi Man Tộc#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/28.mp3",
+    "title" : "Chương Sóng ngầm khởi động#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/29.mp3",
+    "title" : "Mix by audio-joiner.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/3.mp3",
+    "title" : "Chương Sơn động, Địa cấp vũ kỹ#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/30.mp3",
+    "title" : "Chương Vô tình gặp Yêu Dạ#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/31.mp3",
+    "title" : "Chương Cự Nhân Tộc#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/32.mp3",
+    "title" : "Chương Bạch Cốt Chân Quân#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/33.mp3",
+    "title" : "Chương Huyền Âm thần vệ#audiobook#xuy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/34.mp3",
+    "title" : "Chương Toàn diệt ngư nhân#audiobook#xuy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/35.mp3",
+    "title" : "Chương Kỳ Lân Phủ#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/36.mp3",
+    "title" : "Chương Mộ Võ Đế#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/37.mp3",
+    "title" : "THẦN MA CỬU BIẾN Phân 19a- Chương Gặp lại Tiểu Hỏa#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/38.mp3",
+    "title" : "THẦN MA CỬU BIẾN Phân 19b- Chương Kỳ Lân Chân Thân#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/39.mp3",
+    "title" : "THẦN MA CỬU BIẾN Phân 20a- Chương Cấm chế mở ra#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/40.mp3",
+    "title" : "THẦN MA CỬU BIẾN Phân 20b- Chương Xích Hỏa Luân#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/41.mp3",
+    "title" : "THẦN MA CỬU BIẾN Phân 21a- Chương Máu huyết#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/42.mp3",
+    "title" : "THẦN MA CỬU BIẾN Phân 21b- Chương Đấu giá bắt đầu#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/43.mp3",
+    "title" : "THẦN MA CỬU BIẾN Phân 22a- Chương Ngũ Lôi Oanh Đỉnh#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/44.mp3",
+    "title" : "THẦN MA CỬU BIẾN Phân 22b- Chương Kiếm công tử#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/45.mp3",
+    "title" : "Chương Thể Áo Nghĩa#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/46.mp3",
+    "title" : "Chương Thanh Cương Thuẫn#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/47.mp3",
+    "title" : "Chương Tiểu Thiên Thủy Giới#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/48.mp3",
+    "title" : "Chương Lộ ra nanh vuốt#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/49.mp3",
+    "title" : "49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/50.mp3",
+    "title" : "Chương Băng Ách Tinh Cầu#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/51.mp3",
+    "title" : "Chương Vô Thanh Ba Động Trảm#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/52.mp3",
+    "title" : "Chương Biến thân#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/53.mp3",
+    "title" : "Chương Huyết Vương Tinh#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/54.mp3",
+    "title" : "Chương Tộc trưởng #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/55.mp3",
+    "title" : "Chương Không có mắt#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/56.mp3",
+    "title" : "Chương Phó trưởng trấn#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/57.mp3",
+    "title" : "Chương Viện tử giá trên trờin#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/58.mp3",
+    "title" : "Chương Phú hào ức vạn#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/59.mp3",
+    "title" : "Chương Đại A Tu La Đao Trận#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/6.mp3",
+    "title" : "Chương: Thoát đi#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/60.mp3",
+    "title" : "Chương Dọa lùi#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/61.mp3",
+    "title" : "Chương Đệ tử phổ thông#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/62.mp3",
+    "title" : "Chương Nhất Tinh đệ tử#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/63.mp3",
+    "title" : "Chương Tịch trưởng lão#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/64.mp3",
+    "title" : "Chương Kém rất xa#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/65.mp3",
+    "title" : "Chương Long Văn cùng Thải Linh#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/66.mp3",
+    "title" : "Chương Đánh chết Quỷ Đế#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/67.mp3",
+    "title" : "Chương Thiên thần khí#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/68.mp3",
+    "title" : "Chương Gặp lại cố nhân#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/69.mp3",
+    "title" : "Chương Tiểu Hỏa tiến giai#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/7.mp3",
+    "title" : "Chương: Đẫm máu kinh hồn #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/70.mp3",
+    "title" : "Chương Thực lực của Lâm Nguyệt#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/71.mp3",
+    "title" : "Chương Phiên Thiên Ấn#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/72.mp3",
+    "title" : "Chương Phệ thần cổ đằng#audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/73.mp3",
+    "title" : "Chương Giáo chủ Tam Âm Thánh Giáo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/74.mp3",
+    "title" : "Chương Viễn cổ dị thú: Hống Thiên Ngưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/75.mp3",
+    "title" : "Chương Võ Thánh Đào Thiên Tuyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/76.mp3",
+    "title" : "Chương Trận đấu đê giai đệ tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/77.mp3",
+    "title" : "Chương Thủy Ấn Ký",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/78.mp3",
+    "title" : "Chương Hỗn Độn Châu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/79.mp3",
+    "title" : "Chương Bạo Liệt Pháp Tắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/8.mp3",
+    "title" : "Chương: Tiểu thư gặp rủi ro #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/than-ma-cuu-bien/9.mp3",
+    "title" : "Chương: Phách không quyền #audiobook#xuyenviet#laotrantv",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

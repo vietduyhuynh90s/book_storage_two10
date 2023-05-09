@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khi-ban-chi-co-mot-minh_16768.html",
+    "title" : "Khi Bạn Chỉ Có Một Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 6768,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b631e0238d7c2147acbbbdb082bab378.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b631e0238d7c2147acbbbdb082bab378.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 193,
+    "title" : "KBCC1M-01-loi gioi thieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-02-thi_luc_10_tren_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 359,
+    "title" : "KBCC1M-02-thi luc 10 tren 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-03-buoi_bowling.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 749,
+    "title" : "KBCC1M-03-buoi bowling",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-04-david_va_lily.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 545,
+    "title" : "KBCC1M-04-david va lily",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-05-hy_vong_duoc_thap_sang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 659,
+    "title" : "KBCC1M-05-hy vong duoc thap sang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-06-co_hoi_trong_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 749,
+    "title" : "KBCC1M-06-co hoi trong doi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-07-tung_ngay_mot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 463,
+    "title" : "KBCC1M-07-tung ngay mot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-08-giang_sinh_dang_den.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 409,
+    "title" : "KBCC1M-08-giang sinh dang den",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-09-vong_tay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 419,
+    "title" : "KBCC1M-09-vong tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-10-vuot_qua_kha_nang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 633,
+    "title" : "KBCC1M-10-vuot qua kha nang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-11-thong_diep_trong_chiec_t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 357,
+    "title" : "KBCC1M-11-thong diep trong chiec t",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-12-tinh_yeu_nhu_canh_tay_ga.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 365,
+    "title" : "KBCC1M-12-tinh yeu nhu canh tay ga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-13-xuong_ve_cua_ba_goa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 455,
+    "title" : "KBCC1M-13-xuong ve cua ba goa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-14-ban_se_chang_bao_gio_bie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 413,
+    "title" : "KBCC1M-14-ban se chang bao gio bie",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-01-loi_gioi_thieu.mp3",
+    "title" : "KBCC1M-01-loi gioi thieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-02-thi_luc_10_tren_10.mp3",
+    "title" : "KBCC1M-02-thi luc 10 tren 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-03-buoi_bowling.mp3",
+    "title" : "KBCC1M-03-buoi bowling",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-04-david_va_lily.mp3",
+    "title" : "KBCC1M-04-david va lily",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-05-hy_vong_duoc_thap_sang.mp3",
+    "title" : "KBCC1M-05-hy vong duoc thap sang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-06-co_hoi_trong_doi.mp3",
+    "title" : "KBCC1M-06-co hoi trong doi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-07-tung_ngay_mot.mp3",
+    "title" : "KBCC1M-07-tung ngay mot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-08-giang_sinh_dang_den.mp3",
+    "title" : "KBCC1M-08-giang sinh dang den",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-09-vong_tay.mp3",
+    "title" : "KBCC1M-09-vong tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-10-vuot_qua_kha_nang.mp3",
+    "title" : "KBCC1M-10-vuot qua kha nang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-11-thong_diep_trong_chiec_t.mp3",
+    "title" : "KBCC1M-11-thong diep trong chiec t",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-12-tinh_yeu_nhu_canh_tay_ga.mp3",
+    "title" : "KBCC1M-12-tinh yeu nhu canh tay ga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-13-xuong_ve_cua_ba_goa.mp3",
+    "title" : "KBCC1M-13-xuong ve cua ba goa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBCC1M01LoiGioiThieu/KBCC1M-14-ban_se_chang_bao_gio_bie.mp3",
+    "title" : "KBCC1M-14-ban se chang bao gio bie",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

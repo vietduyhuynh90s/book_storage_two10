@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-hai-con-meo-ngoi-ben-cua-so_16774.html",
+    "title" : "Có Hai Con Mèo Ngồi Bên Cửa Sổ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8534,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_34dee2b683273d6286de3eb38aa73386.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_34dee2b683273d6286de3eb38aa73386.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1222,
+    "title" : "01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1774,
+    "title" : "02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1844,
+    "title" : "04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1914,
+    "title" : "05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/01.mp3",
+    "title" : "01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/02.mp3",
+    "title" : "02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/03.mp3",
+    "title" : "03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/04.mp3",
+    "title" : "04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoHaiConMeoNgoiBenCuaSo/05.mp3",
+    "title" : "05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,2429 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vu-than_15129.html",
+    "title" : "Vũ Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thương Thiên Bạch Hạc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 982801,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_532d0e1991d1bdae78e70b061f9f3139.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_532d0e1991d1bdae78e70b061f9f3139.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vu-than/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18066,
+    "title" : "5 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16830,
+    "title" : "50 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3167,
+    "title" : "VŨ THẦN TRUYỆN | Tập 180: ĐỘNG THIÊN PHÚC ĐỊA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "VŨ THẦN TRUYỆN | Tập 181: TƯ MÃ BÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3211,
+    "title" : "VŨ THẦN TRUYỆN | Tập 182: VẠN THỤ CỐC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3062,
+    "title" : "VŨ THẦN TRUYỆN | Tập 183: THẦN KHÍ CHI UY | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "VŨ THẦN TRUYỆN | Tập 184: TRỞ LẠI BẢO THÁP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "VŨ THẦN TRUYỆN | Tập 185: NAM HẢI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "VŨ THẦN TRUYỆN | Tập 186: NGÂN MAN VƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3033,
+    "title" : "VŨ THẦN TRUYỆN | Tập 187: GẶP LẠI VŨ GIA LÃO TỔ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3459,
+    "title" : "VŨ THẦN TRUYỆN | Tập 188: HÁC HUYẾT CHI TỬ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "VŨ THẦN TRUYỆN | Tập 189: QUY XÁC ĐẠI THÀNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18404,
+    "title" : "55 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3498,
+    "title" : "VŨ THẦN TRUYỆN | Tập 190: TINH THẦN ĐẢO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4039,
+    "title" : "VŨ THẦN TRUYỆN | Tập 191: KHỔ CHIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "VŨ THẦN TRUYỆN | Tập 192: NHÂN THÚ HỢP NHẤT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3329,
+    "title" : "VŨ THẦN TRUYỆN | Tập 193: 3 ĐẠI CƯỜNG GIẢ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3486,
+    "title" : "VŨ THẦN TRUYỆN | Tập 194: VẠN TRƯỢNG HỎA SƠN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3492,
+    "title" : "VŨ THẦN TRUYỆN | Tập 195: HỎA THẦN LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "VŨ THẦN TRUYỆN | Tập 196: THỬ ĐỘT PHÁ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "VŨ THẦN TRUYỆN | Tập 197: CỬU CỬU TRỌNG THIÊN| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "VŨ THẦN TRUYỆN | Tập 198: LỪA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "VŨ THẦN TRUYỆN | Tập 199: LIÊN THỦ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17506,
+    "title" : "60 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "VŨ THẦN TRUYỆN | Tập 200: THẦN ĐẠO CHI LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3158,
+    "title" : "VŨ THẦN TRUYỆN | Tập 201: TÂY PHƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3335,
+    "title" : "VŨ THẦN TRUYỆN | Tập 202: QUANG MINH THẦN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5673,
+    "title" : "VŨ THẦN TRUYỆN | Tập 203: RÚNG ĐỘNG THIÊN HẠ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3107,
+    "title" : "VŨ THẦN TRUYỆN | Tập 204: LUẬN BÀN| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "VŨ THẦN TRUYỆN | Tập 205: ƯỚC ĐỊNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3253,
+    "title" : "VŨ THẦN TRUYỆN | Tập 206: ÁP CHẾ KHAI VANH QUỐC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "VŨ THẦN TRUYỆN | Tập 207: NẮM GIỮ THIÊN ĐỊA LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "VŨ THẦN TRUYỆN | Tập 208: ĐỆ NHẤT THIÊN HẠ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3425,
+    "title" : "VŨ THẦN TRUYỆN | Tập 209: KIM THẦN LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17174,
+    "title" : "VŨ THẦN TRUYỆN | Tập 61-65 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5557,
+    "title" : "VŨ THẦN TRUYỆN | Tập 210 : BẮC TIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3499,
+    "title" : "VŨ THẦN TRUYỆN | Tập 211 : TUYẾT HỒ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "VŨ THẦN TRUYỆN | Tập 212 : LẠC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4022,
+    "title" : "VŨ THẦN TRUYỆN | Tập 213 : ĐỘT KÍCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "VŨ THẦN TRUYỆN | Tập 214 : THÚ TRIỀU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "VŨ THẦN TRUYỆN | Tập 215 : KỲ LÂN THÁNH CHUR | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2949,
+    "title" : "VŨ THẦN TRUYỆN | Tập 216: GẶP LẠI LỄ HUÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4387,
+    "title" : "VŨ THẦN TRUYỆN | Tập 217: THẤT THẢI BĂNG CUNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4334,
+    "title" : "VŨ THẦN TRUYỆN | Tập 218: VÂN VỤ CHI HOA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "VŨ THẦN TRUYỆN | Tập 219: CHỜ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17773,
+    "title" : "VŨ THẦN TRUYỆN | Tập 66-70 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "VŨ THẦN TRUYỆN | Tập 220: BỘC LỘ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3064,
+    "title" : "VŨ THẦN TRUYỆN | Tập 221: BĂNG ĐẢO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3936,
+    "title" : "VŨ THẦN TRUYỆN | Tập 222: LỰA CHỌN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3572,
+    "title" : "VŨ THẦN TRUYỆN | Tập 223: PHÂN THÂN CHI UY | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3574,
+    "title" : "VŨ THẦN TRUYỆN | Tập 224: TIẾN GIAI THẦN ĐẠO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "VŨ THẦN TRUYỆN | Tập 225: TỔNG CHỦ NGŨ HÀNH MÔN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "VŨ THẦN TRUYỆN | Tập 226: NĂNG LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "VŨ THẦN TRUYỆN | Tập 227: PHÍCH LỊCH THƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "VŨ THẦN TRUYỆN | Tập 228: BẠI LỘ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3137,
+    "title" : "VŨ THẦN TRUYỆN | Tập 229: BIẾN DỊ PHỊCH LỊCH THƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17602,
+    "title" : "VŨ THẦN TRUYỆN | Tập 71-75 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "VŨ THẦN TRUYỆN | Tập 230: TẬP HỢP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "VŨ THẦN TRUYỆN | Tập 231: KHIÊU CHIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "VŨ THẦN TRUYỆN | Tập 232: VƯỢT GIAI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "VŨ THẦN TRUYỆN | Tập 233: LUYỆN THẦN KHÍ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5892,
+    "title" : "VŨ THẦN TRUYỆN | Tập 234: ĐỘT KÍCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5995,
+    "title" : "VŨ THẦN TRUYỆN | Tập 235: PHONG ẤN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5794,
+    "title" : "VŨ THẦN TRUYỆN | Tập 236: TIỂU BÁCH LINH BÁT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6339,
+    "title" : "VŨ THẦN TRUYỆN | Tập 237: TAM THỨC LIÊN HOÀN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3309,
+    "title" : "VŨ THẦN TRUYỆN | Tập 238: NGẢ ĐỨC VĂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3950,
+    "title" : "VŨ THẦN TRUYỆN | Tập 239: TIÊN DỊCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17634,
+    "title" : "VŨ THẦN TRUYỆN | Tập 76-80 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5731,
+    "title" : "VŨ THẦN TRUYỆN | Tập 240: LĨNH VỰC THẦN KHÍ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "VŨ THẦN TRUYỆN | Tập 241: SÍ HỎA LĨNH VỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "VŨ THẦN TRUYỆN | Tập 242: TRỨNG LẠ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "VŨ THẦN TRUYỆN | Tập 243: CHIẾN TÂY LONG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5837,
+    "title" : "VŨ THẦN TRUYỆN | Tập 244: NẮM GIỮ LĨNH VỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6109,
+    "title" : "VŨ THẦN TRUYỆN | Tập 245: ĐỒ LONG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6046,
+    "title" : "VŨ THẦN TRUYỆN | Tập 246: ĐẠO TẶC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4406,
+    "title" : "VŨ THẦN TRUYỆN | Tập 247: ĐỒ ĐẰNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5473,
+    "title" : "VŨ THẦN TRUYỆN | Tập 248: BẠN SINH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5574,
+    "title" : "VŨ THẦN TRUYỆN | Tập 249: PHÍCH LỊCH THIÊN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17878,
+    "title" : "VŨ THẦN TRUYỆN | Tập 81-85 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "VŨ THẦN TRUYỆN | Tập 250: GIAO ĐẤU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "VŨ THẦN TRUYỆN | Tập 251: HẮC LONG RA TAY | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3921,
+    "title" : "VŨ THẦN TRUYỆN | Tập 252: AO TIÊN DỊCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2987,
+    "title" : "VŨ THẦN TRUYỆN | Tập 253: TIẾN GIAI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3884,
+    "title" : "VŨ THẦN TRUYỆN | Tập 254: BẮC CƯƠNG CHI BIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "VŨ THẦN TRUYỆN | Tập 255: SONG TU ĐAN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "VŨ THẦN TRUYỆN | Tập 256: PHÁ CHO TA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "VŨ THẦN TRUYỆN | Tập 257: QUAN CHIẾN CẢM NGỘ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "VŨ THẦN TRUYỆN | Tập 258: BẠO THỂ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3333,
+    "title" : "VŨ THẦN TRUYỆN | Tập 259: TRAO ĐỔI CÔNG PHÁP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17663,
+    "title" : "VŨ THẦN TRUYỆN | Tập 86-90 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3467,
+    "title" : "VŨ THẦN TRUYỆN | Tập 260: QUẢ BÁO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3180,
+    "title" : "VŨ THẦN TRUYỆN | Tập 261: TIỂU THẾ GIỚI| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3252,
+    "title" : "VŨ THẦN TRUYỆN | Tập 262: CÔNG KÍCH LINH HỒN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "VŨ THẦN TRUYỆN | Tập 263: TAM ĐẠI THỦ ẤN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3586,
+    "title" : "VŨ THẦN TRUYỆN | Tập 264: ĐOÁN TẠO THẦN KHÍ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "VŨ THẦN TRUYỆN | Tập 265: NGƯỜI... KHÔNG THOÁT ĐƯỢC ĐÂU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "VŨ THẦN TRUYỆN | Tập 266: LONG TỘC PHẢN BỘI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "VŨ THẦN TRUYỆN | Tập 267: DI CHÚC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "VŨ THẦN TRUYỆN | Tập 268: NHỜ MAI MỐI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3473,
+    "title" : "VŨ THẦN TRUYỆN | Tập 269: TRẤN THỦ TRĂM NĂM | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17149,
+    "title" : "VŨ THẦN TRUYỆN | Tập 91-95 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3684,
+    "title" : "VŨ THẦN TRUYỆN | Tập 270: BIẾN CỐ TÂY PHƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "VŨ THẦN TRUYỆN | Tập 271: ĐỘNG PHÒNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3067,
+    "title" : "VŨ THẦN TRUYỆN | Tập 272: SIÊU CẤP HUYẾT TRẬN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3515,
+    "title" : "VŨ THẦN TRUYỆN | Tập 273: PHÁ TRẬN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3266,
+    "title" : "VŨ THẦN TRUYỆN | Tập 274: HỦY THẦN ĐẢO| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3978,
+    "title" : "VŨ THẦN TRUYỆN | Tập 275: LONG XÀ CHI TỬ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "VŨ THẦN TRUYỆN | Tập 276: THÁNH TỬ CHI TỬ? | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3558,
+    "title" : "VŨ THẦN TRUYỆN | Tập 277: LUYỆN ĐAN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3102,
+    "title" : "VŨ THẦN TRUYỆN | Tập 278: THÔNG ĐẠO KHÔNG GIAN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2084,
+    "title" : "VŨ THẦN TRUYỆN | Tập 279: TIỂU NHẤT MINH (KẾT) | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18003,
+    "title" : "VŨ THẦN TRUYỆN | Tập 6-10 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18019,
+    "title" : "VŨ THẦN TRUYỆN | Tập 96-100 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "VŨ THẦN TRUYỆN | Tập 101: CỬU LONG LÔ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3319,
+    "title" : "VŨ THẦN TRUYỆN | Tập 102: VŨ VÔ THƯỜNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "VŨ THẦN TRUYỆN | Tập 103: ĐÁP LỄ TÂY PHƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "VŨ THẦN TRUYỆN | Tập 104: THẤT CHÂN THUẬT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2593,
+    "title" : "VŨ THẦN TRUYỆN | Tập 105: ÂM MƯU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3457,
+    "title" : "VŨ THẦN TRUYỆN | Tập 106: QUỶ KHỐC LĨNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "VŨ THẦN TRUYỆN | Tập 107: NGƯNG HUYẾT CHÂU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "VŨ THẦN TRUYỆN | Tập 108: THEO DÕI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3271,
+    "title" : "VŨ THẦN TRUYỆN | Tập 109: HÀNH ĐỘNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17311,
+    "title" : "15 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3319,
+    "title" : "VŨ THẦN TRUYỆN | Tập 110: BẢO TRƯ MẤT TÍCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "VŨ THẦN TRUYỆN | Tập 111 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "VŨ THẦN TRUYỆN | Tập 112: SƠ NHẬP TÔN GIẢ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3468,
+    "title" : "VŨ THẦN TRUYỆN | Tập 113: TÔN GIẢ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2869,
+    "title" : "VŨ THẦN TRUYỆN | Tập 114: 1 VS 3 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2966,
+    "title" : "VŨ THẦN TRUYỆN | Tập 115: TOÀN DIỆT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "VŨ THẦN TRUYỆN | Tập 116: TRỞ VỀ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "VŨ THẦN TRUYỆN | Tập 117: CỮU CHỮA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3235,
+    "title" : "VŨ THẦN TRUYỆN | Tập 118: XUẤT HẢI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3183,
+    "title" : "VŨ THẦN TRUYỆN | Tập 119: BÃO BIỂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17688,
+    "title" : "20 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2711,
+    "title" : "VŨ THẦN TRUYỆN | Tập 120: KHẢI GIÁP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3171,
+    "title" : "VŨ THẦN TRUYỆN | Tập 121: DU NGƯ THÂN PHÁP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3380,
+    "title" : "VŨ THẦN TRUYỆN | Tập 122: TRẬN CHIẾN CUỐI CÙNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2617,
+    "title" : "VŨ THẦN TRUYỆN | Tập 123: BẠCH MÃ TẤN GIAI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3412,
+    "title" : "VŨ THẦN TRUYỆN | Tập 124: ĐỒ SÁT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3171,
+    "title" : "VŨ THẦN TRUYỆN | Tập 125: HẢI THẦN ĐẠI NHÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "VŨ THẦN TRUYỆN | Tập 126: BỒNG LAI TIÊN ĐẢO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3519,
+    "title" : "VŨ THẦN TRUYỆN | Tập 127: HOẮC ĐÔNG THÀNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3398,
+    "title" : "VŨ THẦN TRUYỆN | Tập 128: TÔN GIẢ LUYỆN ĐAN SƯ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2822,
+    "title" : "VŨ THẦN TRUYỆN | Tập 129: KIỀN SƠN LÃO TỔ| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17557,
+    "title" : "VŨ THẦN TRUYỆN | Tập 21-25 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "VŨ THẦN TRUYỆN | Tập 130: SỞ LÃO CA BÁO THÙ| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3159,
+    "title" : "VŨ THẦN TRUYỆN | Tập 131: NGŨ KHÍ TRIỀU NGUYÊN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3496,
+    "title" : "VŨ THẦN TRUYỆN | Tập 132: NGƯNG HUYẾT KINH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3455,
+    "title" : "VŨ THẦN TRUYỆN | Tập 133: LÔI CHẤN TỬ| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3525,
+    "title" : "VŨ THẦN TRUYỆN | Tập 134: HẮC SA VƯƠNG| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3456,
+    "title" : "VŨ THẦN TRUYỆN | Tập 135: THIÊN ĐỊA THÁNH QUẢ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3031,
+    "title" : "VŨ THẦN TRUYỆN | Tập 136: THỦY CHI HOA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3274,
+    "title" : "VŨ THẦN TRUYỆN | Tập 137: PHẢN HỒI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3512,
+    "title" : "VŨ THẦN TRUYỆN | Tập 138: LÔI ĐIỆN CHI UY | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "VŨ THẦN TRUYỆN | Tập 139: RÈN LẠI NGŨ HÀNH HOÀN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17020,
+    "title" : "30 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "VŨ THẦN TRUYỆN | Tập 140: KHIÊU CHIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3282,
+    "title" : "VŨ THẦN TRUYỆN | Tập 141: SÁT TÂM | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "VŨ THẦN TRUYỆN | Tập 142: PHẢN HỒI HẠ GIA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3396,
+    "title" : "VŨ THẦN TRUYỆN | Tập 143: TỤ TẬP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "VŨ THẦN TRUYỆN | Tập 144: ĐÁNH CUỘC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "VŨ THẦN TRUYỆN | Tập 145: THÔN PHỆ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3259,
+    "title" : "VŨ THẦN TRUYỆN | Tập 146: SƠ NHẬP LUYỆN KHÍ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3036,
+    "title" : "VŨ THẦN TRUYỆN | Tập 147: THẦN TOÁN TỬ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "VŨ THẦN TRUYỆN | Tập 148: TA MUỐN BẢO TRƯ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "VŨ THẦN TRUYỆN | Tập 149: ĐOÁN TẠO TRƯỜNG KIẾM | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16846,
+    "title" : "35 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3401,
+    "title" : "VŨ THẦN TRUYỆN | Tập 150: TIN TỨC VIÊN LỄ HUÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "VŨ THẦN TRUYỆN | Tập 151: TIẾN VỀ SINH TỬ GIỚI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3145,
+    "title" : "VŨ THẦN TRUYỆN | Tập 152: ĐỤNG ĐỘ ĐỒ ĐẰNG TỘC| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3655,
+    "title" : "VŨ THẦN TRUYỆN | Tập 153: ÂM MƯU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "VŨ THẦN TRUYỆN | Tập 154: SINH TỬ GIỚI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "VŨ THẦN TRUYỆN | Tập 155: MỘC CHI HOA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2878,
+    "title" : "VŨ THẦN TRUYỆN | Tập 156: LUYỆN CHẾ NGƯNG HUYẾT NHÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3245,
+    "title" : "VŨ THẦN TRUYỆN | Tập 157: TRẢ LẠI TIỂU HỎA LONG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3336,
+    "title" : "VŨ THẦN TRUYỆN | Tập 158: 1 CANH GIỜ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "VŨ THẦN TRUYỆN | Tập 159: CHẠY CHỐI CHẾT| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16892,
+    "title" : "40 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3133,
+    "title" : "VŨ THẦN TRUYỆN | Tập 160: ĐUỔI GIẾT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3002,
+    "title" : "VŨ THẦN TRUYỆN | Tập 161: BÍ MẬT CỦA NGŨ HÀNH HOÀN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3552,
+    "title" : "VŨ THẦN TRUYỆN | Tập 162: ĐẠI BẢO TRƯ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3282,
+    "title" : "VŨ THẦN TRUYỆN | Tập 163: TẨU HỎA NHẬP MA? | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3285,
+    "title" : "VŨ THẦN TRUYỆN | Tập 164: QUANG HÓA NGŨ HÀNH HOÀN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "VŨ THẦN TRUYỆN | Tập 165: GIA ĐẠT NHĨ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3524,
+    "title" : "VŨ THẦN TRUYỆN | Tập 166: GIẢI ƯỚC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3511,
+    "title" : "VŨ THẦN TRUYỆN | Tập 167: BẢO TRƯ DỊ BIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3341,
+    "title" : "VŨ THẦN TRUYỆN | Tập 168: ĐOÁN TẠO THẦN ĐẠO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3374,
+    "title" : "VŨ THẦN TRUYỆN | Tập 169: QUY XÁC BỊ ĐOẠT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18017,
+    "title" : "45 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "VŨ THẦN TRUYỆN | Tập 170: CỰC QUANG KIẾM| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3179,
+    "title" : "VŨ THẦN TRUYỆN | Tập 171: THÁNH LONG SƠ THÀNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3333,
+    "title" : "VŨ THẦN TRUYỆN | Tập 172: NGŨ HÀNH THÂN THỂ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "VŨ THẦN TRUYỆN | Tập 173: TRỢ GIÚP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3166,
+    "title" : "VŨ THẦN TRUYỆN | Tập 174: LẬT MẶT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3137,
+    "title" : "VŨ THẦN TRUYỆN | Tập 175: VŨ GIA SỤP ĐỔ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3185,
+    "title" : "VŨ THẦN TRUYỆN | Tập 176: DIỆT SÁT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3106,
+    "title" : "VŨ THẦN TRUYỆN | Tập 177: GẶP LẠI LONG XÀ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3194,
+    "title" : "VŨ THẦN TRUYỆN | Tập 178: QUAY LẠI VŨ GIA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-than/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3049,
+    "title" : "VŨ THẦN TRUYỆN | Tập 179: NỬA BẢN BÍ TỊCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vu-than/1.mp3",
+    "title" : "5 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/10.mp3",
+    "title" : "50 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/100.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 180: ĐỘNG THIÊN PHÚC ĐỊA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/101.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 181: TƯ MÃ BÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/102.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 182: VẠN THỤ CỐC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/103.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 183: THẦN KHÍ CHI UY | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/104.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 184: TRỞ LẠI BẢO THÁP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/105.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 185: NAM HẢI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/106.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 186: NGÂN MAN VƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/107.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 187: GẶP LẠI VŨ GIA LÃO TỔ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/108.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 188: HÁC HUYẾT CHI TỬ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/109.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 189: QUY XÁC ĐẠI THÀNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/11.mp3",
+    "title" : "55 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/110.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 190: TINH THẦN ĐẢO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/111.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 191: KHỔ CHIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/112.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 192: NHÂN THÚ HỢP NHẤT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/113.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 193: 3 ĐẠI CƯỜNG GIẢ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/114.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 194: VẠN TRƯỢNG HỎA SƠN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/115.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 195: HỎA THẦN LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/116.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 196: THỬ ĐỘT PHÁ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/117.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 197: CỬU CỬU TRỌNG THIÊN| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/118.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 198: LỪA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/119.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 199: LIÊN THỦ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/12.mp3",
+    "title" : "60 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/120.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 200: THẦN ĐẠO CHI LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/121.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 201: TÂY PHƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/122.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 202: QUANG MINH THẦN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/123.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 203: RÚNG ĐỘNG THIÊN HẠ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/124.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 204: LUẬN BÀN| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/125.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 205: ƯỚC ĐỊNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/126.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 206: ÁP CHẾ KHAI VANH QUỐC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/127.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 207: NẮM GIỮ THIÊN ĐỊA LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/128.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 208: ĐỆ NHẤT THIÊN HẠ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/129.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 209: KIM THẦN LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/13.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 61-65 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/130.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 210 : BẮC TIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/131.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 211 : TUYẾT HỒ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/132.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 212 : LẠC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/133.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 213 : ĐỘT KÍCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/134.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 214 : THÚ TRIỀU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/135.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 215 : KỲ LÂN THÁNH CHUR | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/136.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 216: GẶP LẠI LỄ HUÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/137.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 217: THẤT THẢI BĂNG CUNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/138.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 218: VÂN VỤ CHI HOA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/139.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 219: CHỜ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/14.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 66-70 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/140.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 220: BỘC LỘ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/141.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 221: BĂNG ĐẢO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/142.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 222: LỰA CHỌN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/143.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 223: PHÂN THÂN CHI UY | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/144.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 224: TIẾN GIAI THẦN ĐẠO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/145.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 225: TỔNG CHỦ NGŨ HÀNH MÔN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/146.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 226: NĂNG LỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/147.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 227: PHÍCH LỊCH THƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/148.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 228: BẠI LỘ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/149.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 229: BIẾN DỊ PHỊCH LỊCH THƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/15.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 71-75 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/150.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 230: TẬP HỢP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/151.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 231: KHIÊU CHIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/152.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 232: VƯỢT GIAI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/153.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 233: LUYỆN THẦN KHÍ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/154.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 234: ĐỘT KÍCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/155.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 235: PHONG ẤN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/156.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 236: TIỂU BÁCH LINH BÁT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/157.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 237: TAM THỨC LIÊN HOÀN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/158.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 238: NGẢ ĐỨC VĂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/159.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 239: TIÊN DỊCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/16.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 76-80 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/160.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 240: LĨNH VỰC THẦN KHÍ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/161.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 241: SÍ HỎA LĨNH VỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/162.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 242: TRỨNG LẠ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/163.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 243: CHIẾN TÂY LONG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/164.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 244: NẮM GIỮ LĨNH VỰC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/165.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 245: ĐỒ LONG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/166.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 246: ĐẠO TẶC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/167.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 247: ĐỒ ĐẰNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/168.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 248: BẠN SINH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/169.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 249: PHÍCH LỊCH THIÊN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/17.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 81-85 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/170.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 250: GIAO ĐẤU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/171.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 251: HẮC LONG RA TAY | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/172.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 252: AO TIÊN DỊCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/173.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 253: TIẾN GIAI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/174.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 254: BẮC CƯƠNG CHI BIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/175.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 255: SONG TU ĐAN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/176.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 256: PHÁ CHO TA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/177.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 257: QUAN CHIẾN CẢM NGỘ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/178.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 258: BẠO THỂ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/179.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 259: TRAO ĐỔI CÔNG PHÁP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/18.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 86-90 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/180.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 260: QUẢ BÁO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/181.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 261: TIỂU THẾ GIỚI| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/182.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 262: CÔNG KÍCH LINH HỒN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/183.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 263: TAM ĐẠI THỦ ẤN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/184.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 264: ĐOÁN TẠO THẦN KHÍ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/185.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 265: NGƯỜI... KHÔNG THOÁT ĐƯỢC ĐÂU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/186.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 266: LONG TỘC PHẢN BỘI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/187.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 267: DI CHÚC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/188.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 268: NHỜ MAI MỐI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/189.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 269: TRẤN THỦ TRĂM NĂM | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/19.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 91-95 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/190.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 270: BIẾN CỐ TÂY PHƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/191.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 271: ĐỘNG PHÒNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/192.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 272: SIÊU CẤP HUYẾT TRẬN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/193.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 273: PHÁ TRẬN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/194.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 274: HỦY THẦN ĐẢO| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/195.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 275: LONG XÀ CHI TỬ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/196.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 276: THÁNH TỬ CHI TỬ? | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/197.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 277: LUYỆN ĐAN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/198.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 278: THÔNG ĐẠO KHÔNG GIAN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/199.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 279: TIỂU NHẤT MINH (KẾT) | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/2.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 6-10 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/20.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 96-100 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/21.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 101: CỬU LONG LÔ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/22.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 102: VŨ VÔ THƯỜNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/23.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 103: ĐÁP LỄ TÂY PHƯƠNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/24.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 104: THẤT CHÂN THUẬT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/25.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 105: ÂM MƯU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/26.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 106: QUỶ KHỐC LĨNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/27.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 107: NGƯNG HUYẾT CHÂU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/28.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 108: THEO DÕI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/29.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 109: HÀNH ĐỘNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/3.mp3",
+    "title" : "15 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/30.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 110: BẢO TRƯ MẤT TÍCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/31.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 111 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/32.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 112: SƠ NHẬP TÔN GIẢ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/33.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 113: TÔN GIẢ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/34.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 114: 1 VS 3 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/35.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 115: TOÀN DIỆT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/36.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 116: TRỞ VỀ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/37.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 117: CỮU CHỮA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/38.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 118: XUẤT HẢI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/39.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 119: BÃO BIỂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/4.mp3",
+    "title" : "20 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/40.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 120: KHẢI GIÁP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/41.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 121: DU NGƯ THÂN PHÁP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/42.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 122: TRẬN CHIẾN CUỐI CÙNG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/43.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 123: BẠCH MÃ TẤN GIAI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/44.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 124: ĐỒ SÁT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/45.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 125: HẢI THẦN ĐẠI NHÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/46.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 126: BỒNG LAI TIÊN ĐẢO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/47.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 127: HOẮC ĐÔNG THÀNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/48.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 128: TÔN GIẢ LUYỆN ĐAN SƯ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/49.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 129: KIỀN SƠN LÃO TỔ| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/5.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 21-25 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/50.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 130: SỞ LÃO CA BÁO THÙ| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/51.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 131: NGŨ KHÍ TRIỀU NGUYÊN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/52.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 132: NGƯNG HUYẾT KINH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/53.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 133: LÔI CHẤN TỬ| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/54.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 134: HẮC SA VƯƠNG| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/55.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 135: THIÊN ĐỊA THÁNH QUẢ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/56.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 136: THỦY CHI HOA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/57.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 137: PHẢN HỒI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/58.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 138: LÔI ĐIỆN CHI UY | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/59.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 139: RÈN LẠI NGŨ HÀNH HOÀN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/6.mp3",
+    "title" : "30 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/60.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 140: KHIÊU CHIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/61.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 141: SÁT TÂM | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/62.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 142: PHẢN HỒI HẠ GIA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/63.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 143: TỤ TẬP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/64.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 144: ĐÁNH CUỘC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/65.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 145: THÔN PHỆ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/66.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 146: SƠ NHẬP LUYỆN KHÍ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/67.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 147: THẦN TOÁN TỬ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/68.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 148: TA MUỐN BẢO TRƯ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/69.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 149: ĐOÁN TẠO TRƯỜNG KIẾM | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/7.mp3",
+    "title" : "35 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/70.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 150: TIN TỨC VIÊN LỄ HUÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/71.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 151: TIẾN VỀ SINH TỬ GIỚI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/72.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 152: ĐỤNG ĐỘ ĐỒ ĐẰNG TỘC| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/73.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 153: ÂM MƯU | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/74.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 154: SINH TỬ GIỚI | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/75.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 155: MỘC CHI HOA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/76.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 156: LUYỆN CHẾ NGƯNG HUYẾT NHÂN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/77.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 157: TRẢ LẠI TIỂU HỎA LONG | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/78.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 158: 1 CANH GIỜ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/79.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 159: CHẠY CHỐI CHẾT| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/8.mp3",
+    "title" : "40 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/80.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 160: ĐUỔI GIẾT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/81.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 161: BÍ MẬT CỦA NGŨ HÀNH HOÀN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/82.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 162: ĐẠI BẢO TRƯ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/83.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 163: TẨU HỎA NHẬP MA? | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/84.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 164: QUANG HÓA NGŨ HÀNH HOÀN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/85.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 165: GIA ĐẠT NHĨ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/86.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 166: GIẢI ƯỚC | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/87.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 167: BẢO TRƯ DỊ BIẾN | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/88.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 168: ĐOÁN TẠO THẦN ĐẠO | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/89.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 169: QUY XÁC BỊ ĐOẠT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/9.mp3",
+    "title" : "45 | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/90.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 170: CỰC QUANG KIẾM| Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/91.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 171: THÁNH LONG SƠ THÀNH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/92.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 172: NGŨ HÀNH THÂN THỂ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/93.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 173: TRỢ GIÚP | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/94.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 174: LẬT MẶT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/95.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 175: VŨ GIA SỤP ĐỔ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/96.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 176: DIỆT SÁT | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/97.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 177: GẶP LẠI LONG XÀ | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/98.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 178: QUAY LẠI VŨ GIA | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-than/99.mp3",
+    "title" : "VŨ THẦN TRUYỆN | Tập 179: NỬA BẢN BÍ TỊCH | Thể loại: TIÊN HIỆP, HUYỀN HUYỄN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

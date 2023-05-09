@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-dau-nha-ma_12339.html",
+    "title" : "Làm Dâu Nhà Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Anh Thơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 59307,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0676690f8d0d6e60f158a191d06d9cec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0676690f8d0d6e60f158a191d06d9cec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Làm dâu nhà ma P1 - Gia tộc bí ẩn - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "Làm dâu nhà ma P10 - Đối mặt - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3277,
+    "title" : "Làm dâu nhà ma P11 - Quyển sách ma thuật - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2943,
+    "title" : "Làm dâu nhà ma P12 - Cuộc chán trán bất ngờ - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3283,
+    "title" : "Làm dâu nhà ma P13 - Trừ khử - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "Làm dâu nhà ma P14 - Mặt nạ vỡ nát - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "Làm dâu nhà ma P15 - Cuộc chiến cuối cùng - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2827,
+    "title" : "Làm dâu nhà ma P16 - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2875,
+    "title" : "Làm dâu nhà ma P17 - Giao ước - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1567,
+    "title" : "Làm dâu nhà ma P18(Hết) - Khởi đầu mới - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "Làm dâu nhà ma P2 - Ngày đầu làm dâu - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "Làm dâu nhà ma P3 - Kí ức - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3401,
+    "title" : "Làm dâu nhà ma P4 - Bí mật được hé mở - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3945,
+    "title" : "Làm dâu nhà ma P5 - Chấp nhận - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "Làm dâu nhà ma P6 - Ác ma - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "Làm dâu nhà ma P7 - Yến Phi gặp nạn - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Làm dâu nhà ma P8 - Xóa đi ký ức - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "Làm dâu nhà ma P9 - Gặp lại Du Hạo - Mc Anh Sa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/1.mp3",
+    "title" : "Làm dâu nhà ma P1 - Gia tộc bí ẩn - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/10.mp3",
+    "title" : "Làm dâu nhà ma P10 - Đối mặt - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/11.mp3",
+    "title" : "Làm dâu nhà ma P11 - Quyển sách ma thuật - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/12.mp3",
+    "title" : "Làm dâu nhà ma P12 - Cuộc chán trán bất ngờ - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/13.mp3",
+    "title" : "Làm dâu nhà ma P13 - Trừ khử - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/14.mp3",
+    "title" : "Làm dâu nhà ma P14 - Mặt nạ vỡ nát - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/15.mp3",
+    "title" : "Làm dâu nhà ma P15 - Cuộc chiến cuối cùng - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/16.mp3",
+    "title" : "Làm dâu nhà ma P16 - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/17.mp3",
+    "title" : "Làm dâu nhà ma P17 - Giao ước - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/18.mp3",
+    "title" : "Làm dâu nhà ma P18(Hết) - Khởi đầu mới - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/2.mp3",
+    "title" : "Làm dâu nhà ma P2 - Ngày đầu làm dâu - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/3.mp3",
+    "title" : "Làm dâu nhà ma P3 - Kí ức - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/4.mp3",
+    "title" : "Làm dâu nhà ma P4 - Bí mật được hé mở - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/5.mp3",
+    "title" : "Làm dâu nhà ma P5 - Chấp nhận - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/6.mp3",
+    "title" : "Làm dâu nhà ma P6 - Ác ma - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/7.mp3",
+    "title" : "Làm dâu nhà ma P7 - Yến Phi gặp nạn - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/8.mp3",
+    "title" : "Làm dâu nhà ma P8 - Xóa đi ký ức - Mc Anh Sa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-dau-nha-ma/9.mp3",
+    "title" : "Làm dâu nhà ma P9 - Gặp lại Du Hạo - Mc Anh Sa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

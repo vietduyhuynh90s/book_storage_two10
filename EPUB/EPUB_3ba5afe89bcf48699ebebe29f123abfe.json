@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khai-tam-toi-pham_12173.html",
+    "title" : "Khai Tâm Tội Phạm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vân Kiều",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 69167,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_3ba5afe89bcf48699ebebe29f123abfe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_3ba5afe89bcf48699ebebe29f123abfe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 01 - Vụ Án Phật Ngọc - Mc Thanh Bình (42)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8129,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 10 - Mc Thanh Bình (50)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3542,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 11 - Mc Thanh Bình (55)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4154,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 12 - Mc Thanh Bình (60)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 13 - Mc Thanh Bình (65)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11013,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 14 - Mc Thanh Bình (70)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5231,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 15 - Tập Cuối - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 02 (Người phụ nữ tự sát) - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "KHÁI TÂM TỘI PHẠM - TẬP 03 - Mc Thanh Bình (108)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5367,
+    "title" : "KHÁI TÂM TỘI PHẠM - TẬP 04 - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4129,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 05 - Mc Thanh Bình (138)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3490,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 06 - Mc Thanh Bình (30)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "KHAI TÂM TỘI PHẠP - TẬP 07 - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3139,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 08- Mc Thanh Bình (40)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3278,
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 09 - Mc Thanh Bình (45)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/1.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 01 - Vụ Án Phật Ngọc - Mc Thanh Bình (42)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/10.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 10 - Mc Thanh Bình (50)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/11.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 11 - Mc Thanh Bình (55)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/12.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 12 - Mc Thanh Bình (60)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/13.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 13 - Mc Thanh Bình (65)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/14.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 14 - Mc Thanh Bình (70)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/15.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 15 - Tập Cuối - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/2.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 02 (Người phụ nữ tự sát) - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/3.mp3",
+    "title" : "KHÁI TÂM TỘI PHẠM - TẬP 03 - Mc Thanh Bình (108)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/4.mp3",
+    "title" : "KHÁI TÂM TỘI PHẠM - TẬP 04 - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/5.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 05 - Mc Thanh Bình (138)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/6.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 06 - Mc Thanh Bình (30)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/7.mp3",
+    "title" : "KHAI TÂM TỘI PHẠP - TẬP 07 - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/8.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 08- Mc Thanh Bình (40)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khai-tam-toi-pham/9.mp3",
+    "title" : "KHAI TÂM TỘI PHẠM - TẬP 09 - Mc Thanh Bình (45)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

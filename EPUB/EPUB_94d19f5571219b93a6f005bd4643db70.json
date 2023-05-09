@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tay-tang-huyen-bi-dr-t-lobsang-rampa_10537.html",
+    "title" : "Tây Tạng Huyền Bí - Dr. T. Lobsang Rampa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "T. Lobsang Rampa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20792,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_94d19f5571219b93a6f005bd4643db70.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_94d19f5571219b93a6f005bd4643db70.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "CS. Nguyên Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "CS. Nguyên Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2648,
+    "title" : "CS. Nguyên Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2750,
+    "title" : "CS. Nguyên Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2758,
+    "title" : "CS. Nguyên Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2754,
+    "title" : "CS. Nguyên Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "CS. Nguyên Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "CS. Nguyên Phong - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/1.mp3",
+    "title" : "CS. Nguyên Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/2.mp3",
+    "title" : "CS. Nguyên Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/3.mp3",
+    "title" : "CS. Nguyên Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/4.mp3",
+    "title" : "CS. Nguyên Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/5.mp3",
+    "title" : "CS. Nguyên Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/6.mp3",
+    "title" : "CS. Nguyên Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/7.mp3",
+    "title" : "CS. Nguyên Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tay-tang-huyen-bi/8.mp3",
+    "title" : "CS. Nguyên Phong - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

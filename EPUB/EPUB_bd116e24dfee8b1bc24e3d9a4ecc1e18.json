@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bun-loang-cung-co-the-trat-tuong-vo-tu-dinh-huong_10667.html",
+    "title" : "Bùn Loãng Cũng Có Thể Trát Tường - Vô Tụ Đinh Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vô Tụ Đinh Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11676,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_bd116e24dfee8b1bc24e3d9a4ecc1e18.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_bd116e24dfee8b1bc24e3d9a4ecc1e18.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2268,
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_Mc Hương Giang_ TẬP 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2196,
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2129,
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1691,
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1837,
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/1.mp3",
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_Mc Hương Giang_ TẬP 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/2.mp3",
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/3.mp3",
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/4.mp3",
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/5.mp3",
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bun-loang-cung-co-the-trat-tuong/6.mp3",
+    "title" : "[ Audio ngôn tình hài cực hay ho] BÙN LOÃNG CŨNG CÓ THỂ TRÁT TƯỜNG_ Mc Hương Giang _ TẬP 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

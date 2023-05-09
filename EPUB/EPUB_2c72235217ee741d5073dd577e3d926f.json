@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nam-thang-vo-dinh-gap-em-ngay-xuan-phan-du-lac-thuan_10706.html",
+    "title" : "Năm Tháng Vô Định - Gặp Em Ngày Xuân Phân - Dư Lạc Thuần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dư Lạc Thuần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23545,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_2c72235217ee741d5073dd577e3d926f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_2c72235217ee741d5073dd577e3d926f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nam-thang-vo-dinh-gap-em-ngay-xuan-phan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8056,
+    "title" : "Tình Yêu Và Thù Hận [Tập 1] Truyện Ngôn Tình Hắc Bang Hay Nhất MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thang-vo-dinh-gap-em-ngay-xuan-phan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7583,
+    "title" : "Tình Yêu Và Thù Hận [Tập 2] Bỏ Đi Quá Khứ Để Lắng Nghe Trái Tim MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thang-vo-dinh-gap-em-ngay-xuan-phan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7906,
+    "title" : "Tình Yêu Và Thù Hận [Tập 3 HẾT] Kết Thúc Viên Mãn Bên Nhau Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nam-thang-vo-dinh-gap-em-ngay-xuan-phan/1.mp3",
+    "title" : "Tình Yêu Và Thù Hận [Tập 1] Truyện Ngôn Tình Hắc Bang Hay Nhất MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thang-vo-dinh-gap-em-ngay-xuan-phan/2.mp3",
+    "title" : "Tình Yêu Và Thù Hận [Tập 2] Bỏ Đi Quá Khứ Để Lắng Nghe Trái Tim MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thang-vo-dinh-gap-em-ngay-xuan-phan/3.mp3",
+    "title" : "Tình Yêu Và Thù Hận [Tập 3 HẾT] Kết Thúc Viên Mãn Bên Nhau Hạnh Phúc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

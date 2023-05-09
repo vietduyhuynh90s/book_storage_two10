@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thinh-vuong-tai-chinh-tuoi-30_16772.html",
+    "title" : "Thịnh Vượng Tài Chính Tuổi 30",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Go Deuk Seong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18995,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_d566b6efcf00ba4eddcdab94a1872a6e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_d566b6efcf00ba4eddcdab94a1872a6e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1472,
+    "title" : "ThinhVuongTaiChinhTuoi30C00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "ThinhVuongTaiChinhTuoi30C01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3002,
+    "title" : "ThinhVuongTaiChinhTuoi30C02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4555,
+    "title" : "ThinhVuongTaiChinhTuoi30C03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4087,
+    "title" : "ThinhVuongTaiChinhTuoi30C04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4004,
+    "title" : "ThinhVuongTaiChinhTuoi30C05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C00.mp3",
+    "title" : "ThinhVuongTaiChinhTuoi30C00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C01.mp3",
+    "title" : "ThinhVuongTaiChinhTuoi30C01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C02.mp3",
+    "title" : "ThinhVuongTaiChinhTuoi30C02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C03.mp3",
+    "title" : "ThinhVuongTaiChinhTuoi30C03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C04.mp3",
+    "title" : "ThinhVuongTaiChinhTuoi30C04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThinhVuongTaiChinhTuoi30Tap2/ThinhVuongTaiChinhTuoi30C05.mp3",
+    "title" : "ThinhVuongTaiChinhTuoi30C05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

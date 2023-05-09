@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-su-vo-tac-thien-lam-ngu-duong_10423.html",
+    "title" : "Tình Sử Võ Tắc Thiên - Lâm Ngữ Đường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Ngữ Đường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 47684,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_6572632256a474721c8d204158a92c85.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_6572632256a474721c8d204158a92c85.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-tac-thien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5173,
+    "title" : "Truyện Về Cuộc Đời Nữ Hoàng Đế Duy Nhất Trung Quốc [P1]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1029,
+    "title" : "Ám Đồ Chiêu Hạnh [P10]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1547,
+    "title" : "Hậu Phi Chi Họa [P11]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5642,
+    "title" : "Danh Phận Của Võ Mỵ Nương [P2]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5621,
+    "title" : "Nỗi Tức Giận Của Bà Hoàng Hậu Độc Địa [P3]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5635,
+    "title" : "Ngôi Thái Tử [P4]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5635,
+    "title" : "Tình Nhân Phùng Tiểu Bảo [P5]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Tấn Công Hay Cố Thủ [P6]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5124,
+    "title" : "Cuộc Sống Phòng The [P7]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5124,
+    "title" : "Ngai Vàng Thời Võ Chu [P8]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4613,
+    "title" : "Vua Chúa Loạn Luân [P9]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-tac-thien/1.mp3",
+    "title" : "Truyện Về Cuộc Đời Nữ Hoàng Đế Duy Nhất Trung Quốc [P1]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/10.mp3",
+    "title" : "Ám Đồ Chiêu Hạnh [P10]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/11.mp3",
+    "title" : "Hậu Phi Chi Họa [P11]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/2.mp3",
+    "title" : "Danh Phận Của Võ Mỵ Nương [P2]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/3.mp3",
+    "title" : "Nỗi Tức Giận Của Bà Hoàng Hậu Độc Địa [P3]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/4.mp3",
+    "title" : "Ngôi Thái Tử [P4]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/5.mp3",
+    "title" : "Tình Nhân Phùng Tiểu Bảo [P5]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/6.mp3",
+    "title" : "Tấn Công Hay Cố Thủ [P6]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/7.mp3",
+    "title" : "Cuộc Sống Phòng The [P7]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/8.mp3",
+    "title" : "Ngai Vàng Thời Võ Chu [P8]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-tac-thien/9.mp3",
+    "title" : "Vua Chúa Loạn Luân [P9]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

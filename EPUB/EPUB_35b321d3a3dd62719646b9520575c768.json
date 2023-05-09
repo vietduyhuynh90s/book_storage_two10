@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/the-vi-thuong_14524.html",
+    "title" : "Thê Vi Thượng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Dã Thiên Hạc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 73580,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_35b321d3a3dd62719646b9520575c768.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_35b321d3a3dd62719646b9520575c768.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/the-vi-thuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3619,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2399,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1787,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3180,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3712,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2967,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2907,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3213,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2323,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2778,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2349,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2051,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2899,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2621,
+    "title" : "Thê vi thượng tập 25- Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1941,
+    "title" : "Thê vi thượng tập 26- Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2262,
+    "title" : "Phiên Ngoại - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2296,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3991,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2950,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3504,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2636,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1928,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2130,
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/the-vi-thuong/1.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/10.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/11.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/12.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/13.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/14.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/15.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/16.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/17.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/18.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/19.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/2.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/20.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/21.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/22.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/23.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/24.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/25.mp3",
+    "title" : "Thê vi thượng tập 25- Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/26.mp3",
+    "title" : "Thê vi thượng tập 26- Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/27.mp3",
+    "title" : "Phiên Ngoại - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/3.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/4.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/5.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/6.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/7.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/8.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-vi-thuong/9.mp3",
+    "title" : "Audio Đam Mỹ: Thê Vi Thượng- Chương 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/van-mo-ve-em-hong-cuu_10573.html",
+    "title" : "Vẫn Mơ Về Em - Hồng Cửu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Cửu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 55731,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f0b1bf2a033a2fb5a36e20f1b089d08d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f0b1bf2a033a2fb5a36e20f1b089d08d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/van-mo-ve-em/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4349,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4108,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4134,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4580,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5608,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P13 Hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4201,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4407,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3869,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3658,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4258,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4269,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4398,
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/van-mo-ve-em/1.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/10.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/11.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/12.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/13.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P13 Hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/2.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/3.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/4.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/5.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/6.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/7.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/8.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-mo-ve-em/9.mp3",
+    "title" : "Vẫn Mơ Về Em –SOÁI CA ĐÂY RỒI– Truyện Ngôn Tình Audio – P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

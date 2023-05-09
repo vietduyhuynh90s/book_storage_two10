@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuyen-tap-nguyen-cong-hoan-nguyen-cong-hoan_10538.html",
+    "title" : "Tuyển Tập Nguyễn Công Hoan - Nguyễn Công Hoan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Công Hoan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23702,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f28f632a32af24d123ec590ecf491601.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f28f632a32af24d123ec590ecf491601.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "1 - Răng con chó của nhà tư sản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3885,
+    "title" : "2 - Cụ chánh bá mất giầy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4025,
+    "title" : "3 - Thằng quýt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "4 - Thịt người chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4060,
+    "title" : "5 - Chuyện của cô ấy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4158,
+    "title" : "6 - Thanh - Dạ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/1.mp3",
+    "title" : "1 - Răng con chó của nhà tư sản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/2.mp3",
+    "title" : "2 - Cụ chánh bá mất giầy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/3.mp3",
+    "title" : "3 - Thằng quýt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/4.mp3",
+    "title" : "4 - Thịt người chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/5.mp3",
+    "title" : "5 - Chuyện của cô ấy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyen-tap-truyen-ngan-cua-nguyen-cong-hoan/6.mp3",
+    "title" : "6 - Thanh - Dạ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

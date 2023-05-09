@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hang-ngay-nuong-chieu-anh-trang-sang_15159.html",
+    "title" : "Hàng Ngày Nuông Chiều Ánh Trăng Sáng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khương Chi Ngư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 47682,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_706e7d0d568ca2cb1babf07490ea373c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_706e7d0d568ca2cb1babf07490ea373c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4444,
+    "title" : "Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh, nữ cường yêu thiếu gia sủng vợ cực ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4253,
+    "title" : "[P10] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh nữ cường siêu hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "TẬP CUỐI CỰC HAY| Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh hay nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4263,
+    "title" : "[P2] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh, nữ cường yêu nam cường cực hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4664,
+    "title" : "[P3] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh, nữ cường yêu nam cường cực hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4496,
+    "title" : "[P4] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh xuyên thời gian, nữ cường cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4496,
+    "title" : "[P5] Nuông chiều cô vợ trọng sinh| Cực phẩm ngôn tình trọng sinh full hay nhất 2020| Nữ cường, sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4108,
+    "title" : "[P6] Nuông chiều vợ yêu trọng sinh| Ngu Trà rơi vào bồn tắm của Lục Dĩ Hoài| Ngôn tình hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4734,
+    "title" : "[P7] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh hay nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4030,
+    "title" : "[P8] Nuông chiều cô vợ trọng sinh| Truyện ngôn tình trọng sinh nữ cường hay không lối thoát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4266,
+    "title" : "[P9] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh hay nhất 2020| Siêu phẩm ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/1.mp3",
+    "title" : "Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh, nữ cường yêu thiếu gia sủng vợ cực ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/10.mp3",
+    "title" : "[P10] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh nữ cường siêu hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/11.mp3",
+    "title" : "TẬP CUỐI CỰC HAY| Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh hay nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/2.mp3",
+    "title" : "[P2] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh, nữ cường yêu nam cường cực hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/3.mp3",
+    "title" : "[P3] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh, nữ cường yêu nam cường cực hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/4.mp3",
+    "title" : "[P4] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh xuyên thời gian, nữ cường cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/5.mp3",
+    "title" : "[P5] Nuông chiều cô vợ trọng sinh| Cực phẩm ngôn tình trọng sinh full hay nhất 2020| Nữ cường, sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/6.mp3",
+    "title" : "[P6] Nuông chiều vợ yêu trọng sinh| Ngu Trà rơi vào bồn tắm của Lục Dĩ Hoài| Ngôn tình hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/7.mp3",
+    "title" : "[P7] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh hay nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/8.mp3",
+    "title" : "[P8] Nuông chiều cô vợ trọng sinh| Truyện ngôn tình trọng sinh nữ cường hay không lối thoát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hang-ngay-nuong-chieu-anh-trang-sang/9.mp3",
+    "title" : "[P9] Nuông chiều vợ yêu trọng sinh| Truyện ngôn tình trọng sinh hay nhất 2020| Siêu phẩm ngôn tình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

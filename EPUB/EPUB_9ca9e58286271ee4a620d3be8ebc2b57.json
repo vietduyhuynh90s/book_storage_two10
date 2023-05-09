@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/me-tong-chi-quoc-tap-3-dai-than-nong-gia-thien-ha-ba-xuong_10357.html",
+    "title" : "Mê Tông Chi Quốc tập 3: Đại Thần Nông Giá - Thiên Hạ Bá Xướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Bá Xướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 53460,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_9ca9e58286271ee4a620d3be8ebc2b57.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_9ca9e58286271ee4a620d3be8ebc2b57.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3455,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3140,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2595,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2330,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2780,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2810,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2319,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3375,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2562,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/Audio-M%C3%8A%20T%C3%94NG%20CHI%20QU%E1%BB%90C-Ph%E1%BA%A7n%2064.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2169,
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 64",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/1.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/10.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/11.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/12.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/13.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/14.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/15.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/16.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/17.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/2.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/3.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/4.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/5.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/6.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/7.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/8.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/9.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-3/Audio-M%C3%8A%20T%C3%94NG%20CHI%20QU%E1%BB%90C-Ph%E1%BA%A7n%2064.mp3",
+    "title" : "Audio-MÊ TÔNG CHI QUỐC-Phần 64",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

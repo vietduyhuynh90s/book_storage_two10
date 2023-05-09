@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bieu-tieu-thu-trong-sinh_15286.html",
+    "title" : "Biểu Tiểu Thư Trọng Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lạc Khuynh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 76958,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_37c17f8932ddc69cd012f669b4733cd3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_37c17f8932ddc69cd012f669b4733cd3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 1) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3399,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 10) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3387,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 11) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3655,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 12) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3025,
+    "title" : "[BÁCH HỢP] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 13) || Phát hàng 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 14) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3113,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 15) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2930,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 16) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 17) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4653,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 18) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5076,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 19) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2994,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 2) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 20) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6957,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 21) || KẾT !!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 3) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3229,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 4) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 5) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3581,
+    "title" : "[BÁCH HỢP] BIỂU TIỂU THƯ TRỌNG SINH(TẬP 6)||phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3036,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 7) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH(TẬP 8)||Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 9) || Phát hành 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/1.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 1) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/10.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 10) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/11.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 11) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/12.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 12) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/13.mp3",
+    "title" : "[BÁCH HỢP] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 13) || Phát hàng 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/14.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 14) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/15.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 15) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/16.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 16) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/17.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 17) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/18.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 18) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/19.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 19) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/2.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 2) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/20.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 20) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/21.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 21) || KẾT !!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/3.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 3) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/4.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 4) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/5.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 5) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/6.mp3",
+    "title" : "[BÁCH HỢP] BIỂU TIỂU THƯ TRỌNG SINH(TẬP 6)||phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/7.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 7) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/8.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH(TẬP 8)||Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bieu-tieu-thu-trong-sinh/9.mp3",
+    "title" : "[BÁCH HỢP AUDIO] BIỂU TIỂU THƯ TRỌNG SINH (TẬP 9) || Phát hành 2,4,6 hàng tuần!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

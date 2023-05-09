@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duong-nu-thanh-phi-phong-ngon-nhiem_9555.html",
+    "title" : "Dưỡng Nữ Thành Phi - Phong Ngôn Nhiễm.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Ngôn Nhiễm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 121121,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5511f9e0ac3f8876c1c26f9378317947.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5511f9e0ac3f8876c1c26f9378317947.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4882,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5898,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4970,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4745,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5026,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5519,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5430,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5349,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5185,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4477,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5305,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5249,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4894,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4251,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4785,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8324,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 23 End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5548,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5308,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5454,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5767,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4840,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5364,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4551,
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/1.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/10.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/11.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/12.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/13.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/14.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/15.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/16.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/17.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/18.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/19.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/2.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/20.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/21.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/22.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/23.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 23 End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/3.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/4.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/5.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/6.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/7.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/8.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-nu-thanh-phi/9.mp3",
+    "title" : "Truyện Ngôn Tình-Xuyên Không Hay Nhất DƯỠNG NỮ THÀNH PHI Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

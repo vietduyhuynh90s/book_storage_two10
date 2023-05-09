@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoa-sung-den_18808.html",
+    "title" : "Hoa Súng Đen",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Michel Bussi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 48793,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b4e18c5881230a70ec8ee975799f18e5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b4e18c5881230a70ec8ee975799f18e5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6470,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5614,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5430,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3028,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7047,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7878,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3310,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4196,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_09%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5820,
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 09 (end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_01.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_02.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_03.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_04.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_05.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_06.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_07.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_08.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-su-ng-d-en-michel-bussi-01/HOA%20S%C3%9ANG%20%C4%90EN%20-%20Michel%20Bussi_09%20%28end%29.mp3",
+    "title" : "HOA SÚNG ĐEN - Michel Bussi 09 (end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

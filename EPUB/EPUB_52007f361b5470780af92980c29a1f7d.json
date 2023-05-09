@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/qua-tang-tam-hon-danh-cho-tinh-yeu_16948.html",
+    "title" : "Quà Tặng Tâm Hồn Dành Cho Tình Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 6610,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_52007f361b5470780af92980c29a1f7d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_52007f361b5470780af92980c29a1f7d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 374,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/02-cac_ngay_thu_tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 322,
+    "title" : "Các ngày thứ tư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/03-ket_hon_voi_nguoi_la.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 782,
+    "title" : "Kết hôn với người lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/04-bach_ma_hoang_tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 664,
+    "title" : "Bạch mã hoàng tử có thật không?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/05-chuyen_tinh_o_ailen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 656,
+    "title" : "Chuyện tình ở Ai-len",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/06-ca_khuc_love_me_tender.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 782,
+    "title" : "Ca khúc “Love me tender”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/07-cuoc_song_thieu_michael.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 912,
+    "title" : "Cuộc sống thiếu Michael",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/08-hay_noi_voi_co_ay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 670,
+    "title" : "Hãy nói với cô ấy rằng anh yêu cô ấy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/09-ghi_khac_trong_tim.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 396,
+    "title" : "Ghi khắc trong tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/10-nguoi_phu_nu_giau_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 418,
+    "title" : "Người phụ nữ giàu nhất thế giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/11-khao_khat_tinh_em.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 634,
+    "title" : "Khao khát tình em",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/02-cac_ngay_thu_tu.mp3",
+    "title" : "Các ngày thứ tư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/03-ket_hon_voi_nguoi_la.mp3",
+    "title" : "Kết hôn với người lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/04-bach_ma_hoang_tu.mp3",
+    "title" : "Bạch mã hoàng tử có thật không?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/05-chuyen_tinh_o_ailen.mp3",
+    "title" : "Chuyện tình ở Ai-len",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/06-ca_khuc_love_me_tender.mp3",
+    "title" : "Ca khúc “Love me tender”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/07-cuoc_song_thieu_michael.mp3",
+    "title" : "Cuộc sống thiếu Michael",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/08-hay_noi_voi_co_ay.mp3",
+    "title" : "Hãy nói với cô ấy rằng anh yêu cô ấy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/09-ghi_khac_trong_tim.mp3",
+    "title" : "Ghi khắc trong tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/10-nguoi_phu_nu_giau_nhat.mp3",
+    "title" : "Người phụ nữ giàu nhất thế giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss15-quaTangTamHonDanhChoTinhYeu/11-khao_khat_tinh_em.mp3",
+    "title" : "Khao khát tình em",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

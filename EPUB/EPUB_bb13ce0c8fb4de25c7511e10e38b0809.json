@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-lai-tai-hon-lan-nua_12743.html",
+    "title" : "Sống Lại Tái Hôn Lần Nữa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiểu Thạc Thử 5030",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 100168,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_bb13ce0c8fb4de25c7511e10e38b0809.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_bb13ce0c8fb4de25c7511e10e38b0809.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5377,
+    "title" : "[TOP TRUYỆN HAY] Sống Lại Tái Hôn Lần Nữa P1 | Truyện ngôn tình mới nhất | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4602,
+    "title" : "Đạt Giải Nhất [Tập 10] | Truyện Ngôn Tình Hay 2019 Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5655,
+    "title" : "Bữa Tiệc Nhà Họ CHU [Tập 11] | Ruyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa Hay Nhất| Oanh Lê Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6229,
+    "title" : "Chúng Ta Kết Hôn Đi [Tập 12] | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5644,
+    "title" : "NIỀM VUI BẤT NGỜ [Tập 13] | Truyện Ngôn Tình Hay Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4853,
+    "title" : "Đối Mặt Với Tiểu Tam | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5174,
+    "title" : "Đứng Vững Trước Sóng Gió [Tập15] | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4883,
+    "title" : "Gặp Lại Người Cũ [Tập 16] | Truyện Ngôn Tình Sông Lại Tái Hôn Lần Nữa Hay 2019 | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4733,
+    "title" : "Sự Thấu Hiểu [Tập 17] | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4916,
+    "title" : "[KẾT THÚC] Hạnh Phúc Trọn Vẹn | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5771,
+    "title" : "Truyện ngôn tình Sống Lại Tái Hôn Lần Nữa [Tập 2] Trở thành người mạnh mẽ hơn #McOanhLe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5560,
+    "title" : "S.ống Lại T.ái Hôn Lần Nữa [Tập 3] Cuộc Gọi Lúc Đêm | Truyện Ngôn Tình Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5744,
+    "title" : "Chỉ Quan Tâm Em [Tập 4] Sống Lại Tái Hôn Lần Nữa | Nghe Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5586,
+    "title" : "Cơ Hội Cho Tình Yêu [Tập 5] Sống Lại Tái Hôn Lần Nữa | Mc Oanh Lê Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5417,
+    "title" : "Gặp Lại Người Thương [Tập 6] Sống Lại Tái Hôn Lần Nữa | MC Oanh Le",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6376,
+    "title" : "Muốn Chinh Phục Em [Tập 7] Truyện ngôn tình Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6324,
+    "title" : "Thói Quen Bên Anh [Tập 8] | Truyện Ngôn Tình Hay Và Cảm Động Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7324,
+    "title" : "Bản Lĩnh Đàn Ông [Tập 9] | Truyện Ngôn Tình Hay Và Ý Nghĩa Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/1.mp3",
+    "title" : "[TOP TRUYỆN HAY] Sống Lại Tái Hôn Lần Nữa P1 | Truyện ngôn tình mới nhất | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/10.mp3",
+    "title" : "Đạt Giải Nhất [Tập 10] | Truyện Ngôn Tình Hay 2019 Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/11.mp3",
+    "title" : "Bữa Tiệc Nhà Họ CHU [Tập 11] | Ruyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa Hay Nhất| Oanh Lê Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/12.mp3",
+    "title" : "Chúng Ta Kết Hôn Đi [Tập 12] | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/13.mp3",
+    "title" : "NIỀM VUI BẤT NGỜ [Tập 13] | Truyện Ngôn Tình Hay Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/14.mp3",
+    "title" : "Đối Mặt Với Tiểu Tam | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/15.mp3",
+    "title" : "Đứng Vững Trước Sóng Gió [Tập15] | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/16.mp3",
+    "title" : "Gặp Lại Người Cũ [Tập 16] | Truyện Ngôn Tình Sông Lại Tái Hôn Lần Nữa Hay 2019 | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/17.mp3",
+    "title" : "Sự Thấu Hiểu [Tập 17] | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/18.mp3",
+    "title" : "[KẾT THÚC] Hạnh Phúc Trọn Vẹn | Truyện Ngôn Tình Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/2.mp3",
+    "title" : "Truyện ngôn tình Sống Lại Tái Hôn Lần Nữa [Tập 2] Trở thành người mạnh mẽ hơn #McOanhLe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/3.mp3",
+    "title" : "S.ống Lại T.ái Hôn Lần Nữa [Tập 3] Cuộc Gọi Lúc Đêm | Truyện Ngôn Tình Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/4.mp3",
+    "title" : "Chỉ Quan Tâm Em [Tập 4] Sống Lại Tái Hôn Lần Nữa | Nghe Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/5.mp3",
+    "title" : "Cơ Hội Cho Tình Yêu [Tập 5] Sống Lại Tái Hôn Lần Nữa | Mc Oanh Lê Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/6.mp3",
+    "title" : "Gặp Lại Người Thương [Tập 6] Sống Lại Tái Hôn Lần Nữa | MC Oanh Le",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/7.mp3",
+    "title" : "Muốn Chinh Phục Em [Tập 7] Truyện ngôn tình Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/8.mp3",
+    "title" : "Thói Quen Bên Anh [Tập 8] | Truyện Ngôn Tình Hay Và Cảm Động Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-lai-tai-hon-lan-nua/9.mp3",
+    "title" : "Bản Lĩnh Đàn Ông [Tập 9] | Truyện Ngôn Tình Hay Và Ý Nghĩa Sống Lại Tái Hôn Lần Nữa | MC Oanh Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

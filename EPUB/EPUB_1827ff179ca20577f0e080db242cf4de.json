@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-nhu-nguoi-paris_14833.html",
+    "title" : "Sống Như Người Paris",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Anne Berest",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10296,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_1827ff179ca20577f0e080db242cf4de.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_1827ff179ca20577f0e080db242cf4de.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/SNGPR/S%E1%BB%91ng%20nh%C6%B0%20ng%C6%B0%E1%BB%9Di%20Paris%20-%20Anne%20%20Beresst%20%26%20Audrey%20Diwan%20%26%20Caroline%20de%20Maigret%20%26%20Sophie%20Mas%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10296,
+    "title" : "Sống như người Paris - Anne  Beresst & Audrey Diwan & Caroline de Maigret & Sophie Mas (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/SNGPR/S%E1%BB%91ng%20nh%C6%B0%20ng%C6%B0%E1%BB%9Di%20Paris%20-%20Anne%20%20Beresst%20%26%20Audrey%20Diwan%20%26%20Caroline%20de%20Maigret%20%26%20Sophie%20Mas%20%28128kbit_AAC%29.mp3",
+    "title" : "Sống như người Paris - Anne  Beresst & Audrey Diwan & Caroline de Maigret & Sophie Mas (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

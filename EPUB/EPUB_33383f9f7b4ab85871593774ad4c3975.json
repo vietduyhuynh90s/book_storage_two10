@@ -1,0 +1,761 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tong-tai-ba-dao-gianh-vo-yeu_15333.html",
+    "title" : "Tổng Tài Bá Đạo Giành Vợ Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Ti Liễu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 190754,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_33383f9f7b4ab85871593774ad4c3975.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_33383f9f7b4ab85871593774ad4c3975.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3759,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4057,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P10)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3807,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P11)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3893,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P12)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P13)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P14)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P15)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3946,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P16)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4223,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P17)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P18)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3932,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P19)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3310,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4034,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P20)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4224,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P21)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4269,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P22)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3813,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P23)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3568,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P24)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P25)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4012,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P26)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P27)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3880,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P28)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4024,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P29)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3308,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3963,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P30)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P31)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P32)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3068,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P33)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P34)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3457,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P35)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2853,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P36)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P37)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2928,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P38)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2255,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P39)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4012,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1879,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P40)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3952,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P41)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P42)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2965,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P43)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P44)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2193,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P45)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2016,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P46)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2027,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P47)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1748,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P48)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1501,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P49)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4016,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1736,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P50)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1922,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P51)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1568,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P52)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P53)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2019,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P54)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1878,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P55)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1867,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P56)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1544,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P57)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P58)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1490,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P59)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3832,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4661,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P60) [ HẾT ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4210,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4177,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P9)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/1.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/10.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P10)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/11.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P11)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/12.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P12)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/13.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P13)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/14.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P14)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/15.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P15)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/16.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P16)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/17.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P17)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/18.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P18)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/19.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P19)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/2.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/20.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P20)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/21.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P21)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/22.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P22)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/23.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P23)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/24.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P24)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/25.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P25)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/26.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P26)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/27.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P27)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/28.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P28)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/29.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P29)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/3.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/30.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P30)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/31.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P31)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/32.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P32)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/33.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P33)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/34.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P34)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/35.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P35)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/36.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P36)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/37.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P37)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/38.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P38)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/39.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P39)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/4.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/40.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P40)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/41.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P41)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/42.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P42)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/43.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P43)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/44.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P44)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/45.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P45)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/46.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P46)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/47.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P47)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/48.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P48)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/49.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P49)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/5.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/50.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P50)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/51.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P51)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/52.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P52)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/53.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P53)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/54.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P54)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/55.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P55)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/56.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P56)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/57.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P57)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/58.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P58)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/59.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P59)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/6.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/60.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P60) [ HẾT ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/7.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/8.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-ba-dao-gianh-lai-vo-yeu/9.mp3",
+    "title" : "Tổng tài bá đạo giành lại vợ yêu (P9)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

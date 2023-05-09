@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dao-cua-warren-buffett_19059.html",
+    "title" : "Đạo của Warren Buffett",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mary Buffett",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13800,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_c7df2c24b2b936bf4bb6bc01ccfa1c1d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_c7df2c24b2b936bf4bb6bc01ccfa1c1d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/01_P01A_LamGiauVaSongGiau_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "01 P01A LamGiauVaSongGiau DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/02_P01B_LamGiauVaSongGiau_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 998,
+    "title" : "02 P01B LamGiauVaSongGiau DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/03_P02_KinhDoanh_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1598,
+    "title" : "03 P02 KinhDoanh DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/04_P03_NguoiDoDauCuaWarren_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 617,
+    "title" : "04 P03 NguoiDoDauCuaWarren DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/05_P0405_GiaoDuc_NoiLamViec_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1287,
+    "title" : "05 P0405 GiaoDuc NoiLamViec DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/06_P06_NhaPhanTichNhaTuVanNhaGiaoDich-NhungDieuNucCuoiCanTranh_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 763,
+    "title" : "06 P06 NhaPhanTichNhaTuVanNhaGiaoDich-NhungDieuNucCuoiCanTranh DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/07_P07_TaiSaoKhongNenDaDangHoa_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 528,
+    "title" : "07 P07 TaiSaoKhongNenDaDangHoa DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/08_P08_KyLuatCanTrongVaKienNhan_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 692,
+    "title" : "08 P08 KyLuatCanTrongVaKienNhan DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/09_P09_CanThanVoiSuThamLamDienRo_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 841,
+    "title" : "09 P09 CanThanVoiSuThamLamDienRo DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/10_P10_ThoiDiemBanRaThoiDiemTuBo_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 834,
+    "title" : "10 P10 ThoiDiemBanRaThoiDiemTuBo DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/11_P1112_NhungSaiLamCanLuuY_VongTronNangLuc_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1330,
+    "title" : "11 P1112 NhungSaiLamCanLuuY VongTronNangLuc DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/12_P13_CaiGiaPhaiTra_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 853,
+    "title" : "12 P13 CaiGiaPhaiTra DaoCuaWarrenBuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/13_P14_HET_GiaTriKinhTeDaiHanLaBiQuyetDeTanDungSuDienRoCuaThiTruongChungKhoanTrongNganHan_DaoCuaWarrenBuffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "13 P14 HET GiaTriKinhTeDaiHanLaBiQuyetDeTanDungSuDienRoCuaThiTruongChungKhoanTrongNganHan...",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/01_P01A_LamGiauVaSongGiau_DaoCuaWarrenBuffett.mp3",
+    "title" : "01 P01A LamGiauVaSongGiau DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/02_P01B_LamGiauVaSongGiau_DaoCuaWarrenBuffett.mp3",
+    "title" : "02 P01B LamGiauVaSongGiau DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/03_P02_KinhDoanh_DaoCuaWarrenBuffett.mp3",
+    "title" : "03 P02 KinhDoanh DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/04_P03_NguoiDoDauCuaWarren_DaoCuaWarrenBuffett.mp3",
+    "title" : "04 P03 NguoiDoDauCuaWarren DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/05_P0405_GiaoDuc_NoiLamViec_DaoCuaWarrenBuffett.mp3",
+    "title" : "05 P0405 GiaoDuc NoiLamViec DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/06_P06_NhaPhanTichNhaTuVanNhaGiaoDich-NhungDieuNucCuoiCanTranh_DaoCuaWarrenBuffett.mp3",
+    "title" : "06 P06 NhaPhanTichNhaTuVanNhaGiaoDich-NhungDieuNucCuoiCanTranh DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/07_P07_TaiSaoKhongNenDaDangHoa_DaoCuaWarrenBuffett.mp3",
+    "title" : "07 P07 TaiSaoKhongNenDaDangHoa DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/08_P08_KyLuatCanTrongVaKienNhan_DaoCuaWarrenBuffett.mp3",
+    "title" : "08 P08 KyLuatCanTrongVaKienNhan DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/09_P09_CanThanVoiSuThamLamDienRo_DaoCuaWarrenBuffett.mp3",
+    "title" : "09 P09 CanThanVoiSuThamLamDienRo DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/10_P10_ThoiDiemBanRaThoiDiemTuBo_DaoCuaWarrenBuffett.mp3",
+    "title" : "10 P10 ThoiDiemBanRaThoiDiemTuBo DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/11_P1112_NhungSaiLamCanLuuY_VongTronNangLuc_DaoCuaWarrenBuffett.mp3",
+    "title" : "11 P1112 NhungSaiLamCanLuuY VongTronNangLuc DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/12_P13_CaiGiaPhaiTra_DaoCuaWarrenBuffett.mp3",
+    "title" : "12 P13 CaiGiaPhaiTra DaoCuaWarrenBuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-cua-warren-buffett.sna/13_P14_HET_GiaTriKinhTeDaiHanLaBiQuyetDeTanDungSuDienRoCuaThiTruongChungKhoanTrongNganHan_DaoCuaWarrenBuffett.mp3",
+    "title" : "13 P14 HET GiaTriKinhTeDaiHanLaBiQuyetDeTanDungSuDienRoCuaThiTruongChungKhoanTrongNganHan...",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

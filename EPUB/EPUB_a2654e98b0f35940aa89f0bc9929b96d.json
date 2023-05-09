@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ma-vuong-hoang-hau-co-hanh-linh_10703.html",
+    "title" : "Ma Vương Hoàng Hậu - Cổ Hạnh Linh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Hạnh Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25509,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a2654e98b0f35940aa89f0bc9929b96d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a2654e98b0f35940aa89f0bc9929b96d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-vuong-hoang-hau/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8324,
+    "title" : "[New] Ma Vương Hoàng Hậu ♥ Truyện ngôn tình Xuyên Không sao nghe 3 lần rồi mà không chán?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-vuong-hoang-hau/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17185,
+    "title" : "[Phần 2 Hết] Ma Vương Hoàng Hậu ♥ Truyện ngôn tình Xuyên Không hay nhất đáng nghe thử một lần",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-vuong-hoang-hau/1.mp3",
+    "title" : "[New] Ma Vương Hoàng Hậu ♥ Truyện ngôn tình Xuyên Không sao nghe 3 lần rồi mà không chán?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-vuong-hoang-hau/2.mp3",
+    "title" : "[Phần 2 Hết] Ma Vương Hoàng Hậu ♥ Truyện ngôn tình Xuyên Không hay nhất đáng nghe thử một lần",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

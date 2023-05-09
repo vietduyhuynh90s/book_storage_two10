@@ -1,0 +1,1073 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-y-thien-do-long-ky-kim-dung-vo-hiep_3644.html",
+    "title" : "Ỷ Thiên Đồ Long Ký - Kim Dung.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 283339,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_7719f66143093bdd345147a7068030ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_7719f66143093bdd345147a7068030ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ytdly/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3386,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3316,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3292,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3317,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3392,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3455,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3441,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3282,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3175,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3290,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3193,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3219,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3248,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3282,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3210,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3234,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3336,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3314,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3372,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3403,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3291,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3376,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3413,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3367,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3273,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3227,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3197,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3189,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3283,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3491,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3313,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3114,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3369,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3278,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3312,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3374,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3364,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3231,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3201,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3358,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3210,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3244,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3374,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3319,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3210,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3274,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 86 End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ytdly/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ytdly/1.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/10.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/11.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/12.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/13.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/14.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/15.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/16.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/17.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/18.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/19.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/2.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/20.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/21.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/22.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/23.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/24.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/25.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/26.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/27.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/28.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/29.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/3.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/30.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/31.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/32.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/33.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/34.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/35.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/36.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/37.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/38.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/39.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/4.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/40.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/41.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/42.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/43.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/44.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/45.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/46.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/47.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/48.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/49.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/5.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/50.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/51.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/52.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/53.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/54.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/55.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/56.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/57.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/58.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/59.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/6.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/60.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/61.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/62.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/63.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/64.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/65.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/66.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/67.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/68.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/69.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/7.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/70.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/71.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/72.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/73.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/74.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/75.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/76.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/77.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/78.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/79.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/8.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/80.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/81.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/82.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/83.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/84.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/85.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/86.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 86 End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ytdly/9.mp3",
+    "title" : "Ỷ Thiên Đồ Long Ký - Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

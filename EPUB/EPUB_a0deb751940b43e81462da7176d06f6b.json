@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-ban-linh-theo-cach-mot-quy-co-ellen-fein-sherrie-schneider_11706.html",
+    "title" : "Sống Bản Lĩnh Theo Cách Một Quý Cô - Ellen Fein & Sherrie Schneider",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ellen Fein",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22879,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a0deb751940b43e81462da7176d06f6b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a0deb751940b43e81462da7176d06f6b.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 484,
+    "title" : "Sống Bản Lĩnh Theo Cách Một Quý Cô - Lời cảm ơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 809,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 9 - 10 - 11 - Audio Book!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1237,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 12 - 13 - Audio Book!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 497,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 14- Audio Book-Listen&Feeling",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 457,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 15- Audio Book-Listen&Feeling",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 379,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 16- Audio Book-Listen&Feeling",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 764,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 17- Audio Book-Listen&Feeling",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1026,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 18- Audio Book-Listen&Feeling",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 641,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 19- Audio Book-Listen&Feeling",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1433,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 20+21- Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 846,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 22 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 953,
+    "title" : "Sống Bản Lĩnh Theo Cách Một Quý Cô - Chương 1: Lý do The Rules hiệu quả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 455,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 23 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 477,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 24 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 453,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 25 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 595,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 26 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 736,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 27 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 335,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 28 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 307,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 29 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 590,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 30 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 31 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 711,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 32 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 760,
+    "title" : "[QUEENVOICE] All the Rules-Sống Bản Lĩnh Theo Cách Một Quý Cô-Chương 2-Audio Book-Listen & Feeling!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 33 - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 906,
+    "title" : "Sống Bản Lĩnh Theo Cách Một Quý Cô-Chương 3- Audio Book-Listen&Feeling!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 709,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 4- Audio Book-Listen&Feeling!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1010,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 5- Audio Book-Listen&Feeling!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 689,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 6- Audio Book-Listen&Feeling!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 911,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 7- Audio Book-Listen&Feeling!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 667,
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 8- Audio Book-Listen&Feeling!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/1.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách Một Quý Cô - Lời cảm ơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/10.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 9 - 10 - 11 - Audio Book!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/11.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 12 - 13 - Audio Book!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/12.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 14- Audio Book-Listen&Feeling",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/13.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 15- Audio Book-Listen&Feeling",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/14.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 16- Audio Book-Listen&Feeling",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/15.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 17- Audio Book-Listen&Feeling",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/16.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 18- Audio Book-Listen&Feeling",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/17.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 19- Audio Book-Listen&Feeling",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/18.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 20+21- Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/19.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 22 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/2.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách Một Quý Cô - Chương 1: Lý do The Rules hiệu quả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/20.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 23 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/21.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 24 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/22.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 25 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/23.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 26 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/24.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 27 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/25.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 28 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/26.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 29 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/27.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 30 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/28.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 31 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/29.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 32 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/3.mp3",
+    "title" : "[QUEENVOICE] All the Rules-Sống Bản Lĩnh Theo Cách Một Quý Cô-Chương 2-Audio Book-Listen & Feeling!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/30.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 33 - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/4.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách Một Quý Cô-Chương 3- Audio Book-Listen&Feeling!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/5.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 4- Audio Book-Listen&Feeling!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/6.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 5- Audio Book-Listen&Feeling!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/7.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 6- Audio Book-Listen&Feeling!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/8.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 7- Audio Book-Listen&Feeling!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-ban-linh-nhu-mot-quy-co/9.mp3",
+    "title" : "Sống Bản Lĩnh Theo Cách 1 Quý Cô - Chương 8- Audio Book-Listen&Feeling!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

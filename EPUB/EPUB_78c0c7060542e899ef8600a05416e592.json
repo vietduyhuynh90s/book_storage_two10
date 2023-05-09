@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-quyet-tay-trang-tro-thanh-trieu-phu_17070.html",
+    "title" : "Bí Quyết Tay Trắng Trở Thành Triệu Phú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Adam Khoo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24980,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_78c0c7060542e899ef8600a05416e592.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_78c0c7060542e899ef8600a05416e592.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_0_Loi_Mo_Dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1669,
+    "title" : "00-Lời mở đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_1_Chuong_01_Bi_Quyet_Cua_Nguoi_Tay_Trang_Lam_Nen_Trieu_Do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2006,
+    "title" : "01-Bí quyết của người tay trắng làm nên triệu đô",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_1_Chuong_02_7_Buoc_Lam_Giau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 638,
+    "title" : "02-7 bước làm giàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_1_Chuong_03_9_Thoi_Quen_Cua_Trieu_Phu_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2337,
+    "title" : "03-9 Thói quen của triệu phú 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_1_Chuong_03_9_Thoi_Quen_Cua_Trieu_Phu_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1950,
+    "title" : "04-9 thói quen của triệu phú 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_2_Chuong_04_Nguoi_Giau_Quan_Ly_Tien_Bac_Nhu_The_Nao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 954,
+    "title" : "05-Người giàu quản lý tiền bạc như thế nào?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_2_Chuong_05_4_Muc_Do_Giau_Co.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "06-Mức độ giàu có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_3_Chuong_06_Hay_Dua_Ra_Muc_Gia_Cao_Nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1295,
+    "title" : "07-Hãy đưa ra mức giá cao nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_3_Chuong_07_Thoi_Gian_La_Tien_Bac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1066,
+    "title" : "08-Thói quen là tiền bạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_3_Chuong_08_Lam_The_Nao_De_Tang_Thu_Nhap_Theo_Cap_So_Nhan_Trong_Bat_Cu_Linh_Vuc_Gi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1367,
+    "title" : "09-Làm thế nào để tăng thu nhập theo cấp số nhân trong bất kỳ lĩnh vực gì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_4_Chuong_09_Gay_Dung_Viec_Kinh_Doanh_Sinh_Loi_Ma_Khong_Can_Lam_Gi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 914,
+    "title" : "10-Gây dựng việc kinh doanh sinh lời mà không cần làm gì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_4_Chuong_10_Bien_Niem_Dam_Me_Thanh_Nguon_Thu_Nhap_Ben_Vung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 735,
+    "title" : "11-Biến niềm đam mê thành nguồn thu nhập bền vững",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_4_Chuong_11_Cach_Thuc_Xay_Dung_Mot_Trang_Web_Sinh_Loi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 695,
+    "title" : "12-Cách xây dựng một trang web sinh lời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_4_Chuong_12_Lam_The_Nao_De_Thu_Hut_Nhieu_Khach_Hang_Tren_Mang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 688,
+    "title" : "13-Làm thế nào để thu hút nhiều Khách hàng trên mạng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_5_Chuong_13_Nguyen_Tac_So_1_Cua_Nhung_Trieu_Phu_Tay_Trang_Lam_Nen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 923,
+    "title" : "14-Nguyên tắc số 1 của những triệu phú tay trắng làm nên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_5_Chuong_14_Cach_Thuc_Quan_Ly_Tien_Va_Kiem_Soat_Chi_Tieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 780,
+    "title" : "15-Cách thức quản lý tiền và kiểm soát chi tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_6_Chuong_15_Tang_Tai_San_Voi_Loi_Nhuan_Tien_Trieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1302,
+    "title" : "16-Tăng tài sản với lợi nhuận tiền triệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_6_Chuong_16_Thang_Loi_Voi_Quy_Dau_Tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 423,
+    "title" : "17-Thắng lợi với quỹ đầu tư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_6_Chuong_17_Chon_Mua_Co_Phieu_Theo_Cach_Cua_Warren_Buffett.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1580,
+    "title" : "18-Chọn mua cổ phiếu theo cách của Warren Bfuffett",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_6_Chuong_18_8_Tieu_Chi_De_Mua_Co_Phieu_Tot_Voi_Gia_Hoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1165,
+    "title" : "19-8 tiêu chí để mua cổ phiếu tốt với giá hời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_7_Chuong_19_Len_Ke_Hoach_Tro_Thanh_Trieu_Phu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1513,
+    "title" : "20-Lên kế hoạch trở thành triệu phú",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_0_Loi_Mo_Dau.mp3",
+    "title" : "00-Lời mở đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_1_Chuong_01_Bi_Quyet_Cua_Nguoi_Tay_Trang_Lam_Nen_Trieu_Do.mp3",
+    "title" : "01-Bí quyết của người tay trắng làm nên triệu đô",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_1_Chuong_02_7_Buoc_Lam_Giau.mp3",
+    "title" : "02-7 bước làm giàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_1_Chuong_03_9_Thoi_Quen_Cua_Trieu_Phu_1.mp3",
+    "title" : "03-9 Thói quen của triệu phú 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_1_Chuong_03_9_Thoi_Quen_Cua_Trieu_Phu_2.mp3",
+    "title" : "04-9 thói quen của triệu phú 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_2_Chuong_04_Nguoi_Giau_Quan_Ly_Tien_Bac_Nhu_The_Nao.mp3",
+    "title" : "05-Người giàu quản lý tiền bạc như thế nào?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_2_Chuong_05_4_Muc_Do_Giau_Co.mp3",
+    "title" : "06-Mức độ giàu có",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_3_Chuong_06_Hay_Dua_Ra_Muc_Gia_Cao_Nhat.mp3",
+    "title" : "07-Hãy đưa ra mức giá cao nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_3_Chuong_07_Thoi_Gian_La_Tien_Bac.mp3",
+    "title" : "08-Thói quen là tiền bạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_3_Chuong_08_Lam_The_Nao_De_Tang_Thu_Nhap_Theo_Cap_So_Nhan_Trong_Bat_Cu_Linh_Vuc_Gi.mp3",
+    "title" : "09-Làm thế nào để tăng thu nhập theo cấp số nhân trong bất kỳ lĩnh vực gì",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_4_Chuong_09_Gay_Dung_Viec_Kinh_Doanh_Sinh_Loi_Ma_Khong_Can_Lam_Gi.mp3",
+    "title" : "10-Gây dựng việc kinh doanh sinh lời mà không cần làm gì",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_4_Chuong_10_Bien_Niem_Dam_Me_Thanh_Nguon_Thu_Nhap_Ben_Vung.mp3",
+    "title" : "11-Biến niềm đam mê thành nguồn thu nhập bền vững",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_4_Chuong_11_Cach_Thuc_Xay_Dung_Mot_Trang_Web_Sinh_Loi.mp3",
+    "title" : "12-Cách xây dựng một trang web sinh lời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_4_Chuong_12_Lam_The_Nao_De_Thu_Hut_Nhieu_Khach_Hang_Tren_Mang.mp3",
+    "title" : "13-Làm thế nào để thu hút nhiều Khách hàng trên mạng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_5_Chuong_13_Nguyen_Tac_So_1_Cua_Nhung_Trieu_Phu_Tay_Trang_Lam_Nen.mp3",
+    "title" : "14-Nguyên tắc số 1 của những triệu phú tay trắng làm nên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_5_Chuong_14_Cach_Thuc_Quan_Ly_Tien_Va_Kiem_Soat_Chi_Tieu.mp3",
+    "title" : "15-Cách thức quản lý tiền và kiểm soát chi tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_6_Chuong_15_Tang_Tai_San_Voi_Loi_Nhuan_Tien_Trieu.mp3",
+    "title" : "16-Tăng tài sản với lợi nhuận tiền triệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_6_Chuong_16_Thang_Loi_Voi_Quy_Dau_Tu.mp3",
+    "title" : "17-Thắng lợi với quỹ đầu tư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_6_Chuong_17_Chon_Mua_Co_Phieu_Theo_Cach_Cua_Warren_Buffett.mp3",
+    "title" : "18-Chọn mua cổ phiếu theo cách của Warren Bfuffett",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_6_Chuong_18_8_Tieu_Chi_De_Mua_Co_Phieu_Tot_Voi_Gia_Hoi.mp3",
+    "title" : "19-8 tiêu chí để mua cổ phiếu tốt với giá hời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SachNoi.vn-BiQuyetTayTrangThanhTrieuPhu-AdamKhoo/Phan_7_Chuong_19_Len_Ke_Hoach_Tro_Thanh_Trieu_Phu.mp3",
+    "title" : "20-Lên kế hoạch trở thành triệu phú",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

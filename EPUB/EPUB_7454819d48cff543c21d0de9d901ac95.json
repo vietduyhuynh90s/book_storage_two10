@@ -1,0 +1,509 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luc-thieu-pham-em-yeu-anh-cam-to-luu-nien_10430.html",
+    "title" : "Lục Thiếu Phàm, Em Yêu Anh - Cẩm Tố Lưu Niên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cẩm Tố Lưu Niên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 144080,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_7454819d48cff543c21d0de9d901ac95.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_7454819d48cff543c21d0de9d901ac95.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2736,
+    "title" : "Cẩm Tố Lưu Niên - Part 1 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4806,
+    "title" : "Cẩm Tố Lưu Niên - Part 10 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4264,
+    "title" : "Cẩm Tố Lưu Niên - Part 11 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3547,
+    "title" : "Cẩm Tố Lưu Niên - Part 12 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3104,
+    "title" : "Cẩm Tố Lưu Niên - Part 13 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3716,
+    "title" : "Cẩm Tố Lưu Niên - Part 14 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4068,
+    "title" : "Cẩm Tố Lưu Niên - Part 15 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "Cẩm Tố Lưu Niên - Part 16 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3248,
+    "title" : "Cẩm Tố Lưu Niên - Part 17 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "Cẩm Tố Lưu Niên - Part 18 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Cẩm Tố Lưu Niên - Part 19 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "Cẩm Tố Lưu Niên - Part 2 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4276,
+    "title" : "Cẩm Tố Lưu Niên - Part 20 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3597,
+    "title" : "Cẩm Tố Lưu Niên - Part 21 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3177,
+    "title" : "Cẩm Tố Lưu Niên - Part 22 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4122,
+    "title" : "Cẩm Tố Lưu Niên - Part 23 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3126,
+    "title" : "Cẩm Tố Lưu Niên - Part 24 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "Cẩm Tố Lưu Niên - Part 25 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3346,
+    "title" : "Cẩm Tố Lưu Niên - Part 26 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4105,
+    "title" : "Cẩm Tố Lưu Niên - Part 27 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3439,
+    "title" : "Cẩm Tố Lưu Niên - Part 28 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3685,
+    "title" : "Cẩm Tố Lưu Niên - Part 29 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3932,
+    "title" : "Cẩm Tố Lưu Niên - Part 3 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3430,
+    "title" : "Cẩm Tố Lưu Niên - Part 30 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3838,
+    "title" : "Cẩm Tố Lưu Niên - Part 31 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "Cẩm Tố Lưu Niên - Part 32 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "Cẩm Tố Lưu Niên - Part 33 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4194,
+    "title" : "Cẩm Tố Lưu Niên - Part 34 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "Cẩm Tố Lưu Niên - Part 35 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4128,
+    "title" : "Cẩm Tố Lưu Niên - Part 36 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4036,
+    "title" : "Cẩm Tố Lưu Niên - Part 37 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3845,
+    "title" : "Cẩm Tố Lưu Niên - Part 38 (END) - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "Cẩm Tố Lưu Niên - Ngoại Truyện - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4304,
+    "title" : "Cẩm Tố Lưu Niên - Part 4 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4549,
+    "title" : "Cẩm Tố Lưu Niên - Part 5 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4104,
+    "title" : "Cẩm Tố Lưu Niên - Part 6 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4115,
+    "title" : "Cẩm Tố Lưu Niên - Part 7 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "Cẩm Tố Lưu Niên - Part 8 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "Cẩm Tố Lưu Niên - Part 9 - Ngôn Tình Hiện Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/1.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 1 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/10.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 10 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/11.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 11 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/12.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 12 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/13.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 13 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/14.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 14 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/15.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 15 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/16.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 16 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/17.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 17 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/18.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 18 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/19.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 19 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/2.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 2 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/20.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 20 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/21.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 21 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/22.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 22 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/23.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 23 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/24.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 24 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/25.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 25 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/26.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 26 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/27.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 27 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/28.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 28 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/29.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 29 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/3.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 3 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/30.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 30 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/31.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 31 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/32.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 32 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/33.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 33 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/34.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 34 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/35.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 35 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/36.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 36 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/37.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 37 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/38.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 38 (END) - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/39.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Ngoại Truyện - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/4.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 4 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/5.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 5 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/6.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 6 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/7.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 7 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/8.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 8 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-thieu-pham-em-yeu-anh/9.mp3",
+    "title" : "Cẩm Tố Lưu Niên - Part 9 - Ngôn Tình Hiện Đại Hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

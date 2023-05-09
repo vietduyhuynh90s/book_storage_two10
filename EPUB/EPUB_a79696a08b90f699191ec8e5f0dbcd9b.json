@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thanh-gia-rong-higashino-keigo_8618.html",
+    "title" : "Thánh Giá Rỗng - Higashino Keigo.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35592,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a79696a08b90f699191ec8e5f0dbcd9b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a79696a08b90f699191ec8e5f0dbcd9b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/Thanh%20gia%20rong%20-%20Chuong%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1174,
+    "title" : "Thanh gia rong - Chuong 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/Thanh%20gia%20rong%20-%20Chuong%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1299,
+    "title" : "Thanh gia rong - Chuong 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3262,
+    "title" : "Thanh gia rong - Chuong 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1647,
+    "title" : "Thanh gia rong - Chuong 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "Thanh gia rong - Chuong 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "Thanh gia rong - Chuong 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1213,
+    "title" : "Thanh gia rong - Chuong 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2457,
+    "title" : "Thanh gia rong - Chuong 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "Thanh gia rong - Chuong 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1370,
+    "title" : "Thanh gia rong - Chuong 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1666,
+    "title" : "Thanh gia rong - Chuong 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 737,
+    "title" : "Thanh gia rong - Chuong 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1272,
+    "title" : "Thanh gia rong - Chuong 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 571,
+    "title" : "Thanh gia rong - Chuong 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1080,
+    "title" : "Thanh gia rong - Chuong 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2539,
+    "title" : "Thanh gia rong - Chuong 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1298,
+    "title" : "Thanh gia rong - Chuong 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong18Va19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1088,
+    "title" : "Thanh gia rong - Chuong 18 va 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2397,
+    "title" : "Thanh gia rong - Chuong 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 821,
+    "title" : "Thanh gia rong - Chuong 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 864,
+    "title" : "Thanh gia rong - Chuong 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "Thanh gia rong - Chuong 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1615,
+    "title" : "Thanh gia rong - Chuong 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-ChuongCuoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 512,
+    "title" : "Thanh gia rong - Chuong cuoi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/Thanh%20gia%20rong%20-%20Chuong%2001.mp3",
+    "title" : "Thanh gia rong - Chuong 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/Thanh%20gia%20rong%20-%20Chuong%2002.mp3",
+    "title" : "Thanh gia rong - Chuong 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong03.mp3",
+    "title" : "Thanh gia rong - Chuong 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong04.mp3",
+    "title" : "Thanh gia rong - Chuong 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong05.mp3",
+    "title" : "Thanh gia rong - Chuong 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong06.mp3",
+    "title" : "Thanh gia rong - Chuong 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong07.mp3",
+    "title" : "Thanh gia rong - Chuong 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong08.mp3",
+    "title" : "Thanh gia rong - Chuong 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong09.mp3",
+    "title" : "Thanh gia rong - Chuong 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong10.mp3",
+    "title" : "Thanh gia rong - Chuong 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong11.mp3",
+    "title" : "Thanh gia rong - Chuong 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong12.mp3",
+    "title" : "Thanh gia rong - Chuong 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong13.mp3",
+    "title" : "Thanh gia rong - Chuong 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong14.mp3",
+    "title" : "Thanh gia rong - Chuong 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong15.mp3",
+    "title" : "Thanh gia rong - Chuong 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong16.mp3",
+    "title" : "Thanh gia rong - Chuong 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong17.mp3",
+    "title" : "Thanh gia rong - Chuong 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong18Va19.mp3",
+    "title" : "Thanh gia rong - Chuong 18 va 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong20.mp3",
+    "title" : "Thanh gia rong - Chuong 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong21.mp3",
+    "title" : "Thanh gia rong - Chuong 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong22.mp3",
+    "title" : "Thanh gia rong - Chuong 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong23.mp3",
+    "title" : "Thanh gia rong - Chuong 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-Chuong24.mp3",
+    "title" : "Thanh gia rong - Chuong 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ThanhGiaRong-HigashinoKeigo/ThanhGiaRong-ChuongCuoi.mp3",
+    "title" : "Thanh gia rong - Chuong cuoi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

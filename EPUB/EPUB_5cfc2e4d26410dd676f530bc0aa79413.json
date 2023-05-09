@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-hong-lau-mong-tao-tuyet-can-kinh-dien_2311.html",
+    "title" : "Hồng lâu mộng -Tào Tuyết Cần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tào Tuyết Cần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 246516,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5cfc2e4d26410dd676f530bc0aa79413.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5cfc2e4d26410dd676f530bc0aa79413.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hong-lau-mong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13756,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14325,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13974,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13927,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13724,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11444,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14262,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13618,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11823,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12511,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14334,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14343,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14316,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14321,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14325,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14330,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12830,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14353,
+    "title" : "Tiểu thuyết kinh điển",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hong-lau-mong/1.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/10.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/11.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/12.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/13.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/14.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/15.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/16.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/17.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/18.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/2.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/3.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/4.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/5.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/6.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/7.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/8.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hong-lau-mong/9.mp3",
+    "title" : "Tiểu thuyết kinh điển",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

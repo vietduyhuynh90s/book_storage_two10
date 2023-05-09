@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dai-luc-that-lac-da-moc-moc-da_10048.html",
+    "title" : "Đại Lục Thất Lạc - Đa Mộc Mộc Đa.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đa Mộc Mộc Đa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 46373,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_1e989c615d315c02741216c9bc684f33.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_1e989c615d315c02741216c9bc684f33.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dailucthatlac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3280,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3506,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3176,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3064,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4073,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 14(p cuối).",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2911,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3506,
+    "title" : "Truyện ngôn tình audio đại lục thất lạc phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dailucthatlac/1.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/10.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/11.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/12.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/13.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/14.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 14(p cuối).",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/2.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/3.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/4.mp3",
+    "title" : "Truyện ngôn tình audio đại lục thất lạc phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/5.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/6.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/7.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/8.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dailucthatlac/9.mp3",
+    "title" : "Truyện ngôn tình audio Đại lục thất lạc phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

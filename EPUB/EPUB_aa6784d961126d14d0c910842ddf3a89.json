@@ -1,0 +1,461 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/yeu-ho-loan-the-khat-tri_10028.html",
+    "title" : "Yêu Hồ Loạn Thế - Khát Trí.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khát Trí",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 118078,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_aa6784d961126d14d0c910842ddf3a89.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_aa6784d961126d14d0c910842ddf3a89.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "Yêu Hồ Loạn Thế #01: Bối Cảnh của Hồ Yêu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "Yêu Hồ Loạn Thế #10: Danh Chấn Thiên Hạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3088,
+    "title" : "Yêu Hồ Loạn Thế # 11 : Tiến Thoái Lưỡng nan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "Yêu Hồ Loạn Thế # 12 : Đánh Chiếm Thành Đông Hải / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "Yêu Hồ Loạn Thế # 13 : Đến Ngọc Hàn Cung Tìm Vật / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Yêu Hồ Loạn Thế # 14 : Xuống Âm Phủ Cướp Hồn Ngạo Thiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "Yêu Hồ Loạn Thế # 15 : 18 Tầng Địa Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3341,
+    "title" : "Yêu Hồ Loạn Thế # 16 : Cải Tử Hoàn Sinh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "Yêu Hồ Loạn Thế # 17 : 2 Lần Cứu Lục Tử Huyên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "Yêu Hồ Loạn Thế # 18 : Yêu Hầu Trong Truyền Thuyêt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "Hồi Môn Phái / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "Yêu Hồ Loạn Thế #02: Bái Sư Học Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Yêu Hồ Loạn Thế # 20 : Đồ Sát Khắp Tu Chân Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "Yêu Hồ Loạn Thế # 21 : 11 Cỗ Quan Tài / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "Yêu Hồ Loạn Thế # 22 :Gia Nhập Khoái Hoạt Lâm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4600,
+    "title" : "Yêu Hồ Loạn Thế # 23 : Sự Thật Phô Bày- Lên Tiên Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3470,
+    "title" : "Yêu Hồ Loạn Thế # 24 : Đế Quân Điếc Tai / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2827,
+    "title" : "Tập Cuối : Đại Kết Cục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "Tập 26 : TIÊN KHÍ | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2732,
+    "title" : "Tập 27 : TIÊN CƯ PHÁI | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "Tập 28 : Ma Tôn | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "Tập 29 : PHẬT | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "Yêu Hồ Loạn Thế #03: Anh Hùng Cứu Mỹ Nhân-/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "Tập 30 : Văn Tăng | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "Tập 31 : LOẠN THẾ | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2697,
+    "title" : "Tập 32 : Tôn Chủ | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3257,
+    "title" : "Tập 33 : CỔ THẦN | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3002,
+    "title" : "Tập 34 : TIÊN GIỚI | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5840,
+    "title" : "Tập 35 : TẬP Cuối | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3731,
+    "title" : "Yêu Hồ Loạn Thế #04: Họa Trước Đi Họa Sau Lại Đến / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Yêu Hồ Loạn Thế #05: Truyền thuyết Dẫn Đến Truyền Thuyết/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "Yêu Hồ Loạn Thế #06: Trở Lại Ngọc Hư Cung/Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "Yêu Hồ Loạn Thế #07: Di Ngôn Của Phụ Thân / Mc.KhánhDuy diễn đọc hay lắm...7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4080,
+    "title" : "Yêu Hồ Loạn Thế #08: Tham Ngộ Tại Tàng Thư Các / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "Khởi Đầu Nan/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/1.mp3",
+    "title" : "Yêu Hồ Loạn Thế #01: Bối Cảnh của Hồ Yêu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/10.mp3",
+    "title" : "Yêu Hồ Loạn Thế #10: Danh Chấn Thiên Hạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/11.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 11 : Tiến Thoái Lưỡng nan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/12.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 12 : Đánh Chiếm Thành Đông Hải / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/13.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 13 : Đến Ngọc Hàn Cung Tìm Vật / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/14.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 14 : Xuống Âm Phủ Cướp Hồn Ngạo Thiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/15.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 15 : 18 Tầng Địa Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/16.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 16 : Cải Tử Hoàn Sinh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/17.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 17 : 2 Lần Cứu Lục Tử Huyên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/18.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 18 : Yêu Hầu Trong Truyền Thuyêt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/19.mp3",
+    "title" : "Hồi Môn Phái / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/2.mp3",
+    "title" : "Yêu Hồ Loạn Thế #02: Bái Sư Học Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/20.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 20 : Đồ Sát Khắp Tu Chân Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/21.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 21 : 11 Cỗ Quan Tài / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/22.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 22 :Gia Nhập Khoái Hoạt Lâm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/23.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 23 : Sự Thật Phô Bày- Lên Tiên Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/24.mp3",
+    "title" : "Yêu Hồ Loạn Thế # 24 : Đế Quân Điếc Tai / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/25.mp3",
+    "title" : "Tập Cuối : Đại Kết Cục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/26.mp3",
+    "title" : "Tập 26 : TIÊN KHÍ | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/27.mp3",
+    "title" : "Tập 27 : TIÊN CƯ PHÁI | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/28.mp3",
+    "title" : "Tập 28 : Ma Tôn | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/29.mp3",
+    "title" : "Tập 29 : PHẬT | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/3.mp3",
+    "title" : "Yêu Hồ Loạn Thế #03: Anh Hùng Cứu Mỹ Nhân-/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/30.mp3",
+    "title" : "Tập 30 : Văn Tăng | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/31.mp3",
+    "title" : "Tập 31 : LOẠN THẾ | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/32.mp3",
+    "title" : "Tập 32 : Tôn Chủ | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/33.mp3",
+    "title" : "Tập 33 : CỔ THẦN | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/34.mp3",
+    "title" : "Tập 34 : TIÊN GIỚI | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/35.mp3",
+    "title" : "Tập 35 : TẬP Cuối | Truyện Tiên Hiệp - Mc Phi Tùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/4.mp3",
+    "title" : "Yêu Hồ Loạn Thế #04: Họa Trước Đi Họa Sau Lại Đến / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/5.mp3",
+    "title" : "Yêu Hồ Loạn Thế #05: Truyền thuyết Dẫn Đến Truyền Thuyết/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/6.mp3",
+    "title" : "Yêu Hồ Loạn Thế #06: Trở Lại Ngọc Hư Cung/Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/7.mp3",
+    "title" : "Yêu Hồ Loạn Thế #07: Di Ngôn Của Phụ Thân / Mc.KhánhDuy diễn đọc hay lắm...7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/8.mp3",
+    "title" : "Yêu Hồ Loạn Thế #08: Tham Ngộ Tại Tàng Thư Các / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Yhlt/9.mp3",
+    "title" : "Khởi Đầu Nan/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

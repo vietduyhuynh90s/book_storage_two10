@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngoi-khoc-tren-cay_12511.html",
+    "title" : "Ngồi Khóc Trên Cây",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23222,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_18b3b6cca4569322f67043be556ad6e2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_18b3b6cca4569322f67043be556ad6e2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay01_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2194,
+    "title" : "NgoiKhocTrenCay01 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay02_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "NgoiKhocTrenCay02 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay03_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1655,
+    "title" : "NgoiKhocTrenCay03 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay04_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2025,
+    "title" : "NgoiKhocTrenCay04 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay05_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3038,
+    "title" : "NgoiKhocTrenCay05 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1308,
+    "title" : "NgoiKhocTrenCay06 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay07_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3242,
+    "title" : "NgoiKhocTrenCay07 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay08_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2128,
+    "title" : "NgoiKhocTrenCay08 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay09_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1784,
+    "title" : "NgoiKhocTrenCay09 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay10_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1986,
+    "title" : "NgoiKhocTrenCay10 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay11%28Het%29_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1686,
+    "title" : "NgoiKhocTrenCay11(Het) 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay01_2.mp3",
+    "title" : "NgoiKhocTrenCay01 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay02_2.mp3",
+    "title" : "NgoiKhocTrenCay02 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay03_2.mp3",
+    "title" : "NgoiKhocTrenCay03 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay04_2.mp3",
+    "title" : "NgoiKhocTrenCay04 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay05_2.mp3",
+    "title" : "NgoiKhocTrenCay05 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay06_2.mp3",
+    "title" : "NgoiKhocTrenCay06 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay07_2.mp3",
+    "title" : "NgoiKhocTrenCay07 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay08_2.mp3",
+    "title" : "NgoiKhocTrenCay08 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay09_2.mp3",
+    "title" : "NgoiKhocTrenCay09 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay10_2.mp3",
+    "title" : "NgoiKhocTrenCay10 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-khoc-tren-cay.sna/NgoiKhocTrenCay11%28Het%29_2.mp3",
+    "title" : "NgoiKhocTrenCay11(Het) 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

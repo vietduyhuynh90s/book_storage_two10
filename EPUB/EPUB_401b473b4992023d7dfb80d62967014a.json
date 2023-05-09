@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-em-sai-roi_13503.html",
+    "title" : "Anh, Em Sai Rồi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Hôn Tứ Hợp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38882,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_401b473b4992023d7dfb80d62967014a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_401b473b4992023d7dfb80d62967014a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-em-sai-roi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4278,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3419,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3751,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3881,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3961,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3955,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4073,
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-em-sai-roi/1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/10.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/3.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/4.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/5.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/6.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/7.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/8.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-em-sai-roi/9.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH MỚI VỀ CẶP TÌNH NHÂN OAN GIA THÚ VỊ - MC BẢO ANH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

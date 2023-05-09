@@ -1,0 +1,569 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tran-trui-giua-bay-soi_16152.html",
+    "title" : "Trần Trụi Giữa Bầy Sói",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bruno Apitz",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 75380,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_8b729e4b9cabbd78ae4f3f19deb3fe06.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_8b729e4b9cabbd78ae4f3f19deb3fe06.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1769,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1730,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1784,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1779,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1781,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1767,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1750,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1774,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1779,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1774,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1775,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1696,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b14%281%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1763,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b14(1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1745,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b17%281%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b17(1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1726,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1750,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1764,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1763,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1773,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1716,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1715,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1771,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1748,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1773,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1725,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1495,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1477,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1470,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1479,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1443,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1474,
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b44",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b01.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b02.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b03.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b04.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b05.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b06.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b07.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b08.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b09.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b10.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b11.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b12.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b13.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b14%281%29.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b14(1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b15.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b16.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b17%281%29.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b17(1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b17.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b19.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b20.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b21.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b22.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b23.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b24.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b25.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b26.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b27.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b28.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b29.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b30.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b31.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b32.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b33.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b34.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b35.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b36.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b37.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b38.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b39.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b40.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b41.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b42.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b43.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/1150_ttgbs/vovlive_-doc-truyen-dai-ky_-tran-trui-giua-bay-soi-b44.mp3",
+    "title" : "vovlive -doc-truyen-dai-ky -tran-trui-giua-bay-soi-b44",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

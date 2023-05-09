@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoa-tu-dang-no-day-hang-rao-thien-tam_10431.html",
+    "title" : "Hoa Tử Đằng Nở Đầy Hàng Rào - Thiên Tầm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22849,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f494d8ca185fe1e7f7fb8692253c4014.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f494d8ca185fe1e7f7fb8692253c4014.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa-tu-dang-no-day-tren-hang-rao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12573,
+    "title" : "Truyện Ngôn Tình Hay Nghe Đi RỒi Khóc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dang-no-day-tren-hang-rao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10276,
+    "title" : "Truyện ngôn tình Hay Giữa Hận Hận Yêu Yêu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa-tu-dang-no-day-tren-hang-rao/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nghe Đi RỒi Khóc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dang-no-day-tren-hang-rao/2.mp3",
+    "title" : "Truyện ngôn tình Hay Giữa Hận Hận Yêu Yêu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

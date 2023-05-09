@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duong-uyen-song-lai_15315.html",
+    "title" : "Đường Uyển Sống Lại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Du Đăng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 49244,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_8de96594fa9e713ab2fad301018db68f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_8de96594fa9e713ab2fad301018db68f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4105,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5406,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6188,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 11 - End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4217,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4580,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4037,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4085,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4280,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4178,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4162,
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/1.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/10.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/11.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 11 - End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/2.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/3.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/4.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/5.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/6.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/7.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/8.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-uyen-song-lai/9.mp3",
+    "title" : "ĐIỀN VĂN hay || ĐƯỜNG UYỂN SỐNG LẠI - Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

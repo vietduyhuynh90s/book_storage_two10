@@ -1,0 +1,2693 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/di-the-luu-day_13405.html",
+    "title" : "Dị Thế Lưu Đày",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dịch Nhân Bắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 806816,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_8e45cda3afe5bc42cff13b6c73dd8e89.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_8e45cda3afe5bc42cff13b6c73dd8e89.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/di-the-luu-day/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "3.Tác giả: Dịch Nhân Bắc.Edit & Beta: Zom",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3515,
+    "title" : "30.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4020,
+    "title" : "302.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3743,
+    "title" : "305.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "308.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "311.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "314.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3501,
+    "title" : "317.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3789,
+    "title" : "320.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3884,
+    "title" : "323.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4005,
+    "title" : "326.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3889,
+    "title" : "329.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "33.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3677,
+    "title" : "332.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3264,
+    "title" : "334.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "337.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3943,
+    "title" : "340.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3375,
+    "title" : "344.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4174,
+    "title" : "347.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3987,
+    "title" : "350.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4351,
+    "title" : "354.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4161,
+    "title" : "Truyện đam mỹ: Dị Thế Lưu Đày: 355-357.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "360.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2788,
+    "title" : "36.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6050,
+    "title" : "Truyện đam mỹ: Dị Thế Lưu Đày: 361-365.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "368.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "371.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4070,
+    "title" : "374.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3467,
+    "title" : "377.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3077,
+    "title" : "379.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "382.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3789,
+    "title" : "385.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3522,
+    "title" : "388.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3833,
+    "title" : "391.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3095,
+    "title" : "39.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "394.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "397.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3535,
+    "title" : "400.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4425,
+    "title" : "403.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3906,
+    "title" : "406.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4096,
+    "title" : "409.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4157,
+    "title" : "413.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3310,
+    "title" : "416.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "419.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2785,
+    "title" : "421.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4252,
+    "title" : "42.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3551,
+    "title" : "424.Tác giả: Dịch Nhân Bắc.Edit & Bet",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "427.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "429.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2510,
+    "title" : "431.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2886,
+    "title" : "433Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "436] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4060,
+    "title" : "439] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2868,
+    "title" : "441] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2919,
+    "title" : "443] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "445] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "45.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2771,
+    "title" : "447] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2668,
+    "title" : "449] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3951,
+    "title" : "Audio Đam mỹ [Chương 450 452] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3297,
+    "title" : "455] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "457] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2795,
+    "title" : "459] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4228,
+    "title" : "462] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3682,
+    "title" : "465] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "468] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "471] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2969,
+    "title" : "48.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "474] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4001,
+    "title" : "477] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3006,
+    "title" : "479] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2910,
+    "title" : "481] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3997,
+    "title" : "484] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4097,
+    "title" : "487] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "490] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3546,
+    "title" : "493] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "496] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4179,
+    "title" : "499] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "51.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3344,
+    "title" : "501] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3906,
+    "title" : "504] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3358,
+    "title" : "507] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "510] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3350,
+    "title" : "513] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "516] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4005,
+    "title" : "519] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2834,
+    "title" : "521] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3148,
+    "title" : "523] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4067,
+    "title" : "526] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4022,
+    "title" : "54.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3279,
+    "title" : "528] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4548,
+    "title" : "531] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2656,
+    "title" : "533] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4121,
+    "title" : "536] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3399,
+    "title" : "538] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3243,
+    "title" : "540] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3970,
+    "title" : "543] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "546] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4125,
+    "title" : "549] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "552] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2720,
+    "title" : "57.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3467,
+    "title" : "555] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "558] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "561] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2930,
+    "title" : "563] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "565] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3809,
+    "title" : "568] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3085,
+    "title" : "570 ] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "573] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "576] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4559,
+    "title" : "579] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3106,
+    "title" : "6.Tác giả: Dịch Nhân Bắc.Edit & Beta: Zom",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3501,
+    "title" : "60.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "582] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "585] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3430,
+    "title" : "588] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3677,
+    "title" : "591] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3379,
+    "title" : "594] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4957,
+    "title" : "598] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5102,
+    "title" : "602] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5817,
+    "title" : "607] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6593,
+    "title" : "612] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4508,
+    "title" : "616] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3563,
+    "title" : "63.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4428,
+    "title" : "620] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5230,
+    "title" : "624] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6331,
+    "title" : "629] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3472,
+    "title" : "631] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5860,
+    "title" : "636] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4712,
+    "title" : "640] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4661,
+    "title" : "644] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "646] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4684,
+    "title" : "649] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5503,
+    "title" : "654] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4118,
+    "title" : "66.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5851,
+    "title" : "658] Dị Thế Lưu Đày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1919,
+    "title" : "Audio Đam mỹ [Chương 659] Dị Thế Lưu Đày (Hoàn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4013,
+    "title" : "69.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "72.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3468,
+    "title" : "75.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "78.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3254,
+    "title" : "81.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2626,
+    "title" : "84.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "87.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "9.Tác giả: Dịch Nhân Bắc.Edit & Beta: Zom",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4092,
+    "title" : "90.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4528,
+    "title" : "93.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4852,
+    "title" : "96.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4699,
+    "title" : "99.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4685,
+    "title" : "102.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3955,
+    "title" : "105.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3572,
+    "title" : "108.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2870,
+    "title" : "111.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "113.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3711,
+    "title" : "117.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3515,
+    "title" : "12.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2591,
+    "title" : "120.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3624,
+    "title" : "124.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3981,
+    "title" : "128.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3030,
+    "title" : "131.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "134..Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "137.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3246,
+    "title" : "140.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "143.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2896,
+    "title" : "146.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "149.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "15.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "152.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "155.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3189,
+    "title" : "158.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "161.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "164.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3008,
+    "title" : "167.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "170.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "173.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "176.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3297,
+    "title" : "179.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3057,
+    "title" : "18.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "182.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "185.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "188.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3075,
+    "title" : "191.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "194.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "197.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3202,
+    "title" : "200.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3375,
+    "title" : "203.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "206.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3392,
+    "title" : "209.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2709,
+    "title" : "21.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3030,
+    "title" : "212.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "215.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3075,
+    "title" : "218.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4012,
+    "title" : "221.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "224.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3280,
+    "title" : "227.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3316,
+    "title" : "230.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "233.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "236.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3358,
+    "title" : "239.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "24.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4125,
+    "title" : "242.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "245.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "248.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "261.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3478,
+    "title" : "254.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3956,
+    "title" : "257.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3929,
+    "title" : "260.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "263.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4590,
+    "title" : "266.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3985,
+    "title" : "269.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "27.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3246,
+    "title" : "272.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3441,
+    "title" : "275.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "278.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3973,
+    "title" : "281.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3552,
+    "title" : "284.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3482,
+    "title" : "287.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "290.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3671,
+    "title" : "293.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3611,
+    "title" : "296.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3549,
+    "title" : "299.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/di-the-luu-day/1.mp3",
+    "title" : "3.Tác giả: Dịch Nhân Bắc.Edit & Beta: Zom",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/10.mp3",
+    "title" : "30.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/100.mp3",
+    "title" : "302.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/101.mp3",
+    "title" : "305.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/102.mp3",
+    "title" : "308.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/103.mp3",
+    "title" : "311.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/104.mp3",
+    "title" : "314.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/105.mp3",
+    "title" : "317.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/106.mp3",
+    "title" : "320.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/107.mp3",
+    "title" : "323.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/108.mp3",
+    "title" : "326.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/109.mp3",
+    "title" : "329.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/11.mp3",
+    "title" : "33.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/110.mp3",
+    "title" : "332.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/111.mp3",
+    "title" : "334.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/112.mp3",
+    "title" : "337.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/113.mp3",
+    "title" : "340.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/114.mp3",
+    "title" : "344.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/115.mp3",
+    "title" : "347.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/116.mp3",
+    "title" : "350.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/117.mp3",
+    "title" : "354.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/118.mp3",
+    "title" : "Truyện đam mỹ: Dị Thế Lưu Đày: 355-357.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/119.mp3",
+    "title" : "360.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/12.mp3",
+    "title" : "36.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/120.mp3",
+    "title" : "Truyện đam mỹ: Dị Thế Lưu Đày: 361-365.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/121.mp3",
+    "title" : "368.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/122.mp3",
+    "title" : "371.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/123.mp3",
+    "title" : "374.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/124.mp3",
+    "title" : "377.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/125.mp3",
+    "title" : "379.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/126.mp3",
+    "title" : "382.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/127.mp3",
+    "title" : "385.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/128.mp3",
+    "title" : "388.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/129.mp3",
+    "title" : "391.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/13.mp3",
+    "title" : "39.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/130.mp3",
+    "title" : "394.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/131.mp3",
+    "title" : "397.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/132.mp3",
+    "title" : "400.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/133.mp3",
+    "title" : "403.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/134.mp3",
+    "title" : "406.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/135.mp3",
+    "title" : "409.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/136.mp3",
+    "title" : "413.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/137.mp3",
+    "title" : "416.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/138.mp3",
+    "title" : "419.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/139.mp3",
+    "title" : "421.Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/14.mp3",
+    "title" : "42.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/140.mp3",
+    "title" : "424.Tác giả: Dịch Nhân Bắc.Edit & Bet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/141.mp3",
+    "title" : "427.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/142.mp3",
+    "title" : "429.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/143.mp3",
+    "title" : "431.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/144.mp3",
+    "title" : "433Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/145.mp3",
+    "title" : "436] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/146.mp3",
+    "title" : "439] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/147.mp3",
+    "title" : "441] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/148.mp3",
+    "title" : "443] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/149.mp3",
+    "title" : "445] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/15.mp3",
+    "title" : "45.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/150.mp3",
+    "title" : "447] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/151.mp3",
+    "title" : "449] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/152.mp3",
+    "title" : "Audio Đam mỹ [Chương 450 452] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/153.mp3",
+    "title" : "455] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/154.mp3",
+    "title" : "457] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/155.mp3",
+    "title" : "459] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/156.mp3",
+    "title" : "462] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/157.mp3",
+    "title" : "465] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/158.mp3",
+    "title" : "468] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/159.mp3",
+    "title" : "471] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/16.mp3",
+    "title" : "48.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/160.mp3",
+    "title" : "474] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/161.mp3",
+    "title" : "477] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/162.mp3",
+    "title" : "479] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/163.mp3",
+    "title" : "481] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/164.mp3",
+    "title" : "484] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/165.mp3",
+    "title" : "487] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/166.mp3",
+    "title" : "490] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/167.mp3",
+    "title" : "493] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/168.mp3",
+    "title" : "496] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/169.mp3",
+    "title" : "499] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/17.mp3",
+    "title" : "51.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/170.mp3",
+    "title" : "501] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/171.mp3",
+    "title" : "504] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/172.mp3",
+    "title" : "507] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/173.mp3",
+    "title" : "510] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/174.mp3",
+    "title" : "513] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/175.mp3",
+    "title" : "516] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/176.mp3",
+    "title" : "519] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/177.mp3",
+    "title" : "521] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/178.mp3",
+    "title" : "523] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/179.mp3",
+    "title" : "526] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/18.mp3",
+    "title" : "54.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/180.mp3",
+    "title" : "528] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/181.mp3",
+    "title" : "531] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/182.mp3",
+    "title" : "533] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/183.mp3",
+    "title" : "536] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/184.mp3",
+    "title" : "538] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/185.mp3",
+    "title" : "540] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/186.mp3",
+    "title" : "543] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/187.mp3",
+    "title" : "546] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/188.mp3",
+    "title" : "549] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/189.mp3",
+    "title" : "552] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/19.mp3",
+    "title" : "57.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/190.mp3",
+    "title" : "555] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/191.mp3",
+    "title" : "558] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/192.mp3",
+    "title" : "561] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/193.mp3",
+    "title" : "563] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/194.mp3",
+    "title" : "565] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/195.mp3",
+    "title" : "568] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/196.mp3",
+    "title" : "570 ] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/197.mp3",
+    "title" : "573] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/198.mp3",
+    "title" : "576] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/199.mp3",
+    "title" : "579] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/2.mp3",
+    "title" : "6.Tác giả: Dịch Nhân Bắc.Edit & Beta: Zom",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/20.mp3",
+    "title" : "60.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/200.mp3",
+    "title" : "582] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/201.mp3",
+    "title" : "585] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/202.mp3",
+    "title" : "588] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/203.mp3",
+    "title" : "591] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/204.mp3",
+    "title" : "594] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/205.mp3",
+    "title" : "598] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/206.mp3",
+    "title" : "602] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/207.mp3",
+    "title" : "607] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/208.mp3",
+    "title" : "612] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/209.mp3",
+    "title" : "616] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/21.mp3",
+    "title" : "63.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/210.mp3",
+    "title" : "620] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/211.mp3",
+    "title" : "624] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/212.mp3",
+    "title" : "629] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/213.mp3",
+    "title" : "631] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/214.mp3",
+    "title" : "636] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/215.mp3",
+    "title" : "640] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/216.mp3",
+    "title" : "644] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/217.mp3",
+    "title" : "646] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/218.mp3",
+    "title" : "649] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/219.mp3",
+    "title" : "654] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/22.mp3",
+    "title" : "66.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/220.mp3",
+    "title" : "658] Dị Thế Lưu Đày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/221.mp3",
+    "title" : "Audio Đam mỹ [Chương 659] Dị Thế Lưu Đày (Hoàn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/23.mp3",
+    "title" : "69.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/24.mp3",
+    "title" : "72.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/25.mp3",
+    "title" : "75.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/26.mp3",
+    "title" : "78.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/27.mp3",
+    "title" : "81.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/28.mp3",
+    "title" : "84.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/29.mp3",
+    "title" : "87.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/3.mp3",
+    "title" : "9.Tác giả: Dịch Nhân Bắc.Edit & Beta: Zom",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/30.mp3",
+    "title" : "90.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/31.mp3",
+    "title" : "93.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/32.mp3",
+    "title" : "96.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/33.mp3",
+    "title" : "99.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/34.mp3",
+    "title" : "102.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/35.mp3",
+    "title" : "105.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/36.mp3",
+    "title" : "108.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/37.mp3",
+    "title" : "111.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/38.mp3",
+    "title" : "113.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/39.mp3",
+    "title" : "117.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/4.mp3",
+    "title" : "12.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/40.mp3",
+    "title" : "120.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/41.mp3",
+    "title" : "124.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/42.mp3",
+    "title" : "128.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/43.mp3",
+    "title" : "131.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/44.mp3",
+    "title" : "134..Tác giả: Dịch Nhân Bắc.Edit & Beta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/45.mp3",
+    "title" : "137.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/46.mp3",
+    "title" : "140.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/47.mp3",
+    "title" : "143.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/48.mp3",
+    "title" : "146.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/49.mp3",
+    "title" : "149.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/5.mp3",
+    "title" : "15.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/50.mp3",
+    "title" : "152.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/51.mp3",
+    "title" : "155.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/52.mp3",
+    "title" : "158.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/53.mp3",
+    "title" : "161.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/54.mp3",
+    "title" : "164.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/55.mp3",
+    "title" : "167.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/56.mp3",
+    "title" : "170.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/57.mp3",
+    "title" : "173.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/58.mp3",
+    "title" : "176.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/59.mp3",
+    "title" : "179.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/6.mp3",
+    "title" : "18.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/60.mp3",
+    "title" : "182.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/61.mp3",
+    "title" : "185.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/62.mp3",
+    "title" : "188.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/63.mp3",
+    "title" : "191.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/64.mp3",
+    "title" : "194.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/65.mp3",
+    "title" : "197.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/66.mp3",
+    "title" : "200.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/67.mp3",
+    "title" : "203.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/68.mp3",
+    "title" : "206.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/69.mp3",
+    "title" : "209.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/7.mp3",
+    "title" : "21.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/70.mp3",
+    "title" : "212.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/71.mp3",
+    "title" : "215.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/72.mp3",
+    "title" : "218.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/73.mp3",
+    "title" : "221.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/74.mp3",
+    "title" : "224.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/75.mp3",
+    "title" : "227.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/76.mp3",
+    "title" : "230.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/77.mp3",
+    "title" : "233.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/78.mp3",
+    "title" : "236.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/79.mp3",
+    "title" : "239.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/8.mp3",
+    "title" : "24.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/80.mp3",
+    "title" : "242.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/81.mp3",
+    "title" : "245.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/82.mp3",
+    "title" : "248.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/83.mp3",
+    "title" : "261.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/84.mp3",
+    "title" : "254.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/85.mp3",
+    "title" : "257.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/86.mp3",
+    "title" : "260.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/87.mp3",
+    "title" : "263.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/88.mp3",
+    "title" : "266.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/89.mp3",
+    "title" : "269.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/9.mp3",
+    "title" : "27.Tác giả: Dịch Nhân Bắc.Edit & Beta: Z",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/90.mp3",
+    "title" : "272.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/91.mp3",
+    "title" : "275.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/92.mp3",
+    "title" : "278.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/93.mp3",
+    "title" : "281.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/94.mp3",
+    "title" : "284.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/95.mp3",
+    "title" : "287.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/96.mp3",
+    "title" : "290.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/97.mp3",
+    "title" : "293.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/98.mp3",
+    "title" : "296.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-the-luu-day/99.mp3",
+    "title" : "299.Tác giả: Dịch Nhân Bắc.Edit & Beta:",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

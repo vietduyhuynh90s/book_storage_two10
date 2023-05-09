@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chinh-phuc-hanh-phuc_14831.html",
+    "title" : "Chinh Phục Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bertrand Russell",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19432,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_71452b45416be6fdea5fb962bc85da28.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_71452b45416be6fdea5fb962bc85da28.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cphp_20200508/Chinh%20ph%E1%BB%A5c%20h%E1%BA%A1nh%20ph%C3%BAc%20-%20B.Russell%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19432,
+    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cphp_20200508/Chinh%20ph%E1%BB%A5c%20h%E1%BA%A1nh%20ph%C3%BAc%20-%20B.Russell%20%28128kbit_AAC%29.mp3",
+    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

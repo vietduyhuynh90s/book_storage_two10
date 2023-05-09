@@ -1,0 +1,353 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tet-o-lang-dia-nguc_15151.html",
+    "title" : "Tết Ở Làng Địa Ngục",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 105165,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_fd2f958f6a25a883ef6176ac9d86556a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_fd2f958f6a25a883ef6176ac9d86556a.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5503,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4157,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Hỏa Xa Địa Ngục | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3974,
+    "title" : "Khống Hồn Hành Thi | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4250,
+    "title" : "Hồ Xạ Hương | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3144,
+    "title" : "#14-Kết | Tết Ở Làng Địa Ngục | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4215,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4218,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3795,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3869,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4008,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4186,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4046,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4380,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3980,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4216,
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4237,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4311,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4248,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3750,
+    "title" : "Mùng 2 Cả Làng Chôn Sống | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4046,
+    "title" : "Lão Mục Đồng | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/11.mp3",
+    "title" : "Hỏa Xa Địa Ngục | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/12.mp3",
+    "title" : "Khống Hồn Hành Thi | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/13.mp3",
+    "title" : "Hồ Xạ Hương | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/14.mp3",
+    "title" : "#14-Kết | Tết Ở Làng Địa Ngục | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/15.mp3",
+    "title" : "Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/16.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/17.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/18.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/19.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/20.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/21.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/22.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/23.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/24.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/25.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/26.mp3",
+    "title" : "Ngoại Truyện Tết ở làng Địa Ngục - Truyện ma dân gian Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/8.mp3",
+    "title" : "Mùng 2 Cả Làng Chôn Sống | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tet-o-lang-dia-nguc/9.mp3",
+    "title" : "Lão Mục Đồng | Truyện ma dân gian xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

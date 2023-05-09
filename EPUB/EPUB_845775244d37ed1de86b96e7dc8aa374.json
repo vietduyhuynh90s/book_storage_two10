@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/menh-phuong-hoang-hoai-phi-van-van_4740.html",
+    "title" : "Mệnh Phượng Hoàng - Hoại Phi Vãn Vãn.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoại Phi Vãn Vãn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 87335,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_845775244d37ed1de86b96e7dc8aa374.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_845775244d37ed1de86b96e7dc8aa374.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5139,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6401,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.002",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6488,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6488,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.004",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6488,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.005",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6488,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6488,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.007",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5734,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.008",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6194,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7675,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6832,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.011",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5682,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.012",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6131,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.013",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5107,
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.014",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.001.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.002.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.002",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.003.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.004.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.004",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.005.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.005",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.006.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.007.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.007",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.008.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.008",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.009.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.010.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.011.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.012.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.012",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.013.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.013",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiMenhPhuongHoang/Audio%20S%C3%A1ch%20N%C3%B3i%20M%E1%BB%87nh%20Ph%C6%B0%E1%BB%A3ng%20Ho%C3%A0ng.014.mp3",
+    "title" : "Audio Sách Nói Mệnh Phượng Hoàng.014",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

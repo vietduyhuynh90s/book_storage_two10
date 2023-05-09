@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dam-nghi-lon_19250.html",
+    "title" : "Dám Nghĩ Lớn!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David Schwartz Ph.d",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 4902,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5c4991be55d0de13b7646e2f69c32fde.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5c4991be55d0de13b7646e2f69c32fde.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phan-2_202111/phan-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 506,
+    "title" : "phan-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phan-2_202111/phan-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "Dám Nghĩ Lớn C1 Thành Công Bắt Nguồn Từ Niềm Tin Ở Bản Thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phan-2_202111/phan-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2537,
+    "title" : "phan-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phan-2_202111/phan-1.mp3",
+    "title" : "phan-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phan-2_202111/phan-2.mp3",
+    "title" : "Dám Nghĩ Lớn C1 Thành Công Bắt Nguồn Từ Niềm Tin Ở Bản Thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phan-2_202111/phan-3.mp3",
+    "title" : "phan-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

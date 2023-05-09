@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bich-nhan-than-quan-uu-dam-hoa_11446.html",
+    "title" : "Bích Nhãn Thần Quân - Ưu Đàm Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ưu Đàm Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 61839,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_52af582be3d8a8ef6b0d2e26395eaab1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_52af582be3d8a8ef6b0d2e26395eaab1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bntq/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 23617,
+    "title" : "Kiếm Hiệp Hệ Thống | BÍCH NHÃN THẦN QUÂN | Tập 01 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bntq/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20642,
+    "title" : "Kiếm Hiệp Hệ Thống | BÍCH NHÃN THẦN QUÂN | Tập 02 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bntq/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17580,
+    "title" : "Kiếm Hiệp Hệ Thống | BÍCH NHÃN THẦN QUÂN | Tập 03 (Hết) | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bntq/1.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | BÍCH NHÃN THẦN QUÂN | Tập 01 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bntq/2.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | BÍCH NHÃN THẦN QUÂN | Tập 02 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bntq/3.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | BÍCH NHÃN THẦN QUÂN | Tập 03 (Hết) | Mc Đình Duy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

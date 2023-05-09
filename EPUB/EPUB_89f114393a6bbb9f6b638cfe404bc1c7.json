@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hau-thuy-hu-thi-nai-am-la-quan-trung_10180.html",
+    "title" : "Hậu Thủy Hử - Thi Nại Am & La Quán Trung",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "La Quán Trung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 90174,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_89f114393a6bbb9f6b638cfe404bc1c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_89f114393a6bbb9f6b638cfe404bc1c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hauthuyhu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7389,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8515,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8955,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8726,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9222,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7698,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8583,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8408,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7484,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7324,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7870,
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hauthuyhu/1.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/10.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/11.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/2.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/3.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/4.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/5.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/6.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/7.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/8.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hauthuyhu/9.mp3",
+    "title" : "Tiểu Thuyết Võ Hiệp của Thi Nại Am và La Quán Trung | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

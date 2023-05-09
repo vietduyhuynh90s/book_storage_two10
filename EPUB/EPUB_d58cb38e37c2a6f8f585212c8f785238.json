@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ho-so-tam-ly-toi-pham-cuong-tuyet-an_10306.html",
+    "title" : "Hồ Sơ Tâm Lý Tội Phạm - Cương Tuyết Ấn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cương Tuyết Ấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 46602,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_d58cb38e37c2a6f8f585212c8f785238.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_d58cb38e37c2a6f8f585212c8f785238.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Truyện Trinh Thám Kinh Dị - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "Truyện Trinh Thám Kinh Dị - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3203,
+    "title" : "Truyện Trinh Thám Kinh Dị - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "Truyện Trinh Thám Kinh Dị - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1493,
+    "title" : "Sửa ÂM- Truyện Trinh Thám Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3433,
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4083,
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3543,
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3903,
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "Truyện Trinh Thám hay - Thanh Bình Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/1.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/10.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/11.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/12.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/13.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/14.mp3",
+    "title" : "Sửa ÂM- Truyện Trinh Thám Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/2.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/3.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/4.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/5.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/6.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/7.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/8.mp3",
+    "title" : "Truyện Trinh Thám Kinh Dị hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-tam-ly-toi-pham/9.mp3",
+    "title" : "Truyện Trinh Thám hay - Thanh Bình Diễn Đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/soi-chi-do-until-we-meet-again_14949.html",
+    "title" : "Sợi Chỉ Đỏ - Until We Meet Again",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lazysheep",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 63668,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_1eb8021e2d52ddde09f973a0c8d937df.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_1eb8021e2d52ddde09f973a0c8d937df.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/soi-chi-do/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1437,
+    "title" : "Until we meet again Tập 1 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "Until we meet again Tập 10 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1425,
+    "title" : "Until we meet again Tập 11 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1501,
+    "title" : "Until we meet again Tập 12 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "Until we meet again Tập 13 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1756,
+    "title" : "Until we meet again Tập 14 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1434,
+    "title" : "Until we meet again Tập 15 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1993,
+    "title" : "Until we meet again Tập 16 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1596,
+    "title" : "Until we meet again Tập 17 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1946,
+    "title" : "Until we meet again Tập 18 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2148,
+    "title" : "Until we meet again Tập 19 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1040,
+    "title" : "Until we meet again Tập 2 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1991,
+    "title" : "Until we meet again Tập 20 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2236,
+    "title" : "Until we meet again Tập 21 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2576,
+    "title" : "Until we meet again Tập 22 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "Until we meet again Tập 23 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2190,
+    "title" : "Until we meet again Tập 24 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2259,
+    "title" : "Until we meet again Tập 25 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "Until we meet again Tập 26 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "Until we meet again Tập 27 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1425,
+    "title" : "Until we meet again Tập 28 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1991,
+    "title" : "Until we meet again Tập 29 (Chương cuối) - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 977,
+    "title" : "Until we meet again Tập 3 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 997,
+    "title" : "Dây dầu gai 1 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1001,
+    "title" : "Dây dầu gai 2 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1168,
+    "title" : "Dây dầu gai 3 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1339,
+    "title" : "Dây dầu gai 4 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1310,
+    "title" : "Dây dầu gai 5 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1285,
+    "title" : "Dây dầu gai 6 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1310,
+    "title" : "Dây dầu gai 7 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1534,
+    "title" : "Dây dầu gai 8 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1196,
+    "title" : "Dây dầu gai 9 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 798,
+    "title" : "Dây dầu gai ngoại truyện 1 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1580,
+    "title" : "Until we meet again Tập 4 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 671,
+    "title" : "Dây dầu gai ngoại truyện 2 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 571,
+    "title" : "Dây dầu gai ngoại truyện 3 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 553,
+    "title" : "Dây dầu gai ngoại truyện 4 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1333,
+    "title" : "Until we meet again Tập 5 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1274,
+    "title" : "Until we meet again Tập 6 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1984,
+    "title" : "Until we meet again Tập 7 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1425,
+    "title" : "Until we meet again Tập 8 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "Until we meet again Tập 9 - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/soi-chi-do/1.mp3",
+    "title" : "Until we meet again Tập 1 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/10.mp3",
+    "title" : "Until we meet again Tập 10 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/11.mp3",
+    "title" : "Until we meet again Tập 11 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/12.mp3",
+    "title" : "Until we meet again Tập 12 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/13.mp3",
+    "title" : "Until we meet again Tập 13 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/14.mp3",
+    "title" : "Until we meet again Tập 14 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/15.mp3",
+    "title" : "Until we meet again Tập 15 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/16.mp3",
+    "title" : "Until we meet again Tập 16 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/17.mp3",
+    "title" : "Until we meet again Tập 17 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/18.mp3",
+    "title" : "Until we meet again Tập 18 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/19.mp3",
+    "title" : "Until we meet again Tập 19 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/2.mp3",
+    "title" : "Until we meet again Tập 2 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/20.mp3",
+    "title" : "Until we meet again Tập 20 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/21.mp3",
+    "title" : "Until we meet again Tập 21 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/22.mp3",
+    "title" : "Until we meet again Tập 22 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/23.mp3",
+    "title" : "Until we meet again Tập 23 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/24.mp3",
+    "title" : "Until we meet again Tập 24 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/25.mp3",
+    "title" : "Until we meet again Tập 25 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/26.mp3",
+    "title" : "Until we meet again Tập 26 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/27.mp3",
+    "title" : "Until we meet again Tập 27 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/28.mp3",
+    "title" : "Until we meet again Tập 28 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/29.mp3",
+    "title" : "Until we meet again Tập 29 (Chương cuối) - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/3.mp3",
+    "title" : "Until we meet again Tập 3 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/30.mp3",
+    "title" : "Dây dầu gai 1 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/31.mp3",
+    "title" : "Dây dầu gai 2 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/32.mp3",
+    "title" : "Dây dầu gai 3 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/33.mp3",
+    "title" : "Dây dầu gai 4 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/34.mp3",
+    "title" : "Dây dầu gai 5 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/35.mp3",
+    "title" : "Dây dầu gai 6 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/36.mp3",
+    "title" : "Dây dầu gai 7 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/37.mp3",
+    "title" : "Dây dầu gai 8 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/38.mp3",
+    "title" : "Dây dầu gai 9 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/39.mp3",
+    "title" : "Dây dầu gai ngoại truyện 1 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/4.mp3",
+    "title" : "Until we meet again Tập 4 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/40.mp3",
+    "title" : "Dây dầu gai ngoại truyện 2 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/41.mp3",
+    "title" : "Dây dầu gai ngoại truyện 3 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/42.mp3",
+    "title" : "Dây dầu gai ngoại truyện 4 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/5.mp3",
+    "title" : "Until we meet again Tập 5 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/6.mp3",
+    "title" : "Until we meet again Tập 6 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/7.mp3",
+    "title" : "Until we meet again Tập 7 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/8.mp3",
+    "title" : "Until we meet again Tập 8 - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/soi-chi-do/9.mp3",
+    "title" : "Until we meet again Tập 9 - Audio Đam mỹ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

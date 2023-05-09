@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-huyen-gioi-chi-mon-vong-ngu-tien-hiep_3508.html",
+    "title" : "Huyền Giới Chi Môn - Vong Ngữ.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vong Ngữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 206542,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0b53cbe14a3d783ea9b2fffc1c60ac95.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0b53cbe14a3d783ea9b2fffc1c60ac95.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/001.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%281%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7410,
+    "title" : "001.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/002.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%282%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7893,
+    "title" : "002.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/003.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%283%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6729,
+    "title" : "003.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/004.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%284%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5640,
+    "title" : "004.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/005.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%285%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5978,
+    "title" : "005.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/006.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%286%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6046,
+    "title" : "006.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/007.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%287%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5860,
+    "title" : "007.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/008.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%288%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5728,
+    "title" : "008.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/009.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%289%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6079,
+    "title" : "009.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (9)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/010.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%2810%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5875,
+    "title" : "010.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (10)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/011.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%2811%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7731,
+    "title" : "011.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (11)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/012.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2812%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8609,
+    "title" : "012.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (12)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/013.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2813%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8279,
+    "title" : "013.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (13)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/014.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2814%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8833,
+    "title" : "014.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (14)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/015.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2815%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7973,
+    "title" : "015.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (15)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/016.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2816%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8675,
+    "title" : "016.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (16)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/017.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2817%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8763,
+    "title" : "017.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (17)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/018.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2818%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8483,
+    "title" : "018.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (18)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/019.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2819%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8577,
+    "title" : "019.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (19)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/020.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2820%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7084,
+    "title" : "020.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (20)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/021.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2821%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "021.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (21)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/022.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2822%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8564,
+    "title" : "022.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (22)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/023.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2823%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1232,
+    "title" : "023.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (23)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/024.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2824%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 23489,
+    "title" : "024.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (24)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/025.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2825%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 25246,
+    "title" : "025.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (25)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/001.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%281%29.mp3",
+    "title" : "001.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/002.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%282%29.mp3",
+    "title" : "002.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/003.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%283%29.mp3",
+    "title" : "003.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/004.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%284%29.mp3",
+    "title" : "004.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/005.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%285%29.mp3",
+    "title" : "005.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/006.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%286%29.mp3",
+    "title" : "006.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/007.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%287%29.mp3",
+    "title" : "007.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/008.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%288%29.mp3",
+    "title" : "008.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/009.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%289%29.mp3",
+    "title" : "009.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (9)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/010.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%2810%29.mp3",
+    "title" : "010.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (10)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/011.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Ph%E1%BA%A7n%20%2811%29.mp3",
+    "title" : "011.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Phần (11)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/012.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2812%29.mp3",
+    "title" : "012.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (12)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/013.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2813%29.mp3",
+    "title" : "013.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (13)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/014.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2814%29.mp3",
+    "title" : "014.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (14)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/015.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2815%29.mp3",
+    "title" : "015.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (15)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/016.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2816%29.mp3",
+    "title" : "016.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (16)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/017.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2817%29.mp3",
+    "title" : "017.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (17)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/018.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2818%29.mp3",
+    "title" : "018.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (18)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/019.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2819%29.mp3",
+    "title" : "019.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (19)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/020.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2820%29.mp3",
+    "title" : "020.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (20)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/021.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2821%29.mp3",
+    "title" : "021.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (21)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/022.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2822%29.mp3",
+    "title" : "022.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (22)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/023.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2823%29.mp3",
+    "title" : "023.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (23)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/024.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2824%29.mp3",
+    "title" : "024.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (24)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioSachNoiTienHiepHuyenGioiChiMonVongNguThan25/025.Audio%20S%C3%A1ch%20N%C3%B3i%20Ti%C3%AAn%20Hi%E1%BB%87p%20-%20Huy%E1%BB%81n%20Gi%E1%BB%9Bi%20Chi%20M%C3%B4n%20-%20Vong%20Ng%E1%BB%AF%20Th%E1%BA%A7n%20%2825%29.mp3",
+    "title" : "025.Audio Sách Nói Tiên Hiệp - Huyền Giới Chi Môn - Vong Ngữ Thần (25)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

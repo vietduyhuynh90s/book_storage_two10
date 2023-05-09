@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-du-nam-chinh-chay_15644.html",
+    "title" : "Tôi Dụ Nam Chinh Chạy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thập Lục Nguyệt Tây Qua",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38180,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0ad18a2f93d1f5326ce3beed4fd90ec7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0ad18a2f93d1f5326ce3beed4fd90ec7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2972,
+    "title" : "Xuyên qua nữ phụ đính hôn với nam chính| Truyện ngôn tình xuyên sách, sủng ngọt cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3425,
+    "title" : "[P10] Xuyên qua nữ phụ đính hôn với nam chính| Vợ yêu hôn anh đi| Ngôn tình tổng tài sủng ngọt hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1458,
+    "title" : "[Tập cuối cực hay] Xuyên qua nữ phụ đính hôn với nam chính| Vợ yêu, đêm nay anh sẽ chiều em thật tốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3375,
+    "title" : "[P2] Xuyên qua nữ phụ đính hôn nam chính| Vợ, sao e không đeo nhẫn| Ngôn tình tổng tài, xuyên sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "[P3] Xuyên qua nữ phụ đính hôn nam chính| Vợ, em nghĩ anh thiếu tiền sao| Ngôn tình sủng, xuyên sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "[P4] Xuyên qua nữ phụ đính hôn nam chính | Lão đại thay vợ trả thù| Ngôn tình tổng tài, sủng ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3193,
+    "title" : "[P5] Xuyên qua nữ phụ đính hôn với nam chính| Nam chính tránh xa tôi ra| Ngôn tình sủng, tổng tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "[P6] Xuyên qua nữ phụ đính hôn nam chính| Tránh ra, cô ấy là vợ tôi| Ngôn tình tổng tài sủng vợ hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3877,
+    "title" : "[P7] Xuyên qua nữ phụ đính hôn với nam chính| Vợ, anh đến rồi đây| Ngôn tình tổng tài sủng ngọt hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4428,
+    "title" : "[P8] Xuyên qua nữ phụ đính hôn nam chính| Tôi có vợ rồi đừng gọi tôi là chồng| Ngôn tình tổng tài HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4112,
+    "title" : "[P9] Xuyên qua nữ phụ đính hôn nam chính| Ám sát vợ tổng tài| Ngôn tình sủng nữ phụ xuyên sách hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/1.mp3",
+    "title" : "Xuyên qua nữ phụ đính hôn với nam chính| Truyện ngôn tình xuyên sách, sủng ngọt cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/10.mp3",
+    "title" : "[P10] Xuyên qua nữ phụ đính hôn với nam chính| Vợ yêu hôn anh đi| Ngôn tình tổng tài sủng ngọt hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/11.mp3",
+    "title" : "[Tập cuối cực hay] Xuyên qua nữ phụ đính hôn với nam chính| Vợ yêu, đêm nay anh sẽ chiều em thật tốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/2.mp3",
+    "title" : "[P2] Xuyên qua nữ phụ đính hôn nam chính| Vợ, sao e không đeo nhẫn| Ngôn tình tổng tài, xuyên sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/3.mp3",
+    "title" : "[P3] Xuyên qua nữ phụ đính hôn nam chính| Vợ, em nghĩ anh thiếu tiền sao| Ngôn tình sủng, xuyên sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/4.mp3",
+    "title" : "[P4] Xuyên qua nữ phụ đính hôn nam chính | Lão đại thay vợ trả thù| Ngôn tình tổng tài, sủng ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/5.mp3",
+    "title" : "[P5] Xuyên qua nữ phụ đính hôn với nam chính| Nam chính tránh xa tôi ra| Ngôn tình sủng, tổng tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/6.mp3",
+    "title" : "[P6] Xuyên qua nữ phụ đính hôn nam chính| Tránh ra, cô ấy là vợ tôi| Ngôn tình tổng tài sủng vợ hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/7.mp3",
+    "title" : "[P7] Xuyên qua nữ phụ đính hôn với nam chính| Vợ, anh đến rồi đây| Ngôn tình tổng tài sủng ngọt hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/8.mp3",
+    "title" : "[P8] Xuyên qua nữ phụ đính hôn nam chính| Tôi có vợ rồi đừng gọi tôi là chồng| Ngôn tình tổng tài HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-du-nam-chinh-chay/9.mp3",
+    "title" : "[P9] Xuyên qua nữ phụ đính hôn nam chính| Ám sát vợ tổng tài| Ngôn tình sủng nữ phụ xuyên sách hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

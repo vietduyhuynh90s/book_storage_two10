@@ -1,0 +1,485 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khang-kieu-loan_10049.html",
+    "title" : "Khang Kiều - Loan.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Loan Loan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 153795,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_c729ea2f0841720324091d2aca21f157.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_c729ea2f0841720324091d2aca21f157.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khangkieu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4349,
+    "title" : "Loan - Phần 1 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5225,
+    "title" : "Loan - Phần 10 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5215,
+    "title" : "Loan - Phần 11 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4966,
+    "title" : "Loan - Phần 12 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4424,
+    "title" : "Loan - Phần 13 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4931,
+    "title" : "Loan - Phần 14 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4394,
+    "title" : "Loan - Phần 15 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "Loan - Phần 16 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "Loan - Phần 17 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3425,
+    "title" : "Loan - Phần 18 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3861,
+    "title" : "Loan - Phần 19 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4255,
+    "title" : "Loan - Phần 2 - Truyện ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3841,
+    "title" : "Loan - Phần 20 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "Loan - Phần 21 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3937,
+    "title" : "Loan - Phần 22 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3679,
+    "title" : "Loan - Phần 23 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "Loan - Phần 24 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Loan - Phần 25 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3743,
+    "title" : "Loan - Phần 26 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4294,
+    "title" : "Loan - Phần 27 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3872,
+    "title" : "Loan - Phần 28 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Loan - Phần 29 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4288,
+    "title" : "Loan - Phần 3 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Loan - Phần 30 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "Loan - Phần 31 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4156,
+    "title" : "Loan - Phần 32 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Loan - Phần 33 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3139,
+    "title" : "Loan - Phần 34 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3738,
+    "title" : "Loan - Phần 35 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3387,
+    "title" : "Loan - Phần 36 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6048,
+    "title" : "Loan - Phần 37- END- Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4524,
+    "title" : "Loan - Phần 4- Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4208,
+    "title" : "Loan - Phần 5 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4657,
+    "title" : "Loan - Phần 6 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4684,
+    "title" : "Loan - Phần 7 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4868,
+    "title" : "Loan - Phần 8 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khangkieu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4874,
+    "title" : "Loan - Phần 9 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khangkieu/1.mp3",
+    "title" : "Loan - Phần 1 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/10.mp3",
+    "title" : "Loan - Phần 10 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/11.mp3",
+    "title" : "Loan - Phần 11 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/12.mp3",
+    "title" : "Loan - Phần 12 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/13.mp3",
+    "title" : "Loan - Phần 13 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/14.mp3",
+    "title" : "Loan - Phần 14 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/15.mp3",
+    "title" : "Loan - Phần 15 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/16.mp3",
+    "title" : "Loan - Phần 16 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/17.mp3",
+    "title" : "Loan - Phần 17 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/18.mp3",
+    "title" : "Loan - Phần 18 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/19.mp3",
+    "title" : "Loan - Phần 19 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/2.mp3",
+    "title" : "Loan - Phần 2 - Truyện ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/20.mp3",
+    "title" : "Loan - Phần 20 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/21.mp3",
+    "title" : "Loan - Phần 21 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/22.mp3",
+    "title" : "Loan - Phần 22 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/23.mp3",
+    "title" : "Loan - Phần 23 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/24.mp3",
+    "title" : "Loan - Phần 24 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/25.mp3",
+    "title" : "Loan - Phần 25 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/26.mp3",
+    "title" : "Loan - Phần 26 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/27.mp3",
+    "title" : "Loan - Phần 27 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/28.mp3",
+    "title" : "Loan - Phần 28 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/29.mp3",
+    "title" : "Loan - Phần 29 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/3.mp3",
+    "title" : "Loan - Phần 3 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/30.mp3",
+    "title" : "Loan - Phần 30 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/31.mp3",
+    "title" : "Loan - Phần 31 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/32.mp3",
+    "title" : "Loan - Phần 32 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/33.mp3",
+    "title" : "Loan - Phần 33 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/34.mp3",
+    "title" : "Loan - Phần 34 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/35.mp3",
+    "title" : "Loan - Phần 35 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/36.mp3",
+    "title" : "Loan - Phần 36 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/37.mp3",
+    "title" : "Loan - Phần 37- END- Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/4.mp3",
+    "title" : "Loan - Phần 4- Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/5.mp3",
+    "title" : "Loan - Phần 5 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/6.mp3",
+    "title" : "Loan - Phần 6 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/7.mp3",
+    "title" : "Loan - Phần 7 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/8.mp3",
+    "title" : "Loan - Phần 8 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khangkieu/9.mp3",
+    "title" : "Loan - Phần 9 - Truyên ngôn tình chọn lọc hay nhất 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-tren-duong-bang-tony-buoi-sang-tan-van_3150.html",
+    "title" : "Trên Đường Băng - Tony Buổi Sáng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tony Buổi Sáng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23200,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_ae25253312230f48ea5484c082f18ea4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_ae25253312230f48ea5484c082f18ea4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B0%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1809,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[0]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B10%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1723,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[10]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B11%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1949,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[11]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B12%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1478,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[12]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B1%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1864,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[1]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B2%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1750,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[2]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B3%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1767,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[3]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B4%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1769,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[4]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B5%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[5]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B6%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1866,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[6]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B7%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1755,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[7]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B8%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1848,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[8]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B9%5D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[9]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B0%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[0]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B10%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[10]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B11%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[11]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B12%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[12]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B1%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[1]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B2%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[2]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B3%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[3]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B4%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[4]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B5%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[5]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B6%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[6]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B7%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[7]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B8%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[8]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenduongbang_201807/Tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20B%C4%83ng_MP3%20Audio_192%20Kbps%2C%20CD%20Transparent%20Audio%5B9%5D.mp3",
+    "title" : "Trên Đường Băng MP3 Audio 192 Kbps, CD Transparent Audio[9]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

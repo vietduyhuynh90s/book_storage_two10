@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-cua-ta-la-quan-chua_14158.html",
+    "title" : "Vợ Của Ta Là Quận Chúa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hổ Đầu Miêu Diện",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 105799,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_bc8c23f2e9f6260f9fee31a4d33c8461.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_bc8c23f2e9f6260f9fee31a4d33c8461.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2123,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 1_5)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2321,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 66_70)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3089,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 71_75) PHẦN 1||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2085,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 71_75)phần 2||phát hành 3,5,7 ...hàng tuần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2071,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 76_80)PHẦN 1||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2116,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 76_80)phần 2||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4001,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 81_85)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4799,
+    "title" : "H+[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 86_90)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3185,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 91_95)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 96_100)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 101_105)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4645,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 6_20)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2883,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 1_5)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 111_115)||phát hành 3,5,7 hàng tuần!...trả chap t7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2863,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 116_120)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 121_125)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2592,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 126_130)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 131_135)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4109,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 136_140)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3290,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 141_145)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4024,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 146_147)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3154,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 148_150)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5428,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 21_30)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3624,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 151_155)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5843,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 156_159)||KẾT THÚC_HOÀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6876,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 31_40)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2693,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 41_45)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2701,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 46_50)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3013,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 51_55)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3509,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 56_60)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2247,
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 61_65)||phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/1.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 1_5)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/10.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 66_70)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/11.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 71_75) PHẦN 1||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/12.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 71_75)phần 2||phát hành 3,5,7 ...hàng tuần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/13.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 76_80)PHẦN 1||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/14.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 76_80)phần 2||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/15.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 81_85)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/16.mp3",
+    "title" : "H+[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 86_90)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/17.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 91_95)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/18.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 96_100)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/19.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 101_105)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/2.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 6_20)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/20.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 1_5)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/21.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 111_115)||phát hành 3,5,7 hàng tuần!...trả chap t7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/22.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 116_120)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/23.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 121_125)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/24.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 126_130)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/25.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 131_135)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/26.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 136_140)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/27.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 141_145)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/28.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 146_147)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/29.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 148_150)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/3.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 21_30)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/30.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 151_155)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/31.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 156_159)||KẾT THÚC_HOÀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/4.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 31_40)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/5.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 41_45)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/6.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 46_50)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/7.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 51_55)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/8.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 56_60)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cua-ta-la-quan-chua/9.mp3",
+    "title" : "[BÁCH HỢP]VỢ CỦA TA LÀ QUẬN CHÚA(CHAP 61_65)||phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tham-do-chi-tinh-y-dinh-mat-dong_10675.html",
+    "title" : "Thâm Độ Chí Tình - Y Đình Mạt Đồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Y Đình Mạt Đồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 67970,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_bc27379b24e5a725799e2c2e9c76ff8d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_bc27379b24e5a725799e2c2e9c76ff8d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4727,
+    "title" : "5] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5229,
+    "title" : "50] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "54] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4680,
+    "title" : "59] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6903,
+    "title" : "66] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7020,
+    "title" : "3 ] Thâm Độ Chí Tình ( Hoàn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5000,
+    "title" : "10] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5031,
+    "title" : "16] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5125,
+    "title" : "22] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4085,
+    "title" : "27] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "31] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4636,
+    "title" : "36] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3707,
+    "title" : "40] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4421,
+    "title" : "45] Thâm Độ Chí Tình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/1.mp3",
+    "title" : "5] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/10.mp3",
+    "title" : "50] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/11.mp3",
+    "title" : "54] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/12.mp3",
+    "title" : "59] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/13.mp3",
+    "title" : "66] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/14.mp3",
+    "title" : "3 ] Thâm Độ Chí Tình ( Hoàn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/2.mp3",
+    "title" : "10] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/3.mp3",
+    "title" : "16] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/4.mp3",
+    "title" : "22] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/5.mp3",
+    "title" : "27] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/6.mp3",
+    "title" : "31] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/7.mp3",
+    "title" : "36] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/8.mp3",
+    "title" : "40] Thâm Độ Chí Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-do-chi-tinh/9.mp3",
+    "title" : "45] Thâm Độ Chí Tình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

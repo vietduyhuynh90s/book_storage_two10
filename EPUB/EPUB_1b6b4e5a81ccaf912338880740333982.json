@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-yeu-thoi-tho-ta-gabriel-garcia-marquez_10177.html",
+    "title" : "Tình Yêu Thời Thổ Tả - Gabriel García Márquez",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gabriel García Márquez",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 64954,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_1b6b4e5a81ccaf912338880740333982.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_1b6b4e5a81ccaf912338880740333982.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9002,
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8953,
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8788,
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8653,
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9224,
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10050,
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10284,
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/1.mp3",
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/2.mp3",
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/3.mp3",
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/4.mp3",
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/5.mp3",
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/6.mp3",
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinhyeuthoithota_201903/7.mp3",
+    "title" : "Tiểu Thuyết của Gabriel Garcia Marquez | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

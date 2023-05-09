@@ -1,0 +1,4793 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/de-ton-trach-tru_11339.html",
+    "title" : "Đế Tôn - Trạch Trư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trạch Trư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 1305746,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5feefdbc37c7a6cb267d6264d638f791.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5feefdbc37c7a6cb267d6264d638f791.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dt_20190831/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "ĐẾ TÔN #01 :Trong Nhà Có Hồ Ly / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2610,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #10 :Pháp Môn Bay Lượn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #100 :Đại Nghĩa Vì Sinh Linh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #101 :Ứng Tình Hạ Chiến Thiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3044,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #102 :Đại Quyết Chiến Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3245,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #103 :Cứu Binh 10 Phương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2968,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #104 :Họa Diệt Môn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #105 : Đánh Cược Với Thái Hoàng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #106:Dựng Chủ Tinh Mới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #107 :Hàng Phục Vạn Yêu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3064,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #108 :Thiên Thọ Vương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3342,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #109 : Thoát Thai Hoán Cốt/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3404,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #11 :Hỗn Nguyên Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #110 :Thần Kiếm Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3302,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #111 : Tranh Đoạt Thần Kiếm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #112 :Thần Kiếm Về Tay Ai / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #113 :Khởi Hành Tìm Giang Tuyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #114 :Thủ Hộ Thần Bất Đắc Dĩ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #115 :Ngươi Đánh Có Sướng Không? / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #116 :Đến Xuất Vân Thành / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3205,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #117 : Cứu Tam Khuyết Đạo Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #118 :Cú Lừa Ngoạn Mục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #119 :Thánh Quân Động Phủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2593,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #12 :Hai Mũi Tên Khí / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3014,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #120 : Tuyệt Thế Thần Dược / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3448,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #121 :Đế Tôn Chi Mộ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2973,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #122 :Đế Lăng Thần Bí / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #123 :Cuộc Đời Tinh Quang Đại Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #124 :Định Sẵn Âm Mưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2627,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #125 :Khai Lập Phân Đà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 126: Huyền Nữ Băng Cung/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3421,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #127 :Cứu Binh Của Giang Nam / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #128 :Tiến Vào Minh Thổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3019,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #129 : Minh Thổ Thần Đế/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3205,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #13 :Gặp Lại Tuyết Tỷ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2988,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #130 :Tỷ Thí Trên Sông / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #131 :Tam Đồ Hà- Bỉ Ngạn Hoa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3084,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #132 :Vấn An Minh Thổ Thần Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3371,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #133 :Vong Tiên Đài Mở Cửa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3094,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #134 :Trung Trâu Xã Tắc Đồ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3369,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #135 :Câu Trần Thiên Cung/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #136 :Ta Muốn Làm Nữ Ma Đầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #137 : Pháp Bảo Quần Cộc/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 138 :Đến Vọng Tiên Đài / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3004,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #139 :Tiên Thiên Thần Ma / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3062,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #14 :Yêu Vương Ghẹo Gái / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2935,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #140 :Cướp Đoạt Chí Bảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3479,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #141 :Cứu Trước Cướp Sau / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2959,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 142:Ngụy Tiên Thể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3097,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #143 :Giáo Chủ To Gan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #144 :Giáo Chủ Phát Uy / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3091,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #145 :Lạc Ấn Lên Người Tiên Tử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3018,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #146 :Đối Kháng Với Địa Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3495,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #147 :Thí Ngiệm Của Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3175,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #148 :Hóa Thân Thứ 6 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #149 :Đế Sứ Thiên Cơ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3424,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #15 :Quay Về Trung Thổ/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3373,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #150 : Gặp Sâm La Ma Đế/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2964,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #151 :Đạo Kim Ngọc Bàn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3176,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #152 : Thánh Thiên Đại Tôn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3176,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #152 : Thánh Thiên Đại Tôn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3095,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 154:Vĩnh Sinh Thần Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3450,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 155 :Vơ Vét Tài Phú / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3058,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 156:Thần Phục Con Mẹ Ngươi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2902,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 157: Lửa Cháy Đế Lăng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #158 :Giáo Chủ Trở Về / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #159 :Thiên Hạ Đệ Nhất Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3437,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #16 :Dã Cẩu Đạo Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #160 :Hôn Sự Khó Thành / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3164,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #161 :Chiến Thần Điện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #162 :Hồng Mông Tam Thánh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3139,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #163 :Thần Giới Mở Cửa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #164 :Thu Phục Tọa Kỵ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3124,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 165: Cứu Tịch Ứng Tình/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #166 :Vương Giả Trở Về / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3071,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #167 : Lời Thề Lạc Ấn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #168 :Hỏa Vân Chúc Gia / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3518,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #169 :Vật Quy Nguyên Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #17 :Khảo Hạch Môn Sinh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #170 :Bức Tranh Đạo Quả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3295,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #171 :Tiềm Long- Càn Khôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3405,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #172 :Trường Nhạc- VỊ Ương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3136,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #173 :Tiểu Hồ Ly- Đại Hồ Ly-Lão Hồ Ly/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3104,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #174 :Cơ Duyên Đưa Lối / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 175 : Đại Ngũ Hành Phá Diệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3144,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # :176 : Vu Oan Giá Họa/Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3131,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 177 : 3 Ấn Của Hạo Thiếu Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 177 : Giao Dịch Với Nam Hải Tổ Sư/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 179 : Thiên Cung Của Riêng Ta / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3069,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #18 :Sư Phụ Là Nữ Ma Đầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #180 : Thiên Cung Thành Nhất Thể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3157,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 181 :Gặp Lại Tỷ Tỷ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #182: Giáo Chủ Thành Thần / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3501,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 183 :Tử Viên Ma Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2998,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 184 : Bẫy Sâm La Ma Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3183,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 185: Gia Nhập Tổng Cục Dọn Dẹp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #186:Huyền Thiên Kỳ Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #187 : Di Chuyển Môn Phái/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3106,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #188 : Căn Cơ Tiên Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #189 : Đánh Cuộc Với Trường Nhạc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #19 :Ngũ Nhạc Kiếm Khí / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3068,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #190 : Đổ 1 Cái Đấu Lớn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3104,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 191 : Thân Rơi Hiểm Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 192 :Uy Năng Tạo Hóa Tiên Đỉnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 193 : Đuổi Tận Giết Tuyệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3087,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #194 :Giao Dịch Với Quang Vũ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 195 : Tiểu Bối Hạ Sơn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3171,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #196 : Hóa Thân Thứ 5 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3318,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #197 : Ra Cửa Cứu Người / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3475,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #198 : Lâm Vào Trận Địch/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3239,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 199 :Bước Vào Thiên Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #02 :Tỷ Tỷ Là Hôn Thê / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #20 :Tiến Vào Vạn Yêu Cốc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3271,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #200 : Thần Tài Gõ Cửa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #201 : Giáo Chủ Cướp Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3193,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 202 :Cứu Người Vô Tội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 203 : Độc Cô Kiếm Vợ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 204 : Hoang Tổ- Huyền Tổ / Do Mc KHánh Duy diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3219,
+    "title" : "TIÊN HIỆP----ĐẾ TÔN # 205 : Nhiệm Vụ Của Đạo Vương / Do Mc Khánh Duy Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #206 : Tiên Phù Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3485,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # #207 : Sa La -Cái Đầu Heo Này / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3125,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #208 : Trung Thiên Song Kiệt/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #209 :Ngiệp Hỏa Tố Kim Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #21 :Đồ Nhi Tắm Chung Không? / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #210 : Đạo Vương Bạc Tình / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 211 : Huyền Thiên Thành Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 212 : Bảo Khố Của Giang Tuyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #213 : Ta Muốn 8 Đế Duyên/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3137,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #214 :Tiến vào Đế Lăng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3085,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #215 : 7 Đế Lăng Xuất Thế Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 216 : Quang Vũ Đế Duyên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3178,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 217 :Cả Thánh Tông Diễn Kịch / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3173,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 218 : Giang Tuyết Chứng Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #219 :Nợ Tỷ Ta Đã Trả- Vĩnh Biệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3068,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #22 :Tới \"Loạn Không Ma Vực\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #220 : Nữ Đế Tàn Bạo Nhất/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 221 :Một Khúc Nhân Sinh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3523,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 222 : Quang Vũ Cầu Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3176,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 223: Địa Ngục Phát Binh/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #224 : Bộ 3 Phá Hoại Trở Lại / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #225 : Chứng Đạo Chi Bảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3205,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #226 : Găp Lại Chân Pháp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3148,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #227 : Dằn Mặt Vãng Sinh/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3535,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 228 :Tìm Thiên Tâm -Gặp Chúng Sinh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3128,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #229 :Sâm La Lão Ca Ca / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #23 :Gặp Lại Tiểu Muội Giang Lâm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 230 : 3 Ngày Miễn Chiến / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #231: Mưu Kế Của Đạo Vương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #232 : Quang Vũ Kỷ Kiếp Đến/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3178,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #233 : 8 Năm Bế Quan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3622,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #234 : Quang Vũ Chứng Đế/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #235 : Truyền Pháp Chi Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3194,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #236 : Truyền Thừa Tử Tiêu Điện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 237 : 3 Tòa Thần Điện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3161,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #238 : Bất Không Ấn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4635,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #239 : Giáo Chủ Nổi Giận/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2987,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #24 :Sát Nhân Đoạt Bảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3156,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #240 : Trường Nhạc Đền Tội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 241 :Thần Đế-Ma Đế Tụ Tập / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 242 : Để Cho Ta Ăn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3224,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #243 : Tất Cả Đều Vẫn Lạc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3459,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 244 : Bỉ Ngạn- Tiềm Long/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #245 : Chiến Tướng Ứng Long/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3257,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #246 : Huyền Tổ Hiện Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #247 :Bảo Bối Biết Đòi Chia Gia Sản / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3119,
+    "title" : "248",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3188,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #249 : Đại Ma Thần-Thái Tử Huyền / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3489,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #25 :Tương Kế Tựu Kế Giết Chu Dục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3628,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #250 : Đạo Vương Xuất Hiện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3450,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 251 :Nhân Cách Lão Sư / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #252 : Ranh Giới Tiên Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3552,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #253 : Bất Không Đạo Quả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 254: Tiểu Hài Tử Kỳ Lạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3633,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #255 : Hồ Thiên Tiểu Oa Nhi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #256 : Tranh Đoạt Chính Thống/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3166,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 257 :Sư Đệ Của Huyền Đô / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3556,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #258: Thái Hoàng Mưu Kế/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #259 : Giang Nam Chứng Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3249,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #26 :Ta Đánh Cuộc 1 Cái Chân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 260: Tiên Cung Thái Tử/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 261 : Loạn Chư Hoàng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #262 : Hiên Vi Mang Thai / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #263 : Đoạt Truyền Pháp Chi Địa/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3199,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 264 : Kiếp Nạn Của Tam Khuyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3177,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 265: Tương Kế Tựu Kế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #266 : Diệt Sát 2 Mầm Họa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #267 : Một Mẻ Hốt Gọn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 268 : Chứng Hoàng Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 269 : Kiếp Nạn Của Thái Tử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #27 :Quá Khứ Ẩn Giấu Của Sư Phụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 270 : Đối Kháng Tiên Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3253,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 271 : Trảm Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #272 : Bình Định Vũ Trụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3295,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 273 : Kiếp Nạn Của Trấn Thiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3811,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #274 : Thánh Thiên Tử Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3451,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #275 : Phá Hủy Đạo Thống/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 276 : Thần Đạo Sụp Đổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 277 : Trận Chiến Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/278.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #278 : Kiếp Nạn Kết Thúc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/279.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 279 : Tam Biệt Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3439,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #28 :Động Độ Cân Đông Lưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/280.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 280 : Đụng Độ La Ma Và Ôn Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/281.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3439,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 281 : Tiểu Ấu Giao Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/282.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2917,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #282: Chạy Thục Mạng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #283 : Di Tích Tiền Sử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/284.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #284 :Van Chú Đạo Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/285.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3194,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #285 : Tiên Thiên Linh Quang / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/286.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3770,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #286: Dương Danh Tiên Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/287.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3341,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #287 :Cầu Hôn Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/288.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #288 : Đi Tìm Bằng hữu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/289.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #289 : Vào Hang Cọp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #29 :Tinh Thần Của Ma / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/290.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 290 : Tử Tiêu Tiên Vương Thật- Giả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/291.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3317,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #291: Đạo Quả Song Tu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/292.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 292 : Tiến Vào \"Vô Nhân Khu\"/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/293.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3533,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #293 : Tiến Vào Cấm Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/294.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #294 : Nam Quách Tiên Ông / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/295.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3367,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 295 : Mẫu Thần Đạo Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/296.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3423,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #296 : Giáo Chủ Cưỡi Cóc Đại Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/297.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3168,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #297 : Tiên Vương Đến Cướp/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/298.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3699,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #298 : Thành Lập Huyền Châu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/299.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #299 :Cuộc Họp Các Tiên Vương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3304,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #03 :Con Rắn Độc Khổng Lồ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #30 :Lấy Ngũ Hành Luyện Ngũ Tạng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/300.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3520,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #300 : Chuyên Gia Đánh Bạc Đổ Đấu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/301.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3472,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #301:Sự Tình Huyền Nữ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/302.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 302 : \"Cô Em Vợ\" Nóng Bỏng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/303.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3235,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 303: Tỷ..! Mình Song Tu Nhé/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/304.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3724,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #304 : Âm Dương Song Tu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/305.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #305 : Nguồn Gốc Tiểu Ấu Giao / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/306.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3313,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 306 : Đến Nguyên Thủy Chi Địa/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/307.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3541,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #307 : Ma Bệnh Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/308.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #308 : Thất Phách Tinh Anh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/309.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #309 : Trảm Đạo Quả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #31 :Đánh Chết Đạo Đài Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/310.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3283,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #310 : Chiến Long La Phổ Tôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/311.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3123,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #311 : Cướp Tiên Duyên/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/312.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3579,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #312 : Tiên Vương Vẫn Lạc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/313.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #313 : Đột Phá Cưỡng Ép/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/314.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3138,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #314 : Chỉ Là Nước Tắm Của Ta / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/315.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5084,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #315 : Mưu Kế Của Thần Mẫu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/316.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #316 : Hỗn Độc Tổ Thần/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/317.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3140,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #317 : Đánh Bát Tiên Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/318.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3623,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #318 : Đại Đạo Cuối Cùng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/319.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #319 : Vùng Đất Kỳ Dị / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3039,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #32:Lạc Hoa Âm Bá Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/320.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #320 : Trở Lại Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/321.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "321",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/322.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2966,
+    "title" : "322",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/323.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "323",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/324.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3379,
+    "title" : "324",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/325.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2933,
+    "title" : "325",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/326.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "326",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/327.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "327",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/328.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "328",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/329.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3526,
+    "title" : "329",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #33:Vào Thất Bảo Lâm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/330.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3336,
+    "title" : "330",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/331.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "331",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/332.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3297,
+    "title" : "332",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/333.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "333",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/334.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "334",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/335.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "335",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/336.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3413,
+    "title" : "336",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/337.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "337",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/338.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "338",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/339.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "339",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3302,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 34:Cướp Trong Miệng Cọp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/340.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3486,
+    "title" : "340",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/341.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3393,
+    "title" : "341",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/342.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2790,
+    "title" : "342",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/343.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3847,
+    "title" : "343",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/344.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3574,
+    "title" : "344",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/345.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3087,
+    "title" : "345",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/346.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "346",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/347.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3418,
+    "title" : "347",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/348.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2828,
+    "title" : "348",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/349.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "349",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2888,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #35 :Ngươi Ăn Được Thịt Người Không? / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/350.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3179,
+    "title" : "350",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/351.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "351",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/352.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5088,
+    "title" : "352",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/353.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "353",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/354.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3446,
+    "title" : "354",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/355.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "355",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/356.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "356",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/357.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3402,
+    "title" : "357",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/358.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "358",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/359.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3419,
+    "title" : "359",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #36 :Đại Đỉnh Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/360.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "360",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/361.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3372,
+    "title" : "361",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/362.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3741,
+    "title" : "362",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/363.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3265,
+    "title" : "363",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/364.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3465,
+    "title" : "364",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/365.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "365",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/366.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "366",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/367.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "367",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/368.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "368",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/369.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3332,
+    "title" : "369",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3402,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #37 :Kế Sách Ám Toán / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/370.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3292,
+    "title" : "370",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/371.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "371",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/372.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3712,
+    "title" : "372",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/373.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3350,
+    "title" : "373",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/374.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3297,
+    "title" : "374",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/375.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3594,
+    "title" : "375",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/376.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "376",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/377.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3525,
+    "title" : "377",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/378.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "378",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/379.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "379",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2979,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #38 :Thế Cục Trong Tay / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/380.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "380",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/381.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "381",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/382.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3061,
+    "title" : "382",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/383.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3519,
+    "title" : "383",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/384.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3187,
+    "title" : "384",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/385.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3318,
+    "title" : "385",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/386.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "386",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/387.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "387",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/388.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "388",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/389.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "389",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #39 : Thánh Tông Đồng Lòng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/390.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "390",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/391.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3522,
+    "title" : "391",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/392.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3193,
+    "title" : "392",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/393.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3709,
+    "title" : "393",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/394.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "394",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/395.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3808,
+    "title" : "395",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/396.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4344,
+    "title" : "396",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #04 :Trộm Bảo Của Giao Long / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #40 :Gian Nan Đến Nam Hải / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3335,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #41 :Rắc Rối Tại Nam Hải / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2887,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #42 : Vơ Vét Tài Phú/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3507,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #43 :Tin Tức Về Tỷ Tỷ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3011,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #44 :Mở Sát Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #45 :Thánh Tăng Chuyển Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3264,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #46 : Lão Thất Thí Thần Cốc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3009,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #47 :Lọt Vào Đầm Rồng Hang Hổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #48 :Cáo Mượn Oai Hùm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3512,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #49 :Kết Bái Với Ma La Thập / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2746,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #05 :Trộm Của Thông Linh Di Hầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3023,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #50 :Ta Là Người Đọc Sách../ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2979,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #51 :Giết Chết Kim Long / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3624,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #52 :Lưu Vong Đến Minh Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #53 :Máu Nhuộm Minh Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #54 :Đột Phá Trong Sinh Tử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #55 :Thách Thức Kim Ngưu Vương Phủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #56 :Tương Kế Lấy Tài Liệu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #57 :Đằng Sau Âm Mưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3042,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #58 :Bắt Đầu CHân Ma Đại Hội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #59 :Nhị Sư Huynh Đinh Trác/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2931,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #06 :Học Luyện Đan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 60: Tỏa Sáng Trong Đại Hội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3475,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #61 :Thất Đệ! Nhanh Ra Tay... / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3112,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #62 :Vu Oan Giá Họa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3064,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #63 :Long Hổ Phong Vân Bảng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3316,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #64 :Diệt Môn Huyền Thiên Thánh Tông / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #65 :Ba Lần Chết Của Tuyên VÔ Tà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #66 :Chưởng Giáo Tương Lai/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #67:Lấy Top Hổ Bảng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #68 :Sư Huynh Phong Mãn Lâu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #69:Vì Sư Huynh Giải Hận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3543,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #07 :Không Chịu Bị Làm Nhục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #70 :Tu Luyện Trên Mặt Trời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3136,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #71:Thần Minh Chuyển Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2946,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #72 :Thầy Trò Song Tu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3085,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #73 :Sư Tôn Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #74 :Đấu Trí Với Hành Vân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #75 :3 Điều Kiện Thu Đồ Đệ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #76: Đại Hôn Tìm Đến Cửa/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3253,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #77 :Tiến Vào Lãnh Địa \"Thần Khư\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #78 :Bộ Lạc Thiên Ma / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2990,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #79 :Xông Vào Bí Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2833,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #08 :Bắt Ta Quỳ..Thì Thiến Hoang Tử Đi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2957,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #80 :Lọt Vào Tru Thần Đại Trận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3250,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #81 :Pháp Bảo Thần Minh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2974,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #82 :Tru Sát Trong Thần Khư / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2958,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #83: Tông Môn Cùng Luyện Đan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3522,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #84 : Cuộc Phán Xét Xử Tử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2623,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #85 :Con Đường Xương Trắng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #86 :Nguy Cơ Từ Địa Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3384,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #87 :Cướp Tiền,Cướp Bảo,Cướp Đàn Bà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2939,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #88 :Cướp Sạch Thần Điện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3012,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #89 :Đế Chiến Chi Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3259,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #09 :Gặp Lại Giao Long / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3440,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #90 :Oan Gia Ngõ Hẹp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2920,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #91 :Bị Lợi Dụng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3031,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #92 :Tài Phú Ngút Trời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3359,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #93 :Trừng Phạt Hay Trao Thưởng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #94 :Người Giàu Có Nhất / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3164,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #95 :Bí Mật Trung Tâm Mặt Trời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3336,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #96 : Ứng Long Đại Thế Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #97 :Sang Bắt Quàng Làm Họ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3082,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #98 :Nói Phét Như Rồng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3446,
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #99:Điều Bất Ngờ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dt_20190831/1.mp3",
+    "title" : "ĐẾ TÔN #01 :Trong Nhà Có Hồ Ly / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/10.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #10 :Pháp Môn Bay Lượn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/100.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #100 :Đại Nghĩa Vì Sinh Linh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/101.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #101 :Ứng Tình Hạ Chiến Thiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/102.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #102 :Đại Quyết Chiến Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/103.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #103 :Cứu Binh 10 Phương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/104.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #104 :Họa Diệt Môn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/105.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #105 : Đánh Cược Với Thái Hoàng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/106.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #106:Dựng Chủ Tinh Mới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/107.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #107 :Hàng Phục Vạn Yêu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/108.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #108 :Thiên Thọ Vương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/109.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #109 : Thoát Thai Hoán Cốt/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/11.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #11 :Hỗn Nguyên Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/110.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #110 :Thần Kiếm Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/111.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #111 : Tranh Đoạt Thần Kiếm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/112.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #112 :Thần Kiếm Về Tay Ai / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/113.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #113 :Khởi Hành Tìm Giang Tuyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/114.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #114 :Thủ Hộ Thần Bất Đắc Dĩ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/115.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #115 :Ngươi Đánh Có Sướng Không? / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/116.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #116 :Đến Xuất Vân Thành / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/117.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #117 : Cứu Tam Khuyết Đạo Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/118.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #118 :Cú Lừa Ngoạn Mục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/119.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #119 :Thánh Quân Động Phủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/12.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #12 :Hai Mũi Tên Khí / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/120.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #120 : Tuyệt Thế Thần Dược / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/121.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #121 :Đế Tôn Chi Mộ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/122.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #122 :Đế Lăng Thần Bí / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/123.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #123 :Cuộc Đời Tinh Quang Đại Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/124.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #124 :Định Sẵn Âm Mưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/125.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #125 :Khai Lập Phân Đà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/126.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 126: Huyền Nữ Băng Cung/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/127.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #127 :Cứu Binh Của Giang Nam / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/128.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #128 :Tiến Vào Minh Thổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/129.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #129 : Minh Thổ Thần Đế/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/13.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #13 :Gặp Lại Tuyết Tỷ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/130.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #130 :Tỷ Thí Trên Sông / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/131.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #131 :Tam Đồ Hà- Bỉ Ngạn Hoa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/132.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #132 :Vấn An Minh Thổ Thần Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/133.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #133 :Vong Tiên Đài Mở Cửa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/134.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #134 :Trung Trâu Xã Tắc Đồ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/135.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #135 :Câu Trần Thiên Cung/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/136.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #136 :Ta Muốn Làm Nữ Ma Đầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/137.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #137 : Pháp Bảo Quần Cộc/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/138.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 138 :Đến Vọng Tiên Đài / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/139.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #139 :Tiên Thiên Thần Ma / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/14.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #14 :Yêu Vương Ghẹo Gái / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/140.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #140 :Cướp Đoạt Chí Bảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/141.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #141 :Cứu Trước Cướp Sau / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/142.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 142:Ngụy Tiên Thể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/143.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #143 :Giáo Chủ To Gan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/144.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #144 :Giáo Chủ Phát Uy / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/145.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #145 :Lạc Ấn Lên Người Tiên Tử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/146.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #146 :Đối Kháng Với Địa Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/147.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #147 :Thí Ngiệm Của Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/148.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #148 :Hóa Thân Thứ 6 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/149.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #149 :Đế Sứ Thiên Cơ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/15.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #15 :Quay Về Trung Thổ/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/150.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #150 : Gặp Sâm La Ma Đế/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/151.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #151 :Đạo Kim Ngọc Bàn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/152.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #152 : Thánh Thiên Đại Tôn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/153.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #152 : Thánh Thiên Đại Tôn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/154.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 154:Vĩnh Sinh Thần Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/155.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 155 :Vơ Vét Tài Phú / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/156.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 156:Thần Phục Con Mẹ Ngươi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/157.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 157: Lửa Cháy Đế Lăng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/158.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #158 :Giáo Chủ Trở Về / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/159.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #159 :Thiên Hạ Đệ Nhất Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/16.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #16 :Dã Cẩu Đạo Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/160.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #160 :Hôn Sự Khó Thành / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/161.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #161 :Chiến Thần Điện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/162.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #162 :Hồng Mông Tam Thánh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/163.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #163 :Thần Giới Mở Cửa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/164.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #164 :Thu Phục Tọa Kỵ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/165.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 165: Cứu Tịch Ứng Tình/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/166.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #166 :Vương Giả Trở Về / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/167.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #167 : Lời Thề Lạc Ấn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/168.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #168 :Hỏa Vân Chúc Gia / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/169.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #169 :Vật Quy Nguyên Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/17.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #17 :Khảo Hạch Môn Sinh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/170.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #170 :Bức Tranh Đạo Quả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/171.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #171 :Tiềm Long- Càn Khôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/172.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #172 :Trường Nhạc- VỊ Ương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/173.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #173 :Tiểu Hồ Ly- Đại Hồ Ly-Lão Hồ Ly/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/174.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #174 :Cơ Duyên Đưa Lối / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/175.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 175 : Đại Ngũ Hành Phá Diệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/176.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # :176 : Vu Oan Giá Họa/Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/177.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 177 : 3 Ấn Của Hạo Thiếu Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/178.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 177 : Giao Dịch Với Nam Hải Tổ Sư/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/179.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 179 : Thiên Cung Của Riêng Ta / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/18.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #18 :Sư Phụ Là Nữ Ma Đầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/180.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #180 : Thiên Cung Thành Nhất Thể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/181.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 181 :Gặp Lại Tỷ Tỷ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/182.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #182: Giáo Chủ Thành Thần / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/183.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 183 :Tử Viên Ma Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/184.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 184 : Bẫy Sâm La Ma Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/185.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 185: Gia Nhập Tổng Cục Dọn Dẹp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/186.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #186:Huyền Thiên Kỳ Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/187.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #187 : Di Chuyển Môn Phái/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/188.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #188 : Căn Cơ Tiên Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/189.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #189 : Đánh Cuộc Với Trường Nhạc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/19.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #19 :Ngũ Nhạc Kiếm Khí / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/190.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #190 : Đổ 1 Cái Đấu Lớn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/191.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 191 : Thân Rơi Hiểm Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/192.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 192 :Uy Năng Tạo Hóa Tiên Đỉnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/193.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 193 : Đuổi Tận Giết Tuyệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/194.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #194 :Giao Dịch Với Quang Vũ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/195.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 195 : Tiểu Bối Hạ Sơn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/196.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #196 : Hóa Thân Thứ 5 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/197.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #197 : Ra Cửa Cứu Người / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/198.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #198 : Lâm Vào Trận Địch/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/199.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 199 :Bước Vào Thiên Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/2.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #02 :Tỷ Tỷ Là Hôn Thê / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/20.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #20 :Tiến Vào Vạn Yêu Cốc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/200.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #200 : Thần Tài Gõ Cửa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/201.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #201 : Giáo Chủ Cướp Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/202.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 202 :Cứu Người Vô Tội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/203.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 203 : Độc Cô Kiếm Vợ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/204.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 204 : Hoang Tổ- Huyền Tổ / Do Mc KHánh Duy diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/205.mp3",
+    "title" : "TIÊN HIỆP----ĐẾ TÔN # 205 : Nhiệm Vụ Của Đạo Vương / Do Mc Khánh Duy Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/206.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #206 : Tiên Phù Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/207.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # #207 : Sa La -Cái Đầu Heo Này / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/208.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #208 : Trung Thiên Song Kiệt/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/209.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #209 :Ngiệp Hỏa Tố Kim Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/21.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #21 :Đồ Nhi Tắm Chung Không? / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/210.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #210 : Đạo Vương Bạc Tình / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/211.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 211 : Huyền Thiên Thành Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/212.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 212 : Bảo Khố Của Giang Tuyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/213.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #213 : Ta Muốn 8 Đế Duyên/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/214.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #214 :Tiến vào Đế Lăng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/215.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #215 : 7 Đế Lăng Xuất Thế Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/216.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 216 : Quang Vũ Đế Duyên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/217.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 217 :Cả Thánh Tông Diễn Kịch / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/218.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 218 : Giang Tuyết Chứng Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/219.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #219 :Nợ Tỷ Ta Đã Trả- Vĩnh Biệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/22.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #22 :Tới \"Loạn Không Ma Vực\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/220.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #220 : Nữ Đế Tàn Bạo Nhất/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/221.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 221 :Một Khúc Nhân Sinh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/222.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 222 : Quang Vũ Cầu Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/223.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 223: Địa Ngục Phát Binh/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/224.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #224 : Bộ 3 Phá Hoại Trở Lại / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/225.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #225 : Chứng Đạo Chi Bảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/226.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #226 : Găp Lại Chân Pháp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/227.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #227 : Dằn Mặt Vãng Sinh/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/228.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 228 :Tìm Thiên Tâm -Gặp Chúng Sinh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/229.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #229 :Sâm La Lão Ca Ca / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/23.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #23 :Gặp Lại Tiểu Muội Giang Lâm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/230.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 230 : 3 Ngày Miễn Chiến / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/231.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #231: Mưu Kế Của Đạo Vương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/232.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #232 : Quang Vũ Kỷ Kiếp Đến/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/233.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #233 : 8 Năm Bế Quan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/234.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #234 : Quang Vũ Chứng Đế/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/235.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #235 : Truyền Pháp Chi Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/236.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #236 : Truyền Thừa Tử Tiêu Điện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/237.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 237 : 3 Tòa Thần Điện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/238.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #238 : Bất Không Ấn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/239.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #239 : Giáo Chủ Nổi Giận/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/24.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #24 :Sát Nhân Đoạt Bảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/240.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #240 : Trường Nhạc Đền Tội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/241.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 241 :Thần Đế-Ma Đế Tụ Tập / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/242.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 242 : Để Cho Ta Ăn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/243.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #243 : Tất Cả Đều Vẫn Lạc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/244.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 244 : Bỉ Ngạn- Tiềm Long/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/245.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #245 : Chiến Tướng Ứng Long/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/246.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #246 : Huyền Tổ Hiện Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/247.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #247 :Bảo Bối Biết Đòi Chia Gia Sản / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/248.mp3",
+    "title" : "248",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/249.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #249 : Đại Ma Thần-Thái Tử Huyền / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/25.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #25 :Tương Kế Tựu Kế Giết Chu Dục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/250.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #250 : Đạo Vương Xuất Hiện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/251.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 251 :Nhân Cách Lão Sư / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/252.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #252 : Ranh Giới Tiên Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/253.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #253 : Bất Không Đạo Quả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/254.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 254: Tiểu Hài Tử Kỳ Lạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/255.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #255 : Hồ Thiên Tiểu Oa Nhi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/256.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #256 : Tranh Đoạt Chính Thống/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/257.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 257 :Sư Đệ Của Huyền Đô / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/258.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #258: Thái Hoàng Mưu Kế/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/259.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #259 : Giang Nam Chứng Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/26.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #26 :Ta Đánh Cuộc 1 Cái Chân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/260.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 260: Tiên Cung Thái Tử/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/261.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 261 : Loạn Chư Hoàng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/262.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #262 : Hiên Vi Mang Thai / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/263.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #263 : Đoạt Truyền Pháp Chi Địa/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/264.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 264 : Kiếp Nạn Của Tam Khuyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/265.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 265: Tương Kế Tựu Kế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/266.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #266 : Diệt Sát 2 Mầm Họa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/267.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #267 : Một Mẻ Hốt Gọn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/268.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 268 : Chứng Hoàng Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/269.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 269 : Kiếp Nạn Của Thái Tử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/27.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #27 :Quá Khứ Ẩn Giấu Của Sư Phụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/270.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 270 : Đối Kháng Tiên Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/271.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 271 : Trảm Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/272.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #272 : Bình Định Vũ Trụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/273.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 273 : Kiếp Nạn Của Trấn Thiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/274.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #274 : Thánh Thiên Tử Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/275.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #275 : Phá Hủy Đạo Thống/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/276.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 276 : Thần Đạo Sụp Đổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/277.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 277 : Trận Chiến Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/278.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #278 : Kiếp Nạn Kết Thúc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/279.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 279 : Tam Biệt Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/28.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #28 :Động Độ Cân Đông Lưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/280.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 280 : Đụng Độ La Ma Và Ôn Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/281.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 281 : Tiểu Ấu Giao Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/282.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #282: Chạy Thục Mạng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/283.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #283 : Di Tích Tiền Sử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/284.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #284 :Van Chú Đạo Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/285.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #285 : Tiên Thiên Linh Quang / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/286.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #286: Dương Danh Tiên Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/287.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #287 :Cầu Hôn Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/288.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #288 : Đi Tìm Bằng hữu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/289.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #289 : Vào Hang Cọp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/29.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #29 :Tinh Thần Của Ma / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/290.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 290 : Tử Tiêu Tiên Vương Thật- Giả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/291.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #291: Đạo Quả Song Tu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/292.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 292 : Tiến Vào \"Vô Nhân Khu\"/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/293.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #293 : Tiến Vào Cấm Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/294.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #294 : Nam Quách Tiên Ông / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/295.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 295 : Mẫu Thần Đạo Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/296.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #296 : Giáo Chủ Cưỡi Cóc Đại Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/297.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #297 : Tiên Vương Đến Cướp/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/298.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #298 : Thành Lập Huyền Châu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/299.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #299 :Cuộc Họp Các Tiên Vương / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/3.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #03 :Con Rắn Độc Khổng Lồ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/30.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #30 :Lấy Ngũ Hành Luyện Ngũ Tạng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/300.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #300 : Chuyên Gia Đánh Bạc Đổ Đấu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/301.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #301:Sự Tình Huyền Nữ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/302.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 302 : \"Cô Em Vợ\" Nóng Bỏng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/303.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 303: Tỷ..! Mình Song Tu Nhé/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/304.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #304 : Âm Dương Song Tu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/305.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #305 : Nguồn Gốc Tiểu Ấu Giao / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/306.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 306 : Đến Nguyên Thủy Chi Địa/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/307.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #307 : Ma Bệnh Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/308.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #308 : Thất Phách Tinh Anh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/309.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #309 : Trảm Đạo Quả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/31.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #31 :Đánh Chết Đạo Đài Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/310.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #310 : Chiến Long La Phổ Tôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/311.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #311 : Cướp Tiên Duyên/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/312.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #312 : Tiên Vương Vẫn Lạc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/313.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #313 : Đột Phá Cưỡng Ép/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/314.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #314 : Chỉ Là Nước Tắm Của Ta / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/315.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #315 : Mưu Kế Của Thần Mẫu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/316.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #316 : Hỗn Độc Tổ Thần/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/317.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #317 : Đánh Bát Tiên Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/318.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #318 : Đại Đạo Cuối Cùng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/319.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #319 : Vùng Đất Kỳ Dị / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/32.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #32:Lạc Hoa Âm Bá Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/320.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #320 : Trở Lại Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/321.mp3",
+    "title" : "321",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/322.mp3",
+    "title" : "322",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/323.mp3",
+    "title" : "323",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/324.mp3",
+    "title" : "324",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/325.mp3",
+    "title" : "325",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/326.mp3",
+    "title" : "326",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/327.mp3",
+    "title" : "327",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/328.mp3",
+    "title" : "328",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/329.mp3",
+    "title" : "329",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/33.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #33:Vào Thất Bảo Lâm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/330.mp3",
+    "title" : "330",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/331.mp3",
+    "title" : "331",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/332.mp3",
+    "title" : "332",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/333.mp3",
+    "title" : "333",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/334.mp3",
+    "title" : "334",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/335.mp3",
+    "title" : "335",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/336.mp3",
+    "title" : "336",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/337.mp3",
+    "title" : "337",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/338.mp3",
+    "title" : "338",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/339.mp3",
+    "title" : "339",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/34.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 34:Cướp Trong Miệng Cọp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/340.mp3",
+    "title" : "340",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/341.mp3",
+    "title" : "341",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/342.mp3",
+    "title" : "342",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/343.mp3",
+    "title" : "343",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/344.mp3",
+    "title" : "344",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/345.mp3",
+    "title" : "345",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/346.mp3",
+    "title" : "346",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/347.mp3",
+    "title" : "347",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/348.mp3",
+    "title" : "348",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/349.mp3",
+    "title" : "349",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/35.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #35 :Ngươi Ăn Được Thịt Người Không? / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/350.mp3",
+    "title" : "350",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/351.mp3",
+    "title" : "351",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/352.mp3",
+    "title" : "352",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/353.mp3",
+    "title" : "353",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/354.mp3",
+    "title" : "354",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/355.mp3",
+    "title" : "355",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/356.mp3",
+    "title" : "356",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/357.mp3",
+    "title" : "357",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/358.mp3",
+    "title" : "358",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/359.mp3",
+    "title" : "359",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/36.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #36 :Đại Đỉnh Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/360.mp3",
+    "title" : "360",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/361.mp3",
+    "title" : "361",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/362.mp3",
+    "title" : "362",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/363.mp3",
+    "title" : "363",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/364.mp3",
+    "title" : "364",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/365.mp3",
+    "title" : "365",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/366.mp3",
+    "title" : "366",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/367.mp3",
+    "title" : "367",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/368.mp3",
+    "title" : "368",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/369.mp3",
+    "title" : "369",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/37.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #37 :Kế Sách Ám Toán / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/370.mp3",
+    "title" : "370",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/371.mp3",
+    "title" : "371",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/372.mp3",
+    "title" : "372",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/373.mp3",
+    "title" : "373",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/374.mp3",
+    "title" : "374",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/375.mp3",
+    "title" : "375",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/376.mp3",
+    "title" : "376",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/377.mp3",
+    "title" : "377",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/378.mp3",
+    "title" : "378",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/379.mp3",
+    "title" : "379",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/38.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #38 :Thế Cục Trong Tay / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/380.mp3",
+    "title" : "380",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/381.mp3",
+    "title" : "381",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/382.mp3",
+    "title" : "382",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/383.mp3",
+    "title" : "383",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/384.mp3",
+    "title" : "384",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/385.mp3",
+    "title" : "385",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/386.mp3",
+    "title" : "386",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/387.mp3",
+    "title" : "387",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/388.mp3",
+    "title" : "388",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/389.mp3",
+    "title" : "389",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/39.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #39 : Thánh Tông Đồng Lòng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/390.mp3",
+    "title" : "390",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/391.mp3",
+    "title" : "391",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/392.mp3",
+    "title" : "392",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/393.mp3",
+    "title" : "393",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/394.mp3",
+    "title" : "394",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/395.mp3",
+    "title" : "395",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/396.mp3",
+    "title" : "396",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/4.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #04 :Trộm Bảo Của Giao Long / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/40.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #40 :Gian Nan Đến Nam Hải / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/41.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #41 :Rắc Rối Tại Nam Hải / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/42.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #42 : Vơ Vét Tài Phú/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/43.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #43 :Tin Tức Về Tỷ Tỷ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/44.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #44 :Mở Sát Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/45.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #45 :Thánh Tăng Chuyển Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/46.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #46 : Lão Thất Thí Thần Cốc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/47.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #47 :Lọt Vào Đầm Rồng Hang Hổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/48.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #48 :Cáo Mượn Oai Hùm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/49.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #49 :Kết Bái Với Ma La Thập / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/5.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #05 :Trộm Của Thông Linh Di Hầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/50.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #50 :Ta Là Người Đọc Sách../ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/51.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #51 :Giết Chết Kim Long / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/52.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #52 :Lưu Vong Đến Minh Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/53.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #53 :Máu Nhuộm Minh Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/54.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #54 :Đột Phá Trong Sinh Tử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/55.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #55 :Thách Thức Kim Ngưu Vương Phủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/56.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #56 :Tương Kế Lấy Tài Liệu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/57.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #57 :Đằng Sau Âm Mưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/58.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #58 :Bắt Đầu CHân Ma Đại Hội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/59.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #59 :Nhị Sư Huynh Đinh Trác/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/6.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #06 :Học Luyện Đan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/60.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN # 60: Tỏa Sáng Trong Đại Hội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/61.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #61 :Thất Đệ! Nhanh Ra Tay... / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/62.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #62 :Vu Oan Giá Họa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/63.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #63 :Long Hổ Phong Vân Bảng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/64.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #64 :Diệt Môn Huyền Thiên Thánh Tông / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/65.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #65 :Ba Lần Chết Của Tuyên VÔ Tà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/66.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #66 :Chưởng Giáo Tương Lai/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/67.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #67:Lấy Top Hổ Bảng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/68.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #68 :Sư Huynh Phong Mãn Lâu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/69.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #69:Vì Sư Huynh Giải Hận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/7.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #07 :Không Chịu Bị Làm Nhục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/70.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #70 :Tu Luyện Trên Mặt Trời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/71.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #71:Thần Minh Chuyển Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/72.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #72 :Thầy Trò Song Tu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/73.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #73 :Sư Tôn Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/74.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #74 :Đấu Trí Với Hành Vân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/75.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #75 :3 Điều Kiện Thu Đồ Đệ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/76.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #76: Đại Hôn Tìm Đến Cửa/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/77.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #77 :Tiến Vào Lãnh Địa \"Thần Khư\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/78.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #78 :Bộ Lạc Thiên Ma / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/79.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #79 :Xông Vào Bí Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/8.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #08 :Bắt Ta Quỳ..Thì Thiến Hoang Tử Đi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/80.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #80 :Lọt Vào Tru Thần Đại Trận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/81.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #81 :Pháp Bảo Thần Minh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/82.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #82 :Tru Sát Trong Thần Khư / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/83.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #83: Tông Môn Cùng Luyện Đan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/84.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #84 : Cuộc Phán Xét Xử Tử / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/85.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #85 :Con Đường Xương Trắng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/86.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #86 :Nguy Cơ Từ Địa Ngục / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/87.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #87 :Cướp Tiền,Cướp Bảo,Cướp Đàn Bà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/88.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #88 :Cướp Sạch Thần Điện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/89.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #89 :Đế Chiến Chi Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/9.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #09 :Gặp Lại Giao Long / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/90.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #90 :Oan Gia Ngõ Hẹp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/91.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #91 :Bị Lợi Dụng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/92.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #92 :Tài Phú Ngút Trời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/93.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #93 :Trừng Phạt Hay Trao Thưởng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/94.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #94 :Người Giàu Có Nhất / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/95.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #95 :Bí Mật Trung Tâm Mặt Trời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/96.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #96 : Ứng Long Đại Thế Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/97.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #97 :Sang Bắt Quàng Làm Họ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/98.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #98 :Nói Phét Như Rồng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dt_20190831/99.mp3",
+    "title" : "TIÊN HIỆP-- ĐẾ TÔN #99:Điều Bất Ngờ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

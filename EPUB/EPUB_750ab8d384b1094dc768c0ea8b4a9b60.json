@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cong-chua-cau-than-tien-chanh_10278.html",
+    "title" : "Công Chúa Cầu Thân - Tiên Chanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tiên Chanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 74167,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_750ab8d384b1094dc768c0ea8b4a9b60.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_750ab8d384b1094dc768c0ea8b4a9b60.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cong-chua-cau-than/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7075,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh (Tổng hợp từ tập 1-4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7653,
+    "title" : "Công Chúa Cầu Thân – Ngoại Truyện 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8482,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngoại truyện phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5016,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5215,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5341,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7224,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6820,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6928,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8040,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6373,
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cong-chua-cau-than/1.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh (Tổng hợp từ tập 1-4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/10.mp3",
+    "title" : "Công Chúa Cầu Thân – Ngoại Truyện 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/11.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngoại truyện phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/2.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/3.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/4.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/5.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/6.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/7.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/8.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-cau-than/9.mp3",
+    "title" : "Công Chúa Cầu Thân – Tiên Chanh – Ngôn Tình Xuyên Không – P12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xay-dung-nhom-va-lam-viec-hieu-qua_12198.html",
+    "title" : "Xây Dựng Nhóm Và Làm Việc Hiệu Quả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ken Blanchard",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7491,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_c7786373aa02fce8ffa12c7d00a21cd4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_c7786373aa02fce8ffa12c7d00a21cd4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 239,
+    "title" : "01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 665,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 504,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 433,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 905,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 351,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 323,
+    "title" : "02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 309,
+    "title" : "04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 355,
+    "title" : "05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 589,
+    "title" : "06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 707,
+    "title" : "08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 683,
+    "title" : "09",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/1.mp3",
+    "title" : "01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/2.mp3",
+    "title" : "02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/3.mp3",
+    "title" : "03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/4.mp3",
+    "title" : "04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/5.mp3",
+    "title" : "05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/6.mp3",
+    "title" : "06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/7.mp3",
+    "title" : "07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/8.mp3",
+    "title" : "08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-xay-dung-nhom-va-lam-viec-hieu-qua/9.mp3",
+    "title" : "09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

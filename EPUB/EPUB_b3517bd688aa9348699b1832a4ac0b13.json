@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-gac-dem_14562.html",
+    "title" : "Người Gác Đêm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tần Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 53738,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b3517bd688aa9348699b1832a4ac0b13.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b3517bd688aa9348699b1832a4ac0b13.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-gac-dem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2340,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2514,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2515,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2059,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2297,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2559,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2515,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2264,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2570,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2572,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 2 (bản chuẩn )",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2127,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2644,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 22 (kết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2492,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2548,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2487,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-gac-dem/1.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/10.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/11.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/12.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/13.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/14.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/15.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/16.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/17.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/18.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/19.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/2.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 2 (bản chuẩn )",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/20.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/21.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/22.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 22 (kết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/3.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/4.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/5.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/6.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/7.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/8.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-gac-dem/9.mp3",
+    "title" : "Người Gác Đêm - TG : Pháy Y Tần Minh - Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-yeu-cu-thu-108_15496.html",
+    "title" : "Người Yêu Cũ Thứ 108",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kiều Ngọc Liên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19122,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_6d81bd138ed24f6aca237c5d8c04e1a8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_6d81bd138ed24f6aca237c5d8c04e1a8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3246,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "Tập 3] Người yêu cũ thứ 108 - Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "Tập 4] Người yêu cũ thứ 108 - Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3177,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "Kết] Người yêu cũ thứ 108 - Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/1.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/2.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/3.mp3",
+    "title" : "Tập 3] Người yêu cũ thứ 108 - Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/4.mp3",
+    "title" : "Tập 4] Người yêu cũ thứ 108 - Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/5.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-yeu-cu-thu-108_202009/6.mp3",
+    "title" : "Kết] Người yêu cũ thứ 108 - Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

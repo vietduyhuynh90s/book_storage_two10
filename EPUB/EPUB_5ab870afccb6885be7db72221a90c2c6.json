@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huyen-lenh-rat-ban_15700.html",
+    "title" : "Huyện Lệnh Rất Bận!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tế Dương Phi Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 76022,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5ab870afccb6885be7db72221a90c2c6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5ab870afccb6885be7db72221a90c2c6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "Chương 1: Buổi lễ tốt nghiệp bi thảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "[BHTT] Huyện lệnh rất bận! I Chương 24 đến 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "Chương 29__32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3090,
+    "title" : "Chương 33__36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4265,
+    "title" : "Chương 37__41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "Chương 42__44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1944,
+    "title" : "Chương 45__46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "Chương 47__50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2497,
+    "title" : "Chương 51_52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "Chương 53(H)__55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "Chương 56__58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 620,
+    "title" : "Chương 2: Uống rượu gây họa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2171,
+    "title" : "Chương 59__61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2956,
+    "title" : "Chương 62__64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "Chương 65__67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "Chương 68__70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1554,
+    "title" : "Chương 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2840,
+    "title" : "Chương 72__74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "Chương 75__78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1145,
+    "title" : "Chương 79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4764,
+    "title" : "Chương 80 đến 86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1554,
+    "title" : "Chương 87 (Ngoại Truyện Hoàn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 579,
+    "title" : "Chương 3: Đền tiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 909,
+    "title" : "Chương 4: Thủ phạm thật sự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "Chương 5,6,7,8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4185,
+    "title" : "Chương 9,10,11,12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2923,
+    "title" : "Chương 13 _ 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "Chương 17_20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "Chương 21_24",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/1.mp3",
+    "title" : "Chương 1: Buổi lễ tốt nghiệp bi thảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/10.mp3",
+    "title" : "[BHTT] Huyện lệnh rất bận! I Chương 24 đến 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/11.mp3",
+    "title" : "Chương 29__32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/12.mp3",
+    "title" : "Chương 33__36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/13.mp3",
+    "title" : "Chương 37__41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/14.mp3",
+    "title" : "Chương 42__44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/15.mp3",
+    "title" : "Chương 45__46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/16.mp3",
+    "title" : "Chương 47__50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/17.mp3",
+    "title" : "Chương 51_52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/18.mp3",
+    "title" : "Chương 53(H)__55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/19.mp3",
+    "title" : "Chương 56__58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/2.mp3",
+    "title" : "Chương 2: Uống rượu gây họa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/20.mp3",
+    "title" : "Chương 59__61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/21.mp3",
+    "title" : "Chương 62__64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/22.mp3",
+    "title" : "Chương 65__67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/23.mp3",
+    "title" : "Chương 68__70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/24.mp3",
+    "title" : "Chương 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/25.mp3",
+    "title" : "Chương 72__74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/26.mp3",
+    "title" : "Chương 75__78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/27.mp3",
+    "title" : "Chương 79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/28.mp3",
+    "title" : "Chương 80 đến 86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/29.mp3",
+    "title" : "Chương 87 (Ngoại Truyện Hoàn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/3.mp3",
+    "title" : "Chương 3: Đền tiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/4.mp3",
+    "title" : "Chương 4: Thủ phạm thật sự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/5.mp3",
+    "title" : "Chương 5,6,7,8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/6.mp3",
+    "title" : "Chương 9,10,11,12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/7.mp3",
+    "title" : "Chương 13 _ 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/8.mp3",
+    "title" : "Chương 17_20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-lenh-rat-ban/9.mp3",
+    "title" : "Chương 21_24",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

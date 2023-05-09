@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duoi-tinh-yeu-di-han-han-huong-vinh_10716.html",
+    "title" : "Đuổi Tình Yêu Đi - Hân Hân Hướng Vinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hân Hân Hướng Vinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51317,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_c4a5de9277cc593a9000177557fa7a0b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_c4a5de9277cc593a9000177557fa7a0b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6181,
+    "title" : "ĐUỔI TÌNH YÊU ĐI –P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7020,
+    "title" : "ĐUỔI TÌNH YÊU ĐI –P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6316,
+    "title" : "Ngôn tình hay Chọn Lọc 2018-ĐUỔI TÌNH YÊU ĐI –P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6777,
+    "title" : "Ngôn tình hay Chọn Lọc 2018-ĐUỔI TÌNH YÊU ĐI –P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6200,
+    "title" : "ĐUỔI TÌNH YÊU ĐI –P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6820,
+    "title" : "ĐUỔI TÌNH YÊU ĐI –P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12003,
+    "title" : "Ngôn tình hay Chọn Lọc 2018- ĐUỔI TÌNH YÊU ĐI –P7 Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/1.mp3",
+    "title" : "ĐUỔI TÌNH YÊU ĐI –P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/2.mp3",
+    "title" : "ĐUỔI TÌNH YÊU ĐI –P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/3.mp3",
+    "title" : "Ngôn tình hay Chọn Lọc 2018-ĐUỔI TÌNH YÊU ĐI –P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/4.mp3",
+    "title" : "Ngôn tình hay Chọn Lọc 2018-ĐUỔI TÌNH YÊU ĐI –P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/5.mp3",
+    "title" : "ĐUỔI TÌNH YÊU ĐI –P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/6.mp3",
+    "title" : "ĐUỔI TÌNH YÊU ĐI –P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoi-tinh-yeu-di/7.mp3",
+    "title" : "Ngôn tình hay Chọn Lọc 2018- ĐUỔI TÌNH YÊU ĐI –P7 Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

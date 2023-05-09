@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mui-tu-khi_16067.html",
+    "title" : "Mùi Tử Khí",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thành Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19026,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b85616566f44da13ab24738facc45455.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b85616566f44da13ab24738facc45455.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "Truyện Ma Mới Có Thật Rợn Hơn Phim Khi Nghe MC Ngọc Lâm Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3962,
+    "title" : "Truyện Ma Mới Có Thật Rợn Hơn Phim Khi Nghe MC Ngọc Lâm Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3712,
+    "title" : "Truyện Ma Mới Có Thật Rợn Hơn Phim Khi Nghe MC Ngọc Lâm Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3899,
+    "title" : "Truyện Ma Mới Có Thật Rợn Hơn Phim Khi Nghe MC Ngọc Lâm Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "Truyện Ma Mới Có Thật MC Ngọc Lâm Kể Sợ Lạnh Người",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/1.mp3",
+    "title" : "Truyện Ma Mới Có Thật Rợn Hơn Phim Khi Nghe MC Ngọc Lâm Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/2.mp3",
+    "title" : "Truyện Ma Mới Có Thật Rợn Hơn Phim Khi Nghe MC Ngọc Lâm Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/3.mp3",
+    "title" : "Truyện Ma Mới Có Thật Rợn Hơn Phim Khi Nghe MC Ngọc Lâm Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/4.mp3",
+    "title" : "Truyện Ma Mới Có Thật Rợn Hơn Phim Khi Nghe MC Ngọc Lâm Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mui-tu-khi_202101/5.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Ngọc Lâm Kể Sợ Lạnh Người",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

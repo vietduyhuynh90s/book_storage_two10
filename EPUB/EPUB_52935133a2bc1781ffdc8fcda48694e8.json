@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thanh-xuan-anh-tung-yeu-em_15147.html",
+    "title" : "Thanh Xuân Anh Từng Yêu Em",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Vô Ưu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 39971,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_52935133a2bc1781ffdc8fcda48694e8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_52935133a2bc1781ffdc8fcda48694e8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4234,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3522,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3669,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/1.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/10.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/11.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/2.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/3.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/4.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/5.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/6.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/7.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/8.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-xuan-anh-tung-yeu-em/9.mp3",
+    "title" : "ngược HE | Xóm Ngôn Tình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

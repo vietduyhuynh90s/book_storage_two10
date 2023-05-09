@@ -1,0 +1,3701 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quy-bi-chi-chu_12859.html",
+    "title" : "Quỷ Bí Chi Chủ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mực Thích Lặn Nước",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 1146542,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0ef1509ceeefac88456c2a7f04f83dbb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0ef1509ceeefac88456c2a7f04f83dbb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3599,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 1 - Xuyên Không | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "Phá Án | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3222,
+    "title" : "Tập 101 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị - MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Tập 102 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị - MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3337,
+    "title" : "MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3773,
+    "title" : "MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3997,
+    "title" : "MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2392,
+    "title" : "MC Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 11- Bói Gương Ma | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3156,
+    "title" : "Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3716,
+    "title" : "Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3072,
+    "title" : "Tập 113 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3265,
+    "title" : "Tập 113 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4019,
+    "title" : "Tập 113 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4800,
+    "title" : "Tập 116 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2503,
+    "title" : "Tập 116 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3177,
+    "title" : "Tập 118 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "Tập 119 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5223,
+    "title" : "Tập 120 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2835,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 12 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4679,
+    "title" : "Tập 121 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5515,
+    "title" : "Tập 122 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4077,
+    "title" : "Tập 123 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4181,
+    "title" : "Tập 124 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4096,
+    "title" : "Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5389,
+    "title" : "Tập 126 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4046,
+    "title" : "Tập 127 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4649,
+    "title" : "Tập 123 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "Tập 129 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4631,
+    "title" : "Tập 130 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3444,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 13 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4591,
+    "title" : "Tập 131 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "Tập 132 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3389,
+    "title" : "Tập 133 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3919,
+    "title" : "Tập 134 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "Tập 135 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3436,
+    "title" : "Tập 136 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3860,
+    "title" : "Tập 137 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "Tập 138 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4273,
+    "title" : "Tập 139 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7142,
+    "title" : "Tập 140 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 14 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7651,
+    "title" : "Tập 141 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6875,
+    "title" : "Tập 142 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7983,
+    "title" : "Tập 143 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7765,
+    "title" : "Tập 144 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8591,
+    "title" : "Tập 145 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4926,
+    "title" : "Tập 146 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8452,
+    "title" : "Tập 147 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7934,
+    "title" : "Tập 148 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7165,
+    "title" : "Tập 149 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7294,
+    "title" : "Tập 150 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "Ma Nữ | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7663,
+    "title" : "Tập 151 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8053,
+    "title" : "Tập 152 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7793,
+    "title" : "Tập 153 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8061,
+    "title" : "Tập 154 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8405,
+    "title" : "Tập 155 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7934,
+    "title" : "Tập 156 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6375,
+    "title" : "Tập 157 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "Tập 158 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6419,
+    "title" : "Tập 159 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6527,
+    "title" : "Tập 160 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4057,
+    "title" : "Vật Phong Ấn 2-049 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5165,
+    "title" : "Tập 161 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Tập 162 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7623,
+    "title" : "Tập 163 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4392,
+    "title" : "Tập 164 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3952,
+    "title" : "Tập 165 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "Tập 166 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Tập 167 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "Tập 168 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "Tập 169 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5351,
+    "title" : "Tập 170 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 17 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3769,
+    "title" : "Tập 171 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "Tập 172 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3352,
+    "title" : "Tập 173 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5989,
+    "title" : "Tập 174 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "Tập 175 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "Tập 176 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "Tập 177 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "Tập 178 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6161,
+    "title" : "Tập 179 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3246,
+    "title" : "Tập 180 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3317,
+    "title" : "Gia Nhập Kẻ Gác Đêm | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3342,
+    "title" : "Tập 181 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5466,
+    "title" : "Tập 182 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4049,
+    "title" : "Tập 183 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3967,
+    "title" : "Con Rối Mới- Tập 184 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "Tập 185 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "Tập 186 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3734,
+    "title" : "Thợ Thủ Công- Tập 187 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5641,
+    "title" : "Tập 188 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "Tập 189 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3958,
+    "title" : "Tập 190 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4059,
+    "title" : "Ma Kính | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4999,
+    "title" : "Tập 191 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "Tập 192 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "Tập 193 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5763,
+    "title" : "193",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Tập 195 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "Tập 196 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4585,
+    "title" : "Tập 197 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "Tập 198 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3755,
+    "title" : "Tập 199 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5437,
+    "title" : "Tập 200 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3682,
+    "title" : "Người Phi Phàm | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4375,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 20 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "Tập 201 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3009,
+    "title" : "Tập 202 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3811,
+    "title" : "Tập 203 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "Tập 204 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3089,
+    "title" : "Tập 205 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3156,
+    "title" : "Tập 206 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "Tập 207 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3311,
+    "title" : "Tập 208 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "Tập 209 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4693,
+    "title" : "Tập 210 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3504,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 21 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2308,
+    "title" : "Tập 211 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3950,
+    "title" : "Tập 212 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "Tập 213 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3775,
+    "title" : "Tập 214 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4010,
+    "title" : "Tập 215 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "Tập 216 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "Tập 217 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "Tập 218 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3743,
+    "title" : "Tập 219 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4077,
+    "title" : "Tập 220 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 23 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3883,
+    "title" : "Tập 221 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3766,
+    "title" : "Tập 222 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4446,
+    "title" : "Tập 223 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "Tập 224 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3876,
+    "title" : "Tập 225 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3334,
+    "title" : "Tập 226 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3147,
+    "title" : "Tập 227 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Tập 228 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Tập 229 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3126,
+    "title" : "Tập 230 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3425,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 24 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "Tập 231 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6728,
+    "title" : "Tập 232 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Klein Bị Tóm- Tập 233 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4156,
+    "title" : "Tập 234 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "Tập 235 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4515,
+    "title" : "Tập 236 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3750,
+    "title" : "Tập 237 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "Tập 238 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2277,
+    "title" : "Tập 239 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "Tập 240 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3891,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 25 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "Tập 241 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "Tập 242 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3009,
+    "title" : "Tập 243 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3633,
+    "title" : "Tập 244 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3807,
+    "title" : "Tập 245 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2898,
+    "title" : "Tập 246 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "Tập 247 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "Tập 248 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "Tập 249 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "Tập 250 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2187,
+    "title" : "Cuộc Sống Mơ Ước | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Tập 251 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tập 252 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3077,
+    "title" : "Tập 253 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "Tập 254 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "Tập 255 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3011,
+    "title" : "Tập 256 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3943,
+    "title" : "Tập 257 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4636,
+    "title" : "Tập 258 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "Tập 259 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "Tập 260 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2599,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 27 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "Tập 261 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Tập 262 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Tập 263 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "Tập 264 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5517,
+    "title" : "Tập 265 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4373,
+    "title" : "Tập 266 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3555,
+    "title" : "Tập 267 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3547,
+    "title" : "Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3524,
+    "title" : "Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4525,
+    "title" : "Tập 269 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2173,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 28 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3058,
+    "title" : "Tập 272 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "Tập 273 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4066,
+    "title" : "Tập 274 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3317,
+    "title" : "Tập 275 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2962,
+    "title" : "Tập 276 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3905,
+    "title" : "Tập 277 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3366,
+    "title" : "Tập 278 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/278.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3844,
+    "title" : "Tập 279 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/279.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "Tập 280 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2713,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 29 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/280.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "Tập 281 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/281.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3894,
+    "title" : "Tập 282 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/282.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "Tập 283 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Ngủ Say - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/284.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2260,
+    "title" : "Truyện QUỶ BÍ CHI CHỦ | Phần 2 - Vòng Tròn Số Mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/285.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "Truyện QUỶ BÍ CHI CHỦ | Phần 2 - Vòng Tròn Số Mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/286.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "Truyện QUỶ BÍ CHI CHỦ | Phần 2 - Vòng Tròn Số Mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/287.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3084,
+    "title" : "Quái Vật Trong Mơ | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/288.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3474,
+    "title" : "Thăm Dò Sâu Hơn | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/289.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "Con Cú Mèo | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2913,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 30 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/290.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "Phối Phương Ma Dược | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/291.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3866,
+    "title" : "Dị Biến | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/292.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2225,
+    "title" : "Vòng Lặp Thời Gian | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/293.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3069,
+    "title" : "Bí Ẩn của Đàn Cừu | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/294.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3066,
+    "title" : "Thế Giới Hoa Bỉ Ngạn | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/295.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "Thế Giới Thần Bí | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/296.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3211,
+    "title" : "Lumian Mở Linh Thị | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/297.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3030,
+    "title" : "Quái Vật Xúc Tu | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/298.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2923,
+    "title" : "Nghệ Sĩ Múa Ba Lê | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/299.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2799,
+    "title" : "Cầu Nguyện Với Thần | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "Kỷ Thứ Tư | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 14 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/300.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "Khám Phá Lâu Đài Cổ | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/301.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3284,
+    "title" : "Gọi Hồn Rây Mần | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/302.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "Bí Mật Dưới Ngôi Mộ | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/303.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Đảo Lộn Thời Không | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/304.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6332,
+    "title" : "Con Dao Đoạt Vận Mệnh | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/305.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2928,
+    "title" : "Con Dao Đoạt Vận Mệnh | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3156,
+    "title" : "Thần Chân Chính | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2272,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 33 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2254,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 34 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 35 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 36 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2195,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 36 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 38 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1811,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 39 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2173,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 40 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "Gia Nhập Kẻ Gác Đêm | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2163,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 41 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2407,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 42 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2309,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 43 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2208,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 44 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2305,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 45 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2289,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 46 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2305,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 47 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2312,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 48 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2265,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 49 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2329,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 50 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3451,
+    "title" : "Vật Phong Ấn | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 51 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2454,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 52 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2333,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 53 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2235,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 54 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2796,
+    "title" : "54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1953,
+    "title" : "55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2614,
+    "title" : "56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2222,
+    "title" : "57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "Ba Toong | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3228,
+    "title" : "61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2269,
+    "title" : "62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3127,
+    "title" : "63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3157,
+    "title" : "64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3212,
+    "title" : "66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2404,
+    "title" : "67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3148,
+    "title" : "68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3254,
+    "title" : "69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3959,
+    "title" : "Kỹ Năng Thầy Bói | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3211,
+    "title" : "71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "Tập 73: Rìu Sấm Sét| Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2670,
+    "title" : "Tập 74: Thế Giới Mới | Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3713,
+    "title" : "Tập 75: Kẻ Sát Nhân | Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "Tập 76: Chúa Sáng Thế | Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "Tập 77: Tử Chiến | Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "Tập 78: DS Ảo Thuật Gia | Quỷ Bí Chi Chủ | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3351,
+    "title" : "Tập 79: Trung Tướng Bệnh Tật | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3271,
+    "title" : "Tập 80: Thành Viên Tarot Mới | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 8-Tụ Hội | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3388,
+    "title" : "Tập 81: Hồi Sinh Người Chết | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "Tập 82: Người Khổng Lồ | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2987,
+    "title" : "Tập 83: Kỵ Sĩ Bình Minh | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2898,
+    "title" : "83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3004,
+    "title" : "Tập 85 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2752,
+    "title" : "Tập 86 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2747,
+    "title" : "Tập 87 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4177,
+    "title" : "Tập 88 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4105,
+    "title" : "Tập 89 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3413,
+    "title" : "Tập 90 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3474,
+    "title" : "Quỷ Bí Chi Chủ | Tập: 9 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "Tập 91 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "Tập 92 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4155,
+    "title" : "Tập 93 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4066,
+    "title" : "Tập 94 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "Tập 95 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3856,
+    "title" : "Tập 96 | Quỷ Bí Chi Chủ - Radio Kinh Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4234,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2500,
+    "title" : "Tập 97 | Quỷ Bí Chi Chủ - Radio Kinh Dị-Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3553,
+    "title" : "Tập 98 | Quỷ Bí Chi Chủ - Radio Kinh Dị-Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "Tập 100 | Quỷ Bí Chi Chủ - Radio Kinh Dị-Mc Bá Tiến",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/1.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 1 - Xuyên Không | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/10.mp3",
+    "title" : "Phá Án | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/100.mp3",
+    "title" : "Tập 101 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị - MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/101.mp3",
+    "title" : "Tập 102 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị - MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/102.mp3",
+    "title" : "MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/103.mp3",
+    "title" : "MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/104.mp3",
+    "title" : "MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/105.mp3",
+    "title" : "MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/106.mp3",
+    "title" : "MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/107.mp3",
+    "title" : "MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/108.mp3",
+    "title" : "MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/109.mp3",
+    "title" : "MC Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/11.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 11- Bói Gương Ma | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/110.mp3",
+    "title" : "Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/111.mp3",
+    "title" : "Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/112.mp3",
+    "title" : "Tập 113 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/113.mp3",
+    "title" : "Tập 113 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/114.mp3",
+    "title" : "Tập 113 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/115.mp3",
+    "title" : "Tập 116 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/116.mp3",
+    "title" : "Tập 116 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/117.mp3",
+    "title" : "Tập 118 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/118.mp3",
+    "title" : "Tập 119 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/119.mp3",
+    "title" : "Tập 120 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/12.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 12 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/120.mp3",
+    "title" : "Tập 121 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/121.mp3",
+    "title" : "Tập 122 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/122.mp3",
+    "title" : "Tập 123 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/123.mp3",
+    "title" : "Tập 124 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/124.mp3",
+    "title" : "Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/125.mp3",
+    "title" : "Tập 126 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/126.mp3",
+    "title" : "Tập 127 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/127.mp3",
+    "title" : "Tập 123 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/128.mp3",
+    "title" : "Tập 129 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/129.mp3",
+    "title" : "Tập 130 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/13.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 13 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/130.mp3",
+    "title" : "Tập 131 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/131.mp3",
+    "title" : "Tập 132 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/132.mp3",
+    "title" : "Tập 133 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/133.mp3",
+    "title" : "Tập 134 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/134.mp3",
+    "title" : "Tập 135 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/135.mp3",
+    "title" : "Tập 136 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/136.mp3",
+    "title" : "Tập 137 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/137.mp3",
+    "title" : "Tập 138 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/138.mp3",
+    "title" : "Tập 139 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/139.mp3",
+    "title" : "Tập 140 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/14.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 14 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/140.mp3",
+    "title" : "Tập 141 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/141.mp3",
+    "title" : "Tập 142 - Quỷ Bí Chi Chủ -Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/142.mp3",
+    "title" : "Tập 143 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/143.mp3",
+    "title" : "Tập 144 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/144.mp3",
+    "title" : "Tập 145 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/145.mp3",
+    "title" : "Tập 146 - Quỷ Bí Chi Chủ | | Truyện Hay Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/146.mp3",
+    "title" : "Tập 147 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/147.mp3",
+    "title" : "Tập 148 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/148.mp3",
+    "title" : "Tập 149 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/149.mp3",
+    "title" : "Tập 150 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/15.mp3",
+    "title" : "Ma Nữ | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/150.mp3",
+    "title" : "Tập 151 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/151.mp3",
+    "title" : "Tập 152 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/152.mp3",
+    "title" : "Tập 153 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/153.mp3",
+    "title" : "Tập 154 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/154.mp3",
+    "title" : "Tập 155 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/155.mp3",
+    "title" : "Tập 156 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/156.mp3",
+    "title" : "Tập 157 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/157.mp3",
+    "title" : "Tập 158 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/158.mp3",
+    "title" : "Tập 159 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/159.mp3",
+    "title" : "Tập 160 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/16.mp3",
+    "title" : "Vật Phong Ấn 2-049 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/160.mp3",
+    "title" : "Tập 161 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/161.mp3",
+    "title" : "Tập 162 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/162.mp3",
+    "title" : "Tập 163 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/163.mp3",
+    "title" : "Tập 164 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/164.mp3",
+    "title" : "Tập 165 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/165.mp3",
+    "title" : "Tập 166 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/166.mp3",
+    "title" : "Tập 167 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/167.mp3",
+    "title" : "Tập 168 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/168.mp3",
+    "title" : "Tập 169 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/169.mp3",
+    "title" : "Tập 170 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/17.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 17 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/170.mp3",
+    "title" : "Tập 171 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/171.mp3",
+    "title" : "Tập 172 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/172.mp3",
+    "title" : "Tập 173 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/173.mp3",
+    "title" : "Tập 174 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/174.mp3",
+    "title" : "Tập 175 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/175.mp3",
+    "title" : "Tập 176 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/176.mp3",
+    "title" : "Tập 177 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/177.mp3",
+    "title" : "Tập 178 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/178.mp3",
+    "title" : "Tập 179 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/179.mp3",
+    "title" : "Tập 180 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/18.mp3",
+    "title" : "Gia Nhập Kẻ Gác Đêm | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/180.mp3",
+    "title" : "Tập 181 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/181.mp3",
+    "title" : "Tập 182 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/182.mp3",
+    "title" : "Tập 183 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/183.mp3",
+    "title" : "Con Rối Mới- Tập 184 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/184.mp3",
+    "title" : "Tập 185 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/185.mp3",
+    "title" : "Tập 186 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/186.mp3",
+    "title" : "Thợ Thủ Công- Tập 187 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/187.mp3",
+    "title" : "Tập 188 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/188.mp3",
+    "title" : "Tập 189 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/189.mp3",
+    "title" : "Tập 190 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/19.mp3",
+    "title" : "Ma Kính | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/190.mp3",
+    "title" : "Tập 191 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/191.mp3",
+    "title" : "Tập 192 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/192.mp3",
+    "title" : "Tập 193 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/193.mp3",
+    "title" : "193",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/194.mp3",
+    "title" : "Tập 195 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/195.mp3",
+    "title" : "Tập 196 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/196.mp3",
+    "title" : "Tập 197 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/197.mp3",
+    "title" : "Tập 198 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/198.mp3",
+    "title" : "Tập 199 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/199.mp3",
+    "title" : "Tập 200 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/2.mp3",
+    "title" : "Người Phi Phàm | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/20.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 20 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/200.mp3",
+    "title" : "Tập 201 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/201.mp3",
+    "title" : "Tập 202 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/202.mp3",
+    "title" : "Tập 203 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/203.mp3",
+    "title" : "Tập 204 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/204.mp3",
+    "title" : "Tập 205 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/205.mp3",
+    "title" : "Tập 206 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/206.mp3",
+    "title" : "Tập 207 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/207.mp3",
+    "title" : "Tập 208 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/208.mp3",
+    "title" : "Tập 209 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/209.mp3",
+    "title" : "Tập 210 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/21.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 21 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/210.mp3",
+    "title" : "Tập 211 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/211.mp3",
+    "title" : "Tập 212 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/212.mp3",
+    "title" : "Tập 213 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/213.mp3",
+    "title" : "Tập 214 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/214.mp3",
+    "title" : "Tập 215 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/215.mp3",
+    "title" : "Tập 216 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/216.mp3",
+    "title" : "Tập 217 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/217.mp3",
+    "title" : "Tập 218 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/218.mp3",
+    "title" : "Tập 219 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/219.mp3",
+    "title" : "Tập 220 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/22.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 23 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/220.mp3",
+    "title" : "Tập 221 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/221.mp3",
+    "title" : "Tập 222 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/222.mp3",
+    "title" : "Tập 223 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/223.mp3",
+    "title" : "Tập 224 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/224.mp3",
+    "title" : "Tập 225 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/225.mp3",
+    "title" : "Tập 226 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/226.mp3",
+    "title" : "Tập 227 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/227.mp3",
+    "title" : "Tập 228 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/228.mp3",
+    "title" : "Tập 229 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/229.mp3",
+    "title" : "Tập 230 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/23.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 24 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/230.mp3",
+    "title" : "Tập 231 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/231.mp3",
+    "title" : "Tập 232 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/232.mp3",
+    "title" : "Klein Bị Tóm- Tập 233 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/233.mp3",
+    "title" : "Tập 234 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/234.mp3",
+    "title" : "Tập 235 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/235.mp3",
+    "title" : "Tập 236 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/236.mp3",
+    "title" : "Tập 237 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/237.mp3",
+    "title" : "Tập 238 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/238.mp3",
+    "title" : "Tập 239 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/239.mp3",
+    "title" : "Tập 240 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/24.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 25 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/240.mp3",
+    "title" : "Tập 241 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/241.mp3",
+    "title" : "Tập 242 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/242.mp3",
+    "title" : "Tập 243 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/243.mp3",
+    "title" : "Tập 244 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/244.mp3",
+    "title" : "Tập 245 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/245.mp3",
+    "title" : "Tập 246 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/246.mp3",
+    "title" : "Tập 247 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/247.mp3",
+    "title" : "Tập 248 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/248.mp3",
+    "title" : "Tập 249 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/249.mp3",
+    "title" : "Tập 250 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/25.mp3",
+    "title" : "Cuộc Sống Mơ Ước | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/250.mp3",
+    "title" : "Tập 251 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/251.mp3",
+    "title" : "Tập 252 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/252.mp3",
+    "title" : "Tập 253 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/253.mp3",
+    "title" : "Tập 254 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/254.mp3",
+    "title" : "Tập 255 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/255.mp3",
+    "title" : "Tập 256 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/256.mp3",
+    "title" : "Tập 257 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/257.mp3",
+    "title" : "Tập 258 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/258.mp3",
+    "title" : "Tập 259 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/259.mp3",
+    "title" : "Tập 260 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/26.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 27 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/260.mp3",
+    "title" : "Tập 261 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/261.mp3",
+    "title" : "Tập 262 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/262.mp3",
+    "title" : "Tập 263 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/263.mp3",
+    "title" : "Tập 264 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/264.mp3",
+    "title" : "Tập 265 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/265.mp3",
+    "title" : "Tập 266 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/266.mp3",
+    "title" : "Tập 267 | Quỷ Bí Chi Chủ | Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/267.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/268.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/269.mp3",
+    "title" : "Tập 269 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/27.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 28 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/270.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/271.mp3",
+    "title" : "Tập 272 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/272.mp3",
+    "title" : "Tập 273 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/273.mp3",
+    "title" : "Tập 274 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/274.mp3",
+    "title" : "Tập 275 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/275.mp3",
+    "title" : "Tập 276 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/276.mp3",
+    "title" : "Tập 277 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/277.mp3",
+    "title" : "Tập 278 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/278.mp3",
+    "title" : "Tập 279 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/279.mp3",
+    "title" : "Tập 280 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/28.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 29 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/280.mp3",
+    "title" : "Tập 281 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/281.mp3",
+    "title" : "Tập 282 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/282.mp3",
+    "title" : "Tập 283 - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/283.mp3",
+    "title" : "Ngủ Say - Quỷ Bí Chi Chủ | Mc Bá Tiến - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/284.mp3",
+    "title" : "Truyện QUỶ BÍ CHI CHỦ | Phần 2 - Vòng Tròn Số Mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/285.mp3",
+    "title" : "Truyện QUỶ BÍ CHI CHỦ | Phần 2 - Vòng Tròn Số Mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/286.mp3",
+    "title" : "Truyện QUỶ BÍ CHI CHỦ | Phần 2 - Vòng Tròn Số Mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/287.mp3",
+    "title" : "Quái Vật Trong Mơ | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/288.mp3",
+    "title" : "Thăm Dò Sâu Hơn | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/289.mp3",
+    "title" : "Con Cú Mèo | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/29.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 30 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/290.mp3",
+    "title" : "Phối Phương Ma Dược | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/291.mp3",
+    "title" : "Dị Biến | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/292.mp3",
+    "title" : "Vòng Lặp Thời Gian | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/293.mp3",
+    "title" : "Bí Ẩn của Đàn Cừu | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/294.mp3",
+    "title" : "Thế Giới Hoa Bỉ Ngạn | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/295.mp3",
+    "title" : "Thế Giới Thần Bí | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/296.mp3",
+    "title" : "Lumian Mở Linh Thị | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/297.mp3",
+    "title" : "Quái Vật Xúc Tu | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/298.mp3",
+    "title" : "Nghệ Sĩ Múa Ba Lê | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/299.mp3",
+    "title" : "Cầu Nguyện Với Thần | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/3.mp3",
+    "title" : "Kỷ Thứ Tư | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/30.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 14 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/300.mp3",
+    "title" : "Khám Phá Lâu Đài Cổ | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/301.mp3",
+    "title" : "Gọi Hồn Rây Mần | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/302.mp3",
+    "title" : "Bí Mật Dưới Ngôi Mộ | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/303.mp3",
+    "title" : "Đảo Lộn Thời Không | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/304.mp3",
+    "title" : "Con Dao Đoạt Vận Mệnh | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/305.mp3",
+    "title" : "Con Dao Đoạt Vận Mệnh | Phần 2 - Truyện QUỶ BÍ CHI CHỦ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/31.mp3",
+    "title" : "Thần Chân Chính | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/32.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 33 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/33.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 34 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/34.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 35 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/35.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 36 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/36.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 36 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/37.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 38 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/38.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 39 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/39.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 40 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/4.mp3",
+    "title" : "Gia Nhập Kẻ Gác Đêm | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/40.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 41 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/41.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 42 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/42.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 43 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/43.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 44 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/44.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 45 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/45.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 46 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/46.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 47 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/47.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 48 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/48.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 49 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/49.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 50 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/5.mp3",
+    "title" : "Vật Phong Ấn | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/50.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 51 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/51.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 52 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/52.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 53 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/53.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 54 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Bá Tiến Vlog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/54.mp3",
+    "title" : "54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/55.mp3",
+    "title" : "55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/56.mp3",
+    "title" : "56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/57.mp3",
+    "title" : "57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/58.mp3",
+    "title" : "58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/59.mp3",
+    "title" : "59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/6.mp3",
+    "title" : "Ba Toong | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/60.mp3",
+    "title" : "60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/61.mp3",
+    "title" : "61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/62.mp3",
+    "title" : "62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/63.mp3",
+    "title" : "63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/64.mp3",
+    "title" : "64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/65.mp3",
+    "title" : "65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/66.mp3",
+    "title" : "66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/67.mp3",
+    "title" : "67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/68.mp3",
+    "title" : "68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/69.mp3",
+    "title" : "69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/7.mp3",
+    "title" : "Kỹ Năng Thầy Bói | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/70.mp3",
+    "title" : "70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/71.mp3",
+    "title" : "71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/72.mp3",
+    "title" : "Tập 73: Rìu Sấm Sét| Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/73.mp3",
+    "title" : "Tập 74: Thế Giới Mới | Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/74.mp3",
+    "title" : "Tập 75: Kẻ Sát Nhân | Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/75.mp3",
+    "title" : "Tập 76: Chúa Sáng Thế | Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/76.mp3",
+    "title" : "Tập 77: Tử Chiến | Quỷ Bí Chi Chủ | | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/77.mp3",
+    "title" : "Tập 78: DS Ảo Thuật Gia | Quỷ Bí Chi Chủ | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/78.mp3",
+    "title" : "Tập 79: Trung Tướng Bệnh Tật | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/79.mp3",
+    "title" : "Tập 80: Thành Viên Tarot Mới | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/8.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 8-Tụ Hội | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/80.mp3",
+    "title" : "Tập 81: Hồi Sinh Người Chết | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/81.mp3",
+    "title" : "Tập 82: Người Khổng Lồ | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/82.mp3",
+    "title" : "Tập 83: Kỵ Sĩ Bình Minh | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/83.mp3",
+    "title" : "83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/84.mp3",
+    "title" : "Tập 85 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/85.mp3",
+    "title" : "Tập 86 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2019 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/86.mp3",
+    "title" : "Tập 87 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/87.mp3",
+    "title" : "Tập 88 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/88.mp3",
+    "title" : "Tập 89 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/89.mp3",
+    "title" : "Tập 90 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/9.mp3",
+    "title" : "Quỷ Bí Chi Chủ | Tập: 9 | Truyện Dị Giới, Huyền Huyễn Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/90.mp3",
+    "title" : "Tập 91 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/91.mp3",
+    "title" : "Tập 92 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/92.mp3",
+    "title" : "Tập 93 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/93.mp3",
+    "title" : "Tập 94 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/94.mp3",
+    "title" : "Tập 95 | Quỷ Bí Chi Chủ | Truyện Dị Giới Hay Nhất 2020 | Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/95.mp3",
+    "title" : "Tập 96 | Quỷ Bí Chi Chủ - Radio Kinh Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/97.mp3",
+    "title" : "Tập 97 | Quỷ Bí Chi Chủ - Radio Kinh Dị-Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/98.mp3",
+    "title" : "Tập 98 | Quỷ Bí Chi Chủ - Radio Kinh Dị-Mc Bá Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-bi-chi-chu/99.mp3",
+    "title" : "Tập 100 | Quỷ Bí Chi Chủ - Radio Kinh Dị-Mc Bá Tiến",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
