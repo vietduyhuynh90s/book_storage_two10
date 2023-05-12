@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-nuoi-ma_16075.html",
+    "title" : "Bản Nuôi Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Âm Sát",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 21244,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_40a74958d032edf4cb834bdbe5bc1409.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_40a74958d032edf4cb834bdbe5bc1409.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-nuoi-ma/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4497,
+    "title" : "[Sợ Lắm] BẢN NUÔI MA 😱 Truyện Ma Có Thật Mới Ngọc Lâm Kể Hãi Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-nuoi-ma/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4115,
+    "title" : "[Tập 2] BẢN NUÔI MA 😱 Truyện Ma Có Thật Mới Ngọc Lâm Kể Hãi Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-nuoi-ma/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4038,
+    "title" : "[Tập 3] BẢN NUÔI MA 😱 Rừng Bí Ẩn | Truyện Ma Ngọc Lâm Kể Hãi Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-nuoi-ma/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4042,
+    "title" : "[Tập 4] BẢN NUÔI MA 😱 Thuật Nuôi Ma | Truyện Ma Ngọc Lâm Kể Hãi Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-nuoi-ma/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4552,
+    "title" : "[Tập 5 Kết] BẢN NUÔI MA 😱 Thần Xà Lộ Diện | Truyện Ma Ngọc Lâm Kể Hãi Thật",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-nuoi-ma/1.mp3",
+    "title" : "[Sợ Lắm] BẢN NUÔI MA 😱 Truyện Ma Có Thật Mới Ngọc Lâm Kể Hãi Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-nuoi-ma/2.mp3",
+    "title" : "[Tập 2] BẢN NUÔI MA 😱 Truyện Ma Có Thật Mới Ngọc Lâm Kể Hãi Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-nuoi-ma/3.mp3",
+    "title" : "[Tập 3] BẢN NUÔI MA 😱 Rừng Bí Ẩn | Truyện Ma Ngọc Lâm Kể Hãi Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-nuoi-ma/4.mp3",
+    "title" : "[Tập 4] BẢN NUÔI MA 😱 Thuật Nuôi Ma | Truyện Ma Ngọc Lâm Kể Hãi Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-nuoi-ma/5.mp3",
+    "title" : "[Tập 5 Kết] BẢN NUÔI MA 😱 Thần Xà Lộ Diện | Truyện Ma Ngọc Lâm Kể Hãi Thật",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gia-cat-luong-tu-nho-da-lap-chi-lon-dai-lan_4934.html",
+    "title" : "Gia Cát Lượng - Từ Nhỏ Đã Lập Chí Lớn - Đại Lãn.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đại Lãn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 12534,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_3a6aa3453e38d2b4050594adadcc2458.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_3a6aa3453e38d2b4050594adadcc2458.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gia-cat-luong-tu-nho-da-lap-chi-lon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4189,
+    "title" : "Truyện Dài của Đại Lãn | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gia-cat-luong-tu-nho-da-lap-chi-lon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4367,
+    "title" : "Truyện Dài của Đại Lãn | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gia-cat-luong-tu-nho-da-lap-chi-lon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3978,
+    "title" : "Truyện Dài của Đại Lãn | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gia-cat-luong-tu-nho-da-lap-chi-lon/1.mp3",
+    "title" : "Truyện Dài của Đại Lãn | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-cat-luong-tu-nho-da-lap-chi-lon/2.mp3",
+    "title" : "Truyện Dài của Đại Lãn | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-cat-luong-tu-nho-da-lap-chi-lon/3.mp3",
+    "title" : "Truyện Dài của Đại Lãn | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

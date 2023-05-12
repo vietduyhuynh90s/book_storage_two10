@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chung-vo-diem-to-chan_8135.html",
+    "title" : "Chung Vô Diệm - Tô Chẩn.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tô Chẩn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 107723,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_d37cf769157c63d94cd5adfbd36f65da.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_d37cf769157c63d94cd5adfbd36f65da.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chung-vo-diem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5341,
+    "title" : "1 - Diêu Trì tiên nữ bị đọa xuống phàm, Tề Tuyên vương chiêm bao được vợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6909,
+    "title" : "10 - Lỗ Lâm đem binh đánh Tề quốc, Ngọc Thiền vâng chỉ yết Tuyên vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7525,
+    "title" : "11 - Tề Tuyên vương nạp dụng Ngọc Thiền, Lỗ Công chúa đi cầu Thánh mẫu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7280,
+    "title" : "12 - Ngô Khởi tư thông cùng Hạ thị, Chung hậu đắc thắng về Lâm Tri",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7910,
+    "title" : "13 - Chung hậu bị Thần tiễn nơi vai, Điền Nguyên đưa Thần y nhìn mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "14 - Ba nước phân binh vây Hỗn Hải, Ngũ Lôi đánh chết Chung Thái chân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8596,
+    "title" : "15 - Đạo Tông kế cùng tự vận, Ngô Khởi nghe báo kinh hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6160,
+    "title" : "2 - Chung Quốc mẫu dọa nhát Cao phi, Cao thứ phi kế hại Chung hậu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5264,
+    "title" : "3 - Thuốc tiên cứu sống Thần Võ, Phép màu bắt đặng Tôn Long",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7616,
+    "title" : "Truyện Dã Sử TQ của Tô Chẩn [Audio 4]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7525,
+    "title" : "5 - Trương phi hiến kế hỏa thiêu lãnh cung, Chung Nương nương độn hỏa về cố lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7910,
+    "title" : "6 - Chung Quốc mẫu đề binh phạt Triệu, Triệu Long vương thất thế hàng triều",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8386,
+    "title" : "7 - Ngũ đinh chùy Độ Kim dùng phép, Sản Long trì Chung hậu lâm bồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7805,
+    "title" : "8 - Dâng minh châu Lý Tuấn bị đòn, Dụng phép mầu Chung nương giả chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7056,
+    "title" : "9 - Chung hậu một ngày giết năm vua, Điền Côn vâng lời xuống tìm mẹ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chung-vo-diem/1.mp3",
+    "title" : "1 - Diêu Trì tiên nữ bị đọa xuống phàm, Tề Tuyên vương chiêm bao được vợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/10.mp3",
+    "title" : "10 - Lỗ Lâm đem binh đánh Tề quốc, Ngọc Thiền vâng chỉ yết Tuyên vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/11.mp3",
+    "title" : "11 - Tề Tuyên vương nạp dụng Ngọc Thiền, Lỗ Công chúa đi cầu Thánh mẫu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/12.mp3",
+    "title" : "12 - Ngô Khởi tư thông cùng Hạ thị, Chung hậu đắc thắng về Lâm Tri",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/13.mp3",
+    "title" : "13 - Chung hậu bị Thần tiễn nơi vai, Điền Nguyên đưa Thần y nhìn mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/14.mp3",
+    "title" : "14 - Ba nước phân binh vây Hỗn Hải, Ngũ Lôi đánh chết Chung Thái chân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/15.mp3",
+    "title" : "15 - Đạo Tông kế cùng tự vận, Ngô Khởi nghe báo kinh hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/2.mp3",
+    "title" : "2 - Chung Quốc mẫu dọa nhát Cao phi, Cao thứ phi kế hại Chung hậu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/3.mp3",
+    "title" : "3 - Thuốc tiên cứu sống Thần Võ, Phép màu bắt đặng Tôn Long",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/4.mp3",
+    "title" : "Truyện Dã Sử TQ của Tô Chẩn [Audio 4]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/5.mp3",
+    "title" : "5 - Trương phi hiến kế hỏa thiêu lãnh cung, Chung Nương nương độn hỏa về cố lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/6.mp3",
+    "title" : "6 - Chung Quốc mẫu đề binh phạt Triệu, Triệu Long vương thất thế hàng triều",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/7.mp3",
+    "title" : "7 - Ngũ đinh chùy Độ Kim dùng phép, Sản Long trì Chung hậu lâm bồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/8.mp3",
+    "title" : "8 - Dâng minh châu Lý Tuấn bị đòn, Dụng phép mầu Chung nương giả chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chung-vo-diem/9.mp3",
+    "title" : "9 - Chung hậu một ngày giết năm vua, Điền Côn vâng lời xuống tìm mẹ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

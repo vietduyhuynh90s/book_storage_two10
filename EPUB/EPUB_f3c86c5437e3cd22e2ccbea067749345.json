@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/so-tay-nha-thoi-mien_16845.html",
+    "title" : "Sổ Tay Nhà Thôi Miên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cao Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 67598,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f3c86c5437e3cd22e2ccbea067749345.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f3c86c5437e3cd22e2ccbea067749345.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/stntm/So%CC%82%CC%89%20tay%20nha%CC%80%20tho%CC%82i%20mie%CC%82n%20-%20Quye%CC%82%CC%89n%201%20-%20Audiobook%20%28128kbit_Opus%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 33637,
+    "title" : "Sổ tay nhà thôi miên - Quyển 1 - Audiobook (128kbit Opus)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/stntm/So%CC%82%CC%89%20tay%20nha%CC%80%20tho%CC%82i%20mie%CC%82n%20-%20Quye%CC%82%CC%89n%202%20-%20Audiobook%20%28128kbit_Opus%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 33961,
+    "title" : "Sổ tay nhà thôi miên - Quyển 2 - Audiobook (128kbit Opus)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/stntm/So%CC%82%CC%89%20tay%20nha%CC%80%20tho%CC%82i%20mie%CC%82n%20-%20Quye%CC%82%CC%89n%201%20-%20Audiobook%20%28128kbit_Opus%29.mp3",
+    "title" : "Sổ tay nhà thôi miên - Quyển 1 - Audiobook (128kbit Opus)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/stntm/So%CC%82%CC%89%20tay%20nha%CC%80%20tho%CC%82i%20mie%CC%82n%20-%20Quye%CC%82%CC%89n%202%20-%20Audiobook%20%28128kbit_Opus%29.mp3",
+    "title" : "Sổ tay nhà thôi miên - Quyển 2 - Audiobook (128kbit Opus)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

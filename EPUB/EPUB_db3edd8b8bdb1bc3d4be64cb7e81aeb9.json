@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duong-ket-hon-khong-tinh-yeu-luc-xu_10536.html",
+    "title" : "Đường Kết Hôn Không Tình Yêu - Lục Xu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Xu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 64617,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_db3edd8b8bdb1bc3d4be64cb7e81aeb9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_db3edd8b8bdb1bc3d4be64cb7e81aeb9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "Lục Xu - Part 1 - Giọng Đọc LiTra - Vera Hà Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2374,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2751,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2181,
+    "title" : "Lục Xu - Part 12 - Giọng Đọc LiTra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3166,
+    "title" : "Lục Xu - Part 13 - Giọng Đọc LiTra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2963,
+    "title" : "Lục Xu - Part 14 - Giọng Đọc LiTra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2547,
+    "title" : "Lục Xu - Part 15 - Giọng Đọc LiTra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2979,
+    "title" : "Lục Xu - Part 16 - Giọng Đọc LiTra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "Lục Xu - Part 17 - Giọng Đọc LiTra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2767,
+    "title" : "Lục Xu - Part 18 - Giọng Đọc LiTra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4744,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "Lục Xu - Part 2 - Giọng Đọc LiTra - Vera Hà Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3125,
+    "title" : "Lục Xu - Part 3 - Giọng Đọc LiTra - Vera Hà Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2718,
+    "title" : "33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2864,
+    "title" : "Lục Xu - Part 4 - Giọng Đọc LiTra - Vera Hà Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2516,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2577,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2477,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/1.mp3",
+    "title" : "Lục Xu - Part 1 - Giọng Đọc LiTra - Vera Hà Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/12.mp3",
+    "title" : "Lục Xu - Part 12 - Giọng Đọc LiTra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/13.mp3",
+    "title" : "Lục Xu - Part 13 - Giọng Đọc LiTra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/14.mp3",
+    "title" : "Lục Xu - Part 14 - Giọng Đọc LiTra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/15.mp3",
+    "title" : "Lục Xu - Part 15 - Giọng Đọc LiTra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/16.mp3",
+    "title" : "Lục Xu - Part 16 - Giọng Đọc LiTra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/17.mp3",
+    "title" : "Lục Xu - Part 17 - Giọng Đọc LiTra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/18.mp3",
+    "title" : "Lục Xu - Part 18 - Giọng Đọc LiTra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/2.mp3",
+    "title" : "Lục Xu - Part 2 - Giọng Đọc LiTra - Vera Hà Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/3.mp3",
+    "title" : "Lục Xu - Part 3 - Giọng Đọc LiTra - Vera Hà Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/33.mp3",
+    "title" : "33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/4.mp3",
+    "title" : "Lục Xu - Part 4 - Giọng Đọc LiTra - Vera Hà Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-ket-hon-khong-tinh-yeu/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

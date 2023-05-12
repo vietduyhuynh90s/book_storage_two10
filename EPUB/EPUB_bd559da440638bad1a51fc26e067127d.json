@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bong-hinh-cua-gio_19120.html",
+    "title" : "Bóng Hình Của Gió",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Carlos Ruiz Zafón",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 69644,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_bd559da440638bad1a51fc26e067127d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_bd559da440638bad1a51fc26e067127d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1826,
+    "title" : "BÓNG HÌNH CỦA GIÓ 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5092,
+    "title" : "BÓNG HÌNH CỦA GIÓ 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4414,
+    "title" : "BÓNG HÌNH CỦA GIÓ 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "BÓNG HÌNH CỦA GIÓ 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2663,
+    "title" : "BÓNG HÌNH CỦA GIÓ 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "BÓNG HÌNH CỦA GIÓ 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4629,
+    "title" : "BÓNG HÌNH CỦA GIÓ 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4049,
+    "title" : "BÓNG HÌNH CỦA GIÓ 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4674,
+    "title" : "BÓNG HÌNH CỦA GIÓ 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "BÓNG HÌNH CỦA GIÓ 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4813,
+    "title" : "BÓNG HÌNH CỦA GIÓ 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3556,
+    "title" : "BÓNG HÌNH CỦA GIÓ 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "BÓNG HÌNH CỦA GIÓ 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3161,
+    "title" : "BÓNG HÌNH CỦA GIÓ 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4470,
+    "title" : "BÓNG HÌNH CỦA GIÓ 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3759,
+    "title" : "BÓNG HÌNH CỦA GIÓ 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4118,
+    "title" : "BÓNG HÌNH CỦA GIÓ 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_18%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4035,
+    "title" : "BÓNG HÌNH CỦA GIÓ 18(end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_01.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_02.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_03.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_04.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_05.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_06.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_07.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_08.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_09.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_10.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_11.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_12.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_13.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_14.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_15.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_16.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_17.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-ng-hi-nh-cu-a-gio-02_202301/B%C3%93NG%20H%C3%8CNH%20C%E1%BB%A6A%20GI%C3%93_18%28end%29.mp3",
+    "title" : "BÓNG HÌNH CỦA GIÓ 18(end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

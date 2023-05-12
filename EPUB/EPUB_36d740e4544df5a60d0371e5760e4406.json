@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/suoi-nguon-tam-linh_19246.html",
+    "title" : "Suối Nguồn Tâm Linh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Chah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 56926,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_36d740e4544df5a60d0371e5760e4406.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_36d740e4544df5a60d0371e5760e4406.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "suoi-nguon-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "suoi-nguon-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "suoi-nguon-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5368,
+    "title" : "suoi-nguon-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "suoi-nguon-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "suoi-nguon-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "suoi-nguon-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6558,
+    "title" : "suoi-nguon-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-1.mp3",
+    "title" : "suoi-nguon-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-2.mp3",
+    "title" : "suoi-nguon-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-3.mp3",
+    "title" : "suoi-nguon-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-4.mp3",
+    "title" : "suoi-nguon-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-5.mp3",
+    "title" : "suoi-nguon-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-6.mp3",
+    "title" : "suoi-nguon-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-7.mp3",
+    "title" : "suoi-nguon-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-5/suoi-nguon-8.mp3",
+    "title" : "suoi-nguon-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

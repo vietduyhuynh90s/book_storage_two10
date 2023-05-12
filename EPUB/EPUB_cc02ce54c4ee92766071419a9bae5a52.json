@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-nguoi-80-20_5379.html",
+    "title" : "Con Người 80/20",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Koch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 23046,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_cc02ce54c4ee92766071419a9bae5a52.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_cc02ce54c4ee92766071419a9bae5a52.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong01A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1703,
+    "title" : "ConNguoi80Tren20Chuong01A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong01B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2190,
+    "title" : "ConNguoi80Tren20Chuong01B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2187,
+    "title" : "ConNguoi80Tren20Chuong02A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2433,
+    "title" : "ConNguoi80Tren20Chuong02B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02C.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2370,
+    "title" : "ConNguoi80Tren20Chuong02C",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "ConNguoi80Tren20Chuong02D",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02E.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2672,
+    "title" : "ConNguoi80Tren20Chuong02E",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02F.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2851,
+    "title" : "ConNguoi80Tren20Chuong02F",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02G.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1976,
+    "title" : "ConNguoi80Tren20Chuong02G",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02H_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3041,
+    "title" : "ConNguoi80Tren20Chuong02H Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong01A.mp3",
+    "title" : "ConNguoi80Tren20Chuong01A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong01B.mp3",
+    "title" : "ConNguoi80Tren20Chuong01B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02A.mp3",
+    "title" : "ConNguoi80Tren20Chuong02A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02B.mp3",
+    "title" : "ConNguoi80Tren20Chuong02B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02C.mp3",
+    "title" : "ConNguoi80Tren20Chuong02C",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02D.mp3",
+    "title" : "ConNguoi80Tren20Chuong02D",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02E.mp3",
+    "title" : "ConNguoi80Tren20Chuong02E",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02F.mp3",
+    "title" : "ConNguoi80Tren20Chuong02F",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02G.mp3",
+    "title" : "ConNguoi80Tren20Chuong02G",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-nguoi-80-tren-20.sna/ConNguoi80Tren20Chuong02H_Het.mp3",
+    "title" : "ConNguoi80Tren20Chuong02H Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

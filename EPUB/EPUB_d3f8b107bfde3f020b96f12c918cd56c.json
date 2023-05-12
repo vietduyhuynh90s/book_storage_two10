@@ -1,0 +1,569 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cau-lac-bo-so-7_17856.html",
+    "title" : "Câu Lạc Bộ Số 7",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Di Li",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 71641,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_d3f8b107bfde3f020b96f12c918cd56c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_d3f8b107bfde3f020b96f12c918cd56c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1413,
+    "title" : "Câu lạc bộ số 7 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1338,
+    "title" : "Câu lạc bộ số 7 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1474,
+    "title" : "Câu lạc bộ số 7 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1453,
+    "title" : "Câu lạc bộ số 7 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1507,
+    "title" : "Câu lạc bộ số 7 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1339,
+    "title" : "Câu lạc bộ số 7 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1491,
+    "title" : "Câu lạc bộ số 7 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1246,
+    "title" : "Câu lạc bộ số 7 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1532,
+    "title" : "Câu lạc bộ số 7 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "Câu lạc bộ số 7 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "Câu lạc bộ số 7 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1681,
+    "title" : "Câu lạc bộ số 7 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1159,
+    "title" : "Câu lạc bộ số 7 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1226,
+    "title" : "Câu lạc bộ số 7 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1660,
+    "title" : "Câu lạc bộ số 7 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1826,
+    "title" : "Câu lạc bộ số 7 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1286,
+    "title" : "Câu lạc bộ số 7 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1503,
+    "title" : "Câu lạc bộ số 7 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1910,
+    "title" : "Câu lạc bộ số 7 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1966,
+    "title" : "Câu lạc bộ số 7 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1694,
+    "title" : "Câu lạc bộ số 7 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1544,
+    "title" : "Câu lạc bộ số 7 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "Câu lạc bộ số 7 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1274,
+    "title" : "Câu lạc bộ số 7 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1881,
+    "title" : "Câu lạc bộ số 7 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "Câu lạc bộ số 7 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1630,
+    "title" : "Câu lạc bộ số 7 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1647,
+    "title" : "Câu lạc bộ số 7 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2152,
+    "title" : "Câu lạc bộ số 7 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1613,
+    "title" : "Câu lạc bộ số 7 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "Câu lạc bộ số 7 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1154,
+    "title" : "Câu lạc bộ số 7 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "Câu lạc bộ số 7 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1758,
+    "title" : "Câu lạc bộ số 7 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1684,
+    "title" : "Câu lạc bộ số 7 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1336,
+    "title" : "Câu lạc bộ số 7 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2077,
+    "title" : "Câu lạc bộ số 7 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1387,
+    "title" : "Câu lạc bộ số 7 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1834,
+    "title" : "Câu lạc bộ số 7 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1328,
+    "title" : "Câu lạc bộ số 7 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1855,
+    "title" : "Câu lạc bộ số 7 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1995,
+    "title" : "Câu lạc bộ số 7 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2405,
+    "title" : "Câu lạc bộ số 7 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_44%20%28h%E1%BA%BFt%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "Câu lạc bộ số 7 44 (hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_01.mp3",
+    "title" : "Câu lạc bộ số 7 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_02.mp3",
+    "title" : "Câu lạc bộ số 7 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_03.mp3",
+    "title" : "Câu lạc bộ số 7 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_04.mp3",
+    "title" : "Câu lạc bộ số 7 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_05.mp3",
+    "title" : "Câu lạc bộ số 7 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_06.mp3",
+    "title" : "Câu lạc bộ số 7 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_07.mp3",
+    "title" : "Câu lạc bộ số 7 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_08.mp3",
+    "title" : "Câu lạc bộ số 7 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_09.mp3",
+    "title" : "Câu lạc bộ số 7 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_10.mp3",
+    "title" : "Câu lạc bộ số 7 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_11.mp3",
+    "title" : "Câu lạc bộ số 7 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_12.mp3",
+    "title" : "Câu lạc bộ số 7 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_13.mp3",
+    "title" : "Câu lạc bộ số 7 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_14.mp3",
+    "title" : "Câu lạc bộ số 7 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_15.mp3",
+    "title" : "Câu lạc bộ số 7 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_16.mp3",
+    "title" : "Câu lạc bộ số 7 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_17.mp3",
+    "title" : "Câu lạc bộ số 7 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_18.mp3",
+    "title" : "Câu lạc bộ số 7 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_19.mp3",
+    "title" : "Câu lạc bộ số 7 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_20.mp3",
+    "title" : "Câu lạc bộ số 7 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_21.mp3",
+    "title" : "Câu lạc bộ số 7 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_22.mp3",
+    "title" : "Câu lạc bộ số 7 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_23.mp3",
+    "title" : "Câu lạc bộ số 7 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_24.mp3",
+    "title" : "Câu lạc bộ số 7 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_25.mp3",
+    "title" : "Câu lạc bộ số 7 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_26.mp3",
+    "title" : "Câu lạc bộ số 7 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_27.mp3",
+    "title" : "Câu lạc bộ số 7 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_28.mp3",
+    "title" : "Câu lạc bộ số 7 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_29.mp3",
+    "title" : "Câu lạc bộ số 7 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_30.mp3",
+    "title" : "Câu lạc bộ số 7 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_31.mp3",
+    "title" : "Câu lạc bộ số 7 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_32.mp3",
+    "title" : "Câu lạc bộ số 7 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_33.mp3",
+    "title" : "Câu lạc bộ số 7 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_34.mp3",
+    "title" : "Câu lạc bộ số 7 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_35.mp3",
+    "title" : "Câu lạc bộ số 7 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_36.mp3",
+    "title" : "Câu lạc bộ số 7 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_37.mp3",
+    "title" : "Câu lạc bộ số 7 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_38.mp3",
+    "title" : "Câu lạc bộ số 7 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_39.mp3",
+    "title" : "Câu lạc bộ số 7 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_40.mp3",
+    "title" : "Câu lạc bộ số 7 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_41.mp3",
+    "title" : "Câu lạc bộ số 7 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_42.mp3",
+    "title" : "Câu lạc bộ số 7 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_43.mp3",
+    "title" : "Câu lạc bộ số 7 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-lac-bo-so-7-05/C%C3%A2u%20l%E1%BA%A1c%20b%E1%BB%99%20s%E1%BB%91%207_44%20%28h%E1%BA%BFt%29.mp3",
+    "title" : "Câu lạc bộ số 7 44 (hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

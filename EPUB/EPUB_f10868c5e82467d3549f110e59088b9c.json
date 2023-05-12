@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phap-su-diet-quy-mieu-son-than_15265.html",
+    "title" : "Pháp Sư Diệt Quỷ Miếu Sơn Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 21056,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f10868c5e82467d3549f110e59088b9c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f10868c5e82467d3549f110e59088b9c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3091,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3058,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3385,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3313,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4841,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/1.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/2.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/3.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diet-quy-mieu-son-than/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bo-cau-khong-dua-thu-nguyen-nhat-anh_9599.html",
+    "title" : "Bồ Câu Không Đưa Thư - Nguyễn Nhật Ánh.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 12814,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_9957fb866ac0c0215c666f1129a2bd30.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_9957fb866ac0c0215c666f1129a2bd30.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu01_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2175,
+    "title" : "01. Bồ câu không đưa thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu02_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1951,
+    "title" : "02. Bồ câu không đưa thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu03_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2071,
+    "title" : "03. Bồ câu không đưa thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu04_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1928,
+    "title" : "04. Bồ câu không đưa thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu05_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1510,
+    "title" : "05. Bồ câu không đưa thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1607,
+    "title" : "06. Bồ câu không đưa thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu07_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1572,
+    "title" : "07. Bồ câu không đưa thư (hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu01_2.mp3",
+    "title" : "01. Bồ câu không đưa thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu02_2.mp3",
+    "title" : "02. Bồ câu không đưa thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu03_2.mp3",
+    "title" : "03. Bồ câu không đưa thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu04_2.mp3",
+    "title" : "04. Bồ câu không đưa thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu05_2.mp3",
+    "title" : "05. Bồ câu không đưa thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu06_2.mp3",
+    "title" : "06. Bồ câu không đưa thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bocaukhongduathu-trnna/BoCauKhongDuaThu07_2.mp3",
+    "title" : "07. Bồ câu không đưa thư (hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thoi-dung-nuoc_16889.html",
+    "title" : "Thời Dựng Nước",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Văn Phú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 15113,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b590e37cc39046cc1b16956452aacac8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b590e37cc39046cc1b16956452aacac8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 213,
+    "title" : "ThoiDungNuoc00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 873,
+    "title" : "ThoiDungNuoc01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 701,
+    "title" : "ThoiDungNuoc02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "ThoiDungNuoc03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 952,
+    "title" : "ThoiDungNuoc04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 838,
+    "title" : "ThoiDungNuoc05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1100,
+    "title" : "ThoiDungNuoc06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1418,
+    "title" : "ThoiDungNuoc07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 951,
+    "title" : "ThoiDungNuoc08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1104,
+    "title" : "ThoiDungNuoc09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 940,
+    "title" : "ThoiDungNuoc10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 782,
+    "title" : "ThoiDungNuoc11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 912,
+    "title" : "ThoiDungNuoc12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 933,
+    "title" : "ThoiDungNuoc13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 941,
+    "title" : "ThoiDungNuoc14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 771,
+    "title" : "ThoiDungNuoc15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "ThoiDungNuoc16",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc00.mp3",
+    "title" : "ThoiDungNuoc00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc01.mp3",
+    "title" : "ThoiDungNuoc01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc02.mp3",
+    "title" : "ThoiDungNuoc02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc03.mp3",
+    "title" : "ThoiDungNuoc03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc04.mp3",
+    "title" : "ThoiDungNuoc04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc05.mp3",
+    "title" : "ThoiDungNuoc05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc06.mp3",
+    "title" : "ThoiDungNuoc06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc07.mp3",
+    "title" : "ThoiDungNuoc07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc08.mp3",
+    "title" : "ThoiDungNuoc08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc09.mp3",
+    "title" : "ThoiDungNuoc09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc10.mp3",
+    "title" : "ThoiDungNuoc10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc11.mp3",
+    "title" : "ThoiDungNuoc11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc12.mp3",
+    "title" : "ThoiDungNuoc12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc13.mp3",
+    "title" : "ThoiDungNuoc13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc14.mp3",
+    "title" : "ThoiDungNuoc14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc15.mp3",
+    "title" : "ThoiDungNuoc15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThoiDungNuoc/ThoiDungNuoc16.mp3",
+    "title" : "ThoiDungNuoc16",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

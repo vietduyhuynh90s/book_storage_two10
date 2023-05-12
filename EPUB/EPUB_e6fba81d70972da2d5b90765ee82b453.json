@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-nguoi-con-gai-nam-xuong_19199.html",
+    "title" : "Chuyện Người Con Gái Nam Xương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Dữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 213732,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_e6fba81d70972da2d5b90765ee82b453.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_e6fba81d70972da2d5b90765ee82b453.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Chi%E1%BA%BFc%20L%C6%B0%E1%BB%A3c%20Ng%C3%A0%20-%20Nguy%E1%BB%85n%20Quang%20S%C3%A1ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "Chiếc Lược Ngà - Nguyễn Quang Sáng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Chi%E1%BA%BFc%20Thuy%E1%BB%81n%20Ngo%C3%A0i%20Xa%20-%20Nguy%E1%BB%85n%20Minh%20Ch%C3%A2u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3046,
+    "title" : "Chiếc Thuyền Ngoài Xa - Nguyễn Minh Châu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Chuy%E1%BB%87n%20Ng%C6%B0%E1%BB%9Di%20Con%20G%C3%A1i%20Nam%20X%C6%B0%C6%A1ng%20-%20Nguy%E1%BB%85n%20D%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2703,
+    "title" : "Chuyện Người Con Gái Nam Xương - Nguyễn Dữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ch%C3%AD%20Ph%C3%A8o%20-%20Nam%20Cao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4469,
+    "title" : "Chí Phèo - Nam Cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ch%E1%BB%8B%20Ho%C3%A0i%20-%20%C4%90%E1%BB%97%20Duy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 470,
+    "title" : "Chị Hoài - Đỗ Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ch%E1%BB%AF%20Ng%C6%B0%E1%BB%9Di%20T%E1%BB%AD%20T%C3%B9%20-%20Nguy%E1%BB%85n%20Tu%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1365,
+    "title" : "Chữ Người Tử Tù - Nguyễn Tuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/D%E1%BA%BF%20M%C3%A8n%20Phi%C3%AAu%20L%C6%B0u%20K%C3%BD%20-%20T%C3%B4%20Ho%C3%A0i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10924,
+    "title" : "Dế Mèn Phiêu Lưu Ký - Tô Hoài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Gi%C3%B3%20L%E1%BA%A1nh%20%C4%90%E1%BA%A7u%20M%C3%B9a%20-%20Th%E1%BA%A1ch%20Lam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "Gió Lạnh Đầu Mùa - Thạch Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Hai%20%C4%90%E1%BB%A9a%20Tr%E1%BA%BB%20-%20Th%E1%BA%A1ch%20Lam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1366,
+    "title" : "Hai Đứa Trẻ - Thạch Lam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ho%C3%A0ng%20T%E1%BB%AD%20B%C3%A9%20%28Tr%E1%BB%8Dn%20B%E1%BB%99%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6637,
+    "title" : "Hoàng Tử Bé (Trọn Bộ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/H%E1%BA%A1nh%20Ph%C3%BAc%20M%E1%BB%99t%20Tang%20Gia%20-%20V%C5%A9%20Tr%E1%BB%8Dng%20Ph%E1%BB%A5ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 903,
+    "title" : "Hạnh Phúc Một Tang Gia - Vũ Trọng Phụng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/H%E1%BB%93n%20Tr%C6%B0%C6%A1ng%20Ba%2C%20Da%20H%C3%A0ng%20Th%E1%BB%8Bt%20-%20L%C6%B0u%20Quang%20V%C5%A9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8178,
+    "title" : "Hồn Trương Ba, Da Hàng Thịt - Lưu Quang Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Kim%20V%C3%A2n%20Ki%E1%BB%81u%20Truy%E1%BB%87n%20-%20H%E1%BA%BBm%20Audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16043,
+    "title" : "Kim Vân Kiều Truyện - Hẻm Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/L%C3%A0m%20%C4%90.%C4%A9%20-%20V%C5%A9%20Tr%E1%BB%8Dng%20Ph%E1%BB%A5ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18240,
+    "title" : "Làm Đ.ĩ - Vũ Trọng Phụng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/L%C3%A0ng%20-%20Kim%20L%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3511,
+    "title" : "Làng - Kim Lân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/L%C3%A3o%20H%E1%BA%A1c%20-%20Nam%20Cao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "Lão Hạc - Nam Cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/L%E1%BB%A5c%20V%C3%A2n%20Ti%C3%AAn%20-%20Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Chi%E1%BB%83u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9706,
+    "title" : "Lục Vân Tiên - Nguyễn Đình Chiểu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/M%E1%BA%A3nh%20Tr%C4%83ng%20Cu%E1%BB%91i%20%20R%E1%BB%ABng%20-%20Nguy%E1%BB%85n%20Minh%20Ch%C3%A2u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2517,
+    "title" : "Mảnh Trăng Cuối Rừng - Nguyễn Minh Châu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/M%E1%BB%99t%20Con%20Ng%C6%B0%E1%BB%9Di%20Ra%20%C4%90%E1%BB%9Di%20-%20Maksim%20Gorky.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2900,
+    "title" : "Một Con Người Ra Đời - Maksim Gorky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ng%C6%B0%E1%BB%9Di%20L%C3%A1i%20%C4%90%C3%B2%20S%C3%B4ng%20%C4%90%C3%A0%20-%20Nguy%E1%BB%85n%20Tu%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3833,
+    "title" : "Người Lái Đò Sông Đà - Nguyễn Tuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ng%C6%B0%E1%BB%9Di%20M%E1%BA%B9%20C%E1%BA%A7m%20S%C3%BAng%20-%20Nguy%E1%BB%85n%20Thi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6511,
+    "title" : "Người Mẹ Cầm Súng - Nguyễn Thi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Nh%E1%BB%AFng%20%C4%90%E1%BB%A9a%20Con%20Trong%20Gia%20%C4%90%C3%ACnh%20-%20Nguy%E1%BB%85n%20Thi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5039,
+    "title" : "Những Đứa Con Trong Gia Đình - Nguyễn Thi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/R%E1%BB%ABng%20X%C3%A0%20Nu%20-%20Nguy%E1%BB%85n%20Trung%20Th%C3%A0nh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2982,
+    "title" : "Rừng Xà Nu - Nguyễn Trung Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/S%E1%BB%91%20%C4%90%E1%BB%8F%20-%20V%C5%A9%20Tr%E1%BB%8Dng%20Ph%E1%BB%A5ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18253,
+    "title" : "Số Đỏ - Vũ Trọng Phụng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Truy%E1%BB%87n%20Ki%E1%BB%81u%20-%20Nguy%E1%BB%85n%20Du.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16044,
+    "title" : "Truyện Kiều - Nguyễn Du",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Tr%E1%BA%BB%20Con%20Kh%C3%B4ng%20%C4%90%C6%B0%E1%BB%A3c%20%C4%82n%20Th%E1%BB%8Bt%20Ch%C3%B3%20-%20Nam%20Cao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "Trẻ Con Không Được Ăn Thịt Chó - Nam Cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/T%E1%BA%AFt%20%20%C4%90%C3%A8n%20-%20Ng%C3%B4%20T%E1%BA%A5t%20T%E1%BB%91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11100,
+    "title" : "Tắt Đèn - Ngô Tất Tố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/T%E1%BA%AFt%20L%E1%BB%ADa%20L%C3%B2ng%20%28Lan%20V%C3%A0%20%20%C4%90i%E1%BB%87p%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17404,
+    "title" : "Tắt Lửa Lòng (Lan Và Điệp)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/V%E1%BB%A3%20Ch%E1%BB%93ng%20A%20Ph%E1%BB%A7%20-%20T%C3%B4%20Ho%C3%A0i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2338,
+    "title" : "Vợ Chồng A Phủ - Tô Hoài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/V%E1%BB%A3%20Nh%E1%BA%B7t%20-%20Kim%20L%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2152,
+    "title" : "Vợ Nhặt - Kim Lân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/%C4%90%C3%B4i%20M%E1%BA%AFt%20-%20Nam%20Cao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "Đôi Mắt - Nam Cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/%C4%90%E1%BA%A5t%20R%E1%BB%ABng%20Ph%C6%B0%C6%A1ng%20Nam%20-%20%C4%90o%C3%A0n%20Gi%E1%BB%8Fi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 24187,
+    "title" : "Đất Rừng Phương Nam - Đoàn Giỏi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Chi%E1%BA%BFc%20L%C6%B0%E1%BB%A3c%20Ng%C3%A0%20-%20Nguy%E1%BB%85n%20Quang%20S%C3%A1ng.mp3",
+    "title" : "Chiếc Lược Ngà - Nguyễn Quang Sáng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Chi%E1%BA%BFc%20Thuy%E1%BB%81n%20Ngo%C3%A0i%20Xa%20-%20Nguy%E1%BB%85n%20Minh%20Ch%C3%A2u.mp3",
+    "title" : "Chiếc Thuyền Ngoài Xa - Nguyễn Minh Châu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Chuy%E1%BB%87n%20Ng%C6%B0%E1%BB%9Di%20Con%20G%C3%A1i%20Nam%20X%C6%B0%C6%A1ng%20-%20Nguy%E1%BB%85n%20D%E1%BB%AF.mp3",
+    "title" : "Chuyện Người Con Gái Nam Xương - Nguyễn Dữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ch%C3%AD%20Ph%C3%A8o%20-%20Nam%20Cao.mp3",
+    "title" : "Chí Phèo - Nam Cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ch%E1%BB%8B%20Ho%C3%A0i%20-%20%C4%90%E1%BB%97%20Duy.mp3",
+    "title" : "Chị Hoài - Đỗ Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ch%E1%BB%AF%20Ng%C6%B0%E1%BB%9Di%20T%E1%BB%AD%20T%C3%B9%20-%20Nguy%E1%BB%85n%20Tu%C3%A2n.mp3",
+    "title" : "Chữ Người Tử Tù - Nguyễn Tuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/D%E1%BA%BF%20M%C3%A8n%20Phi%C3%AAu%20L%C6%B0u%20K%C3%BD%20-%20T%C3%B4%20Ho%C3%A0i.mp3",
+    "title" : "Dế Mèn Phiêu Lưu Ký - Tô Hoài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Gi%C3%B3%20L%E1%BA%A1nh%20%C4%90%E1%BA%A7u%20M%C3%B9a%20-%20Th%E1%BA%A1ch%20Lam.mp3",
+    "title" : "Gió Lạnh Đầu Mùa - Thạch Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Hai%20%C4%90%E1%BB%A9a%20Tr%E1%BA%BB%20-%20Th%E1%BA%A1ch%20Lam.mp3",
+    "title" : "Hai Đứa Trẻ - Thạch Lam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ho%C3%A0ng%20T%E1%BB%AD%20B%C3%A9%20%28Tr%E1%BB%8Dn%20B%E1%BB%99%29.mp3",
+    "title" : "Hoàng Tử Bé (Trọn Bộ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/H%E1%BA%A1nh%20Ph%C3%BAc%20M%E1%BB%99t%20Tang%20Gia%20-%20V%C5%A9%20Tr%E1%BB%8Dng%20Ph%E1%BB%A5ng.mp3",
+    "title" : "Hạnh Phúc Một Tang Gia - Vũ Trọng Phụng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/H%E1%BB%93n%20Tr%C6%B0%C6%A1ng%20Ba%2C%20Da%20H%C3%A0ng%20Th%E1%BB%8Bt%20-%20L%C6%B0u%20Quang%20V%C5%A9.mp3",
+    "title" : "Hồn Trương Ba, Da Hàng Thịt - Lưu Quang Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Kim%20V%C3%A2n%20Ki%E1%BB%81u%20Truy%E1%BB%87n%20-%20H%E1%BA%BBm%20Audio.mp3",
+    "title" : "Kim Vân Kiều Truyện - Hẻm Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/L%C3%A0m%20%C4%90.%C4%A9%20-%20V%C5%A9%20Tr%E1%BB%8Dng%20Ph%E1%BB%A5ng.mp3",
+    "title" : "Làm Đ.ĩ - Vũ Trọng Phụng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/L%C3%A0ng%20-%20Kim%20L%C3%A2n.mp3",
+    "title" : "Làng - Kim Lân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/L%C3%A3o%20H%E1%BA%A1c%20-%20Nam%20Cao.mp3",
+    "title" : "Lão Hạc - Nam Cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/L%E1%BB%A5c%20V%C3%A2n%20Ti%C3%AAn%20-%20Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Chi%E1%BB%83u.mp3",
+    "title" : "Lục Vân Tiên - Nguyễn Đình Chiểu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/M%E1%BA%A3nh%20Tr%C4%83ng%20Cu%E1%BB%91i%20%20R%E1%BB%ABng%20-%20Nguy%E1%BB%85n%20Minh%20Ch%C3%A2u.mp3",
+    "title" : "Mảnh Trăng Cuối Rừng - Nguyễn Minh Châu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/M%E1%BB%99t%20Con%20Ng%C6%B0%E1%BB%9Di%20Ra%20%C4%90%E1%BB%9Di%20-%20Maksim%20Gorky.mp3",
+    "title" : "Một Con Người Ra Đời - Maksim Gorky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ng%C6%B0%E1%BB%9Di%20L%C3%A1i%20%C4%90%C3%B2%20S%C3%B4ng%20%C4%90%C3%A0%20-%20Nguy%E1%BB%85n%20Tu%C3%A2n.mp3",
+    "title" : "Người Lái Đò Sông Đà - Nguyễn Tuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Ng%C6%B0%E1%BB%9Di%20M%E1%BA%B9%20C%E1%BA%A7m%20S%C3%BAng%20-%20Nguy%E1%BB%85n%20Thi.mp3",
+    "title" : "Người Mẹ Cầm Súng - Nguyễn Thi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Nh%E1%BB%AFng%20%C4%90%E1%BB%A9a%20Con%20Trong%20Gia%20%C4%90%C3%ACnh%20-%20Nguy%E1%BB%85n%20Thi.mp3",
+    "title" : "Những Đứa Con Trong Gia Đình - Nguyễn Thi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/R%E1%BB%ABng%20X%C3%A0%20Nu%20-%20Nguy%E1%BB%85n%20Trung%20Th%C3%A0nh.mp3",
+    "title" : "Rừng Xà Nu - Nguyễn Trung Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/S%E1%BB%91%20%C4%90%E1%BB%8F%20-%20V%C5%A9%20Tr%E1%BB%8Dng%20Ph%E1%BB%A5ng.mp3",
+    "title" : "Số Đỏ - Vũ Trọng Phụng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Truy%E1%BB%87n%20Ki%E1%BB%81u%20-%20Nguy%E1%BB%85n%20Du.mp3",
+    "title" : "Truyện Kiều - Nguyễn Du",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/Tr%E1%BA%BB%20Con%20Kh%C3%B4ng%20%C4%90%C6%B0%E1%BB%A3c%20%C4%82n%20Th%E1%BB%8Bt%20Ch%C3%B3%20-%20Nam%20Cao.mp3",
+    "title" : "Trẻ Con Không Được Ăn Thịt Chó - Nam Cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/T%E1%BA%AFt%20%20%C4%90%C3%A8n%20-%20Ng%C3%B4%20T%E1%BA%A5t%20T%E1%BB%91.mp3",
+    "title" : "Tắt Đèn - Ngô Tất Tố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/T%E1%BA%AFt%20L%E1%BB%ADa%20L%C3%B2ng%20%28Lan%20V%C3%A0%20%20%C4%90i%E1%BB%87p%29.mp3",
+    "title" : "Tắt Lửa Lòng (Lan Và Điệp)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/V%E1%BB%A3%20Ch%E1%BB%93ng%20A%20Ph%E1%BB%A7%20-%20T%C3%B4%20Ho%C3%A0i.mp3",
+    "title" : "Vợ Chồng A Phủ - Tô Hoài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/V%E1%BB%A3%20Nh%E1%BA%B7t%20-%20Kim%20L%C3%A2n.mp3",
+    "title" : "Vợ Nhặt - Kim Lân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/%C4%90%C3%B4i%20M%E1%BA%AFt%20-%20Nam%20Cao.mp3",
+    "title" : "Đôi Mắt - Nam Cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-men-phieu-luu-ky-to-hoai/%C4%90%E1%BA%A5t%20R%E1%BB%ABng%20Ph%C6%B0%C6%A1ng%20Nam%20-%20%C4%90o%C3%A0n%20Gi%E1%BB%8Fi.mp3",
+    "title" : "Đất Rừng Phương Nam - Đoàn Giỏi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kham-pha-suc-manh-ban-than_17078.html",
+    "title" : "Khám Phá Sức Mạnh Bản Thân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gillian Stokes",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 3493,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_717e17fa09c4226fe3a2a319030cf6b7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_717e17fa09c4226fe3a2a319030cf6b7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 201,
+    "title" : "kham pha suc manh ban than 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 245,
+    "title" : "kham pha suc manh ban than 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 315,
+    "title" : "kham pha suc manh ban than 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 143,
+    "title" : "kham pha suc manh ban than 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 129,
+    "title" : "kham pha suc manh ban than 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 120,
+    "title" : "kham pha suc manh ban than 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 174,
+    "title" : "kham pha suc manh ban than 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 228,
+    "title" : "kham pha suc manh ban than 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 308,
+    "title" : "kham pha suc manh ban than 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 100,
+    "title" : "kham pha suc manh ban than 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 169,
+    "title" : "kham pha suc manh ban than 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 146,
+    "title" : "kham pha suc manh ban than 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 152,
+    "title" : "kham pha suc manh ban than 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 135,
+    "title" : "kham pha suc manh ban than 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 59,
+    "title" : "kham pha suc manh ban than 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 238,
+    "title" : "kham pha suc manh ban than 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 138,
+    "title" : "kham pha suc manh ban than 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 105,
+    "title" : "kham pha suc manh ban than 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 104,
+    "title" : "kham pha suc manh ban than 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 84,
+    "title" : "kham pha suc manh ban than 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 102,
+    "title" : "kham pha suc manh ban than 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 98,
+    "title" : "kham pha suc manh ban than 22",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_01.mp3",
+    "title" : "kham pha suc manh ban than 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_02.mp3",
+    "title" : "kham pha suc manh ban than 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_03.mp3",
+    "title" : "kham pha suc manh ban than 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_04.mp3",
+    "title" : "kham pha suc manh ban than 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_05.mp3",
+    "title" : "kham pha suc manh ban than 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_06.mp3",
+    "title" : "kham pha suc manh ban than 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_07.mp3",
+    "title" : "kham pha suc manh ban than 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_08.mp3",
+    "title" : "kham pha suc manh ban than 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_09.mp3",
+    "title" : "kham pha suc manh ban than 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_10.mp3",
+    "title" : "kham pha suc manh ban than 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_11.mp3",
+    "title" : "kham pha suc manh ban than 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_12.mp3",
+    "title" : "kham pha suc manh ban than 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_13.mp3",
+    "title" : "kham pha suc manh ban than 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_14.mp3",
+    "title" : "kham pha suc manh ban than 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_15.mp3",
+    "title" : "kham pha suc manh ban than 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_16.mp3",
+    "title" : "kham pha suc manh ban than 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_17.mp3",
+    "title" : "kham pha suc manh ban than 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_18.mp3",
+    "title" : "kham pha suc manh ban than 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_19.mp3",
+    "title" : "kham pha suc manh ban than 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_20.mp3",
+    "title" : "kham pha suc manh ban than 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_21.mp3",
+    "title" : "kham pha suc manh ban than 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-khamPhaSucManhBanThan/kham_pha_suc_manh_ban_than_22.mp3",
+    "title" : "kham pha suc manh ban than 22",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

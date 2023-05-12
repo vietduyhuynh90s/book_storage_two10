@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bach-quy-tap-cuu-lo-phi-huong_10322.html",
+    "title" : "Bách Quỷ Tập - Cửu Lộ Phi Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Lộ Phi Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 28422,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_6c4c79001b987ac61fc2241546f9ac1d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_6c4c79001b987ac61fc2241546f9ac1d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bach-quy-tap/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9305,
+    "title" : "Truyện ma cực hay nhiều ý nghĩa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bach-quy-tap/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7216,
+    "title" : "Truyện ma audio tình cảm cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bach-quy-tap/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5032,
+    "title" : "Truyện ma audio cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bach-quy-tap/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6869,
+    "title" : "Tiểu thuyết huyền huyễn cực hay [END]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bach-quy-tap/1.mp3",
+    "title" : "Truyện ma cực hay nhiều ý nghĩa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bach-quy-tap/2.mp3",
+    "title" : "Truyện ma audio tình cảm cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bach-quy-tap/3.mp3",
+    "title" : "Truyện ma audio cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bach-quy-tap/4.mp3",
+    "title" : "Tiểu thuyết huyền huyễn cực hay [END]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

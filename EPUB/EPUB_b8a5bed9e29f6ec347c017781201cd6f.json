@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/da-lat-nam-xua_17498.html",
+    "title" : "Đà Lạt Năm Xưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hữu Tranh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 19361,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b8a5bed9e29f6ec347c017781201cd6f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b8a5bed9e29f6ec347c017781201cd6f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1369,
+    "title" : "Bản lược khảo về Đà Lạt năm xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "Người Lạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1870,
+    "title" : "Đạ Lạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1663,
+    "title" : "Trên đường thám hiểm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "Từ Tánh Linh đến Phan Rang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1654,
+    "title" : "Đà Lạt thuở ban đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2228,
+    "title" : "Đà Lạt trên bước đường xây dựng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2081,
+    "title" : "Đà Lạt nơi nghỉ dưỡng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1104,
+    "title" : "Đồ án quy hoạch đô thị Đà Lạt nửa đầu thế kỷ 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1423,
+    "title" : "Lâm viên hành trình nhật ký",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2238,
+    "title" : "Dư địa chí Đà Lạt năm 1953",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_01.mp3",
+    "title" : "Bản lược khảo về Đà Lạt năm xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_02.mp3",
+    "title" : "Người Lạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_03.mp3",
+    "title" : "Đạ Lạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_04.mp3",
+    "title" : "Trên đường thám hiểm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_05.mp3",
+    "title" : "Từ Tánh Linh đến Phan Rang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_06.mp3",
+    "title" : "Đà Lạt thuở ban đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_07.mp3",
+    "title" : "Đà Lạt trên bước đường xây dựng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_08.mp3",
+    "title" : "Đà Lạt nơi nghỉ dưỡng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_09.mp3",
+    "title" : "Đồ án quy hoạch đô thị Đà Lạt nửa đầu thế kỷ 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_10.mp3",
+    "title" : "Lâm viên hành trình nhật ký",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dalatnamxua-nghuutranh/DA_LAT_NAM_XUA_11.mp3",
+    "title" : "Dư địa chí Đà Lạt năm 1953",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
