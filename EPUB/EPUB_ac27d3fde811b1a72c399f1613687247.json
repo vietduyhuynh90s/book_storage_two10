@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tra-hoa-hong-cho-dat_12140.html",
+    "title" : "Trả Hoa Hồng Cho Đất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Diệp Mai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 39598,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_ac27d3fde811b1a72c399f1613687247.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_ac27d3fde811b1a72c399f1613687247.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 1 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 10 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 11 (Hết) || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 2 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3550,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 3 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 4 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3597,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 5 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 6 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 7 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3619,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 8 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 9 || Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/1.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 1 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/10.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 10 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/11.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 11 (Hết) || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/2.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 2 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/3.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 3 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/4.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 4 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/5.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 5 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/6.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 6 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/7.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 7 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/8.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 8 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa_hong_tra_lai_cho_dat/9.mp3",
+    "title" : "Tiểu Thuyết Tình Yêu: Trả Hoa Hồng Cho Đất Phần 9 || Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

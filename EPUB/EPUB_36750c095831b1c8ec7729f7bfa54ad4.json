@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-may-ban-hang-toi-uu_16952.html",
+    "title" : "Cỗ Máy Bán Hàng Tối Ưu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chet Holmes",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 31863,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_36750c095831b1c8ec7729f7bfa54ad4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_36750c095831b1c8ec7729f7bfa54ad4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1032,
+    "title" : "Phần 00 - Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "Phần 01 - Bí quyết quản lý thời gian của các tỷ phú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2480,
+    "title" : "Phần 02 - Xây dựng những tiêu chuẩn cao hơn và tiến hành đào tạo thường kỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2758,
+    "title" : "Phần 03 - Tổ chức những buổi hội thảo hiệu quả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2564,
+    "title" : "Phần 04 - Trở thành nhà chiến lược tài ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "Phần 05 - Tuyển dụng những nhân viên bán hàng tài năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2333,
+    "title" : "Phần 06 - Nghệ thuật lôi cuốn những khách hàng tốt nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu07A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2157,
+    "title" : "Phần 07 - Bảy nguyên tắc của nghệ thuật tiếp thị - A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu07B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1997,
+    "title" : "Phần 07 - Bảy nguyên tắc của nghệ thuật tiếp thị - B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2141,
+    "title" : "Phần 08 - Vai trò của thị giác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "Phần 09 - Cách thức có được những khách hàng mơ ước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2328,
+    "title" : "Phần 10 - Kỹ năng bán hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2034,
+    "title" : "Phần 11 - Quá trình theo sau và kỹ năng giữ khách hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2298,
+    "title" : "Phần 12 - Vận hành hệ thống",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu00.mp3",
+    "title" : "Phần 00 - Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu01.mp3",
+    "title" : "Phần 01 - Bí quyết quản lý thời gian của các tỷ phú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu02.mp3",
+    "title" : "Phần 02 - Xây dựng những tiêu chuẩn cao hơn và tiến hành đào tạo thường kỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu03.mp3",
+    "title" : "Phần 03 - Tổ chức những buổi hội thảo hiệu quả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu04.mp3",
+    "title" : "Phần 04 - Trở thành nhà chiến lược tài ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu05.mp3",
+    "title" : "Phần 05 - Tuyển dụng những nhân viên bán hàng tài năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu06.mp3",
+    "title" : "Phần 06 - Nghệ thuật lôi cuốn những khách hàng tốt nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu07A.mp3",
+    "title" : "Phần 07 - Bảy nguyên tắc của nghệ thuật tiếp thị - A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu07B.mp3",
+    "title" : "Phần 07 - Bảy nguyên tắc của nghệ thuật tiếp thị - B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu08.mp3",
+    "title" : "Phần 08 - Vai trò của thị giác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu09.mp3",
+    "title" : "Phần 09 - Cách thức có được những khách hàng mơ ước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu10.mp3",
+    "title" : "Phần 10 - Kỹ năng bán hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu11.mp3",
+    "title" : "Phần 11 - Quá trình theo sau và kỹ năng giữ khách hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCoMayBanHangToiUu/CoMayBanHangToiUu12.mp3",
+    "title" : "Phần 12 - Vận hành hệ thống",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

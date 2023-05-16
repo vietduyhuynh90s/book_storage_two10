@@ -1,0 +1,605 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/de-tro-thanh-nguoi-ban-hang-xuat-sac_16769.html",
+    "title" : "Để Trở Thành Người Bán Hàng Xuất Sắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jeffrey J. Fox",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 7322,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_8847da113791ec18acdcb10862be4d6c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_8847da113791ec18acdcb10862be4d6c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 133,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/02-chuong_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 259,
+    "title" : "Tiêu chí, phẩm chất của người bán hàng xuất sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/03-p2_luon_tim_cau_tra_loi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 143,
+    "title" : "Luôn tìm câu trả lời: “Tại sao khách hàng này cần chúng ta?”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/04-p3_doi_xu_voi_khach_hang_nhu_chinh_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 123,
+    "title" : "“Đối xử với khách hàng như chính mình” Bí quyết đầu tiên trong marketing",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/05-p4_khach_hang_ko_quan_tam_cac_van_de_cua_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 72,
+    "title" : "Khách hàng không quan tâm đến các vấn đề của bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/06-p5-LuonLenKe_hoach_truoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 254,
+    "title" : "Luôn lên kế hoạch trước cho mọi giao dịch với khách hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/07-p6-tap_trung_cau_o_noi_co_ca_lon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 129,
+    "title" : "Tập trung câu ở nơi có cá lớn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/08-p7_hay_chi_cho_khach_hang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 318,
+    "title" : "Hãy chỉ cho khách hàng thấy những lợi ích bằng tiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/09-p8_ko_tinh_dong_dat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 135,
+    "title" : "“Không tính đến động đất!”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/10-p9_cau_hoi_ban_hang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 116,
+    "title" : "Câu hỏi bán hàng mang tính quyết định số 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/11-p10_luon_chon_vi_tri_ngoi_tot_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 79,
+    "title" : "Luôn chọn vị trí ngồi tốt nhất khi giao dịch với khách hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/12-p11_trong_kinh_doanh_buoi_tiec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 116,
+    "title" : "Trong kinh doanh, buổi tiệc không phải chỉ để thưởng thức món ăn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/13-p12_cau_hoi_so_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 175,
+    "title" : "Câu hỏi bán hàng mang tính số quyết định 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/14-p13_bien_ly_le_phan_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 212,
+    "title" : "Biến lý lẽ phản đối của khách hàng thành mục tiêu bán hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/15-p14_luon_de_xuat_cong_viec_tiep_theo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 137,
+    "title" : "Luôn đề xuất công việc tiếp theo khi đang thực hiện công việc hiện tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/16-p15_hay_cu_xu_tot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 168,
+    "title" : "Hãy cư xử với những người bạn gặp như những khách hàng tiềm năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/17-p16_nhan_ra_tin_hieu_mua-hang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 110,
+    "title" : "Nhận ra tín hiệu mua hàng mạnh mẽ nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/18-p17_cau_hoi_so_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 255,
+    "title" : "Câu hỏi bán hàng mang tính số quyết định 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/19-p18_luon_tra_loi_dt.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 98,
+    "title" : "Luôn trả lời mọi cuộc điện thoại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/20-p19_tim_hieu_cong_thuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 184,
+    "title" : "Tìm hiểu công thức “đoạn đường đi được trên mỗi lít xăng”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/21-p20_dung_qua_tin_vao_quan_ly.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 132,
+    "title" : "Đừng quá tin vào “quản lý thời gian và khu vực bán hàng”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/22-p21_luon_thu_ruou.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 147,
+    "title" : "Luôn thử rượu trước khi diễn ra “cuộc thi nếm rượu”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/23-p22_trong_giao_dich.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 181,
+    "title" : "Trong giao dịch đôi khi hãy tỏ vẻ “ngờ nghệnh”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/24-p23_luon_phan_tich_loi_ich.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 126,
+    "title" : "Luôn phân tích lợi ích thu về trên vốn đầu tư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/25-p24_hay_nho_rang_moi_nguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 96,
+    "title" : "Hãy nhớ rằng mọi người đều có mối quan hệ liên quan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/26-p25_luon_tap_trung_lang_nghe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 126,
+    "title" : "Luôn tập trung lắng nghe những ý kiến của khách hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/27-p26_luon_tim_hieu_nhu_cau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 123,
+    "title" : "Luôn tìm hiểu nhu cầu thực sự của khách hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/28-p27_dung_dat_cau_hoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 79,
+    "title" : "Đừng đặt câu hỏi nếu không quan tâm đến câu trả lời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/29-p28_ko_ban_hop.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 67,
+    "title" : "Không bao giờ bận họp khi khách hàng gọi đến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/30-.p29_trinh_bay_chi_de_bieu_dien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 100,
+    "title" : "Trình bày chỉ để biểu diễn, kết thúc là để bán hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/31-p30_mang_den_cho_khach_nhieu_hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 95,
+    "title" : "Mang đến cho khách hàng nhiều hơn mức mong đợi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/32-p31_cau_hoi_so_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 151,
+    "title" : "Câu hỏi bán hàng mang tính số quyết định 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/33-p32_cho_va_nhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 183,
+    "title" : "Cho và nhận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/34-p33_chi_pha_bang_vao_cuoi_cuoc_gap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 143,
+    "title" : "Chỉ “phá băng” vào cuối cuộc gặp bán hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/35-p34_hay_su_dung_he_thong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 102,
+    "title" : "Hãy sử dụng hệ thống cho điểm mỗi ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/36-p35_manh_dan_sut_bong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 157,
+    "title" : "“Mạnh dạn sút bòng về phía khung thành”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/37-p36_dung_gap_go.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 109,
+    "title" : "Đừng gặp gỡ bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/38-p37_chi_can_ban_duoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 172,
+    "title" : "Chỉ cần bán được “mắc xích đầu tiên”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/39-p38_cau_hoi_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 112,
+    "title" : "Câu hỏi bán hàng mang tính số quyết định 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/40-p39_hop_thu_thoai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 220,
+    "title" : "Hộp thư thoại: Công cụ bán hàng xuất sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/41-p40_hay_xd_hinh_anh_tich_cuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 62,
+    "title" : "Hãy xây dựng hình ảnh tích cực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/42-p41_luon_chon-lua_trang_phuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 83,
+    "title" : "Luôn chọn lựa trang phục phù hợp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/43-p42_bua_diem_tam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 132,
+    "title" : "Bữa điểm tâm: Thời điểm lý tưởng để hẹn gặp khách hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/44-p43_day_la_danh_thiep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 133,
+    "title" : "“Đây là danh thiếp của tôi...”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/45-p44_cach_nhan_dien_nguoi_ban_hang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 161,
+    "title" : "Cách nhận diện người bán hàng xuất sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/46-p45_biet_quy_doi_loi_ich.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 341,
+    "title" : "Biết quy đổi lợi ích thành tiền như thế nào",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/47-Tinh%20huong%20tham%20khao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 573,
+    "title" : "Tình huống tham khảo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/02-chuong_1.mp3",
+    "title" : "Tiêu chí, phẩm chất của người bán hàng xuất sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/03-p2_luon_tim_cau_tra_loi.mp3",
+    "title" : "Luôn tìm câu trả lời: “Tại sao khách hàng này cần chúng ta?”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/04-p3_doi_xu_voi_khach_hang_nhu_chinh_minh.mp3",
+    "title" : "“Đối xử với khách hàng như chính mình” Bí quyết đầu tiên trong marketing",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/05-p4_khach_hang_ko_quan_tam_cac_van_de_cua_ban.mp3",
+    "title" : "Khách hàng không quan tâm đến các vấn đề của bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/06-p5-LuonLenKe_hoach_truoc.mp3",
+    "title" : "Luôn lên kế hoạch trước cho mọi giao dịch với khách hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/07-p6-tap_trung_cau_o_noi_co_ca_lon.mp3",
+    "title" : "Tập trung câu ở nơi có cá lớn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/08-p7_hay_chi_cho_khach_hang.mp3",
+    "title" : "Hãy chỉ cho khách hàng thấy những lợi ích bằng tiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/09-p8_ko_tinh_dong_dat.mp3",
+    "title" : "“Không tính đến động đất!”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/10-p9_cau_hoi_ban_hang.mp3",
+    "title" : "Câu hỏi bán hàng mang tính quyết định số 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/11-p10_luon_chon_vi_tri_ngoi_tot_nhat.mp3",
+    "title" : "Luôn chọn vị trí ngồi tốt nhất khi giao dịch với khách hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/12-p11_trong_kinh_doanh_buoi_tiec.mp3",
+    "title" : "Trong kinh doanh, buổi tiệc không phải chỉ để thưởng thức món ăn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/13-p12_cau_hoi_so_2.mp3",
+    "title" : "Câu hỏi bán hàng mang tính số quyết định 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/14-p13_bien_ly_le_phan_doi.mp3",
+    "title" : "Biến lý lẽ phản đối của khách hàng thành mục tiêu bán hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/15-p14_luon_de_xuat_cong_viec_tiep_theo.mp3",
+    "title" : "Luôn đề xuất công việc tiếp theo khi đang thực hiện công việc hiện tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/16-p15_hay_cu_xu_tot.mp3",
+    "title" : "Hãy cư xử với những người bạn gặp như những khách hàng tiềm năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/17-p16_nhan_ra_tin_hieu_mua-hang.mp3",
+    "title" : "Nhận ra tín hiệu mua hàng mạnh mẽ nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/18-p17_cau_hoi_so_3.mp3",
+    "title" : "Câu hỏi bán hàng mang tính số quyết định 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/19-p18_luon_tra_loi_dt.mp3",
+    "title" : "Luôn trả lời mọi cuộc điện thoại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/20-p19_tim_hieu_cong_thuc.mp3",
+    "title" : "Tìm hiểu công thức “đoạn đường đi được trên mỗi lít xăng”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/21-p20_dung_qua_tin_vao_quan_ly.mp3",
+    "title" : "Đừng quá tin vào “quản lý thời gian và khu vực bán hàng”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/22-p21_luon_thu_ruou.mp3",
+    "title" : "Luôn thử rượu trước khi diễn ra “cuộc thi nếm rượu”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/23-p22_trong_giao_dich.mp3",
+    "title" : "Trong giao dịch đôi khi hãy tỏ vẻ “ngờ nghệnh”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/24-p23_luon_phan_tich_loi_ich.mp3",
+    "title" : "Luôn phân tích lợi ích thu về trên vốn đầu tư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/25-p24_hay_nho_rang_moi_nguoi.mp3",
+    "title" : "Hãy nhớ rằng mọi người đều có mối quan hệ liên quan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/26-p25_luon_tap_trung_lang_nghe.mp3",
+    "title" : "Luôn tập trung lắng nghe những ý kiến của khách hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/27-p26_luon_tim_hieu_nhu_cau.mp3",
+    "title" : "Luôn tìm hiểu nhu cầu thực sự của khách hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/28-p27_dung_dat_cau_hoi.mp3",
+    "title" : "Đừng đặt câu hỏi nếu không quan tâm đến câu trả lời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/29-p28_ko_ban_hop.mp3",
+    "title" : "Không bao giờ bận họp khi khách hàng gọi đến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/30-.p29_trinh_bay_chi_de_bieu_dien.mp3",
+    "title" : "Trình bày chỉ để biểu diễn, kết thúc là để bán hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/31-p30_mang_den_cho_khach_nhieu_hon.mp3",
+    "title" : "Mang đến cho khách hàng nhiều hơn mức mong đợi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/32-p31_cau_hoi_so_4.mp3",
+    "title" : "Câu hỏi bán hàng mang tính số quyết định 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/33-p32_cho_va_nhan.mp3",
+    "title" : "Cho và nhận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/34-p33_chi_pha_bang_vao_cuoi_cuoc_gap.mp3",
+    "title" : "Chỉ “phá băng” vào cuối cuộc gặp bán hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/35-p34_hay_su_dung_he_thong.mp3",
+    "title" : "Hãy sử dụng hệ thống cho điểm mỗi ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/36-p35_manh_dan_sut_bong.mp3",
+    "title" : "“Mạnh dạn sút bòng về phía khung thành”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/37-p36_dung_gap_go.mp3",
+    "title" : "Đừng gặp gỡ bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/38-p37_chi_can_ban_duoc.mp3",
+    "title" : "Chỉ cần bán được “mắc xích đầu tiên”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/39-p38_cau_hoi_5.mp3",
+    "title" : "Câu hỏi bán hàng mang tính số quyết định 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/40-p39_hop_thu_thoai.mp3",
+    "title" : "Hộp thư thoại: Công cụ bán hàng xuất sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/41-p40_hay_xd_hinh_anh_tich_cuc.mp3",
+    "title" : "Hãy xây dựng hình ảnh tích cực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/42-p41_luon_chon-lua_trang_phuc.mp3",
+    "title" : "Luôn chọn lựa trang phục phù hợp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/43-p42_bua_diem_tam.mp3",
+    "title" : "Bữa điểm tâm: Thời điểm lý tưởng để hẹn gặp khách hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/44-p43_day_la_danh_thiep.mp3",
+    "title" : "“Đây là danh thiếp của tôi...”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/45-p44_cach_nhan_dien_nguoi_ban_hang.mp3",
+    "title" : "Cách nhận diện người bán hàng xuất sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/46-p45_biet_quy_doi_loi_ich.mp3",
+    "title" : "Biết quy đổi lợi ích thành tiền như thế nào",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDeTroThanhNguoiBanHangXuatSac/47-Tinh%20huong%20tham%20khao.mp3",
+    "title" : "Tình huống tham khảo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

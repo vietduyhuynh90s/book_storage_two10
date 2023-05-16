@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-bi-thanh-dinh-mac_10010.html",
+    "title" : "Từ Bi Thành - Đinh Mặc.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đinh Mặc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 77436,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_66fa81a11d4d707ad12534013026d259.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_66fa81a11d4d707ad12534013026d259.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2217,
+    "title" : "Tập 1 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "Tập 10– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2237,
+    "title" : "Tập 11– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2247,
+    "title" : "Tập 12– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "Tập 13– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2102,
+    "title" : "Tập 14 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2270,
+    "title" : "Tập 15 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2197,
+    "title" : "Tập 16 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2186,
+    "title" : "Tập 17 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2572,
+    "title" : "Tập 18 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2307,
+    "title" : "Tập 19 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2283,
+    "title" : "Tập 2 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2269,
+    "title" : "Tập 20– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2099,
+    "title" : "Tập 21 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2085,
+    "title" : "Tập 22 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Tập 23 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2358,
+    "title" : "Tập 24 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2499,
+    "title" : "Tập 25 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2367,
+    "title" : "Tập 26 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2142,
+    "title" : "Tập 27 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2336,
+    "title" : "Tập 28 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "Tập 29 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2235,
+    "title" : "Tập 3 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "Tập 30 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "Tập 31 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2203,
+    "title" : "Tập 32 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "Tập 33 End – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2345,
+    "title" : "Tập 4 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "Từ bi thành –Đinh Mặc- Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2368,
+    "title" : "Tập 6– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2092,
+    "title" : "Tập 7– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2297,
+    "title" : "Tập 8– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "Tập 9– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/1.mp3",
+    "title" : "Tập 1 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/10.mp3",
+    "title" : "Tập 10– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/11.mp3",
+    "title" : "Tập 11– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/12.mp3",
+    "title" : "Tập 12– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/13.mp3",
+    "title" : "Tập 13– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/14.mp3",
+    "title" : "Tập 14 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/15.mp3",
+    "title" : "Tập 15 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/16.mp3",
+    "title" : "Tập 16 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/17.mp3",
+    "title" : "Tập 17 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/18.mp3",
+    "title" : "Tập 18 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/19.mp3",
+    "title" : "Tập 19 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/2.mp3",
+    "title" : "Tập 2 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/20.mp3",
+    "title" : "Tập 20– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/21.mp3",
+    "title" : "Tập 21 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/22.mp3",
+    "title" : "Tập 22 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/23.mp3",
+    "title" : "Tập 23 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/24.mp3",
+    "title" : "Tập 24 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/25.mp3",
+    "title" : "Tập 25 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/26.mp3",
+    "title" : "Tập 26 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/27.mp3",
+    "title" : "Tập 27 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/28.mp3",
+    "title" : "Tập 28 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/29.mp3",
+    "title" : "Tập 29 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/3.mp3",
+    "title" : "Tập 3 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/30.mp3",
+    "title" : "Tập 30 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/31.mp3",
+    "title" : "Tập 31 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/32.mp3",
+    "title" : "Tập 32 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/33.mp3",
+    "title" : "Tập 33 End – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/4.mp3",
+    "title" : "Tập 4 – Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/5.mp3",
+    "title" : "Từ bi thành –Đinh Mặc- Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/6.mp3",
+    "title" : "Tập 6– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/7.mp3",
+    "title" : "Tập 7– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/8.mp3",
+    "title" : "Tập 8– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tbt/9.mp3",
+    "title" : "Tập 9– Ngôn tình Hắc Bang - Truyện Audio Lê Duyên – Lê Duyên",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

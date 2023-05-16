@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thay-thai-do-doi-cuoc-doi-keith-d-harrell_5380.html",
+    "title" : "Thay Thái Độ Đổi Cuộc Đời - Keith D. Harrell.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Keith D. Harrell",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 16154,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b16312feae9fc4b705ba50266c8c9f71.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b16312feae9fc4b705ba50266c8c9f71.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2909,
+    "title" : "ThayThayDoDoiCuocDoi01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2340,
+    "title" : "ThayThayDoDoiCuocDoi02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1661,
+    "title" : "ThayThayDoDoiCuocDoi03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2569,
+    "title" : "ThayThayDoDoiCuocDoi04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2957,
+    "title" : "ThayThayDoDoiCuocDoi05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "ThayThayDoDoiCuocDoi06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi01.mp3",
+    "title" : "ThayThayDoDoiCuocDoi01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi02.mp3",
+    "title" : "ThayThayDoDoiCuocDoi02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi03.mp3",
+    "title" : "ThayThayDoDoiCuocDoi03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi04.mp3",
+    "title" : "ThayThayDoDoiCuocDoi04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi05.mp3",
+    "title" : "ThayThayDoDoiCuocDoi05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnThayThaiDo-DoiCuocDoi/ThayThayDoDoiCuocDoi06.mp3",
+    "title" : "ThayThayDoDoiCuocDoi06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-nguoi-khon-kho-victor-hugo_4632.html",
+    "title" : "Những Người Khốn Khổ - Victor Hugo.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Victor Hugo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 18036,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_47ea43cd72427ff18f5b19c80283b101.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_47ea43cd72427ff18f5b19c80283b101.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1646,
+    "title" : "01. Một con người chính trực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1923,
+    "title" : "02. Ông Madeleine",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1543,
+    "title" : "03. Quán Thenardier",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1870,
+    "title" : "04. CoSette",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1804,
+    "title" : "05. Nhà đại tư sản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1380,
+    "title" : "06. Ánh sáng và Bóng tối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1483,
+    "title" : "07. Mai phục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1058,
+    "title" : "08. Lớp phụ tình tứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1423,
+    "title" : "09. Đường Chanvrerie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1813,
+    "title" : "10. Phút hấp hối của cuộc nổi dậy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "11. Hôn Lễ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1113,
+    "title" : "12. Hồi kết cuộc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho1.mp3",
+    "title" : "01. Một con người chính trực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho2.mp3",
+    "title" : "02. Ông Madeleine",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho3.mp3",
+    "title" : "03. Quán Thenardier",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho4.mp3",
+    "title" : "04. CoSette",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho5.mp3",
+    "title" : "05. Nhà đại tư sản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho6.mp3",
+    "title" : "06. Ánh sáng và Bóng tối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho7.mp3",
+    "title" : "07. Mai phục",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho8.mp3",
+    "title" : "08. Lớp phụ tình tứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho9.mp3",
+    "title" : "09. Đường Chanvrerie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho90.mp3",
+    "title" : "10. Phút hấp hối của cuộc nổi dậy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho91.mp3",
+    "title" : "11. Hôn Lễ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungnguoikhonkho-ban-rut-gon/nhungnguoikhonkho92.mp3",
+    "title" : "12. Hồi kết cuộc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
