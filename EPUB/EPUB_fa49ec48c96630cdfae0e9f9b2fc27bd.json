@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gap-lai-chon-hong-tran-sau-nhat_20365.html",
+    "title" : "Gặp Lại Chốn Hồng Trần Sâu Nhất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bạch Lạc Mai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 23098,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_fa49ec48c96630cdfae0e9f9b2fc27bd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_fa49ec48c96630cdfae0e9f9b2fc27bd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 390,
+    "title" : "Bạch Lạc Mai: Lời giới thiệu & Lời tựa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "1 # Gặp lại chốn hồng trần sâu nhất - Bạch Lạc Mai: Quyển thứ nhất - Chỉ vừa gặp gỡ đã quen nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4048,
+    "title" : "2 # Gặp lại chốn hồng trần sâu nhất - Bạch Lạc Mai: Quyển thứ hai - Hoa rơi còn đa tình hơn nàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3970,
+    "title" : "3 # Gặp lại chốn hồng trần sâu nhất # Bạch Lạc Mai # Quyển 3: Vì nàng tiều tụy muốn thành bụi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "4 # Gặp lại chốn hồng trần sâu nhất # Bạch Lạc Mai # Quyển 4: Chuyến này đừng hận chân trời xa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "5 # Gặp lại chốn hồng trần sâu nhất # Không xem sinh diệt và vô thường # Bạch Lạc Mai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "6 # Gặp lại chốn hồng trần sâu nhất # Chẳng phụ Như Lai chẳng phụ nàng # Bạch Lạc Mai (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-1.mp3",
+    "title" : "Bạch Lạc Mai: Lời giới thiệu & Lời tựa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-2.mp3",
+    "title" : "1 # Gặp lại chốn hồng trần sâu nhất - Bạch Lạc Mai: Quyển thứ nhất - Chỉ vừa gặp gỡ đã quen nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-3.mp3",
+    "title" : "2 # Gặp lại chốn hồng trần sâu nhất - Bạch Lạc Mai: Quyển thứ hai - Hoa rơi còn đa tình hơn nàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-4.mp3",
+    "title" : "3 # Gặp lại chốn hồng trần sâu nhất # Bạch Lạc Mai # Quyển 3: Vì nàng tiều tụy muốn thành bụi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-5.mp3",
+    "title" : "4 # Gặp lại chốn hồng trần sâu nhất # Bạch Lạc Mai # Quyển 4: Chuyến này đừng hận chân trời xa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-6.mp3",
+    "title" : "5 # Gặp lại chốn hồng trần sâu nhất # Không xem sinh diệt và vô thường # Bạch Lạc Mai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gap-lai-3/gap-lai-7.mp3",
+    "title" : "6 # Gặp lại chốn hồng trần sâu nhất # Chẳng phụ Như Lai chẳng phụ nàng # Bạch Lạc Mai (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

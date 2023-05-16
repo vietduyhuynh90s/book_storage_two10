@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-dieu-hanh-tham-lang_19037.html",
+    "title" : "Cuộc Diễu Hành Thầm Lặng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 1686,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0ef9a8e835562816c149d4e7e9268f8f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0ef9a8e835562816c149d4e7e9268f8f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-cuoc-dieu-hanh-tham-lang-higashino-keigo-01/%28Lachoncoc.com%29Cu%E1%BB%99c%20di%E1%BB%85u%20h%C3%A0nh%20th%E1%BA%A7m%20l%E1%BA%B7ng-HigashinoKeigo_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1686,
+    "title" : "(Lachoncoc.com)Cuộc diễu hành thầm lặng-HigashinoKeigo 01",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-cuoc-dieu-hanh-tham-lang-higashino-keigo-01/%28Lachoncoc.com%29Cu%E1%BB%99c%20di%E1%BB%85u%20h%C3%A0nh%20th%E1%BA%A7m%20l%E1%BA%B7ng-HigashinoKeigo_01.mp3",
+    "title" : "(Lachoncoc.com)Cuộc diễu hành thầm lặng-HigashinoKeigo 01",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

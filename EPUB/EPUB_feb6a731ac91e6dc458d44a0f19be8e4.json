@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-la-diem-tua-cua-chinh-minh_20358.html",
+    "title" : "Tôi Là Điểm Tựa Của Chính Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gabrielle Bernstein",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 18283,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_feb6a731ac91e6dc458d44a0f19be8e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_feb6a731ac91e6dc458d44a0f19be8e4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 687,
+    "title" : "#Tôi là điểm tựa chính mình - Giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1343,
+    "title" : "1# Tôi là điểm tựa của chính mình - Bạn sở hữu một sức mạnh tiềm ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1849,
+    "title" : "2# Tôi là điểm tựa của chính mính - Bạn mơ những giấc mơ của chính mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1368,
+    "title" : "3# Tôi là điểm tựa của chính mình-Bạn luôn được dẫn dắt. Dù đôi lúc, bạn không cảm nhận được điều đó",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1730,
+    "title" : "4# Tôi là điểm tựa của chính mình - Những rung cảm thể hiện nhiều hơn lời ta nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1352,
+    "title" : "5# Tôi là điểm tựa của chính mình - Vũ trụ vận động nhanh chóng khi bạn tận hưởng niềm vui",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1264,
+    "title" : "6# Tôi là điểm tựa của chính mình - Chướng ngại vật cũng là một khúc ngoặt đưa bạn về đúng hướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1673,
+    "title" : "7# Tôi là điểm tựa của chính mình - Niềm tin vững chắc sẽ dọn đường cho những điều bạn mong muốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1427,
+    "title" : "8# Tôi là điểm tựa của chính mình - Vũ trụ trò chuyện theo những cách bí ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "9# Tôi là điểm tựa của chính nình - Sự đồng điệu sẽ đem đến tự do",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "10# Tôi là điểm tựa của chính mình - Bạn chính là vũ trụ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1207,
+    "title" : "11# Tôi là điểm tựa của chính mình - Khi bạn nghĩ mình đã đầu hàng, hãy tiếp tục đầu hàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1203,
+    "title" : "12# Tôi là điểm tựa của chính mình - Hãy trở thành công cụ của tình yêu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-01.mp3",
+    "title" : "#Tôi là điểm tựa chính mình - Giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-02.mp3",
+    "title" : "1# Tôi là điểm tựa của chính mình - Bạn sở hữu một sức mạnh tiềm ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-03.mp3",
+    "title" : "2# Tôi là điểm tựa của chính mính - Bạn mơ những giấc mơ của chính mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-04.mp3",
+    "title" : "3# Tôi là điểm tựa của chính mình-Bạn luôn được dẫn dắt. Dù đôi lúc, bạn không cảm nhận được điều đó",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-05.mp3",
+    "title" : "4# Tôi là điểm tựa của chính mình - Những rung cảm thể hiện nhiều hơn lời ta nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-06.mp3",
+    "title" : "5# Tôi là điểm tựa của chính mình - Vũ trụ vận động nhanh chóng khi bạn tận hưởng niềm vui",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-07.mp3",
+    "title" : "6# Tôi là điểm tựa của chính mình - Chướng ngại vật cũng là một khúc ngoặt đưa bạn về đúng hướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-08.mp3",
+    "title" : "7# Tôi là điểm tựa của chính mình - Niềm tin vững chắc sẽ dọn đường cho những điều bạn mong muốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-09.mp3",
+    "title" : "8# Tôi là điểm tựa của chính mình - Vũ trụ trò chuyện theo những cách bí ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-10.mp3",
+    "title" : "9# Tôi là điểm tựa của chính nình - Sự đồng điệu sẽ đem đến tự do",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-11.mp3",
+    "title" : "10# Tôi là điểm tựa của chính mình - Bạn chính là vũ trụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-12.mp3",
+    "title" : "11# Tôi là điểm tựa của chính mình - Khi bạn nghĩ mình đã đầu hàng, hãy tiếp tục đầu hàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-03/toi-la-13.mp3",
+    "title" : "12# Tôi là điểm tựa của chính mình - Hãy trở thành công cụ của tình yêu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

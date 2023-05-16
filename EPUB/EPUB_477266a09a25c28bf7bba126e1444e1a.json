@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mien-xanh-tham_20140.html",
+    "title" : "Miền Xanh Thắm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Hoài Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 23293,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_477266a09a25c28bf7bba126e1444e1a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_477266a09a25c28bf7bba126e1444e1a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "mien-xanh-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "mien-xanh-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2099,
+    "title" : "mien-xanh-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "mien-xanh-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1826,
+    "title" : "mien-xanh-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2004,
+    "title" : "mien-xanh-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "mien-xanh-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "mien-xanh-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2662,
+    "title" : "mien-xanh-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2797,
+    "title" : "mien-xanh-10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-01.mp3",
+    "title" : "mien-xanh-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-02.mp3",
+    "title" : "mien-xanh-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-03.mp3",
+    "title" : "mien-xanh-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-04.mp3",
+    "title" : "mien-xanh-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-05.mp3",
+    "title" : "mien-xanh-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-06.mp3",
+    "title" : "mien-xanh-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-07.mp3",
+    "title" : "mien-xanh-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-08.mp3",
+    "title" : "mien-xanh-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-09.mp3",
+    "title" : "mien-xanh-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-xanh-10/mien-xanh-10.mp3",
+    "title" : "mien-xanh-10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

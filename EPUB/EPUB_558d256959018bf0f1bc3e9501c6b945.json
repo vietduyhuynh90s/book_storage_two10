@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tai-toi_20324.html",
+    "title" : "Tại Tôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 16085,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_558d256959018bf0f1bc3e9501c6b945.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_558d256959018bf0f1bc3e9501c6b945.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2199,
+    "title" : "TAI TOI 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2568,
+    "title" : "TAI TOI 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2581,
+    "title" : "TAI TOI 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2889,
+    "title" : "TAI TOI 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2957,
+    "title" : "TAI TOI 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "TAI TOI 06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_01.mp3",
+    "title" : "TAI TOI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_02.mp3",
+    "title" : "TAI TOI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_03.mp3",
+    "title" : "TAI TOI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_04.mp3",
+    "title" : "TAI TOI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_05.mp3",
+    "title" : "TAI TOI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-toi.sna/TAI_TOI_06.mp3",
+    "title" : "TAI TOI 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
