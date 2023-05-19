@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-so-dem-den-boi-trong-long-co-anh-sang_20368.html",
+    "title" : "Không Sợ Đêm Đen Bởi Trong Lòng Có Ánh Sáng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mễ Tô",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 14963,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_68dd564fa0ad63167feab66d25ecd129.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_68dd564fa0ad63167feab66d25ecd129.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "1 # Không sợ đêm đen bởi trong lòng có ánh sáng # Đừng hoài nghi cuộc đời chỉ vì một lần thất bại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2242,
+    "title" : "2 # Không sợ đêm đen bởi trong lòng có ánh sáng # Gian khổ đến mấy cũng phải sống cho ra sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1245,
+    "title" : "3 # Không sợ đêm đen bởi trong lòng có ánh sáng # Thuận theo tự nhiên, mỉm cười với cuộc đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1505,
+    "title" : "4 # Không sợ đêm đen bởi trong lòng có ánh sáng # Bình thản đối mặt với sự được mất trong đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1519,
+    "title" : "5 # Không sợ đêm đen bởi trong lòng có ánh sáng # Làm chủ cảm xúc để nắm giữ vận mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "6 # Không sợ đêm đen bởi trong lòng có ánh sáng # Đời người vốn không hoàn hảo hãy cười ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2304,
+    "title" : "7 # Không sợ đêm đen bởi trong lòng có ánh sáng # Phong cảnh tuyệt đẹp luôn nằm trong tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2592,
+    "title" : "8 # Không sợ đêm đen bởi trong lòng có ánh sáng # Để tìm về bình yên cần trái tim bình lặng # Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-1.mp3",
+    "title" : "1 # Không sợ đêm đen bởi trong lòng có ánh sáng # Đừng hoài nghi cuộc đời chỉ vì một lần thất bại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-2.mp3",
+    "title" : "2 # Không sợ đêm đen bởi trong lòng có ánh sáng # Gian khổ đến mấy cũng phải sống cho ra sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-3.mp3",
+    "title" : "3 # Không sợ đêm đen bởi trong lòng có ánh sáng # Thuận theo tự nhiên, mỉm cười với cuộc đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-4.mp3",
+    "title" : "4 # Không sợ đêm đen bởi trong lòng có ánh sáng # Bình thản đối mặt với sự được mất trong đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-5.mp3",
+    "title" : "5 # Không sợ đêm đen bởi trong lòng có ánh sáng # Làm chủ cảm xúc để nắm giữ vận mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-6.mp3",
+    "title" : "6 # Không sợ đêm đen bởi trong lòng có ánh sáng # Đời người vốn không hoàn hảo hãy cười ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-7.mp3",
+    "title" : "7 # Không sợ đêm đen bởi trong lòng có ánh sáng # Phong cảnh tuyệt đẹp luôn nằm trong tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-so-8/khong-so-8.mp3",
+    "title" : "8 # Không sợ đêm đen bởi trong lòng có ánh sáng # Để tìm về bình yên cần trái tim bình lặng # Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

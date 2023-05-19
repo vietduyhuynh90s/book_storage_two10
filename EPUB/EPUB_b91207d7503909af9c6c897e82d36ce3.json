@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-tinh-cac-danh-nhan-viet-nam-tap-2_20384.html",
+    "title" : "Chuyện Tình Các Danh Nhân Việt Nam Tập 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Minh Quốc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 42006,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b91207d7503909af9c6c897e82d36ce3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b91207d7503909af9c6c897e82d36ce3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2195,
+    "title" : "chuyen-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2268,
+    "title" : "chuyen-tinh-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2186,
+    "title" : "chuyen-tinh-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2362,
+    "title" : "chuyen-tinh-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1994,
+    "title" : "chuyen-tinh-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2305,
+    "title" : "chuyen-tinh-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2022,
+    "title" : "chuyen-tinh-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1988,
+    "title" : "chuyen-tinh-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2104,
+    "title" : "chuyen-tinh-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2278,
+    "title" : "chuyen-tinh-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2383,
+    "title" : "chuyen-tinh-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "chuyen-tinh-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "chuyen-tinh-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2466,
+    "title" : "chuyen-tinh-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2185,
+    "title" : "chuyen-tinh-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2271,
+    "title" : "chuyen-tinh-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2136,
+    "title" : "chuyen-tinh-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1981,
+    "title" : "chuyen-tinh-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1856,
+    "title" : "chuyen-tinh-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1446,
+    "title" : "chuyen-tinh-20",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-1.mp3",
+    "title" : "chuyen-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-02.mp3",
+    "title" : "chuyen-tinh-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-03.mp3",
+    "title" : "chuyen-tinh-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-04.mp3",
+    "title" : "chuyen-tinh-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-05.mp3",
+    "title" : "chuyen-tinh-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-06.mp3",
+    "title" : "chuyen-tinh-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-07.mp3",
+    "title" : "chuyen-tinh-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-08.mp3",
+    "title" : "chuyen-tinh-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-09.mp3",
+    "title" : "chuyen-tinh-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-10.mp3",
+    "title" : "chuyen-tinh-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-11.mp3",
+    "title" : "chuyen-tinh-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-12.mp3",
+    "title" : "chuyen-tinh-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-13.mp3",
+    "title" : "chuyen-tinh-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-14.mp3",
+    "title" : "chuyen-tinh-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-15.mp3",
+    "title" : "chuyen-tinh-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-16.mp3",
+    "title" : "chuyen-tinh-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-17.mp3",
+    "title" : "chuyen-tinh-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-18.mp3",
+    "title" : "chuyen-tinh-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-19.mp3",
+    "title" : "chuyen-tinh-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-1/chuyen-tinh-20.mp3",
+    "title" : "chuyen-tinh-20",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

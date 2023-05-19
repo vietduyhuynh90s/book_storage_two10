@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/me-qua-tang-cua-thuong-de_20171.html",
+    "title" : "Mẹ, Quà Tặng Của Thượng Đế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 9615,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_956f24a183a75e583a40f0d892ea7a3a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_956f24a183a75e583a40f0d892ea7a3a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1934,
+    "title" : "ME QUA TANG CUA THUONG DE-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "ME QUA TANG CUA THUONG DE-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1916,
+    "title" : "ME QUA TANG CUA THUONG DE-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1804,
+    "title" : "ME QUA TANG CUA THUONG DE-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2086,
+    "title" : "ME QUA TANG CUA THUONG DE-05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-01.mp3",
+    "title" : "ME QUA TANG CUA THUONG DE-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-02.mp3",
+    "title" : "ME QUA TANG CUA THUONG DE-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-03.mp3",
+    "title" : "ME QUA TANG CUA THUONG DE-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-04.mp3",
+    "title" : "ME QUA TANG CUA THUONG DE-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-qua-tang-cua-thuong-de.sna/ME_QUA_TANG_CUA_THUONG_DE-05.mp3",
+    "title" : "ME QUA TANG CUA THUONG DE-05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
