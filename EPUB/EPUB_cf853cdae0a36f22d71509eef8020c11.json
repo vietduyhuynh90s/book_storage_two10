@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hon-truong-ba-da-hang-thit-7822.html",
+    "title" : "HỒN TRƯƠNG BA, DA HÀNG THỊT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lưu Quang Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Xưa có một người tên gọi Trương Ba, tuổi còn trẻ nhưng đã nức tiếng cao cờ. Làng trên xóm dưới không ai địch nổi cờ chàng đã đành, mà khắp cả tổng cả xứ cũng khó tìm ra người xứng là đối thủ. Nước cờ của Trương vừa phóng khoáng lại vừa biến ảo. Hầu hết những kẻ bị chàng hạ thua rồi đều tâm phục khẩu phục. Tháng Hai năm ấy, như thường lệ, hội cờ Lạc Thổ ven sông Đuống vốn từ lâu đã được coi là hội cờ lớn nhất miền Kinh Bắc lại khai cuộc. Ngay từ sáng sớm, tiếng trống hội đã giục giã khiến các kỳ thủ già đời cũng phải nôn nao trong dạ. Hội cờ năm ấy tụ tập nhiều cao thủ, nhưng dường như ở kỳ đài chẳng có ai đủ tài cản bước Trương Ba. Chàng thắng như chẻ tre rồi nhanh chóng vào trận cuối. Trương Ba tài thật! Cuộc cờ mới khai chưa kịp giập bã trầu Trương đã dồn đối phương vào thế bí. Đắc ý, chàng quay sang bảo người bạn đi cùng: \"Nước cờ này, dẫu có Đế Thích xuống đây cũng đừng hòng gỡ nổi\"...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_cf853cdae0a36f22d71509eef8020c11.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_cf853cdae0a36f22d71509eef8020c11.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7822-hon-truong-ba-da-hang-thit-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7822-hon-truong-ba-da-hang-thit-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

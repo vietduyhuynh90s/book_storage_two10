@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hanh-phuc-giua-doi-thuong-979.html",
+    "title" : "HẠNH PHÚC GIỮA ĐỜI THƯỜNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chương 1: Tìm kiếm hạnh phúc Chương 2: Thuật sống hạnh phúc Chương 3: Hạnh phúc giữa đời thường Chương 4: Khổ đau và hạnh phúc Chương 5: Tối thượng và hạnh phúc nhất Chương 6: Nghệ thuật chặt đứt mắc xích khổ đau Chương 7: Nghệ thuật chặt đứt mắc xích khổ đau</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_476403c601f7855db481c6ca84474829.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_476403c601f7855db481c6ca84474829.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tìm Kiếm Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=3263",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:54:23 Thuật Sống Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=6892",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:54:52 Hạnh Phúc Giữa Đời Thường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=10384",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:53:04 Khổ Đau Và Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=13857",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:50:57 Tối Thượng Và Hạnh Phúc Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=18532",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:08:52 Nghệ Thuật Chặt Đứt Mắc Xích Khổ Đau 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=20518",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:41:58 Nghệ Thuật Chặt Đứt Mắc Xích Khổ Đau 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tìm Kiếm Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=3263",
+    "title" : "00:54:23 Thuật Sống Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=6892",
+    "title" : "01:54:52 Hạnh Phúc Giữa Đời Thường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=10384",
+    "title" : "02:53:04 Khổ Đau Và Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=13857",
+    "title" : "03:50:57 Tối Thượng Và Hạnh Phúc Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=18532",
+    "title" : "05:08:52 Nghệ Thuật Chặt Đứt Mắc Xích Khổ Đau 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/979-hanh-phuc-giua-doi-thuong-thuviensach.vn.mp3?t=20518",
+    "title" : "05:41:58 Nghệ Thuật Chặt Đứt Mắc Xích Khổ Đau 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

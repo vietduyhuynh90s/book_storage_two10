@@ -1,0 +1,653 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-gao-len-chua-9480.html",
+    "title" : "ĐỘI GẠO LÊN CHÙA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Xuân Khánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sau một trận càn dữ dội của giặc Pháp, cha mẹ đều chết, hai chị em Nguyệt và An phải rời bỏ quê hương, trốn chạy sự truy lùng và tàn sát gắt gao của giặc. Họ trôi dạt đến một ngôi chùa và được sư cụ trụ trì dang tay cứu vớt. Từ đây, số phận An và Nguyệt gắn bó với chùa Sọ và làng Sọ - quê hương thứ hai của mình. Làng Sọ, một làng quê bé nhỏ vốn êm đềm và hiền hòa như bao làng quê Việt khác, trong vòng nửa thế kỷ đã trải qua hai cuộc chiến tranh tàn khốc và những biến động lớn lao. Số phận của ngôi chùa làng và những con người gắn bó với nó rồi sẽ ra sao? Đội Gạo Lên Chùa được viết theo lối cổ điển, mang tính luận đề về ảnh hưởng và vai trò quan trọng của đạo Phật trong đời sống tâm linh người Việt. Tiểu thuyết khắc họa sâu sắc nét đẹp của văn hóa Phật giáo trong mạch nguồn văn hóa dân tộc và được xem như một sự gợi mở về lối sống Phật giáo trong xã hội hiện đại hôm nay.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_05e66812ee68bb537f880b130b34305f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_05e66812ee68bb537f880b130b34305f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đội Gạo Lên Chùa - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=1339",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:22:19 Đội Gạo Lên Chùa - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=3032",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:50:32 Đội Gạo Lên Chùa - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=4767",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:19:27 Đội Gạo Lên Chùa - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=6509",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:48:29 Đội Gạo Lên Chùa - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=8210",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:16:50 Đội Gạo Lên Chùa - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=9961",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:46:01 Đội Gạo Lên Chùa - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=11671",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:14:31 Đội Gạo Lên Chùa - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=13378",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:42:58 Đội Gạo Lên Chùa - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=15116",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:11:56 Đội Gạo Lên Chùa - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=16875",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:41:15 Đội Gạo Lên Chùa - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=18634",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:10:34 Đội Gạo Lên Chùa - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=20343",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:39:03 Đội Gạo Lên Chùa - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=22093",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:08:13 Đội Gạo Lên Chùa - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=23851",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:37:31 Đội Gạo Lên Chùa - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=25585",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:06:25 Đội Gạo Lên Chùa - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=27314",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:35:14 Đội Gạo Lên Chùa - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=29071",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:04:31 Đội Gạo Lên Chùa - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=30777",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:32:57 Đội Gạo Lên Chùa - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=32531",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:02:11 Đội Gạo Lên Chùa - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=34287",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:31:27 Đội Gạo Lên Chùa - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=36037",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:00:37 Đội Gạo Lên Chùa - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=37783",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:29:43 Đội Gạo Lên Chùa - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=39482",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:58:02 Đội Gạo Lên Chùa - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=41215",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:26:55 Đội Gạo Lên Chùa - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=42972",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:56:12 Đội Gạo Lên Chùa - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=44688",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:24:48 Đội Gạo Lên Chùa - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=46346",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:52:26 Đội Gạo Lên Chùa - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=48076",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:21:16 Đội Gạo Lên Chùa - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=59484",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:31:24 Đội Gạo Lên Chùa - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=61221",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:00:21 Đội Gạo Lên Chùa - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=53213",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:46:53 Đội Gạo Lên Chùa - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=54960",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:16:00 Đội Gạo Lên Chùa - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=56685",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:44:45 Đội Gạo Lên Chùa - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=58447",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:14:07 Đội Gạo Lên Chùa - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=60198",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:43:18 Đội Gạo Lên Chùa - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=61914",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:11:54 Đội Gạo Lên Chùa - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=63645",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:40:45 Đội Gạo Lên Chùa - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=65379",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:09:39 Đội Gạo Lên Chùa - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=67037",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:37:17 Đội Gạo Lên Chùa - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=68787",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:06:27 Đội Gạo Lên Chùa - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=70517",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:35:17 Đội Gạo Lên Chùa - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=72221",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:03:41 Đội Gạo Lên Chùa - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=73928",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:32:08 Đội Gạo Lên Chùa - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=75678",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:01:18 Đội Gạo Lên Chùa - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=77436",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:30:36 Đội Gạo Lên Chùa - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=79155",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:59:15 Đội Gạo Lên Chùa - Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=80917",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:28:37 Đội Gạo Lên Chùa - Phần 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=82644",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:57:24 Đội Gạo Lên Chùa - Phần 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=84339",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:25:39 Đội Gạo Lên Chùa - Phần 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=86059",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:54:19 Đội Gạo Lên Chùa - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đội Gạo Lên Chùa - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=1339",
+    "title" : "00:22:19 Đội Gạo Lên Chùa - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=3032",
+    "title" : "00:50:32 Đội Gạo Lên Chùa - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=4767",
+    "title" : "01:19:27 Đội Gạo Lên Chùa - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=6509",
+    "title" : "01:48:29 Đội Gạo Lên Chùa - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=8210",
+    "title" : "02:16:50 Đội Gạo Lên Chùa - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=9961",
+    "title" : "02:46:01 Đội Gạo Lên Chùa - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=11671",
+    "title" : "03:14:31 Đội Gạo Lên Chùa - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=13378",
+    "title" : "03:42:58 Đội Gạo Lên Chùa - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=15116",
+    "title" : "04:11:56 Đội Gạo Lên Chùa - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=16875",
+    "title" : "04:41:15 Đội Gạo Lên Chùa - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=18634",
+    "title" : "05:10:34 Đội Gạo Lên Chùa - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=20343",
+    "title" : "05:39:03 Đội Gạo Lên Chùa - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=22093",
+    "title" : "06:08:13 Đội Gạo Lên Chùa - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=23851",
+    "title" : "06:37:31 Đội Gạo Lên Chùa - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=25585",
+    "title" : "07:06:25 Đội Gạo Lên Chùa - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=27314",
+    "title" : "07:35:14 Đội Gạo Lên Chùa - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=29071",
+    "title" : "08:04:31 Đội Gạo Lên Chùa - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=30777",
+    "title" : "08:32:57 Đội Gạo Lên Chùa - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=32531",
+    "title" : "09:02:11 Đội Gạo Lên Chùa - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=34287",
+    "title" : "09:31:27 Đội Gạo Lên Chùa - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=36037",
+    "title" : "10:00:37 Đội Gạo Lên Chùa - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=37783",
+    "title" : "10:29:43 Đội Gạo Lên Chùa - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=39482",
+    "title" : "10:58:02 Đội Gạo Lên Chùa - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=41215",
+    "title" : "11:26:55 Đội Gạo Lên Chùa - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=42972",
+    "title" : "11:56:12 Đội Gạo Lên Chùa - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=44688",
+    "title" : "12:24:48 Đội Gạo Lên Chùa - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=46346",
+    "title" : "12:52:26 Đội Gạo Lên Chùa - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=48076",
+    "title" : "13:21:16 Đội Gạo Lên Chùa - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=59484",
+    "title" : "16:31:24 Đội Gạo Lên Chùa - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=61221",
+    "title" : "17:00:21 Đội Gạo Lên Chùa - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=53213",
+    "title" : "14:46:53 Đội Gạo Lên Chùa - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=54960",
+    "title" : "15:16:00 Đội Gạo Lên Chùa - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=56685",
+    "title" : "15:44:45 Đội Gạo Lên Chùa - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=58447",
+    "title" : "16:14:07 Đội Gạo Lên Chùa - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=60198",
+    "title" : "16:43:18 Đội Gạo Lên Chùa - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=61914",
+    "title" : "17:11:54 Đội Gạo Lên Chùa - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=63645",
+    "title" : "17:40:45 Đội Gạo Lên Chùa - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=65379",
+    "title" : "18:09:39 Đội Gạo Lên Chùa - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=67037",
+    "title" : "18:37:17 Đội Gạo Lên Chùa - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=68787",
+    "title" : "19:06:27 Đội Gạo Lên Chùa - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=70517",
+    "title" : "19:35:17 Đội Gạo Lên Chùa - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=72221",
+    "title" : "20:03:41 Đội Gạo Lên Chùa - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=73928",
+    "title" : "20:32:08 Đội Gạo Lên Chùa - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=75678",
+    "title" : "21:01:18 Đội Gạo Lên Chùa - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=77436",
+    "title" : "21:30:36 Đội Gạo Lên Chùa - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=79155",
+    "title" : "21:59:15 Đội Gạo Lên Chùa - Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=80917",
+    "title" : "22:28:37 Đội Gạo Lên Chùa - Phần 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=82644",
+    "title" : "22:57:24 Đội Gạo Lên Chùa - Phần 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=84339",
+    "title" : "23:25:39 Đội Gạo Lên Chùa - Phần 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9480-doi-gao-len-chua-thuviensach.vn.mp3?t=86059",
+    "title" : "23:54:19 Đội Gạo Lên Chùa - Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

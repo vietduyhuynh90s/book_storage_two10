@@ -1,0 +1,749 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hay-tin-toi-13593.html",
+    "title" : "HÃY TIN TÔI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lesley Pearse",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lesley Pearse là một nữ nhà vǎn đầy cá tính. Các cuốn tiểu thuyết của bà luôn lôi cuốn người đọc bởi sự dịu dàng, rất nữ tính, nhưng bản lĩnh mạnh mẽ không kém giới mày râu. Tiểu thuyết Hãy tin tôi là một câu chuyện hấp dẫn về hai đứa trẻ được gửi đến từ một trại trẻ mồ côi ở Australia vào những nǎm nǎm mươi. Hai chị em cô bé Dulcie và May sống với người bố chǎm chỉ, vui tính và rất yêu các con; với một người mẹ tuy không hoàn hảo, nhưng dẫu sao đó cũng là mẹ. Với chúng, cuộc sống như thế cũng rất dễ chịu, hạnh phúc. Nhưng tai hoạ bất ngờ ập đến cái gia đình nhỏ bé ấy. Mẹ cô thú nhận May không phải là con của bố và mẹ không muốn sống cùng bố con cô nữa. Trong lúc cáu giận không tự chủ được, bố mẹ cô cãi lộn, xô xát; mẹ cô ngã va vào tường và chết. Toà án buộc tội bố cô ngộ sát mẹ và kết án ông hai mươi nǎm tù. Hai chị em cô bé được gửi vào trại trẻ mồ côi trong tu viện. Cuộc sống ở trại trẻ mồ côi thật khắc nghiệt. Không được yêu thương, không ai quan tâm, nhưng Dulcie vẫn có đủ nghị lực để vượt qua số phận, giành lấy hạnh phúc, điều mà cô xứng đáng được hưởng. Con May thì sao, liệu Dulcie có bảo vệ được em gái mình không? Đó còn là điều bí mật đang chỏ bạn trong cuốn tiểu thuyết của Lesley Pearse.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_af667e4aa1c47a8c64fbe94f84044c9e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_af667e4aa1c47a8c64fbe94f84044c9e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Hãy Tin Tôi - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=1600",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:26:40 Hãy Tin Tôi - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=3149",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:52:29 Hãy Tin Tôi - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=4690",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:18:10 Hãy Tin Tôi - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=6213",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:43:33 Hãy Tin Tôi - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=7797",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:09:57 Hãy Tin Tôi - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=9432",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:37:12 Hãy Tin Tôi - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=10940",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:02:20 Hãy Tin Tôi - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=12490",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:28:10 Hãy Tin Tôi - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=14049",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:54:09 Hãy Tin Tôi - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=15636",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:20:36 Hãy Tin Tôi - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=17211",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:46:51 Hãy Tin Tôi - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=18803",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:13:23 Hãy Tin Tôi - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=20366",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:39:26 Hãy Tin Tôi - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=21903",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:05:03 Hãy Tin Tôi - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=23468",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:31:08 Hãy Tin Tôi - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=24967",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:56:07 Hãy Tin Tôi - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=26634",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:23:54 Hãy Tin Tôi - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=28260",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:51:00 Hãy Tin Tôi - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=29926",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:18:46 Hãy Tin Tôi - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=31608",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:46:48 Hãy Tin Tôi - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=33243",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:14:03 Hãy Tin Tôi - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=34900",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:41:40 Hãy Tin Tôi - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=36560",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:09:20 Hãy Tin Tôi - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=38198",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:36:38 Hãy Tin Tôi - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=39868",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:04:28 Hãy Tin Tôi - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=41523",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:32:03 Hãy Tin Tôi - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=43193",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:59:53 Hãy Tin Tôi - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=44872",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:27:52 Hãy Tin Tôi - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=46573",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:56:13 Hãy Tin Tôi - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=48171",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:22:51 Hãy Tin Tôi - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=59481",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:31:21 Hãy Tin Tôi - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=61040",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:57:20 Hãy Tin Tôi - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=62660",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:24:20 Hãy Tin Tôi - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=64342",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:52:22 Hãy Tin Tôi - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=65962",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:19:22 Hãy Tin Tôi - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=67581",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:46:21 Hãy Tin Tôi - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=69260",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:14:20 Hãy Tin Tôi - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=62054",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:14:14 Hãy Tin Tôi - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=63734",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:42:14 Hãy Tin Tôi - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=65414",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:10:14 Hãy Tin Tôi - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=67034",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:37:14 Hãy Tin Tôi - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=68714",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:05:14 Hãy Tin Tôi - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=70334",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:32:14 Hãy Tin Tôi - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=71894",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:58:14 Hãy Tin Tôi - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=73394",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:23:14 Hãy Tin Tôi - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=75014",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:50:14 Hãy Tin Tôi - Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=76574",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:16:14 Hãy Tin Tôi - Phần 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=78134",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:42:14 Hãy Tin Tôi - Phần 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=79753",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:09:13 Hãy Tin Tôi - Phần 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=81314",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:35:14 Hãy Tin Tôi - Phần 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=82934",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:02:14 Hãy Tin Tôi - Phần 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=84554",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:29:14 Hãy Tin Tôi - Phần 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=86114",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:55:14 Hãy Tin Tôi - Phần 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=87734",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:22:14 Hãy Tin Tôi - Phần 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=89413",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:50:13 Hãy Tin Tôi - Phần 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=91034",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:17:14 Hãy Tin Tôi - Phần 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=92654",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:44:14 Hãy Tin Tôi - Phần 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=94274",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:11:14 Hãy Tin Tôi - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Hãy Tin Tôi - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=1600",
+    "title" : "00:26:40 Hãy Tin Tôi - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=3149",
+    "title" : "00:52:29 Hãy Tin Tôi - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=4690",
+    "title" : "01:18:10 Hãy Tin Tôi - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=6213",
+    "title" : "01:43:33 Hãy Tin Tôi - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=7797",
+    "title" : "02:09:57 Hãy Tin Tôi - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=9432",
+    "title" : "02:37:12 Hãy Tin Tôi - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=10940",
+    "title" : "03:02:20 Hãy Tin Tôi - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=12490",
+    "title" : "03:28:10 Hãy Tin Tôi - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=14049",
+    "title" : "03:54:09 Hãy Tin Tôi - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=15636",
+    "title" : "04:20:36 Hãy Tin Tôi - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=17211",
+    "title" : "04:46:51 Hãy Tin Tôi - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=18803",
+    "title" : "05:13:23 Hãy Tin Tôi - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=20366",
+    "title" : "05:39:26 Hãy Tin Tôi - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=21903",
+    "title" : "06:05:03 Hãy Tin Tôi - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=23468",
+    "title" : "06:31:08 Hãy Tin Tôi - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=24967",
+    "title" : "06:56:07 Hãy Tin Tôi - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=26634",
+    "title" : "07:23:54 Hãy Tin Tôi - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=28260",
+    "title" : "07:51:00 Hãy Tin Tôi - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=29926",
+    "title" : "08:18:46 Hãy Tin Tôi - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=31608",
+    "title" : "08:46:48 Hãy Tin Tôi - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=33243",
+    "title" : "09:14:03 Hãy Tin Tôi - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=34900",
+    "title" : "09:41:40 Hãy Tin Tôi - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=36560",
+    "title" : "10:09:20 Hãy Tin Tôi - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=38198",
+    "title" : "10:36:38 Hãy Tin Tôi - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=39868",
+    "title" : "11:04:28 Hãy Tin Tôi - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=41523",
+    "title" : "11:32:03 Hãy Tin Tôi - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=43193",
+    "title" : "11:59:53 Hãy Tin Tôi - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=44872",
+    "title" : "12:27:52 Hãy Tin Tôi - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=46573",
+    "title" : "12:56:13 Hãy Tin Tôi - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=48171",
+    "title" : "13:22:51 Hãy Tin Tôi - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=59481",
+    "title" : "16:31:21 Hãy Tin Tôi - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=61040",
+    "title" : "16:57:20 Hãy Tin Tôi - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=62660",
+    "title" : "17:24:20 Hãy Tin Tôi - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=64342",
+    "title" : "17:52:22 Hãy Tin Tôi - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=65962",
+    "title" : "18:19:22 Hãy Tin Tôi - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=67581",
+    "title" : "18:46:21 Hãy Tin Tôi - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=69260",
+    "title" : "19:14:20 Hãy Tin Tôi - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=62054",
+    "title" : "17:14:14 Hãy Tin Tôi - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=63734",
+    "title" : "17:42:14 Hãy Tin Tôi - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=65414",
+    "title" : "18:10:14 Hãy Tin Tôi - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=67034",
+    "title" : "18:37:14 Hãy Tin Tôi - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=68714",
+    "title" : "19:05:14 Hãy Tin Tôi - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=70334",
+    "title" : "19:32:14 Hãy Tin Tôi - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=71894",
+    "title" : "19:58:14 Hãy Tin Tôi - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=73394",
+    "title" : "20:23:14 Hãy Tin Tôi - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=75014",
+    "title" : "20:50:14 Hãy Tin Tôi - Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=76574",
+    "title" : "21:16:14 Hãy Tin Tôi - Phần 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=78134",
+    "title" : "21:42:14 Hãy Tin Tôi - Phần 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=79753",
+    "title" : "22:09:13 Hãy Tin Tôi - Phần 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=81314",
+    "title" : "22:35:14 Hãy Tin Tôi - Phần 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=82934",
+    "title" : "23:02:14 Hãy Tin Tôi - Phần 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=84554",
+    "title" : "23:29:14 Hãy Tin Tôi - Phần 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=86114",
+    "title" : "23:55:14 Hãy Tin Tôi - Phần 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=87734",
+    "title" : "24:22:14 Hãy Tin Tôi - Phần 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=89413",
+    "title" : "24:50:13 Hãy Tin Tôi - Phần 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=91034",
+    "title" : "25:17:14 Hãy Tin Tôi - Phần 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=92654",
+    "title" : "25:44:14 Hãy Tin Tôi - Phần 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13593-hay-tin-toi-thuviensach.vn.mp3?t=94274",
+    "title" : "26:11:14 Hãy Tin Tôi - Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

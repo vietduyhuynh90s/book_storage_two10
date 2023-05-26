@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-song-sau-khi-chet-179.html",
+    "title" : "ĐỜI SỐNG SAU KHI CHẾT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. W. Leadbeater",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Charles Webster Leadbeater sinh năm 1847 - 1934, là một giáo sĩ thuộc Giáo hội Anh quốc cho tới khi ông gia nhập Hội Thông Thiên Học vào năm 1883. Ông đã sống một số năm ở Tích Lan làm việc để phục hưng Phật giáo. Năm 1893, ông bắt đầu việc khảo cứu bằng thần nhãn, thỉnh thoảng có hợp tác với bà Annie Besant là Hội trưởng thứ nhì của Hội Thông Thiên Học. Những tác phẩm của ông hé lộ khía cạnh ẩn tàng của các sự vật và đời sống bên kia cửa tử. Những bài thuyết trình của ông trên khắp thế giới đưa ra một quan niệm mới cho cả ngàn người chiêm nghiệm. Chính ông đã phát hiện ra tiềm năng vĩ đại của J. Krishnamurti, và đã giáo dục Krishnamurti nhằm vào công việc tương lai của đứa trẻ nầy.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0b41cf3ffc74b5c568109c4cebe4ac89.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0b41cf3ffc74b5c568109c4cebe4ac89.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/179-doi-song-sau-khi-chet-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/179-doi-song-sau-khi-chet-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

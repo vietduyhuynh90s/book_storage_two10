@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/soi-sang-thuc-tai-218.html",
+    "title" : "SOI SÁNG THỰC TẠI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Viên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời nói đầu Soi sáng thực tại thực ra là tên chúng tôi đặt cho những bài ghi chép tóm tắt các buổi đàm đạo hay tham vấn thiền với Hòa thượng Viên Minh trong giờ uống trà buổi sáng tại khách đường Chùa Bửu Long. Những buổi đàm đạo này đã có từ lâu nhưng chỉ giới hạn trong nội bộ chùa. Về sau một Phật tử đến tham dự buổi trà đàm thấy hay nên muốn được nghe thường xuyên đã sắm cho chùa thiết bị để có thể nghe từ xa qua Skype. Từ đó số người đến trực tiếp nghe thầy nói chuyện hoặc nghe từ xa ngày càng đông nên đã mở thêm qua YouTube theo nhu cầu của Phật tử muốn tham dự. Chúng tôi là nhóm nghe từ xa qua YouTube ở Sydney và Melbourne đã học được nhiều điều bổ ích cho sự tu tập thiền soi sáng thực tại qua Trà đạo Bửu Long nên phát tâm ghi lại những lời chỉ dạy của thầy để chia sẻ với bạn bè đồng đạo. Rất tiếc chúng tôi tham dự hơi muộn nên chỉ ghi được từ năm 2016. Tuy nhiên Trà đạo Bửu Long vẫn còn tiếp tục nên chúng tôi sẽ biên tập tiếp và xuất bản sau. Mặc dù đã được thầy đồng ý cho chúng tôi biên tập nhưng việc này khá khó khăn nên sẽ không tránh khỏi sai sót, xin bạn đọc thông cảm và nhất là chúng con xin sám hối thầy nếu chúng con không ghi được lời dạy của thầy một cách hoàn toàn trung thực. Thành kính, Nhóm biên tập: Như Tuệ, Viên Hướng</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_fc0686faf10b5db609e424a3b9750c5d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_fc0686faf10b5db609e424a3b9750c5d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/218-soi-sang-thuc-tai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/218-soi-sang-thuc-tai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

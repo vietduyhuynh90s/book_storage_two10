@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dan-ong-den-tu-sao-hoa-dan-ba-den-tu-sao-kim-557.html",
+    "title" : "ĐÀN ÔNG ĐẾN TỪ SAO HOẢ - ĐÀN BÀ ĐẾN TỪ SAO KIM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John Gray",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Các cuốn sách của Tiến sỹ John Gray Người sao Hỏa và người sao Kim chân chính; Người sao Hỏa và người sao Kim ở nơi làm việc; Những phép lạ mang tính thực tế cho người sao Hỏa và người sao Kim; Trẻ em từ Thiên Đường; Làm thế nào để có cái bạn muốn và hãy muốn cái bạn đang có; Đàn ông từ sao Hỏa, đàn bà từ sao Kim; Cuốn sách về những ngày đã qua; Người sao Hỏa và người sao Kim khởi đầu cùng nhau; Người sao Hỏa và người sao Kim khi hẹn hò; Người sao Hỏa và người sao Kim trong tình yêu; Người sao Hỏa và người sao Kim bên nhau mãi mãi; Người sao Hỏa và người sao Kim trong phòng ngủ; Điều mà mẹ bạn không thể nói cho bạn và cha bạn không biết; Đàn ông và đàn bà trong các mối quan hệ; Điều bạn có thể cảm thấy thì bạn có thể hàn gắn. Cuốn sách này được dành tặng cùng tình yêu thương và lòng biết ơn sâu sắc nhất cho người vợ thân yêu của tôi, Bonni Gray. Tình yêu, lòng hi sinh, sự từng trải và mạnh mẽ của cô ấy đã truyền cảm hứng để tôi trở thành người tốt nhất hết mức có thể và chia sẻ những điều mà chúng tôi đã cùng nhau học hỏi. MỤC LỤC Lời cảm ơn Lời giới thiệu lần xuất bản bìa mềm Lời giới thiệu 1. Đàn ông đến từ Sao Hỏa Đàn bà đến từ Sao Kim 2. Ngài giải quyết và Ủy ban cải thiện gia đình 3. Đàn ông giữ kín những bí mật trong khi phụ nữ rất thích bày tỏ 4. Làm thế nào để động viên người khác giới 5. Bất đồng ngôn ngữ 6. Đàn ông giống như dây cao su 7. Phụ nữ giống như những con sóng 8. Khám phá những nhu cầu tình cảm khác nhau của chúng ta 9. Làm thế nào để tránh những bất đồng 10. Dành được thiện cảm từ người khác phái 11. Làm thế nào để giãi bày những cảm xúc khó nói 12. Làm thế nào để đề nghị và đón nhận sự giúp đỡ 13. Gìn giữ sự kỳ diệu của tình yêu</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a11de09e37d6e11f17455e1b1c611c2c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a11de09e37d6e11f17455e1b1c611c2c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/557-dan-ong-den-tu-sao-hoa-dan-ba-den-tu-sao-kim-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/557-dan-ong-den-tu-sao-hoa-dan-ba-den-tu-sao-kim-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

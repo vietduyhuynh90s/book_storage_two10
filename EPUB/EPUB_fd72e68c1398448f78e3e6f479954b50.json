@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/suc-manh-cua-su-tap-trung-13490.html",
+    "title" : "SỨC MẠNH CỦA SỰ TẬP TRUNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Daniel Goleman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn không cần phải có tài năng thiên bẩm để thành công, bởi người tài năng nhất trong số những người tài năng là người biết tập trung, ai cũng có khoảng thời gian 24h mỗi ngày, nhưng thời gian không hề quý giá mà thứ quý giá phải là sức mạnh của thời gian. Nếu tập trung 20% thời gian sẽ tạo ra ít nhất 80% kết quả. Nếu như bạn tập trung 100% thì kết quả sẽ không tưởng như thế nào? Tập trung là chìa khóa của mọi thành công trong cuộc sống Làm thế nào để có thể sắp xếp được mọi việc hợp lí, khoa học, phù hợp để có thể thành đạt và hạnh phúc trong cuộc sống, thành công và thỏa mãn trong sự nghiệp, để có thể giải phóng năng lượng một cách tối đa, để có thể cân bằng được cuộc sống, để có thời gian thư giãn và thời gian cho người thân thiết và thời gian cho chúng ta? Câu trả lời sẽ được giải đáp trong cuốn sách Sức mạnh của sự tập trung. Trong cuốn sách này, tác giả tập trung nghiên cứu sự chú ý vào bộ ba yếu tố: tập trung bên trong, tập trung vào người khác và tập trung vào các yếu tố bên ngoài. Dựa trên sự nghiên cứu từ các lĩnh vực đa dạng như thể thao cạnh tranh, giáo dục, nghệ thuật và kinh doanh, ông chỉ ra lý do tại sao những người thành đạt cao cần cả 3 loại tập trung trên. Sự tập trung giúp họ phục hồi cơ thể, kết nối cảm xúc tích cực, giúp họ cải thiện thói quen, thêm các kỹ năng mới và duy trì những điều mà người khác không làm được. Bạn học được gì từ cuốn sách Sức Mạnh Của Sự Tập Trung Những kỹ năng về tự nhận thức được bản thân - chìa khóa để hiểu được chính mình Cách tập luyện khả năng tập trung cao độ Các cách để hình thành thói quen tập trung cho nhà lãnh đạo Sự tập trung cũng giống như cơ bắp: dùng một cách thiếu hợp lý, nó sẽ bị teo dần; tập luyện chăm chỉ, nó sẽ phát triển. Trong thời đại với vô vàn yếu tố không ngừng gây sao lãng, hơn bao giờ hết chúng ta cần phải học cách rèn luyện khả năng tập trung nếu ta muốn sống hạnh phúc, chứ chưa nói đến sự thành công trong thế giới phức tạp này. Lấy lại sự tập trung của chính mình không chỉ giúp chúng ta làm việc và học tập với một hiệu suất ấn tượng, mà còn giúp chúng ta có mặt ở thực tại, kết nối chất lượng hơn với những người quan trọng trong cuộc đời mình. Và đó là điều mà tất cả chúng ta đều muốn làm - vậy thì hãy bắt đầu luyện tập, ngay từ hôm nay với cuốn sách này bạn nhé. Về tác giả Daniel Goleman Daniel Goleman là tác giả của quyển sách bán chạy Emotional Intelligence, Working with Emotional Intelligence và Socail Intelligence. Ông từng là phóng viên khoa học của New York Times, hai lần được đề cử giả Pulitzer, và nhận được giải thưởng Thành tựu Trọn đời của Hội Tâm lý học Hoa Kỳ (American Psychological Association).</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_fd72e68c1398448f78e3e6f479954b50.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_fd72e68c1398448f78e3e6f479954b50.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13490-suc-manh-cua-su-tap-trung-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13490-suc-manh-cua-su-tap-trung-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

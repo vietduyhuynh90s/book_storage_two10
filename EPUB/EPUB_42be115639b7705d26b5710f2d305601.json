@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-dieu-ban-nen-biet-ve-co-the-con-nguoi-song-ngu-1111.html",
+    "title" : "NHỮNG ĐIỀU BẠN NÊN BIẾT VỀ CƠ THỂ CON NGƯỜI - SONG NGỮ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thanh Toản",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cơ thể con người là một trong những sáng tạo kì diệu nhất của tạo hóa, chính vì vậy mà cho tới tận ngày nay con người cũng chưa thể khám phá được hết những bí ẩn của cơ thể mình. Hiện nay trên thế giới có hơn 7 tỉ người sinh sống, trải qua quá trình tiến hóa lâu dài thì cơ thể con người hiện đại cũng đã thay đổi rất nhiều để thích nghi với cuộc sống, từng bộ phận trên cơ thể đều có những chức năng nhất định, dưới đây là thống kê những điều thú vị về cơ thể của chúng bạn mà chưa chắc bạn đã biết.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_42be115639b7705d26b5710f2d305601.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_42be115639b7705d26b5710f2d305601.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1111-nhung-dieu-ban-nen-biet-ve-co-the-con-nguoi-song-ngu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1111-nhung-dieu-ban-nen-biet-ve-co-the-con-nguoi-song-ngu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

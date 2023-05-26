@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chua-lanh-khuon-mat-477.html",
+    "title" : "CHỮA LÀNH KHUÔN MẶT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Markus Rothkranz",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chương 1 Suối nguồn tươi trẻ... Chương 2 Cách nhìn mới... Chương 3 Mọi thứ đều liên kết... Chương 4 Không có gì là ngẫu nhiên. Chương 5 Đến lúc trở nên xinh đẹp!!!... Chương 6 Mọi thứ đều là năng lượng... Chương 7 Thợ sửa ống nước.. Chương 8 Đọc hiểu đầu và gương mặt. Chương 9 Đọc hiểu các bộ phận cơ thể khác... Chương 10 Oh Yeah...;.. Chương 11 KHÔNG TUỔI.. Chương 12 Nhân tố chữa lành quan trọng nhất trong tất cả 99 Chương 13 Lá gan. Chương 14 Thận.. Chương 15 Điều tuyệt vời từ biển Chương 16 Ruột già... Chương 17 DA.. Các cuốn sách, đĩa DVD và sản phẩm khác của Markus Rothkranz</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_6550ce8974d171490511405be049a1f3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_6550ce8974d171490511405be049a1f3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/477-chua-lanh-khuon-mat-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/477-chua-lanh-khuon-mat-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

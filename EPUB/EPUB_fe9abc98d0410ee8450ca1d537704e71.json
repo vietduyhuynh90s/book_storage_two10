@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-cam-ki-khi-giao-tiep-voi-khach-hang-13530.html",
+    "title" : "NHỮNG CẤM KỊ KHI GIAO TIẾP VỚI KHÁCH HÀNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Ái Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong bán hàng và phục vụ khách hàng tồn tại rất nhiều cấm kị, chỉ có hiểu rõ những cấm kị dễ phạm phải khi giao tiếp với khách hàng mới không vi phạm, mới có thể giao dịch thành công và phục vụ khách hàng tốt hơn. Cuốn sách đã tổng kết những cấm kị dễ phạm phải khi giao tiếp với khách hàng, cơ bản gồm các phương diện: tiếp đón và gặp gỡ khách hàng; giới thiệu sản phẩm; giao dịch và sau giao dịch với khách hàng; phục vụ và xử lí ý kiến bất đồng, khiếu nại, phàn nàn của khách hàng; tâm thái khi giao tiếp với khách hàng; lễ nghi khi giao tiếp với khách hàng... Cuốn sách có góc nhìn độc đáo, bắt đầu từ góc độ của việc cấm kị, hướng dẫn nhân viên bán hàng và phục vụ khách hàng cách làm việc đúng đắn. Mỗi nội dung trong sách được dẫn dắt bằng tình huống và ví dụ cụ thể, đồng thời phân tích rõ ràng những điều cấm kị dễ phạm phải trong quá trình bán hàng hoặc phục vụ khách hàng, tìm hiểu nguyên nhân và cung cấp phương pháp tránh những điều cấm kị với khách hàng. Ngoài ra, cuốn sách có nội dung gần với thực tế, không có những khái niệm phức tạp, không có lí luận thuyết giáo khô khan mà dựa vào ví dụ thực tế, giải thích một cách trực tiếp, rõ ràng những vấn đề dễ xuất hiện trong quá trình giao lưu với khách hàng. Cuốn sách thích hợp với mọi nhân viên trong các doanh nghiệp, có giá trị tham khảo và ý nghĩa chỉ đạo rất lớn với việc nâng cao năng lực giao tiếp của nhân viên, hình thành tố chất nghề nghiệp, nâng cao trình độ văn hóa nghề nghiệp, nâng cao hiệu suất làm việc và chiếm được lòng tin của khách hàng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_fe9abc98d0410ee8450ca1d537704e71.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_fe9abc98d0410ee8450ca1d537704e71.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13530-nhung-cam-ki-khi-giao-tiep-voi-khach-hang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13530-nhung-cam-ki-khi-giao-tiep-voi-khach-hang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

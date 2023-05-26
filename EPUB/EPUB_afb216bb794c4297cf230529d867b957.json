@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ngon-doi-biet-hat-13620.html",
+    "title" : "NGỌN ĐỒI BIẾT HÁT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dương Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tập truyện mới nhất viết cho thiếu nhi của tác giả trẻ Dương Hằng. Những trang viết vương chút kỉ niệm thơm nồng nàn của lúa chín, mùi tóc cháy khét trưa hè bêu nắng… mở ra thế giới của tuổi thơ đồng nội, nơi có chú trâu sừng cong lên như mảnh trăng khuyết, có lá thư gửi chú chim sâu và một mùa hè rực rỡ trên “Ngọn đồi biết hát”. “Tôi có thể cảm nhận được hương thơm của nắng chắt chiu trong những chiếc lá khô quanh mình. Tôi nghe thấy tiếng thầm thì của những loài hoa dại. Tôi cũng nghe thấy mùi của rơm rạ đồng xa được gió mang đi khắp ngọn đồi. Hình như khi nhắm mắt thì khứu giác, thính giác và xúc cảm, tất cả đã lên ngôi. Ngọn đồi như cũng biết hát những lời ca.” “Khoảng thời gian viết cuốn sách này, tôi như được lên chuyến tàu trở về với tuổi thơ ăm ắp kỉ niệm của mình. Tôi dành tặng câu chuyện không chỉ riêng cho các bạn nhỏ mà còn cho người lớn - những ai đã sinh ra và lớn lên ở vùng thôn quê như tôi.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_afb216bb794c4297cf230529d867b957.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_afb216bb794c4297cf230529d867b957.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1: Mở Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=805",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:13:25 Phần 2: Nghịch Dại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=1650",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:30 Phần 3: Con Chấy Cắn Đôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=2541",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:42:21 Phần 4: Người Hùng Bố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=3426",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:06 Phần 5: Ai Đồng Nát Đây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=4261",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:11:01 Phần 6: Ông Anh Họ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=5121",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:25:21 Phần 7: Những Cuốn Sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=5977",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:39:37 Phần 8: Tổ Chim Non",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=6851",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:54:11 Phần 9: Ám Ảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=7739",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:08:59 Phần 10: Chị Hoa Cảm Nắng Anh Hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=8626",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:23:46 Phần 11: Nỗi Buồn Của Trung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=9504",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:38:24 Phần Cuối: Những Cuộc Chia Ly",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1: Mở Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=805",
+    "title" : "00:13:25 Phần 2: Nghịch Dại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=1650",
+    "title" : "00:27:30 Phần 3: Con Chấy Cắn Đôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=2541",
+    "title" : "00:42:21 Phần 4: Người Hùng Bố",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=3426",
+    "title" : "00:57:06 Phần 5: Ai Đồng Nát Đây",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=4261",
+    "title" : "01:11:01 Phần 6: Ông Anh Họ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=5121",
+    "title" : "01:25:21 Phần 7: Những Cuốn Sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=5977",
+    "title" : "01:39:37 Phần 8: Tổ Chim Non",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=6851",
+    "title" : "01:54:11 Phần 9: Ám Ảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=7739",
+    "title" : "02:08:59 Phần 10: Chị Hoa Cảm Nắng Anh Hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=8626",
+    "title" : "02:23:46 Phần 11: Nỗi Buồn Của Trung",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13620-ngon-doi-biet-hat-thuviensach.vn.mp3?t=9504",
+    "title" : "02:38:24 Phần Cuối: Những Cuộc Chia Ly",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

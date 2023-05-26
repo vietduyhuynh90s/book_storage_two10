@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thoi-hon-thuong-hieu-lam-trieu-nguoi-me-13519.html",
+    "title" : "THỔI HỒN THƯƠNG HIỆU, LÀM TRIỆU NGƯỜI MÊ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David Aaker",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Brand Story - Thổi Hồn Thương Hiệu, Làm Triệu Người Mê Làm thế nào để tạo ra một câu chuyện thương hiệu hấp dẫn? Một thương hiệu để đời là thương hiệu có câu chuyện thương hiệu hấp dẫn, lôi cuốn khiến trái tim khách hàng thổn thức không bao giờ quên. Chúng ta ai cũng thích được nghe chuyện kể. Và sự thật đúng như vậy: Những câu chuyện truyền cảm thường thu hút sự chú ý và tác động mạnh tới não bộ của con người, nhiều hơn rất nhiều so với những câu từ rời rạc, những lời quảng cáo khô khan. Những người làm Marketing nhận ra rằng: Brand Story - truyền tải thông điệp tiếp thị thông qua hình thức kể chuyện là cách thức nhanh nhất để khách hàng ghi nhớ thương hiệu và xây dựng mối quan hệ khăng khít với họ. Một vài kiến thức để bạn sáng tạo được câu chuyện thương hiệu để đời như: suy nghĩ về tính cách và định vị của thương hiệu sau đó viết tóm lược ngắn gọn các ý tưởng cho câu chuyện thương hiệu. Hãy nhìn vào bản tóm tắt đó và xem xét những yếu tố như: Sự tin cậy: Tại sao bạn đủ năng lực để bán sản phẩm này? Sự khác biệt: Tại sao bạn KHÁC BIỆT với những đơn vị khác cùng bán loại sản phẩm này? (Hãy tích cực và trung thực khi trả lời câu hỏi này) Mục đích: Lý do bạn lại muốn kinh doanh? Bạn đang muốn tạo ra sự khác biệt hoặc tác động gì? (Hãy thêm vào nhiều cảm xúc nhất có thể. Mọi người muốn biết bạn quan tâm tới điều gì) Cốt truyện và tính cách: Điều gì làm cho câu chuyện của bạn đáng để được lắng nghe? Điều gì sẽ thu hút khách hàng ở mức độ cá nhân? Đó là một yếu tố đầy quyền lực trong chiến lược thương hiệu của bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b4f818f1a225404c09b44869abc9af62.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b4f818f1a225404c09b44869abc9af62.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13519-thoi-hon-thuong-hieu-lam-trieu-nguoi-me-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13519-thoi-hon-thuong-hieu-lam-trieu-nguoi-me-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

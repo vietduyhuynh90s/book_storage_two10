@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ban-tay-anh-sang-165.html",
+    "title" : "BÀN TAY ÁNH SÁNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Barbara Ann Brennan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời giới thiệu Nguyên tác: Hands of Light - A Guide to Healing Through the Human Energy Field Sách hướng dẫn chữa trị qua trường năng lượng của con người. Đây là kỷ nguyên mới và để lý giải cho câu nói của Shakespeare “Ngày càng có nhiều cái giữa Trời Đất mà con người không biết”. Cuốn sách nầy trao đổi với những ai đang tìm kiếm sự tự hiểu biết về những quá trình thể chất và cảm xúc của mình vượt ra khỏi khuôn khổ của Y học cổ điển. Cuốn sách tập trung vào nghệ thuật chữa bệnh thông qua những phương pháp vật lý và siêu hình. Cuốn sách mở ra những phạm vi mới để hiểu được tính đồng nhất tâm thể mà lần đầu tiên Wilhelm Reich, Walter Canon, Franz Alexander, Flanders Dunbar, Burr và Northrup cùng nhiều nhà tìm tòi nghiên cứu khác trong lĩnh vực tâm thể học đã từng giới thiệu với chúng ta. Nội dung cuốn sách giải quyết việc xác định những kinh nghiệm chữa trị và lịch sử các tìm tòi nghiên cứu khoa học về trường năng lượng con người và hào quang. Cuốn sách là tài liệu duy nhất nói về mối liên kết động lực học tâm lý với trường năng lượng con người. Cuốn sách mô tả những thay đổi của trường năng lượng vì nó liên quan đến các chức năng của cá thể. Phần cuối cuốn sách xác định các nguyên nhân của bệnh tật và những nguyên nhân nầy dựa trên các khái niệm siêu hình với những rối loạn năng lượng của hào quang. Bạn đọc cũng sẽ tìm thấy ở đây mô tả bản chất của chữa trị tâm linh vì nó có liên quan đến thầy chữa là đối tượng chữa. Cuốn sách được viết từ những trải nghiệm chủ quan của tác giả vốn đã được huấn luyện một cách khoa học thành nhà vật lý và tâm lý trị liệu. Sự phối hợp giữa kiến thức khách quan với những trải nghiệm chủ quan tạo nên một phương pháp độc đáo mở rộng tầm hiểu biết vượt qua giới hạn của kiến thức khách quan. Đối với những ai vốn có đầu óc mở rộng cho sự tiếp cận như vậy, cuốn sách có những tư liệu vô cùng phong phú cho việc học tập, trải nghiệm và tiến hành thí nghiệm. Với những ai phản đối kịch liệt, tôi muốn khuyên họ hãy mở rộng tâm trí mình vào câu hỏi: “Có khả năng hiện hữu hay không hiện hữu thực trạng mới nầy, nó vượt ra khỏi ranh giới của thực nghiệm khoa học lô-gích và khách quan?” Tôi hết lòng gửi gắm cuốn sách nầy cho những ai bị kích thích trước mỗi hiện tượng vật lý và siêu hình xảy ra trong đời sống. Cuốn sách là công trình trong nhiều năm nỗ lực quên mình, thể hiện quá trình tiến hoá của nhân cách tác giả và sự phát triển của năng khiếu chữa trị đặc biệt của chị. Bạn đọc sẽ đi vào một lĩnh vực vô cùng hấp dẫn, lắm chuyện diệu kỳ. Xin có lời khen ngợi chị Brennan về lòng dũng cảm trong việc cung cấp cho thế giới những trải nghiệm chủ quan và khách quan của mình.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_329f9abf7e16ca9b1e15564d480cd0d9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_329f9abf7e16ca9b1e15564d480cd0d9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/165-ban-tay-anh-sang-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/165-ban-tay-anh-sang-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

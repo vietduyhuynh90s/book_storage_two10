@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-6-43.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 6",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>CHƯƠNG 39: Tin mật của Hitler Bí mật của Mật tu giả Đội trưởng Trác Mộc Cường Ba Hô hấp Nghi vấn trong kim thư Tin mật của Hitler Vị khách bất ngờ CHƯƠNG 40: Sử liệu bí mật về việc qu}n Đức tiến vào Tây Tạng Tòa thành khắc đá Cuộc trùng phùng bất ngờ Sự kiên trì của Vương Hựu Đêm Moscow Cuộc rượt đuổi trong thành phố Cạm bẫy CHƯƠNG 41: Bản đồ bí mật của qu}n đội Đức ở Tây Tạng Tử đấu Gặp lại Sean Họa phúc khó lường Đắp đê và dẫn dòng Pháp sư Tháp Tây Nguồn gốc đối thủ CHƯƠNG 42: Hitler lần đầu tiên ph|i người vào đất Tây Tạng Suy đoán về Merkin Gia tộc Bạc Ba La Thành viên mới (1) Thành viên mới (2) Đảng Quốc xã - lần đầu tiến vào Tây Tạng CHƯƠNG 43: Hitler bí mật ph|i người lần thứ hai xâm nhập Tây Tạng Suy đo|n về 13 Hiệp sĩ B{n Tròn Merkin và Stanley Đảng Quốc xã lần thứ hai tiến vào Tây Tạng Ba nghi vấn lớn Hồi ức của Merkin Tập hợp lại CHƯƠNG 44: Bí mật Shangri-la Hương Ba La - Mật Quang Bảo Giám Bí mật đằng sau - hình ảnh phản chiếu (1) Bí mật đằng sau - hình ảnh phản chiếu (2) Tiền thân của Shangri-la Trở lại thôn Công Bố Lối vào CHƯƠNG 45: U Minh h{: dòng sông thần bí nhất Tây Tạng Lần đầu thăm dò Thăm dò U Minh hà (1) Thăm dò U Minh h{ (2) Thuyền hình rắn Chiến ngao thời nhà Nguyên</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_9a85ee1b2ebc51ef485d781bc43fe1f7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_9a85ee1b2ebc51ef485d781bc43fe1f7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/43-mat-ma-tay-tang-tap-6-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/43-mat-ma-tay-tang-tap-6-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

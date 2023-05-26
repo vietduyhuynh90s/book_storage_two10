@@ -1,0 +1,2657 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-7754.html",
+    "title" : "TUYỂN CHỌN NHỮNG TRUYỆN CỔ TÍCH VIỆT NAM HAY NHẤT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sưu Tầm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những câu chuyện cổ tích việt nam đã đi vào biết bao nhiêu thế hệ bây giờ đã có sách tuyển chọn những chuyện cổ tích hay như: Sự tích dưa hấu Sự tích trầu, cau và vôi Sự tích trái sầu riêng Sự tích cây huyết dụ Sự tích chim hít cô Sự tích chim tu hú Sự tích cóc kiện trời Sự tích ai mua hành tôi Chuyện cổ tích về loài người Sự tích cây tre trăm đốt Sự tích cậu bé thông minh Truyện cổ tích ba cô gái Sự tích cây khế Sự tích Thánh Gióng Truyện cổ tích Thạch Sanh Truyện cổ tích Sơn Tinh Thuỷ Tinh Truyện cổ tích Cây bút thần Truyện cổ tích Tấm cám... Sách khá dày nên đọc cho bé một truyện trước khi đi ngủ nhé chúc các bé ngủ ngon</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_6522dfee3f1da008bd7ebd2d1704049d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_6522dfee3f1da008bd7ebd2d1704049d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ai Mua Hành Tôi Hay Là Lọ Nước Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=1605",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:26:45 Ăn Khế Trả Vàng (Sự Tích Cây Khế)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=2403",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:40:03 Ba Chàng Thiện Nghệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=5547",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:32:27 Bà Lớn Đười Ươi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=5891",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:38:11 Ba Vành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=6656",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:50:56 Bốn Cô Gái Muốn Lấy Chồng Hoàng Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=9188",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:33:08 Cậu Bé Thông Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=9816",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:43:36 Cây Đa Biết Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=10090",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:48:10 Cây Thuốc Cải Tử Hoàn Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=12242",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:24:02 Cây Tre Trăm Đốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=12872",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:34:32 Cha Mẹ Nuôi Con Bể Hồ Lai Láng Con Nuôi Cha Mẹ Kể Tháng Kể Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=13361",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:42:41 Chàng Ngốc Được Kiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=14127",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:55:27 Chú Cuội Cung Trăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=14969",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:09:29 Chưa Đỗ Ông Nghè Đã Đe Hàng Tổng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=15481",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:18:01 Cố Bu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=16102",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:28:22 Cô Gái Con Thần Nước Mê Chàng Đánh Cá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=16668",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:37:48 Cô Gái Lấy Chồng Hoàng Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=17588",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:53:08 Cô Gái Lừa Thầy Sãi, Xã Trưởng Và Ông Quan Huyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=19186",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:19:46 Cố Ghép",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=19654",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:27:34 Con Chim Khách Màu Nhiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=21053",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:50:53 Con Chó, Con Mèo Và Anh Chàng Nghèo Khổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=24132",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:42:12 Con Hổ Và Cóc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=24664",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:51:04 Con Hổ Và Con Thỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=25429",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:03:49 Con Sáo Và Phú Trưởng Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=26150",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:15:50 Con Thỏ, Con Gà Và Con Hổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=26739",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:25:39 Của Thiên Trả Địa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=27100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:31:40 Dì Phải Thằng Chết Trôi, Tôi Phải Đôi Sấu Sành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=27621",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:40:21 Gái Ngoan Dạy Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=29251",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:07:31 Giận Mày Tao Ở Với Ai Hay Là Truyện Phượng Hoàng Đất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=30132",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:22:12 Hà Ô Lôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=30866",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:34:26 Hai Cô Gái Và Cục Bướu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=31366",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:42:46 Hai Nàng Công Chúa Nhà Trần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=31746",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:49:06 Hầu Tạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=32229",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:57:09 Hòn Đá Thần (Hủ Thần)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=32781",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:06:21 Kẻ Trộm Dạy Học Trò",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=33636",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:20:36 Kết Bạn (Hổ Và Mèo)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=34159",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:29:19 Lê Lợi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=34667",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:37:47 Lê Văn Khôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=35442",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:50:42 Miếng Trầu Kỳ Diệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=36389",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:06:29 Mưu Kế Con Thỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=37257",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:20:57 Mưu Trí Đàn Bà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=37608",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:26:48 Mỵ Châu - Trọng Thủy Hay Là Truyện Nỏ Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=38828",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:47:08 Nàng Tiên Út Và Bức Tranh Thêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=39671",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:01:11 Ngậm Ngải Tìm Trầm Hay Là Sự Tích Núi Mẫu Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=40128",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:08:48 Ngọc Hoàng Và Anh Học Trò Nghèo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=40911",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:21:51 Người Ả Đào Với Giặc Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=41181",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:26:21 Người Con Út Hiếu Thảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=42044",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:40:44 Người Đàn Bà Bị Vu Oan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=42809",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:53:29 Người Đàn Bà Mất Tích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=43223",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:00:23 Người Dân Nghèo Và Ngọc Hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=44528",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:22:08 Người Đầy Tớ Và Người Ăn Trộm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=45188",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:33:08 Người Dì Ghẻ Ác Nghiệt Hay Là Sự Tích Con Dế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=45703",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:41:43 Người Họ Liêu Và Diêm Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=45982",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:46:22 Người Học Trò Và Ba Con Quỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=47782",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:16:22 Người Lấy Cóc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=50487",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:01:27 Người Lấy Ếch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=51217",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:13:37 Người Thợ Đúc Và Anh Học Nghề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=52294",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:31:34 Người Thợ Đúc Và Anh Học Nghề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=53189",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:46:29 Người Thợ Mộc Nam Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=54213",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:03:33 Người Thợ Săn Và Mụ Chằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=56420",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:40:20 Nguồn Gốc Bộ Lông Quạ Và Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=57004",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:50:04 Nguồn Gốc Ruộng Thác Đao Hay Là Truyện Lê Phụng Hiểu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=57707",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:01:47 Nguồn Gốc Tiếng Kêu Của Vạc, Cộc, Dủ Dỉ, Đa Đa Và Chuột",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=57967",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:06:07 Nguyễn Khoa Đăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=58842",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:20:42 Nhân Tham Tài Nhi Tử, Điểu Tham Thực Nhi Vong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=59369",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:29:29 Nợ Duyên Trong Mộng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=61265",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:01:05 Nợ Tình Chưa Trả Cho Ai, Khối Tình Mang Xuống Tuyền Đài Chưa Tan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=61745",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:09:05 Nước Mắt Cá Sấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=62254",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:17:34 Ông Dài Ông Cộc Hay Là Sự Tích Thần Sông Kỳ-Cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=63585",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:39:45 Ông Nam Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=63990",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:46:30 Phạm Nhĩ Hay Sự Tích Ông Ba Mươi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=64338",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:52:18 Phân Xử Tài Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=65407",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:10:07 Phiêu Lưu Của Anh Chàng Ngốc Hay Là Làm Theo Vợ Dặn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=66480",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:28:00 Quận He",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=67164",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:39:24 Quan Triều Hay Là Chiếc Áo Tàng Hình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=68233",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:57:13 Sợi Bấc Tìm Ra Thủ Phạm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=68547",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:02:27 Sự Tích Ả Chức Chàng Ngưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=74091",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:34:51 Sự Tích Âm Dương Giao Chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=74619",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:43:39 Sự Tích Anh Chàng Họ Đào",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=75100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:51:40 Sự Tích Anh Em Sinh Năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=75783",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:03:03 Sự Tích Ao Phật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=76247",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:10:47 Sự Tích Bà Chúa Ong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=76792",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:19:52 Sự Tích Bãi Ông Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=77194",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:26:34 Sự Tích Bán Tóc Đãi Bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=77660",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:34:20 Sự Tích Bảy Giao, Chính Quỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=77947",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:39:07 Sự Tích Bính Và Đinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=78984",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:56:24 Sự Tích Bò Béo Bò Gầy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=79456",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:04:16 Sự Tích Bợm Già Mắc Bẫy Cò Ke",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=79748",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:09:08 Sự Tích Bốn Anh Tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=81119",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:31:59 Sự Tích Bốn Người Bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=81687",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:41:27 Sự Tích Bông Hoa Lài Cắm Bãi Cứt Trâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=82416",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:53:36 Sự Tích Bùi Cầm Hổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=82981",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:03:01 Sự Tích Cá He Và Chim Bìm Bịp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=84030",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:20:30 Sự Tích Cái Chân Sau Con Chó (Mục Liên Thanh Đề)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=84211",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:23:31 Sự Tích Cái Chết Của Bốn Ông Sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=85338",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:42:18 Sự Tích Cái Chổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=85656",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:47:36 Sự Tích Cái Kiến Mày Kiện Củ Khoai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=86022",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:53:42 Sự Tích Cái Nốt Dưới Cổ Con Trâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=86444",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:00:44 Sự Tích Cái Vết Đỏ Trên Má Công Nương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=86859",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:07:39 Sự Tích Cây Huyết Dụ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=87199",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:13:19 Sự Tích Cây Nêu Ngày Tết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=88399",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:33:19 Sự Tích Chàng Lía",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=89218",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:46:58 Sự Tích Chàng Ngốc Học Khôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=89891",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:58:11 Sự Tích Chàng Rể Thong Manh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=90611",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:10:11 Sự Tích Chiếc Giày Thơm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=91174",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:19:34 Sự Tích Chim Đa Đa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=91753",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:29:13 Sự Tích Chim Hít Cô",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=92356",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:39:16 Sự Tích Chim Năm Trâu Sáu Cột Và Chim Bắt Cô Trói Cột",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=93124",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:52:04 Sự Tích Chim Tu Hú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=93657",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:00:57 Sự Tích Con Chim Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=94295",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:11:35 Sự Tích Con Cóc Liếm Nước Mưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=94902",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:21:42 Sự Tích Con Dã Tràng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=96936",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:55:36 Sự Tích Con Khỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=99771",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:42:51 Sự Tích Con Ma Báo Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=100240",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:50:40 Sự Tích Con Mối Làm Chứng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=100725",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:58:45 Sự Tích Con Mụ Lường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=102854",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:34:14 Sự Tích Con Muỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=104184",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:56:24 Sự Tích Con Nhái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=104643",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:04:03 Sự Tích Con Sam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=104803",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:06:43 Sự Tích Công Chúa Liễu Hạnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=106195",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:29:55 Sự Tích Của Trời Trời Lấy Lại Đi, Giương Đôi Mắt Ếch Làm Chi Được Trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=106640",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:37:20 Sự Tích Cường Bạo Đại Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=108921",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:15:21 Sự Tích Cứu Vật Vật Trả Ân Cứu Nhân Nhân Trả Oán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=110725",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:45:25 Sự Tích Đá Bà Rầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=111002",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:50:02 Sự Tích Đá Vọng Phu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=112076",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:07:56 Sự Tích Đầm Mực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=112462",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:14:22 Sự Tích Đầm Nhất Dạ Và Bãi Tự Nhiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=113358",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:29:18 Sự Tích Đền Cờn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=113928",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:38:48 Sự Tích Đình Làng Đa Hòa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=115156",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:59:16 Sự Tích Đồng Tiền Vạn Lịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=116945",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:29:05 Sự Tích Động Từ Thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=117959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:45:59 Sự Tích Duyên Nợ Tái Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=119245",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:07:25 Sự Tích Giáp Hải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=121084",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:38:04 Sự Tích Giết Thuồng Luồng (Đại Vương)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=121522",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:45:22 Sự Tích Hà Rầm Hà Rạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=122383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:59:43 Sự Tích Hai Anh Em Và Con Chó Đá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=123031",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:10:31 Sự Tích Hai Bảy Mười Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=123309",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:15:09 Sự Tích Hai Con Cò Và Con Rùa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=123861",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:24:21 Sự Tích Hai Ông Tướng Đá Rãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=124153",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:29:13 Sự Tích Hồ Ba Bể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=124735",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:38:55 Sự Tích Hòa Thượng Và Người Thợ Giày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=125898",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:58:18 Sự Tích Hoằng Tín Hầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=126821",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:13:41 Sự Tích Hồn Trương Ba, Da Hàng Thịt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=127170",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:19:30 Sự Tích Huyền Quang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=128219",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:36:59 Sự Tích Khăn Tang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=129270",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:54:30 Sự Tích Kiện Ngành Đa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=130401",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:13:21 Sự Tích Làm Cho Công Chúa Nói Được",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=130982",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:23:02 Sự Tích Làm Ơn Hóa Hại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=131484",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:31:24 Sự Tích Lẩy Bẩy Như Cao Biền Dậy Non",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=132673",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:51:13 Sự Tích Lê Như Hổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=133569",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:06:09 Sự Tích Mũi Dài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=135547",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:39:07 Sự Tích Nai Ngọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=136073",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:47:53 Sự Tích Nàng Xuân Hương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=136966",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:02:46 Sự Tích Người Cưới Ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=138047",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:20:47 Sự Tích Người Hóa Dế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=138788",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:33:08 Sự Tích Người Học Trò Và Con Hổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=140005",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:53:25 Sự Tích Nguyễn Thị Bích Châu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=140809",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:06:49 Sự Tích Nợ Như Chúa Chổm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=141535",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:18:55 Sự Tích Nói Dối Như Cuội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=144574",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:09:34 Sự Tích Nữ Hành Giành Bạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=144890",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:14:50 Sự Tích Núi Ngũ Hành Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=145300",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:21:40 Sự Tích Ông Bình Vôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=145807",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:30:07 Sự Tích Ông Đầu Rau (Ông Táo)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=146811",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:46:51 Sự Tích Ông Già Họ Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=147521",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:58:41 Sự Tích Ông Ồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=147852",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:04:12 Sự Tích Quan Âm Thị Kính",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=148717",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:18:37 Sự Tích Quận Gió",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=148985",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:23:05 Sự Tích Quân Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=149896",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:38:16 Sự Tích Rạch Đùi Giấu Ngọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=150420",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:47:00 Sự Tích Rắn Báo Oán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=151653",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:07:33 Sự Tích Rủ Nhau Đi Kiếm Mật Ong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=152480",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:21:20 Sự Tích Sinh Con Rồi Mới Sinh Cha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=153057",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:30:57 Sự Tích Sông Nhà Bè (Truyện Thủ Huồn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=153932",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:45:32 Sự Tích Tấm Cám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=160358",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:32:38 Sự Tích Tam Và Tứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=161907",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:58:27 Sự Tích Thạch Sanh Lý Thông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=163486",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "45:24:46 Sự Tích Thánh Chèm (Lý Ông Trọng)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=163858",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "45:30:58 Sự Tích Thánh Gióng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=166198",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:09:58 Sự Tích Thánh Láng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=168642",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:50:42 Sự Tích Thành Lồi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=169694",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:08:14 Sự Tích Tháp Báo Ân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=170311",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:18:31 Sự Tích Thầy Cứu Trò",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=170882",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:28:02 Sự Tích Thầy Lang Bất Đắc Dĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=171463",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:37:43 Sự Tích Thịt Gà Thuốc Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=172659",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:57:39 Sự Tích Tiếc Gà Chôn Mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=172814",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "48:00:14 Sự Tích Tiêu Diệt Mãng Xà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=175777",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "48:49:37 Sự Tích To Đầu Mà Dại Nhỏ Dái Mà Khôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=177000",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:10:00 Sự Tích Trái Sầu Riêng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=177425",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:17:05 Sự Tích Trạng Hiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=177715",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:21:55 Sự Tích Trầu Cau Và Vôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=178760",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:39:20 Sự Tích Trâu Vàng Hồ Tây (Khổng Lồ Đúc Chuông)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=179360",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:49:20 Sự Tích Trinh Phụ Hai Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=179785",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:56:25 Sự Tích Trọng Nghĩa Khinh Tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=180404",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:06:44 Sự Tích Truyện Thầy Hít (Bụng Làm Dạ Chịu)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=181982",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:33:02 Sự Tích Vợ Chàng Trương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=182543",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:42:23 Sự Tích Vua Heo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=183425",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:57:05 Tại Sao Sông Tô Lịch Và Sông Thiên Phù Lại Hẹp Lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=183915",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:05:15 Thần Giữ Của",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=184434",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:13:54 Thử Thần Và Miêu Thần Hay Là Sự Tích Chuột Và Mèo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=185164",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:26:04 Tra Tấn Hòn Đá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=185477",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:31:17 Lạc Long Quân Âu Cơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=186307",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:45:07 Sự Tích Cậu Bé Tích Chu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=186861",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:54:21 Sự Tích Cóc Kiện Trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=187231",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:00:31 Sự Tích Hai Cô Gái Và Cục Bướu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=187964",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:12:44 Sự Tích Hồ Gươm (Hồ Hoàn Kiếm)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=188489",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:21:29 Sự Tích Nỏ Thần (Mỵ Châu - Trọng Thủy)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=189514",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:38:34 Sự Tích Quả Dưa Hấu (Mai An Tiêm)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=189872",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "52:44:32 Sự Tích Sọ Dừa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=191045",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:04:05 Thánh Gióng (Phù Đổng Thiên Vương)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=191785",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:16:25 Trí Khôn Của Ta Đây (Hổ, Trâu, Bác Nông Dân)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=192074",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:21:14 Vua Lê Lợi (Lê Thái Tổ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=192584",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:29:44 Tú Uyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=193209",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:40:09 Vận Khứ Hoài Sơn Năng Trí Tử, Thời Lai Bạch Thuỷ Khả Thôi Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=193613",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:46:53 Vợ Ba Cai Vàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=194234",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:57:14 Voi Hổ Thỏ Và Khỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=194676",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "54:04:36 Voi Và Kiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=195092",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "54:11:32 Vụ Kiện Châu Chấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=196031",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "54:27:11 Yêu Tinh Chuột",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ai Mua Hành Tôi Hay Là Lọ Nước Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=1605",
+    "title" : "00:26:45 Ăn Khế Trả Vàng (Sự Tích Cây Khế)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=2403",
+    "title" : "00:40:03 Ba Chàng Thiện Nghệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=5547",
+    "title" : "01:32:27 Bà Lớn Đười Ươi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=5891",
+    "title" : "01:38:11 Ba Vành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=6656",
+    "title" : "01:50:56 Bốn Cô Gái Muốn Lấy Chồng Hoàng Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=9188",
+    "title" : "02:33:08 Cậu Bé Thông Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=9816",
+    "title" : "02:43:36 Cây Đa Biết Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=10090",
+    "title" : "02:48:10 Cây Thuốc Cải Tử Hoàn Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=12242",
+    "title" : "03:24:02 Cây Tre Trăm Đốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=12872",
+    "title" : "03:34:32 Cha Mẹ Nuôi Con Bể Hồ Lai Láng Con Nuôi Cha Mẹ Kể Tháng Kể Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=13361",
+    "title" : "03:42:41 Chàng Ngốc Được Kiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=14127",
+    "title" : "03:55:27 Chú Cuội Cung Trăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=14969",
+    "title" : "04:09:29 Chưa Đỗ Ông Nghè Đã Đe Hàng Tổng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=15481",
+    "title" : "04:18:01 Cố Bu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=16102",
+    "title" : "04:28:22 Cô Gái Con Thần Nước Mê Chàng Đánh Cá",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=16668",
+    "title" : "04:37:48 Cô Gái Lấy Chồng Hoàng Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=17588",
+    "title" : "04:53:08 Cô Gái Lừa Thầy Sãi, Xã Trưởng Và Ông Quan Huyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=19186",
+    "title" : "05:19:46 Cố Ghép",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=19654",
+    "title" : "05:27:34 Con Chim Khách Màu Nhiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=21053",
+    "title" : "05:50:53 Con Chó, Con Mèo Và Anh Chàng Nghèo Khổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=24132",
+    "title" : "06:42:12 Con Hổ Và Cóc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=24664",
+    "title" : "06:51:04 Con Hổ Và Con Thỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=25429",
+    "title" : "07:03:49 Con Sáo Và Phú Trưởng Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=26150",
+    "title" : "07:15:50 Con Thỏ, Con Gà Và Con Hổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=26739",
+    "title" : "07:25:39 Của Thiên Trả Địa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=27100",
+    "title" : "07:31:40 Dì Phải Thằng Chết Trôi, Tôi Phải Đôi Sấu Sành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=27621",
+    "title" : "07:40:21 Gái Ngoan Dạy Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=29251",
+    "title" : "08:07:31 Giận Mày Tao Ở Với Ai Hay Là Truyện Phượng Hoàng Đất",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=30132",
+    "title" : "08:22:12 Hà Ô Lôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=30866",
+    "title" : "08:34:26 Hai Cô Gái Và Cục Bướu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=31366",
+    "title" : "08:42:46 Hai Nàng Công Chúa Nhà Trần",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=31746",
+    "title" : "08:49:06 Hầu Tạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=32229",
+    "title" : "08:57:09 Hòn Đá Thần (Hủ Thần)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=32781",
+    "title" : "09:06:21 Kẻ Trộm Dạy Học Trò",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=33636",
+    "title" : "09:20:36 Kết Bạn (Hổ Và Mèo)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=34159",
+    "title" : "09:29:19 Lê Lợi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=34667",
+    "title" : "09:37:47 Lê Văn Khôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=35442",
+    "title" : "09:50:42 Miếng Trầu Kỳ Diệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=36389",
+    "title" : "10:06:29 Mưu Kế Con Thỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=37257",
+    "title" : "10:20:57 Mưu Trí Đàn Bà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=37608",
+    "title" : "10:26:48 Mỵ Châu - Trọng Thủy Hay Là Truyện Nỏ Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=38828",
+    "title" : "10:47:08 Nàng Tiên Út Và Bức Tranh Thêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=39671",
+    "title" : "11:01:11 Ngậm Ngải Tìm Trầm Hay Là Sự Tích Núi Mẫu Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=40128",
+    "title" : "11:08:48 Ngọc Hoàng Và Anh Học Trò Nghèo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=40911",
+    "title" : "11:21:51 Người Ả Đào Với Giặc Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=41181",
+    "title" : "11:26:21 Người Con Út Hiếu Thảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=42044",
+    "title" : "11:40:44 Người Đàn Bà Bị Vu Oan",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=42809",
+    "title" : "11:53:29 Người Đàn Bà Mất Tích",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=43223",
+    "title" : "12:00:23 Người Dân Nghèo Và Ngọc Hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=44528",
+    "title" : "12:22:08 Người Đầy Tớ Và Người Ăn Trộm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=45188",
+    "title" : "12:33:08 Người Dì Ghẻ Ác Nghiệt Hay Là Sự Tích Con Dế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=45703",
+    "title" : "12:41:43 Người Họ Liêu Và Diêm Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=45982",
+    "title" : "12:46:22 Người Học Trò Và Ba Con Quỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=47782",
+    "title" : "13:16:22 Người Lấy Cóc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=50487",
+    "title" : "14:01:27 Người Lấy Ếch",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=51217",
+    "title" : "14:13:37 Người Thợ Đúc Và Anh Học Nghề",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=52294",
+    "title" : "14:31:34 Người Thợ Đúc Và Anh Học Nghề",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=53189",
+    "title" : "14:46:29 Người Thợ Mộc Nam Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=54213",
+    "title" : "15:03:33 Người Thợ Săn Và Mụ Chằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=56420",
+    "title" : "15:40:20 Nguồn Gốc Bộ Lông Quạ Và Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=57004",
+    "title" : "15:50:04 Nguồn Gốc Ruộng Thác Đao Hay Là Truyện Lê Phụng Hiểu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=57707",
+    "title" : "16:01:47 Nguồn Gốc Tiếng Kêu Của Vạc, Cộc, Dủ Dỉ, Đa Đa Và Chuột",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=57967",
+    "title" : "16:06:07 Nguyễn Khoa Đăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=58842",
+    "title" : "16:20:42 Nhân Tham Tài Nhi Tử, Điểu Tham Thực Nhi Vong",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=59369",
+    "title" : "16:29:29 Nợ Duyên Trong Mộng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=61265",
+    "title" : "17:01:05 Nợ Tình Chưa Trả Cho Ai, Khối Tình Mang Xuống Tuyền Đài Chưa Tan",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=61745",
+    "title" : "17:09:05 Nước Mắt Cá Sấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=62254",
+    "title" : "17:17:34 Ông Dài Ông Cộc Hay Là Sự Tích Thần Sông Kỳ-Cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=63585",
+    "title" : "17:39:45 Ông Nam Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=63990",
+    "title" : "17:46:30 Phạm Nhĩ Hay Sự Tích Ông Ba Mươi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=64338",
+    "title" : "17:52:18 Phân Xử Tài Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=65407",
+    "title" : "18:10:07 Phiêu Lưu Của Anh Chàng Ngốc Hay Là Làm Theo Vợ Dặn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=66480",
+    "title" : "18:28:00 Quận He",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=67164",
+    "title" : "18:39:24 Quan Triều Hay Là Chiếc Áo Tàng Hình",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=68233",
+    "title" : "18:57:13 Sợi Bấc Tìm Ra Thủ Phạm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=68547",
+    "title" : "19:02:27 Sự Tích Ả Chức Chàng Ngưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=74091",
+    "title" : "20:34:51 Sự Tích Âm Dương Giao Chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=74619",
+    "title" : "20:43:39 Sự Tích Anh Chàng Họ Đào",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=75100",
+    "title" : "20:51:40 Sự Tích Anh Em Sinh Năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=75783",
+    "title" : "21:03:03 Sự Tích Ao Phật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=76247",
+    "title" : "21:10:47 Sự Tích Bà Chúa Ong",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=76792",
+    "title" : "21:19:52 Sự Tích Bãi Ông Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=77194",
+    "title" : "21:26:34 Sự Tích Bán Tóc Đãi Bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=77660",
+    "title" : "21:34:20 Sự Tích Bảy Giao, Chính Quỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=77947",
+    "title" : "21:39:07 Sự Tích Bính Và Đinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=78984",
+    "title" : "21:56:24 Sự Tích Bò Béo Bò Gầy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=79456",
+    "title" : "22:04:16 Sự Tích Bợm Già Mắc Bẫy Cò Ke",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=79748",
+    "title" : "22:09:08 Sự Tích Bốn Anh Tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=81119",
+    "title" : "22:31:59 Sự Tích Bốn Người Bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=81687",
+    "title" : "22:41:27 Sự Tích Bông Hoa Lài Cắm Bãi Cứt Trâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=82416",
+    "title" : "22:53:36 Sự Tích Bùi Cầm Hổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=82981",
+    "title" : "23:03:01 Sự Tích Cá He Và Chim Bìm Bịp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=84030",
+    "title" : "23:20:30 Sự Tích Cái Chân Sau Con Chó (Mục Liên Thanh Đề)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=84211",
+    "title" : "23:23:31 Sự Tích Cái Chết Của Bốn Ông Sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=85338",
+    "title" : "23:42:18 Sự Tích Cái Chổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=85656",
+    "title" : "23:47:36 Sự Tích Cái Kiến Mày Kiện Củ Khoai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=86022",
+    "title" : "23:53:42 Sự Tích Cái Nốt Dưới Cổ Con Trâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=86444",
+    "title" : "24:00:44 Sự Tích Cái Vết Đỏ Trên Má Công Nương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=86859",
+    "title" : "24:07:39 Sự Tích Cây Huyết Dụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=87199",
+    "title" : "24:13:19 Sự Tích Cây Nêu Ngày Tết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=88399",
+    "title" : "24:33:19 Sự Tích Chàng Lía",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=89218",
+    "title" : "24:46:58 Sự Tích Chàng Ngốc Học Khôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=89891",
+    "title" : "24:58:11 Sự Tích Chàng Rể Thong Manh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=90611",
+    "title" : "25:10:11 Sự Tích Chiếc Giày Thơm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=91174",
+    "title" : "25:19:34 Sự Tích Chim Đa Đa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=91753",
+    "title" : "25:29:13 Sự Tích Chim Hít Cô",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=92356",
+    "title" : "25:39:16 Sự Tích Chim Năm Trâu Sáu Cột Và Chim Bắt Cô Trói Cột",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=93124",
+    "title" : "25:52:04 Sự Tích Chim Tu Hú",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=93657",
+    "title" : "26:00:57 Sự Tích Con Chim Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=94295",
+    "title" : "26:11:35 Sự Tích Con Cóc Liếm Nước Mưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=94902",
+    "title" : "26:21:42 Sự Tích Con Dã Tràng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=96936",
+    "title" : "26:55:36 Sự Tích Con Khỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=99771",
+    "title" : "27:42:51 Sự Tích Con Ma Báo Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=100240",
+    "title" : "27:50:40 Sự Tích Con Mối Làm Chứng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=100725",
+    "title" : "27:58:45 Sự Tích Con Mụ Lường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=102854",
+    "title" : "28:34:14 Sự Tích Con Muỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=104184",
+    "title" : "28:56:24 Sự Tích Con Nhái",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=104643",
+    "title" : "29:04:03 Sự Tích Con Sam",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=104803",
+    "title" : "29:06:43 Sự Tích Công Chúa Liễu Hạnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=106195",
+    "title" : "29:29:55 Sự Tích Của Trời Trời Lấy Lại Đi, Giương Đôi Mắt Ếch Làm Chi Được Trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=106640",
+    "title" : "29:37:20 Sự Tích Cường Bạo Đại Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=108921",
+    "title" : "30:15:21 Sự Tích Cứu Vật Vật Trả Ân Cứu Nhân Nhân Trả Oán",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=110725",
+    "title" : "30:45:25 Sự Tích Đá Bà Rầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=111002",
+    "title" : "30:50:02 Sự Tích Đá Vọng Phu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=112076",
+    "title" : "31:07:56 Sự Tích Đầm Mực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=112462",
+    "title" : "31:14:22 Sự Tích Đầm Nhất Dạ Và Bãi Tự Nhiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=113358",
+    "title" : "31:29:18 Sự Tích Đền Cờn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=113928",
+    "title" : "31:38:48 Sự Tích Đình Làng Đa Hòa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=115156",
+    "title" : "31:59:16 Sự Tích Đồng Tiền Vạn Lịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=116945",
+    "title" : "32:29:05 Sự Tích Động Từ Thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=117959",
+    "title" : "32:45:59 Sự Tích Duyên Nợ Tái Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=119245",
+    "title" : "33:07:25 Sự Tích Giáp Hải",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=121084",
+    "title" : "33:38:04 Sự Tích Giết Thuồng Luồng (Đại Vương)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=121522",
+    "title" : "33:45:22 Sự Tích Hà Rầm Hà Rạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=122383",
+    "title" : "33:59:43 Sự Tích Hai Anh Em Và Con Chó Đá",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=123031",
+    "title" : "34:10:31 Sự Tích Hai Bảy Mười Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=123309",
+    "title" : "34:15:09 Sự Tích Hai Con Cò Và Con Rùa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=123861",
+    "title" : "34:24:21 Sự Tích Hai Ông Tướng Đá Rãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=124153",
+    "title" : "34:29:13 Sự Tích Hồ Ba Bể",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=124735",
+    "title" : "34:38:55 Sự Tích Hòa Thượng Và Người Thợ Giày",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=125898",
+    "title" : "34:58:18 Sự Tích Hoằng Tín Hầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=126821",
+    "title" : "35:13:41 Sự Tích Hồn Trương Ba, Da Hàng Thịt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=127170",
+    "title" : "35:19:30 Sự Tích Huyền Quang",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=128219",
+    "title" : "35:36:59 Sự Tích Khăn Tang",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=129270",
+    "title" : "35:54:30 Sự Tích Kiện Ngành Đa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=130401",
+    "title" : "36:13:21 Sự Tích Làm Cho Công Chúa Nói Được",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=130982",
+    "title" : "36:23:02 Sự Tích Làm Ơn Hóa Hại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=131484",
+    "title" : "36:31:24 Sự Tích Lẩy Bẩy Như Cao Biền Dậy Non",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=132673",
+    "title" : "36:51:13 Sự Tích Lê Như Hổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=133569",
+    "title" : "37:06:09 Sự Tích Mũi Dài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=135547",
+    "title" : "37:39:07 Sự Tích Nai Ngọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=136073",
+    "title" : "37:47:53 Sự Tích Nàng Xuân Hương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=136966",
+    "title" : "38:02:46 Sự Tích Người Cưới Ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=138047",
+    "title" : "38:20:47 Sự Tích Người Hóa Dế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=138788",
+    "title" : "38:33:08 Sự Tích Người Học Trò Và Con Hổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=140005",
+    "title" : "38:53:25 Sự Tích Nguyễn Thị Bích Châu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=140809",
+    "title" : "39:06:49 Sự Tích Nợ Như Chúa Chổm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=141535",
+    "title" : "39:18:55 Sự Tích Nói Dối Như Cuội",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=144574",
+    "title" : "40:09:34 Sự Tích Nữ Hành Giành Bạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=144890",
+    "title" : "40:14:50 Sự Tích Núi Ngũ Hành Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=145300",
+    "title" : "40:21:40 Sự Tích Ông Bình Vôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=145807",
+    "title" : "40:30:07 Sự Tích Ông Đầu Rau (Ông Táo)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=146811",
+    "title" : "40:46:51 Sự Tích Ông Già Họ Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=147521",
+    "title" : "40:58:41 Sự Tích Ông Ồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=147852",
+    "title" : "41:04:12 Sự Tích Quan Âm Thị Kính",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=148717",
+    "title" : "41:18:37 Sự Tích Quận Gió",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=148985",
+    "title" : "41:23:05 Sự Tích Quân Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=149896",
+    "title" : "41:38:16 Sự Tích Rạch Đùi Giấu Ngọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=150420",
+    "title" : "41:47:00 Sự Tích Rắn Báo Oán",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=151653",
+    "title" : "42:07:33 Sự Tích Rủ Nhau Đi Kiếm Mật Ong",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=152480",
+    "title" : "42:21:20 Sự Tích Sinh Con Rồi Mới Sinh Cha",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=153057",
+    "title" : "42:30:57 Sự Tích Sông Nhà Bè (Truyện Thủ Huồn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=153932",
+    "title" : "42:45:32 Sự Tích Tấm Cám",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=160358",
+    "title" : "44:32:38 Sự Tích Tam Và Tứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=161907",
+    "title" : "44:58:27 Sự Tích Thạch Sanh Lý Thông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=163486",
+    "title" : "45:24:46 Sự Tích Thánh Chèm (Lý Ông Trọng)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=163858",
+    "title" : "45:30:58 Sự Tích Thánh Gióng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=166198",
+    "title" : "46:09:58 Sự Tích Thánh Láng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=168642",
+    "title" : "46:50:42 Sự Tích Thành Lồi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=169694",
+    "title" : "47:08:14 Sự Tích Tháp Báo Ân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=170311",
+    "title" : "47:18:31 Sự Tích Thầy Cứu Trò",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=170882",
+    "title" : "47:28:02 Sự Tích Thầy Lang Bất Đắc Dĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=171463",
+    "title" : "47:37:43 Sự Tích Thịt Gà Thuốc Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=172659",
+    "title" : "47:57:39 Sự Tích Tiếc Gà Chôn Mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=172814",
+    "title" : "48:00:14 Sự Tích Tiêu Diệt Mãng Xà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=175777",
+    "title" : "48:49:37 Sự Tích To Đầu Mà Dại Nhỏ Dái Mà Khôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=177000",
+    "title" : "49:10:00 Sự Tích Trái Sầu Riêng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=177425",
+    "title" : "49:17:05 Sự Tích Trạng Hiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=177715",
+    "title" : "49:21:55 Sự Tích Trầu Cau Và Vôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=178760",
+    "title" : "49:39:20 Sự Tích Trâu Vàng Hồ Tây (Khổng Lồ Đúc Chuông)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=179360",
+    "title" : "49:49:20 Sự Tích Trinh Phụ Hai Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=179785",
+    "title" : "49:56:25 Sự Tích Trọng Nghĩa Khinh Tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=180404",
+    "title" : "50:06:44 Sự Tích Truyện Thầy Hít (Bụng Làm Dạ Chịu)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=181982",
+    "title" : "50:33:02 Sự Tích Vợ Chàng Trương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=182543",
+    "title" : "50:42:23 Sự Tích Vua Heo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=183425",
+    "title" : "50:57:05 Tại Sao Sông Tô Lịch Và Sông Thiên Phù Lại Hẹp Lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=183915",
+    "title" : "51:05:15 Thần Giữ Của",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=184434",
+    "title" : "51:13:54 Thử Thần Và Miêu Thần Hay Là Sự Tích Chuột Và Mèo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=185164",
+    "title" : "51:26:04 Tra Tấn Hòn Đá",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=185477",
+    "title" : "51:31:17 Lạc Long Quân Âu Cơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=186307",
+    "title" : "51:45:07 Sự Tích Cậu Bé Tích Chu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=186861",
+    "title" : "51:54:21 Sự Tích Cóc Kiện Trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=187231",
+    "title" : "52:00:31 Sự Tích Hai Cô Gái Và Cục Bướu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=187964",
+    "title" : "52:12:44 Sự Tích Hồ Gươm (Hồ Hoàn Kiếm)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=188489",
+    "title" : "52:21:29 Sự Tích Nỏ Thần (Mỵ Châu - Trọng Thủy)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=189514",
+    "title" : "52:38:34 Sự Tích Quả Dưa Hấu (Mai An Tiêm)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=189872",
+    "title" : "52:44:32 Sự Tích Sọ Dừa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=191045",
+    "title" : "53:04:05 Thánh Gióng (Phù Đổng Thiên Vương)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=191785",
+    "title" : "53:16:25 Trí Khôn Của Ta Đây (Hổ, Trâu, Bác Nông Dân)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=192074",
+    "title" : "53:21:14 Vua Lê Lợi (Lê Thái Tổ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=192584",
+    "title" : "53:29:44 Tú Uyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=193209",
+    "title" : "53:40:09 Vận Khứ Hoài Sơn Năng Trí Tử, Thời Lai Bạch Thuỷ Khả Thôi Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=193613",
+    "title" : "53:46:53 Vợ Ba Cai Vàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=194234",
+    "title" : "53:57:14 Voi Hổ Thỏ Và Khỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=194676",
+    "title" : "54:04:36 Voi Và Kiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=195092",
+    "title" : "54:11:32 Vụ Kiện Châu Chấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7754-tuyen-chon-nhung-truyen-co-tich-viet-nam-hay-nhat-thuviensach.vn.mp3?t=196031",
+    "title" : "54:27:11 Yêu Tinh Chuột",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

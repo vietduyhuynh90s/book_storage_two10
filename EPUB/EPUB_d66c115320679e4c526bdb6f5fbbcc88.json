@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/the-gioi-cua-sophie-898.html",
+    "title" : "THẾ GIỚI CỦA SOPHIE",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jostein Gaarder",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC: VƯỜN ĐỊA ĐÀNG … một lúc nào đó, cái gì đó hẳn đã sinh ra từ hư vô… CÁI MŨ CAO VÀNH …phẩm chất duy nhất cần thiết để trở thành triết gia tốt là khả năng ngạc nhiên… HUYỀN THOẠI …một thế quân bình mong manh giữa các lực lượng thiện và ác… CÁC NHÀ TRIẾT HỌC TỰ NHIÊN...chẳng có gì nảy sinh từ hư vô... DEMOCRITUS …món đồ chơi tuyệt vời nhất thế giới… SỐ MỆNH … thầy bói cố tiên đoán một điều khó mà đoán được… SOCRATES … người uyên bác nhất là người biết rằng mình không biết… ATHENS...những toà nhà lớn đã mọc lên từ đống phế tích... PLATO...mong mỏi trở về với vương quốc của linh hồn... NGÔI NHÀ GỖ CỦA ÔNG THIẾU TÁ... cô gái trong gương nháy cả hai mắt … ARISTOTLE... một con người tỉ mỉ muốn làm sáng tỏ các khái niệm của chúng ta… THỜI KỲ HY LẠP HÓA … một tia sang từ đống lửa… NHỮNG TẤM BƯU ẢNH …Bố đang cố kiểm duyệt bản thân thật chặt chẽ… HAI NỀN VĂN HÓA …cách duy nhất để tránh trôi nổi trong chân không… THỜI TRUNG CỔ …chỉ đi một đoạn đường không có nghĩa là đi sai đường… THỜI PHỤC HƯNG …hỡi dòng dõi thần thánh trong vỏ bọc trần tục… THỜI BAROQUE … những chất liệu làm nên giấc mơ… DESCARTES...ông muốn dọn sạch gạch vụn... SPINOZA …Chúa Trời không phải là một nghệ sĩ múa rối… LOCKE … trần trụi và trống trơn như một tấm bảng đen trước khi thầy giáo đến… HUME … thế thì ném nó vào lửa… BERKELEY … như một hành tinh loạng quạng quay cuồng quanh một mặt trời rực cháy… BJERKELY …một cái gương thần mà cụ bà đã mua của một người đàn bà Di-gan THỜI KỲ KHAI SÁNG …từ cách làm kim khâu cho đến cách đúc đại bác… KANT …bầu trời đầy sao trên đầu tôi và qui tắc đạo đức ở trong tôi… CHỦ NGHĨA LÃNG MẠN …con đường bí hiểm dẫn vào trong… HEGEL... Cái tồn tại là cái hợp lý... KIERKEGAARD... châu Âu đang trên đường phá sản... MARX …một bóng ma đang ám ảnh châu Âu… DARWIN... một con tàu chở gen căng buồm đi suốt cuộc đời... FREUD …xung năng vị kỷ đáng ghét đã từng nổi lên trong cô… THỜI ĐẠI CỦA CHÚNG TA …con người bị kết án phải tự do BỮA TIỆC TRONG VƯỜN... một con quạ trắng... ĐỐI ÂM... nhiều giai điệu cùng âm vang... VỤ NỔ LỚN …chúng ta cũng là bụi của những ngôi sao…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_d66c115320679e4c526bdb6f5fbbcc88.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_d66c115320679e4c526bdb6f5fbbcc88.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 1: Vườn Địa Đàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=882",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:14:42 Chương 2: Cái Mũ Cao Vành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=2114",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:35:14 Chương 3: Huyền Thoại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=3001",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:50:01 Chương 4: Các Nhà Triết Học Tự Nhiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=4576",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:16:16 Chương 5: Democritus",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=5280",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:28:00 Chương 6: Số Mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=6269",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:44:29 Chương 7: Socrates",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=8117",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:15:17 Chương 8: Athens",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=8911",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:28:31 Chương 9: Plato",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=10965",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:02:45 Chương 10: Ngôi Nhà Gỗ Của Ông Thiếu Tá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=12193",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:23:13 Chương 11: Aristotle",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=14376",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:59:36 Chương 12: Thời Kỳ Hy Lạp Hóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=16926",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:42:06 Chương 13: Những Tấm Bưu Ảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=17877",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:57:57 Chương 14: Hai Nền Văn Hóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=20115",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:35:15 Chương 15: Thời Trung Cổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=23150",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:25:50 Chương 16: Thời Phục Hưng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=26698",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:24:58 Chương 17: Thời Baroque",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=28663",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:57:43 Chương 18: Descartes",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=30417",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:26:57 Chương 19: Locke",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=31745",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:49:05 Chương 20: Hume",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=33594",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:19:54 Chương 21: Berkeley",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=34243",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:30:43 Chương 22: Bjerkely",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=36075",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:01:15 Chương 23: Thời Kỳ Khai Sáng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=38264",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:37:44 Chương 24: Kant",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=40692",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:18:12 Chương 25: Chủ Nghĩa Lãng Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=42904",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:55:04 Chương 26: Hegel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=44428",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:20:28 Chương 27: Kierkegaard",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=46119",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:48:39 Chương 28: Marx",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=48292",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:24:52 Chương 29: Darwin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=51315",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:15:15 Chương 30: Freud",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=53469",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:51:09 Chương 31: Bữa Tiệc Trong Vườn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=55098",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:18:18 Chương 32: Đối Âm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=57220",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:53:40 Chương 33: Vụ Nổ Lớn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 1: Vườn Địa Đàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=882",
+    "title" : "00:14:42 Chương 2: Cái Mũ Cao Vành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=2114",
+    "title" : "00:35:14 Chương 3: Huyền Thoại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=3001",
+    "title" : "00:50:01 Chương 4: Các Nhà Triết Học Tự Nhiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=4576",
+    "title" : "01:16:16 Chương 5: Democritus",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=5280",
+    "title" : "01:28:00 Chương 6: Số Mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=6269",
+    "title" : "01:44:29 Chương 7: Socrates",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=8117",
+    "title" : "02:15:17 Chương 8: Athens",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=8911",
+    "title" : "02:28:31 Chương 9: Plato",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=10965",
+    "title" : "03:02:45 Chương 10: Ngôi Nhà Gỗ Của Ông Thiếu Tá",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=12193",
+    "title" : "03:23:13 Chương 11: Aristotle",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=14376",
+    "title" : "03:59:36 Chương 12: Thời Kỳ Hy Lạp Hóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=16926",
+    "title" : "04:42:06 Chương 13: Những Tấm Bưu Ảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=17877",
+    "title" : "04:57:57 Chương 14: Hai Nền Văn Hóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=20115",
+    "title" : "05:35:15 Chương 15: Thời Trung Cổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=23150",
+    "title" : "06:25:50 Chương 16: Thời Phục Hưng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=26698",
+    "title" : "07:24:58 Chương 17: Thời Baroque",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=28663",
+    "title" : "07:57:43 Chương 18: Descartes",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=30417",
+    "title" : "08:26:57 Chương 19: Locke",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=31745",
+    "title" : "08:49:05 Chương 20: Hume",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=33594",
+    "title" : "09:19:54 Chương 21: Berkeley",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=34243",
+    "title" : "09:30:43 Chương 22: Bjerkely",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=36075",
+    "title" : "10:01:15 Chương 23: Thời Kỳ Khai Sáng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=38264",
+    "title" : "10:37:44 Chương 24: Kant",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=40692",
+    "title" : "11:18:12 Chương 25: Chủ Nghĩa Lãng Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=42904",
+    "title" : "11:55:04 Chương 26: Hegel",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=44428",
+    "title" : "12:20:28 Chương 27: Kierkegaard",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=46119",
+    "title" : "12:48:39 Chương 28: Marx",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=48292",
+    "title" : "13:24:52 Chương 29: Darwin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=51315",
+    "title" : "14:15:15 Chương 30: Freud",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=53469",
+    "title" : "14:51:09 Chương 31: Bữa Tiệc Trong Vườn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=55098",
+    "title" : "15:18:18 Chương 32: Đối Âm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/898-the-gioi-cua-sophie-thuviensach.vn.mp3?t=57220",
+    "title" : "15:53:40 Chương 33: Vụ Nổ Lớn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

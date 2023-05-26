@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuoi-20-nhung-nam-thang-quyet-dinh-cuoc-doi-ban-13543.html",
+    "title" : "TUỔI 20 - NHỮNG NĂM THÁNG QUYẾT ĐỊNH CUỘC ĐỜI BẠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Meg Jay",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Luôn chạy theo đám đông Không tiếp sức, cổ vũ những người xung quanh Nghĩ rằng không phải học hỏi và trưởng thành nữa Nghĩ rằng giúp đỡ ai đó rồi họ sẽ có ngày trả ơn mình Đầu tư vào những mối quan hệ không có giá trị đúng đắn Cặp kè với những người bạn ăn chơi lêu lổng và giết thời gian Luôn tiêu đến đồng cuối cùng mình có được mà không chịu để dành Hẹn hò một người chẳng ra gì Quên rằng luật nhân quả là có thật trong cuộc sống Tuổi thanh xuân giống như một cơn mưa rào mùa hạ chợt đến và rồi chợt đi lúc nào không hay. Đừng bỏ phí những năm tháng quyết định cuộc đời mình các bạn nhé! Trân trọng giới thiệu!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_56ff429cae859baaafff52063f753b79.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_56ff429cae859baaafff52063f753b79.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13543-tuoi-20-nhung-nam-thang-quyet-dinh-cuoc-doi-ban-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13543-tuoi-20-nhung-nam-thang-quyet-dinh-cuoc-doi-ban-thuviensach.vn.mp3?t=6320",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:45:20 Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13543-tuoi-20-nhung-nam-thang-quyet-dinh-cuoc-doi-ban-thuviensach.vn.mp3?t=15129",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:12:09 Phần 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13543-tuoi-20-nhung-nam-thang-quyet-dinh-cuoc-doi-ban-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13543-tuoi-20-nhung-nam-thang-quyet-dinh-cuoc-doi-ban-thuviensach.vn.mp3?t=6320",
+    "title" : "01:45:20 Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13543-tuoi-20-nhung-nam-thang-quyet-dinh-cuoc-doi-ban-thuviensach.vn.mp3?t=15129",
+    "title" : "04:12:09 Phần 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

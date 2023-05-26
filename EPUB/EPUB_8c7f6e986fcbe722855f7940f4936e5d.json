@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hay-song-cuoc-doi-nhu-ban-muon-980.html",
+    "title" : "HÃY SỐNG CUỘC ĐỜI NHƯ BẠN MUỐN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Pam Grout",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC VƯỢT QUA NỖI SỢ HÃI, MỞ TRÁI TIM VÀ BẮT ĐẦU CUỘC HÀNH TRÌNH ĐÂU LÀ LÝ TƯỞNG LỚN? THAY ĐỔI QUAN ĐIỂM, THAY ĐỔI CUỘC ĐỜI BẠN. NGUYÊN TẮC HOẠT ĐỘNG CHƯƠNG 1. Nghĩ lớn: Quan điểm về sự dũng cảm CHƯƠNG 2. Cho đi thật nhiều: Quan điểm về sự giúp đỡ CHƯƠNG 3. Ban phước nhiều hơn: Quan điểm về lòng tốt CHƯƠNG 4. Tạo sự khác biệt: Quan điểm về sự cam kết CHƯƠNG 5. Tưởng tượng phong phú: Quan điểm về sự sáng tạo CHƯƠNG 6: Tham gia hết mình: Quan điểm về hạnh phúc CHƯƠNG 7. Yêu thương nhiều: Quan điểm về tâm hồn</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_8c7f6e986fcbe722855f7940f4936e5d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_8c7f6e986fcbe722855f7940f4936e5d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/980-hay-song-cuoc-doi-nhu-ban-muon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/980-hay-song-cuoc-doi-nhu-ban-muon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thoai-voi-thuong-de-tap-9-1101.html",
+    "title" : "ĐỐI THOẠI VỚI THƯỢNG ĐẾ - TẬP 9",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Neale Donald Walsch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chúng ta đang gặp rắc rối. Nhưng sẽ có sự giúp đỡ … nếu chúng ta lắng nghe. Vào giữa đêm ngày 2 tháng 8 năm 2016, Neale Donald Walsch thấy mình bị cuốn vào một cuộc đối thoại mới và hoàn toàn bất ngờ với Chúa, trong đó anh đột nhiên phải đối mặt với hai câu hỏi: Liệu loài người có được những Sinh vật Tiến hóa Cao cấp từ Một Chiều không gian khác giúp đỡ không? Có vai trò quan trọng nào mà con người đang được mời đóng trong việc thúc đẩy quá trình tiến hóa của chính họ bằng cách tham gia vào một sứ mệnh chung để hỗ trợ hành tinh trong những thời điểm quan trọng sắp tới không? Anh ta được cho biết rằng câu trả lời cho cả hai câu hỏi là có. Sau đó, ông được đưa ra 16 ví dụ cụ thể về cách những Sinh vật Tiến hóa cao phản ứng với cuộc sống khác với con người - và cách áp dụng một vài hành vi đó có thể thay đổi tiến trình lịch sử thế giới mãi mãi tốt đẹp hơn. Thông tin đó tạo nên nội dung của tác phẩm này. Một lời mời hấp dẫn đối với mọi độc giả tạo tiền đề cho những khám phá phi thường tiếp theo. Đón xem Quyển 3 trong loạt Trò chuyện với Chúa trời còn lại, những tiết lộ về Những sinh vật tiến hóa cao và về cách con người bình thường có thể trả lời lời kêu gọi giúp đánh thức các loài trên Trái đất sẽ mở rộng một cách ngoạn mục cho bạn về tương lai của cả cá nhân và tập thể của bạn. Đó chính xác là những gì cuộc đối thoại dự định làm.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_1276e46a7cb9bb6b2c75d5a2e3507737.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_1276e46a7cb9bb6b2c75d5a2e3507737.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1101-doi-thoai-voi-thuong-de-tap-9-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1101-doi-thoai-voi-thuong-de-tap-9-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

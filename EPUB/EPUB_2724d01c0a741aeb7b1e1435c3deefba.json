@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thoai-voi-thuong-de-tap-6-1100.html",
+    "title" : "ĐỐI THOẠI VỚI THƯỢNG ĐẾ - TẬP 6",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Neale Donald Walsch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>QUYỂN 6 - MẶC KHẢI MỚI, 2002 tại sao ta vẫn còn lắng nghe, diễn dịch những lời của những người đã chết từ 2000, 3000, 5000 năm trước. Tại sao tôn giáo suốt 100 thế hệ đã Ko có gì mới. Thế giới vẫn giết chóc thù hận là do đâu? Tâm linh là gì? Tôn giáo là gì? Quyển 5 màu xanh, màu của hòa bình. Quyển này nói về thay đổi niềm tin sai lạc để tạo ra một nền tâm linh mới không còn xung đột tôn giáo. Hòa bình nội tâm đến hòa bình thế giới. Thông điệp quan trọng Thượng Đế gửi tới thế giới nằm ở đây trong quyển số 6 của bộ sách Đối Thoại Với Thượng Đế. Nếu bạn đã nhìn thấy nó, đó là vì bạn đã được mang tới đây. Hãy giữ cho trái tim và trí óc mình cởi mở và lắng nghe.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_2724d01c0a741aeb7b1e1435c3deefba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_2724d01c0a741aeb7b1e1435c3deefba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1100-doi-thoai-voi-thuong-de-tap-6-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1100-doi-thoai-voi-thuong-de-tap-6-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/but-ky-duong-tam-tang-7831.html",
+    "title" : "BÚT KÝ ĐƯỜNG TAM TẠNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Huyền Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Có lẽ hình ảnh Tam Tạng pháp sư Huyền Trang (600-664) đi thỉnh kinh là một trong những hình ảnh gây nhiều ấn tượng sâu sắc và in sâu vào tâm thức của đa số người Việt Nam chúng ta nhất. Con người ấy đã vì pháp quên mình, cô thân chích ảnh, trải bao hiểm nguy, băng ngàn vượt suối, đến tận đất Phật, trong thời buổi đường đi chỉ là những lối mòn hoang sơ đầy bấc trắc, để tìm thầy học đạo suốt 17 năm trời, rồi thỉnh về nước 657 bộ kinh Phật bằng tiếng Ấn Độ. Thế nhưng, ngoài công trình Tây hành cầu pháp, phiên dịch Kinh điển, Pháp sư còn để lại tập sử liệu rất đặc sắc, \" Đại Đường Tây Vực Ký \". Trong tập bút ký này, Huyền Trang đã ghi chép về 138 nước, mà phần lớn Pháp sư đã từng đặt chân đến, rồi dùng ngòi bút của một sử gia chuyên nghiệp, ghi chép rất cẩn thận. Nội dung tổng hợp cả tính Lịch sử, Địa lý và đầy đủ các giá trị văn hoá của từng nước. Có thể nói đây là một tư liệu văn hiến rất trọng yếu dùng để nghiên cứu lịch sự Phật giáo, lịch sử giao lưu giữa các nước vùng Trung Á, Nam Á. ( Hoà thượng Thích Phước Sơn Phó viện trưởng Viện nghiên cứu Phật học Việt Nam )</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5d50194f94600f7a898a6d4c3a1b4e74.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5d50194f94600f7a898a6d4c3a1b4e74.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7831-but-ky-duong-tam-tang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7831-but-ky-duong-tam-tang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

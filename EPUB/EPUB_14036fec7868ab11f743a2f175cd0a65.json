@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/truyen-ky-man-luc-7815.html",
+    "title" : "TRUYỀN KỲ MẠN LỤC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Dữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Truyền kỳ mạn lục (chữ Hán: 傳奇漫錄, nghĩa là Sao chép tản mạn những truyện lạ), là tác phẩm duy nhất của danh sĩ Nguyễn Dư (thường được gọi là Nguyễn Dữ), sống vào khoảng thế kỷ 16 tại Việt Nam. Đây là tác phẩm được Hà Thiện Hán viết lời tựa, Nguyễn Bỉnh Khiêm (thầy dạy tác giả) phủ chính, Nguyễn Thế Nghi,[1] dịch ra chữ Nôm, và đã được Tiến sĩ Vũ Khâm Lân (1702-?), đánh giá là một \"thiên cổ kỳ bút\".</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_14036fec7868ab11f743a2f175cd0a65.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_14036fec7868ab11f743a2f175cd0a65.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7815-truyen-ky-man-luc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7815-truyen-ky-man-luc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

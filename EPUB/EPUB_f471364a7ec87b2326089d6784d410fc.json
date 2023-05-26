@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tinh-do-van-dap-1223.html",
+    "title" : "TỊNH ĐỘ VẤN ĐÁP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tịnh Không",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sau khi chứng ngộ quả vị vô thượng chánh đẳng chánh giác, Đức Phật Thích Ca Mâu Ni bắt đầu thuyết pháp độ sanh suốt 49 năm. Những dòng pháp của Thế Tôn như dòng suối “Cam Lồ” tưới mát cho tất cả chúng sanh đang bị nóng bức, bị đốt cháy, bởi lửa tham sân si. Dòng pháp vị nhiệm mầu ấy đã chảy từ mấy ngàn năm trước và tiếp tục chảy mãi, chảy mãi đến nơi nào khổ đau bởi do tham lam, sân hận, si mê còn đang ngự trị. Chính là dòng chảy của Phật giáo qua các pháp môn tu tập, như trăm sông, ngàn suối rồi về chung biển cả. Cũng thế, pháp môn tuy nhiều, diễn đạt lời pháp có sâu, có cạn. Nhưng dù sâu cạn thế nào đi nữa thì tất cả như chìa khóa để mở cửa tâm linh, như những phương thuốc để chữa lành tâm bệnh cho tất cả chúng sanh. Pháp môn Tịnh độ là một trong những pháp môn tu tập của Đạo Phật du nhập vào Việt Nam rất sớm, được đa số Phật tử tại gia tu tập vì dễ tu, dễ thực hành cho mọi tầng lớp từ già đến trẻ, từ tu sĩ đến cư sĩ, từ nông dân đến tiến sĩ, bác học, nhất là trong thời đại khoa học năng động này. Bất kỳ ai niệm Phật đầy đủ: tín, hạnh, nguyện thì ngay trong hiện tại thân tâm được an lạc, tương lai được vãng sanh về thế giới của Phật A Di Đà. Hiện nay, do thấy số lượng Phật tử tu pháp môn niệm Phật ngày càng nhiều, cho nên chúng tôi cố gắng phiên dịch những tài liệu về pháp môn Tịnh độ của các bậc cao tăng tiền bối đã giảng dạy nhằm góp phần cung cấp thêm tài liệu cho các giới Phật tử tại gia tìm hiểu, nghiên cứu tu tập đúng theo trong kinh luận Phật và các Bậc Tổ Sư chỉ dạy. Tập sách “Tịnh độ Vấn Đáp” của Hòa thượng Tịnh Không cũng là một trong những tập sách trả lời những thắc mắc, nghi vấn của nhiều tầng lớp Phật tử tại gia đang tu niệm Phật tại đạo tràng Tịnh Tông Học Hội ở Úc châu, nhằm tháo gỡ những nghi vấn của các Phật tử, giúp họ phát khởi tín tâm niệm Phật cầu vãng sanh Tịnh độ. Trong quá trình phiên dịch cũng như làm các Phật sự, chúng con thành tâm tri ân các bậc tôn túc đặc biệt là Thầy Thích Chân Tính - trụ trì Chùa Hoằng Pháp - người luôn quan tâm và tạo điều kiện cho hàng đệ tử chúng con trên bước đường tu học và hoằng truyền chánh pháp. Với chút công đức này, chúng con xin nguyện hồi hướng cầu nguyện cho kẻ mất, người còn khi xả bỏ báo thân đồng sanh về Tịnh độ. Mặc dù hết sức cố gắng trong quá trình phiên dịch, nhưng chắc chắn không tránh khỏi những khiếm khuyết nhất định. Kính mong chư tôn hiền đức, cùng pháp hữu mười phương niệm tình chỉ giáo, thật tri ân vô lượng</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f471364a7ec87b2326089d6784d410fc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f471364a7ec87b2326089d6784d410fc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1223-tinh-do-van-dap-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1223-tinh-do-van-dap-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

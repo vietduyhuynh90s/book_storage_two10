@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cho-den-mau-giao-thi-da-muon-494.html",
+    "title" : "CHỜ ĐẾN MẪU GIÁO THÌ ĐÃ MUỘN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ibuka Masaru",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời tác giả \"Con đường đưa tôi đến với sự nghiệp giáo dục trẻ tuổi ấu thơ\" Đã hơn 25 năm kể từ khi tôi tham gia vào sự nghiệp nghiên cứu giáo dục trẻ tuổi ấu thơ. Nói đến chuyên môn \"giáo dục” thi tôi hoàn toàn chưa hề có kinh nghiệm gì, nhưng cũng chính vì không phải là một chuyên gia nên tôi lại có thể nhìn thấy rất nhiều khía cạnh khác mà những chuyên gia trong ngành giáo dục khó nhìn ra được, và chính điều đó đã giúp tôi có hướng nghiên cứu riêng của mình. \"Chờ đến mẫu giáo thi đã muộn\" được xuất bản năm 1971, là cuốn sách đầu tiên tổng hợp những kiến thức và lí luận của tôi về phương pháp giáo dục cho trẻ tuổi ấu thơ xuất phát từ quan điểm nhấn mạnh đến khả năng hấp thu kiến thức vô hạn của trẻ ở thời kì ấu thơ (giai đoạn từ khi mang thai đến trước khi đi học tiểu học). Sau đó, những tiến bộ trong nghiên cứu về sinh lí não và y học đã lần lượt công nhận những khả năng tuyệt vời của trẻ sơ sinh và trẻ ở thời kì bú sữa mẹ. Chính những khám phá ấy đã làm cho suy nghĩ của tôi về giáo dục sớm ở trẻ cũng từng bước thay đổi theo. Tôi nhận ra rằng \"Thời kì thai giáo\" chính là thời kì vô cùng quan trọng trong giai đoạn ấu thơ. Những quan điểm của tôi về nội dung và các giai đoạn của giáo dục cho trẻ tuổi ấu thơ đã thay đổi rất nhiều qua môi cuốn sách. Các bạn có thể nhìn thấy điều đó khi tham khảo quyển \"Lên chiến lược từ 0 tuổi\". Tuy nhiên duy nhất có quan điểm \"Nhân cách và tính cách của trẻ tùy thuộc vào cách giáo dục của cha mẹ từ khi còn nhỏ\" thì không những không thay đổi, mà nó còn được tôi tin tưởng một cách mạnh mẽ hơn theo thời gian. Tôi sẽ vô cùng vui mừng nếu các bậc cha mẹ có thể tham khảo những quan điểm về giáo dục sớm của tôi ở trong cuốn sách này để nuôi dạy con mình. (Trích \"Đôi lời nói đầu\" trước khi xuất bản - NXB Aizo năm 1991)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5371fb919a448401d0cfa13d4e4ebd9a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5371fb919a448401d0cfa13d4e4ebd9a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/494-cho-den-mau-giao-thi-da-muon-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/494-cho-den-mau-giao-thi-da-muon-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

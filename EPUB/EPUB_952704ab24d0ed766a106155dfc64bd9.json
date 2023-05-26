@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-2-39.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>CHƯƠNG 8: XUẤT PHÁT! RỪNG AMAZON Tập kích Chuẩn bị trước khi lên đường Người thổi rắn ở Putumayo Tiến vào rừng sâu Đêm đầu tiên CHƯƠNG 9: NGUY HIỂM TRONG RỪNG Trốn chạy trong rừng sâu Đột phá vòng vây Ký ức tái hiện Bằng chứng lịch sử Biên niên ký Bạc Ba La Đo{n lữ hành tự túc Kinh hồn bạt vía ong sát nhân CHƯƠNG 10: LỌT VÀO BỘ LẠC NGUYÊN THỦY NGƯỜI KUKUER Bất ngờ thoát nạn Người Kukuer Lễ tế của người Kukuer Trò chuyện trên đ{n tế Duyên tình mờ mịt Rừng Than Thở CHƯƠNG 11: RỪNG THAN THỞ: MỒ CHÔN CỦA CÁC NHÀ THÁM HIỂM Tái ngộ Sean CHƯƠNG 12: HỒNG HOANG: B[N TAY THƯỢNG ĐẾ Thợ săn siêu cấp Đêm trắng mưa b~o Mãnh thú hồng hoang Thiên kiếp Sống sót sau thảm họa CHƯƠNG 13: CHÚNG TA BỊ BỘ LẠC ĂN THỊT NGƯỜI BẮT RỒI! Thạch trận Bộ lạc ăn thịt người Bộ lạc ăn thịt người (II) Gặp lại Rừng Mãng Xà CHƯƠNG 14: TH[NH PHỐ THẦN THÁNH CỦA NGƯỜI MAYA Con thú khổng lồ</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_952704ab24d0ed766a106155dfc64bd9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_952704ab24d0ed766a106155dfc64bd9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/39-mat-ma-tay-tang-tap-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/39-mat-ma-tay-tang-tap-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

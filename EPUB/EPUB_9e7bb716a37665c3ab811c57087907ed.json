@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khong-gioi-han-kham-pha-hooponopono-1758.html",
+    "title" : "KHÔNG GIỚI HẠN - KHÁM PHÁ HO’OPONOPONO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Joe Vitale",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục đích lớn nhất của Không Giới Hạn - Khám Phá HO’OPONOPONO là đem đến cho độc giả một phương pháp tự chữa lành hiện đại, tự bạn có thể thực hiện để kiểm soát được cái tôi, biết ơn và tha thứ, biết chịu trách nhiệm 100% cho những hành vi lời nói của mình. Nếu thực hành tốt phương pháp này chắc chắn tâm hồn bạn sẽ không còn “lấm lem bùn đất”, trở thành một con người có tâm hồn thuần khiết. Và theo như Luật hấp dẫn, một con người tích cực như vậy liệu có thể thất bại? Joe Vitale là một tác giả quen thuộc đối với nhiều bạn đọc ở Việt Nam thông qua những cuốn sách như Luật hấp dẫn - 5 bước thực hành, Trạng thái mua hàng, Tác nhân thu hút. Ông là một trong những tác giả và người giảng dạy về Luật hấp dẫn (The Secret) hay nhất thế giới. Cuốn sách Không giới Hạn ra đời đầy tình cờ trong một cuộc gặp giữa Joe và người bạn và ông nghe nhắc đến phương pháp tự chữa lành - Hoʻoponopono. Lạ lẫm đến mức ông còn không phát âm được chữ Hoʻoponopono. Joe Vitale đã được Tiến sĩ Len truyền dạy phương pháp độc đáo này và thực hành trong cuộc sống của ông. Thật bất ngờ với những kết quả đạt được để đạt đến trạng thái đặc biệt trong tâm trí. Joe Vitale quyết định viết cuốn sách “Không Giới Hạn” để đưa kỹ thuật Hoʻoponopono cổ xưa của người Hawaii đến với đông đảo bạn đọc. Cuốn sách được chính Tiến sĩ Hew Len góp ý và chỉnh sửa, do đó, tên ông được ghi vào đồng tác giả cuốn sách nổi tiếng này. Không Giới Hạn - Khám Phá HO’OPONOPONO sẽ giúp bạn tiếp cận, biết đến cũng như có thể áp dụng kỹ thuật Ho’oponopono một cách dễ dàng, để có thể thanh lọc tâm hồn và đực biệt trở thành một người có lối sống tích cực khi biết chịu trách nhiệm 100% với tất cả lời nói, hành động của bản thân.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_9e7bb716a37665c3ab811c57087907ed.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_9e7bb716a37665c3ab811c57087907ed.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1758-khong-gioi-han-kham-pha-hooponopono-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1758-khong-gioi-han-kham-pha-hooponopono-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/trieu-phu-moi-gioi-bat-dong-san-13503.html",
+    "title" : "TRIỆU PHÚ MÔI GIỚI BẤT ĐỘNG SẢN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gary Keller",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nghề bất động sản - lựa chọn hoàn hảo cho bất kỳ người nào có máu kinh doanh và nhiều tham vọng Với chi phí khởi nghiệp tương đối thấp và không có mức trần cứng nhắc giới hạn thu nhập, nghề bất động sản dường như là lựa chọn hoàn hảo cho bất kỳ người nào có máu kinh doanh và nhiều tham vọng. Trong ngành này, bạn tự định ra hạn mức cho mình. Cách tiếp cận, khả năng và niềm đam mê môi giới bất động sản sẽ là những nhân tố quyết định lớn nhất cho thành công của bạn. Với “Triệu phú môi giới bất động sản”, bạn sẽ được trả lời câu hỏi quan trọng nhất mà bất kỳ ai làm môi giới bất động sản cũng có thể đã từng tự hỏi mình: “Làm thế nào tôi, với tư cách là người môi giới bất động sản, có thể tăng thu nhập của mình lên đến mức cao nhất có thể?” Trong cuốn sách này, tác giả sẽ trình bày với bạn cách suy nghĩ giống như một Triệu phú môi giới bất động sản. Sau đó, chúng tôi sẽ chỉ cho bạn biết, từng bước một, cách kiếm được một triệu đô la thu nhập ròng mỗi năm. Cuối cùng, chúng tôi sẽ chỉ ra con đường phải đi để nhận được một triệu đô la thu nhập thụ động(1) Triệu phú môi giới bất động sản được xem như là kinh thánh về nghệ thuật quản trị và phát triển các mô hình kinh doanh bất động sản, đặc biệt lấp đầy những lỗ hổng trong ngành kinh doanh bất động sản tại Việt Nam. Trên thế giới cũng như tại Việt Nam, chưa có chuyên gia nào như Gary Keller nói rõ và chi tiết về từng bước xây dựng và tăng trưởng đạt đến những thành công vang dội như vậy trong Triệu phú môi giới bất động sản. Triệu phú môi giới bất động sản được viết riêng cho những người có tinh thần làm việc tận tụy và dám mạo hiểm để trở thành những người tiên phong trong lĩnh vực kinh doanh của mình - sách này dành tặng riêng cho các chuyên gia môi giới bất động sản ở khắp mọi nơi trên thế giới.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_81c5cf71b46aa6deb2da5c18c745daec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_81c5cf71b46aa6deb2da5c18c745daec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13503-trieu-phu-moi-gioi-bat-dong-san-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13503-trieu-phu-moi-gioi-bat-dong-san-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

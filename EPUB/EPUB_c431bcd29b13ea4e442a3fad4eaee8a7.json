@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bi-mat-ban-moi-thu-13518.html",
+    "title" : "BÍ MẬT BÁN MỌI THỨ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Harry Browne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách này là phiên bản kết hợp của hai bản thảo chưa từng được xuất bản (“Bí mật của thành công” và “Bán hàng thật dễ dàng”), được tác giả Harry Browne lần lượt viết vào năm 1966 và 1969, tức là khi ông 33 và 36 tuổi, đang làm công việc của một cố vấn bán hàng, đồng thời là một giảng viên tại khu vực Los Angeles. Với 20 năm kinh nghiệm về quản lý bán hàng cùng sự nghiệp thành công, ông là tác giả của nhiều tài liệu và tập sách về nghệ thuật bán hàng và kinh tế học. Ông cũng sáng lập các khóa đào tạo mang tên “Nghệ thuật sống sinh lời” và “Kinh tế học thành công”, được đón nhận nhiệt liệt bởi thị trường vùng Southern California. Mục báo hằng tuần “Lối đi Mỹ” của ông hiện diện trên 110 tờ báo khác nhau. Ngoài ra, ông còn được đông đảo công chúng đón nhận với tư cách một diễn giả, một cố vấn, và một tác giả - những vai trò được ông đảm nhiệm dựa trên nền tảng học vấn trung học không hơn không kém. Tuy vậy, Harry chẳng phải là một kẻ tìm kiếm thành công một cách điên cuồng, bận rộn và cắm đầu vào công việc như một hình mẫu mẫn cán điển hình. Trong thực tế, ông đã tìm ra cách thức riêng để có thể tạo ra nguồn thu đảm bảo, đều đặn với nghề bán hàng trong khi chỉ làm việc khoảng 15 đến 20 giờ mỗi tuần. Điều này cho phép ông tận hưởng những thú vui đời thường xa xỉ như nhạc cổ điển, opera, đồ ăn ngon, rượu, thể thao, phim ảnh và viết lách. Ông chưa bao giờ muốn làm một người bán hàng “tầm trung”, bởi vậy, ông luôn dành sự quan tâm đặc biệt đến những cá nhân thành công nhất mà ông gặp gỡ trong suốt sự nghiệp của mình, quan sát họ thật kỹ để xác định bản chất của thành công. Nhờ vậy, ông dần hiểu được lý do mua hàng của con người cũng như thế giới quanh mình. Và rồi, nhờ sự quan sát đó, ông tìm ra những nguyên lý được áp dụng trong bất cứ kiểu tìm kiếm thành công nào - không chỉ trong lĩnh vực bán hàng. Mỗi từ, mỗi chữ trong cuốn sách này đều do tự tay ông viết nên, từ những trải nghiệm của chính ông. Và dù những bản thảo kia đến giờ vẫn chưa được xuất bản, đó vẫn là minh chứng cho khả năng tương tác của ông với mọi người về những tri thức mà ông đã gặt hái được trong suốt sự nghiệp của mình.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_c431bcd29b13ea4e442a3fad4eaee8a7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_c431bcd29b13ea4e442a3fad4eaee8a7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13518-bi-mat-ban-moi-thu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13518-bi-mat-ban-moi-thu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

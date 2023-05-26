@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/binh-phap-ton-tu-1156.html",
+    "title" : "BINH PHÁP TÔN TỬ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tôn vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tôn Tử binh pháp - The Art of War (tạm dịch: Nghệ thuật chiến tranh) và còn được gọi là Binh pháp Ngô Tôn Tử, là sách chiến lược chiến thuật tiếng Hoa do Tôn Vũ soạn thảo vào năm 512 TCN đời Xuân Thu Binh pháp Tôn tử là một tinh hoa trí tuệ của nhân loại chứ không riêng gì dân tộc Trung Hoa. Những tinh hoa trong cuốn binh thư này không chỉ được áp dụng trong quân sự, chiến trận mà còn cả trong thương trường - chiến trường ngày nay. Khác với văn hóa phương Tây, người phương Đông chúng ta vốn rất gần gũi với văn hóa Trung Hoa và nếu áp dụng được Binh pháp Tôn tử vào kinh doanh thì chúng ta sẽ tạo ra lợi thế trước đối thủ của mình</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0bd281f6532d9fdcbf45ea67cc9c86ee.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0bd281f6532d9fdcbf45ea67cc9c86ee.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1156-binh-phap-ton-tu-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1156-binh-phap-ton-tu-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/truoc-them-thanh-dien-1787.html",
+    "title" : "TRƯỚC THỀM THÁNH ĐIỆN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Annie Besant",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Năm đề tài sau đây: Bà tiến sĩ Annie Besant thuyết trình vào tháng 8 năm 1875, tại Chi Bộ Thông Thiên Học Blavatsky, một trong những Chi Bộ lớn ở Luân Đôn. Những đề tài liên quan mật thiết với nhau, do đó được in ra thành sách nhan đề: “The Outer Court.” Nhận thấy cuốn sách nầy hữu ích cho tất cả tín đồ các tôn giáo và cho những ai muốn tìm đạo, không phải chỉ riêng cho các hội viên Thông Thiên Học, nên chúng tôi cố gắng dịch ra Việt ngữ không ngoài ý muốn cống hiến cho tất cả các bạn một tác phẩm rất có giá trị của một vị đại đức và là đệ tử của Chơn Sư đã hy sinh tất cả để phụng sự nhân loại và đã từng châu du khắp thế giới để thuyết đạo. Cuốn “Trước Thềm Thánh Điện” nầy đi đôi với cuốn “Con Đường Của Người Đệ Tử.” Phải đọc trước, mới thật hiểu những lời của đức bà Annie Besant giải trong cuốn “Con Đường Của Người Đệ Tử.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_91e35714319d99ad322655887b705637.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_91e35714319d99ad322655887b705637.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1787-truoc-them-thanh-dien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1787-truoc-them-thanh-dien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,617 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mi-tien-van-dap-947.html",
+    "title" : "MI TIÊN VẤN ĐÁP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Milinda Panha",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bộ kinh Milindapãnha được Phật giáo Miến Điện xếp vào Thánh điển, và Phật giáo Tích Lan đặt chung với năm bộ Nihàya để tôn thờ và phụng hành. Nội dung của bộ kinh kể lại những câu hỏi, đáp giữa vua Minida và tỳ kheo Nàgasena. Những câu hỏi thì đa trí, sắc bén mà lời giải đáp lại thâm sâu, quảng kiến, lợi tuệ; nhiều khi chỉ là những ví dụ cụ thể, bình dân, giản dị, rất bổ ích cho các nhà học giả, người nghiên cứu, kẻ đa nghi cũng như sự học Phật của các hàng hậu tấn. Bộ kinh này được giới thiệu với bạn đọc nhằm phổ biến một tư liệu quý hiếm rất gần với giáo pháp uyên nguyên; giải đáp, tháo gỡ những thắc mắc cho kẻ hoài nghi để phá bỏ sở tri chướng cho người tu Phật. Chỉ chừng ấy thôi thì công năng hiệu dụng của “Mi-tiên-vấn-đáp” thật là bất khả tư nghì rồi.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_443c26e967903b1e5235c108bf6b76d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_443c26e967903b1e5235c108bf6b76d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Nói Đầu – Tiểu Sử Ht Giới Nghiêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=1374",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:22:54 Phần Dẫn Nhập Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=3249",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:54:09 Phần Dẫn Nhập Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=5180",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:26:20 Phần Dẫn Nhập Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=7077",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:57:57 Phần Dẫn Nhập Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=8266",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:46 Mi Tiên Vấn Đáp Câu 1–7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=10105",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:48:25 Mi Tiên Vấn Đáp Câu 8–17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=11909",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:18:29 Mi Tiên Vấn Đáp Câu 18–26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=13755",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:49:15 Mi Tiên Vấn Đáp Câu 27-39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=15562",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:19:22 Mi Tiên Vấn Đáp Câu 40–53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=17452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:50:52 Mi Tiên Vấn Đáp Câu 54–69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=19139",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:18:59 Mi Tiên Vấn Đáp Câu 70–76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=20987",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:49:47 Mi Tiên Vấn Đáp Câu 77–88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=22978",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:22:58 Mi Tiên Vấn Đáp Câu 89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=24712",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:51:52 Mi Tiên Vấn Đáp Câu 90–91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=26422",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:20:22 Mi Tiên Vấn Đáp Câu 92-94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=28196",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:49:56 Mi Tiên Vấn Đáp Câu 95–96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=29767",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:16:07 Mi Tiên Vấn Đáp Câu 97–99",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=31504",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:45:04 Mi Tiên Vấn Đáp Câu 100–102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=33115",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:11:55 Mi Tiên Vấn Đáp Câu 103–104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=35134",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:45:34 Mi Tiên Vấn Đáp Câu 105–106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=36808",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:13:28 Mi Tiên Vấn Đáp Câu 107–110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=38347",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:39:07 Mi Tiên Vấn Đáp Câu 111–114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=40301",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:11:41 Mi Tiên Vấn Đáp Câu 115–116",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=41677",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:34:37 Mi Tiên Vấn Đáp Câu 117–121",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=43565",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:06:05 Mi Tiên Vấn Đáp Câu 122-126",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=45187",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:33:07 Mi Tiên Vấn Đáp Câu 127–131",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=47119",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:05:19 Mi Tiên Vấn Đáp Câu 132–134",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=48931",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:35:31 Mi Tiên Vấn Đáp Câu 135-141",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=51338",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:15:38 Mi Tiên Vấn Đáp Câu 142–144",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=53069",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:44:29 Mi Tiên Vấn Đáp Câu 145–147",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=55170",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:19:30 Mi Tiên Vấn Đáp Câu 148",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=57108",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:51:48 Mi Tiên Vấn Đáp Câu 149–154",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=59034",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:23:54 Mi Tiên Vấn Đáp Câu 155-158",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=60363",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:46:03 Mi Tiên Vấn Đáp Câu 159–162",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=61415",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:03:35 Mi Tiên Vấn Đáp Câu 163",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=63807",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:43:27 Mi Tiên Vấn Đáp Câu 164",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=65219",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:06:59 Mi Tiên Vấn Đáp Câu 165–167",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=66615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:30:15 Mi Tiên Vấn Đáp Câu 168–170",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=68383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:59:43 Mi Tiên Vấn Đáp Câu 171–173",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=70210",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:30:10 Mi Tiên Vấn Đáp Câu 174–175",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=71352",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:49:12 Mi Tiên Vấn Đáp Câu 176",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=77835",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:37:15 Mi Tiên Vấn Đáp Câu 177",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=79775",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:09:35 Những Câu Hỏi Về Ví Dụ 178–189",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=81596",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:39:56 Những Câu Hỏi Về Ví Dụ 190–203",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=83507",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:11:47 Những Câu Hỏi Về Ví Dụ 204–220",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=85466",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:44:26 Những Câu Hỏi Về Ví Dụ 221-244 Về Chim Sẻ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=87453",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:17:33 Sau Cuộc Vấn Đáp",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Nói Đầu – Tiểu Sử Ht Giới Nghiêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=1374",
+    "title" : "00:22:54 Phần Dẫn Nhập Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=3249",
+    "title" : "00:54:09 Phần Dẫn Nhập Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=5180",
+    "title" : "01:26:20 Phần Dẫn Nhập Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=7077",
+    "title" : "01:57:57 Phần Dẫn Nhập Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=8266",
+    "title" : "02:17:46 Mi Tiên Vấn Đáp Câu 1–7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=10105",
+    "title" : "02:48:25 Mi Tiên Vấn Đáp Câu 8–17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=11909",
+    "title" : "03:18:29 Mi Tiên Vấn Đáp Câu 18–26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=13755",
+    "title" : "03:49:15 Mi Tiên Vấn Đáp Câu 27-39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=15562",
+    "title" : "04:19:22 Mi Tiên Vấn Đáp Câu 40–53",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=17452",
+    "title" : "04:50:52 Mi Tiên Vấn Đáp Câu 54–69",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=19139",
+    "title" : "05:18:59 Mi Tiên Vấn Đáp Câu 70–76",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=20987",
+    "title" : "05:49:47 Mi Tiên Vấn Đáp Câu 77–88",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=22978",
+    "title" : "06:22:58 Mi Tiên Vấn Đáp Câu 89",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=24712",
+    "title" : "06:51:52 Mi Tiên Vấn Đáp Câu 90–91",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=26422",
+    "title" : "07:20:22 Mi Tiên Vấn Đáp Câu 92-94",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=28196",
+    "title" : "07:49:56 Mi Tiên Vấn Đáp Câu 95–96",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=29767",
+    "title" : "08:16:07 Mi Tiên Vấn Đáp Câu 97–99",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=31504",
+    "title" : "08:45:04 Mi Tiên Vấn Đáp Câu 100–102",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=33115",
+    "title" : "09:11:55 Mi Tiên Vấn Đáp Câu 103–104",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=35134",
+    "title" : "09:45:34 Mi Tiên Vấn Đáp Câu 105–106",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=36808",
+    "title" : "10:13:28 Mi Tiên Vấn Đáp Câu 107–110",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=38347",
+    "title" : "10:39:07 Mi Tiên Vấn Đáp Câu 111–114",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=40301",
+    "title" : "11:11:41 Mi Tiên Vấn Đáp Câu 115–116",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=41677",
+    "title" : "11:34:37 Mi Tiên Vấn Đáp Câu 117–121",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=43565",
+    "title" : "12:06:05 Mi Tiên Vấn Đáp Câu 122-126",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=45187",
+    "title" : "12:33:07 Mi Tiên Vấn Đáp Câu 127–131",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=47119",
+    "title" : "13:05:19 Mi Tiên Vấn Đáp Câu 132–134",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=48931",
+    "title" : "13:35:31 Mi Tiên Vấn Đáp Câu 135-141",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=51338",
+    "title" : "14:15:38 Mi Tiên Vấn Đáp Câu 142–144",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=53069",
+    "title" : "14:44:29 Mi Tiên Vấn Đáp Câu 145–147",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=55170",
+    "title" : "15:19:30 Mi Tiên Vấn Đáp Câu 148",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=57108",
+    "title" : "15:51:48 Mi Tiên Vấn Đáp Câu 149–154",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=59034",
+    "title" : "16:23:54 Mi Tiên Vấn Đáp Câu 155-158",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=60363",
+    "title" : "16:46:03 Mi Tiên Vấn Đáp Câu 159–162",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=61415",
+    "title" : "17:03:35 Mi Tiên Vấn Đáp Câu 163",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=63807",
+    "title" : "17:43:27 Mi Tiên Vấn Đáp Câu 164",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=65219",
+    "title" : "18:06:59 Mi Tiên Vấn Đáp Câu 165–167",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=66615",
+    "title" : "18:30:15 Mi Tiên Vấn Đáp Câu 168–170",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=68383",
+    "title" : "18:59:43 Mi Tiên Vấn Đáp Câu 171–173",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=70210",
+    "title" : "19:30:10 Mi Tiên Vấn Đáp Câu 174–175",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=71352",
+    "title" : "19:49:12 Mi Tiên Vấn Đáp Câu 176",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=77835",
+    "title" : "21:37:15 Mi Tiên Vấn Đáp Câu 177",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=79775",
+    "title" : "22:09:35 Những Câu Hỏi Về Ví Dụ 178–189",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=81596",
+    "title" : "22:39:56 Những Câu Hỏi Về Ví Dụ 190–203",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=83507",
+    "title" : "23:11:47 Những Câu Hỏi Về Ví Dụ 204–220",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=85466",
+    "title" : "23:44:26 Những Câu Hỏi Về Ví Dụ 221-244 Về Chim Sẻ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/947-mi-tien-van-dap-thuviensach.vn.mp3?t=87453",
+    "title" : "24:17:33 Sau Cuộc Vấn Đáp",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

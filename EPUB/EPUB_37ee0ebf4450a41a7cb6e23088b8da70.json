@@ -1,0 +1,785 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/triet-hoc-kant-12852.html",
+    "title" : "TRIẾT HỌC KANT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thái Đỉnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách Triết học Kant của TS. Trần Thái Đỉnh được xuất bản lần đầu tiên năm 1969, NXB Nam Chi Tùng Thư, Sài Gòn; sau đó sách được Nxb Văn Mới, Sài Gòn, tái bản lần thứ nhất năm 1974. Triết học Kant vẫn ảnh hưởng một cách sâu sắc đến các trào lưu tư tưởng hiện đại. Có thể nói không quá đáng rằng không hiểu Kant thì không thể hiểu thấu đáo Hegel (1770-1831), Marx (1818-1883), Heidegger (1889-1976) và Claude Lévi-Strauss (1908-2009). Kant đã làm con người tỉnh giấc mơ tiên, biết mình không phải là thần thánh, mà là người; biết mình là hữu thể hữu hạn chứ không phải là hiện thể tuyệt đối. Trước Kant, chúng ta đã có 2 lần bắt đầu trong lịch sử triết học (lần thứ nhất với Socrate với mục tiêu “Anh hãy hiểu biết chính bản thân mình”, đi qua các đời Platon, Aristote rồi trải qua mười mấy thế kỷ trong đêm trường Trung cổ, triết học đã ngủ giấc ngủ giáo điều trong thân phận nữ tỳ của thần học; lần thứ hai với Descartes đưa triết học vào hẻm cụt của thuyết Duy tâm - thuyết đã gán cho con người những khả năng mà con người không có được, sau đó là Locke và Hume, triết học thoát khỏi giấc ngủ giáo điều nhưng lại đi vào một ngõ cụt khác: đó là thuyết Duy cảm, Duy nghiệm - đối lập với thuyết Duy tâm) và phải đến lần thứ 3, với Kant, triết học mới thật sự đi vào đúng hướng của nó, “Vậy phải bắt đầu lại từ đầu. Phải bắt đầu lại với Kant.” - Jacques Derrida. Theo Kant, một nền triết học nghiêm chỉnh là phải hướng về những vấn đề cơ bản của con người. Kant đặt vấn đề với chính khả năng tư tưởng của con người, cụ thể ông tự đặt cho triết học phê bình của ông 4 câu hỏi: 1. Tôi có thể biết gì? 2. Tôi phải làm gì? 3. Tôi được phép hy vọng gì? và 4. Con người là gì? Kant dành quyển Phê phán Lý tính thuần túyđể trả lời câu hỏi thứ nhất; quyển Phê phán Lý tính thực hành (Đạo đức học) - then chốt và chính yếu trong 3 cuốn Phê phán làm nên tòa nhà tư tưởng triết học Kant - để trả lời câu hỏi thứ hai; và, trong các tác phẩm tương đối ngắn về triết học lịch sử và triết học tôn giáo để trả lời câu hỏi thứ ba. Quyển Phê phán năng lực phán đoán (Mỹ học và Mục đích luận) là “cầu nối” quan trọng giữa cả ba câu hỏi với tầm quan trọng đặc biệt về hệ thống lẫn về nội dung. Câu hỏi thứ 4 là tất cả triết học của Kant: triết học về con người. Tuy chưa thể đi sâu vào phần triết học pháp quyền, triết học lịch sử, triết học tôn giáo, nhưng với việc trình bày cô đọng nhưng không kém cặn kẽ về ba quyển \"Phê phán chủ yếu\", tác giả đã cho ta một cái nhìn khá bao quát về triết học Kant - thứ triết con người bị cắt xé giữa tinh thần và thể xác, giữa lý trí và cảm giác. Và mục đích chính của Kant không phải là tri thức, mục đích của Kant là quy về vấn đề con người. Tất cả chỉ là vấn đề con người mà thôi.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_37ee0ebf4450a41a7cb6e23088b8da70.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_37ee0ebf4450a41a7cb6e23088b8da70.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Tựa (Nhân Dịp In Lại Lần Thứ 3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=430",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:07:10 Hồi Niệm Và Viễn Cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=2395",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:55 Nhập Đề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=3373",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:56:13 Phần Thứ Nhất: Sinh Hoạt Tri Thức Của Con Người?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=3747",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:02:27 Chương I: Thế Nào Là Một Tri Thức Khoa Học?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=4140",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:09:00 A. Tính Chất Khoa Học Của Khoa Luận Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=4288",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:11:28 B. Tính Chất Khoa Học Của Khoa Toán Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=4931",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:22:11 C. Tính Chất Khoa Học Của Khoa Vật Lý Học Thuần Túy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=5674",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:34:34 D. Có Thể Có Khoa Siêu Hình Học Không?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=6223",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:43:43 Chương Ii: Khả Năng Tri Thức Con Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=6625",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:50:25 Tiết 1: Cảm Giác Học Siêu Nghiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=6719",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:59 A. Không Gian",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=6938",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:55:38 B. Thời Gian",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=7416",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:03:36 Tiết Ii: Luận Lý Học Siêu Nghiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=7574",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:14 A. Phân Tích Pháp Các Quan Niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=9068",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:31:08 B. Phân Tích Pháp Các Nguyên Tắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=10878",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:01:18 Chương Iii: Giới Hạn Của Tri Thức Con Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=11347",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:09:07 Tiết 1: Những Võng Luận Của Lý Trí Thuần Túy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=12082",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:21:22 Tiết Ii: Những Tương Phản Của Lý Trí Thuần Túy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=13349",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:42:29 Tiết Iii: Ý Thể Của Lý Trí Thuần Túy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=13855",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:50:55 A. Luận Cứ Hữu Thể Học Và Phê Bình Của Kant",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=14179",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:56:19 B. Luận Cứ Vũ Trụ Học Và Phê Bình Của Kant",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=14422",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:00:22 C. Luận Cứ Nhiên Thần Học Và Phê Bình Của Kant",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=14904",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:08:24 Phần Thứ Hai: Sinh Hoạt Đạo Đức Của Con Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=15462",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:17:42 Chương I: Kant Đặt Vấn Đề Sinh Hoạt Đạo Đức Thế Nào?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=15775",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:22:55 Tiết 1: Ý Thức Đạo Đức Của Mọi Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=16526",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:35:26 Tiết Ii: Kant Phê Bình Những Học Thuyết Đạo Đức Xây Trên Thường Nghiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=17351",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:49:11 Tiết Iii: Lập Trường Đạo Đức Của Kant",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=18113",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:01:53 Chương Ii: Kant Giải Quyết Vấn Đề Sinh Hoạt Đạo Đức Thế Nào?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=18397",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:06:37 Tiết 1: Tự Do Và Quy Luật Đạo Đức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=18519",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:08:39 A. Tương Quan Giữa Tự Do Và Quy Luật Đạo Đức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=19557",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:25:57 B. Tính Chất Hình Thức Của Quy Luật Đạo Đức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=20227",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:37:07 Tiết Ii: Tự Do Và Tự Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=20389",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:39:49 A. Kant Phê Bình Những Học Thuyết Đạo Đức Xây Trên Ngoại Trị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=20855",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:47:35 B. Quan Niệm Tự Trị Và Nhân Cách Con Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=22237",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:10:37 Tiết Iii: Tự Do Và Đối Tượng Của Đạo Đức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=22397",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:13:17 A. Đối Tượng Của Lý Trí Thuần Túy Thực Hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=22878",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:21:18 B. Những Động Lực Của Lý Trí Thực Hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=23227",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:27:07 Chương Iii: Ý Nghĩa Thuyết Đạo Đức Học Của Kant",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=23638",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:33:58 Tiết 1: Vấn Đề Sự Thiện Toàn Hảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=24312",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:45:12 Tiết Ii: Những Định Đề Của Lý Trí Thuần Túy Thực Hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=24650",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:50:50 A. Có Linh Hồn Bất Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=25362",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:02:42 B. Có Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=26576",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:22:56 Phần Thứ Ba: Ý Nghĩa Con Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=27552",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:39:12 Chương 1: Phán Đoán Thẩm Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=27766",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:42:46 Tiết 1: Cái Đẹp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=27870",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:44:30 A. Phương Diện Phẩm Tính",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=28282",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:51:22 B. Phương Diện Lượng Tính",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=28600",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:56:40 C. Phương Diện Tương Quan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=28879",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:01:19 D. Phương Diện Hình Thái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=29077",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:04:37 Tiết Ii: Cái Cao Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=29387",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:09:47 A. Cao Cả Toán Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=29730",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:15:30 B. Cao Cả Sinh Động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=31577",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:46:17 Chương Ii: Phán Đoán Mục Tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=31671",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:47:51 Tiết 1: Bản Chất Của Phán Đoán Mục Tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=32385",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:59:45 Tiết Ii: Biện Chứng Pháp Của Phán Đoán Mục Tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=32808",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:06:48 A. Nhóm Chủ Trương Không Có Chủ Ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=33095",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:11:35 B. Nhóm Chủ Trương Có Chủ Ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=33476",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:17:56 Tiết Iii: Luận Về Phương Pháp Của Phán Đoán Mục Tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=33571",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:19:31 A. Thiên Nhiên Và Cứu Cánh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=34264",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:31:04 B. Mục Đích Học Và Thần Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=35039",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:43:59 Tổng Kết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Tựa (Nhân Dịp In Lại Lần Thứ 3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=430",
+    "title" : "00:07:10 Hồi Niệm Và Viễn Cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=2395",
+    "title" : "00:39:55 Nhập Đề",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=3373",
+    "title" : "00:56:13 Phần Thứ Nhất: Sinh Hoạt Tri Thức Của Con Người?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=3747",
+    "title" : "01:02:27 Chương I: Thế Nào Là Một Tri Thức Khoa Học?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=4140",
+    "title" : "01:09:00 A. Tính Chất Khoa Học Của Khoa Luận Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=4288",
+    "title" : "01:11:28 B. Tính Chất Khoa Học Của Khoa Toán Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=4931",
+    "title" : "01:22:11 C. Tính Chất Khoa Học Của Khoa Vật Lý Học Thuần Túy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=5674",
+    "title" : "01:34:34 D. Có Thể Có Khoa Siêu Hình Học Không?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=6223",
+    "title" : "01:43:43 Chương Ii: Khả Năng Tri Thức Con Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=6625",
+    "title" : "01:50:25 Tiết 1: Cảm Giác Học Siêu Nghiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=6719",
+    "title" : "01:51:59 A. Không Gian",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=6938",
+    "title" : "01:55:38 B. Thời Gian",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=7416",
+    "title" : "02:03:36 Tiết Ii: Luận Lý Học Siêu Nghiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=7574",
+    "title" : "02:06:14 A. Phân Tích Pháp Các Quan Niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=9068",
+    "title" : "02:31:08 B. Phân Tích Pháp Các Nguyên Tắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=10878",
+    "title" : "03:01:18 Chương Iii: Giới Hạn Của Tri Thức Con Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=11347",
+    "title" : "03:09:07 Tiết 1: Những Võng Luận Của Lý Trí Thuần Túy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=12082",
+    "title" : "03:21:22 Tiết Ii: Những Tương Phản Của Lý Trí Thuần Túy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=13349",
+    "title" : "03:42:29 Tiết Iii: Ý Thể Của Lý Trí Thuần Túy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=13855",
+    "title" : "03:50:55 A. Luận Cứ Hữu Thể Học Và Phê Bình Của Kant",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=14179",
+    "title" : "03:56:19 B. Luận Cứ Vũ Trụ Học Và Phê Bình Của Kant",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=14422",
+    "title" : "04:00:22 C. Luận Cứ Nhiên Thần Học Và Phê Bình Của Kant",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=14904",
+    "title" : "04:08:24 Phần Thứ Hai: Sinh Hoạt Đạo Đức Của Con Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=15462",
+    "title" : "04:17:42 Chương I: Kant Đặt Vấn Đề Sinh Hoạt Đạo Đức Thế Nào?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=15775",
+    "title" : "04:22:55 Tiết 1: Ý Thức Đạo Đức Của Mọi Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=16526",
+    "title" : "04:35:26 Tiết Ii: Kant Phê Bình Những Học Thuyết Đạo Đức Xây Trên Thường Nghiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=17351",
+    "title" : "04:49:11 Tiết Iii: Lập Trường Đạo Đức Của Kant",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=18113",
+    "title" : "05:01:53 Chương Ii: Kant Giải Quyết Vấn Đề Sinh Hoạt Đạo Đức Thế Nào?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=18397",
+    "title" : "05:06:37 Tiết 1: Tự Do Và Quy Luật Đạo Đức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=18519",
+    "title" : "05:08:39 A. Tương Quan Giữa Tự Do Và Quy Luật Đạo Đức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=19557",
+    "title" : "05:25:57 B. Tính Chất Hình Thức Của Quy Luật Đạo Đức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=20227",
+    "title" : "05:37:07 Tiết Ii: Tự Do Và Tự Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=20389",
+    "title" : "05:39:49 A. Kant Phê Bình Những Học Thuyết Đạo Đức Xây Trên Ngoại Trị",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=20855",
+    "title" : "05:47:35 B. Quan Niệm Tự Trị Và Nhân Cách Con Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=22237",
+    "title" : "06:10:37 Tiết Iii: Tự Do Và Đối Tượng Của Đạo Đức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=22397",
+    "title" : "06:13:17 A. Đối Tượng Của Lý Trí Thuần Túy Thực Hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=22878",
+    "title" : "06:21:18 B. Những Động Lực Của Lý Trí Thực Hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=23227",
+    "title" : "06:27:07 Chương Iii: Ý Nghĩa Thuyết Đạo Đức Học Của Kant",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=23638",
+    "title" : "06:33:58 Tiết 1: Vấn Đề Sự Thiện Toàn Hảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=24312",
+    "title" : "06:45:12 Tiết Ii: Những Định Đề Của Lý Trí Thuần Túy Thực Hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=24650",
+    "title" : "06:50:50 A. Có Linh Hồn Bất Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=25362",
+    "title" : "07:02:42 B. Có Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=26576",
+    "title" : "07:22:56 Phần Thứ Ba: Ý Nghĩa Con Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=27552",
+    "title" : "07:39:12 Chương 1: Phán Đoán Thẩm Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=27766",
+    "title" : "07:42:46 Tiết 1: Cái Đẹp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=27870",
+    "title" : "07:44:30 A. Phương Diện Phẩm Tính",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=28282",
+    "title" : "07:51:22 B. Phương Diện Lượng Tính",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=28600",
+    "title" : "07:56:40 C. Phương Diện Tương Quan",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=28879",
+    "title" : "08:01:19 D. Phương Diện Hình Thái",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=29077",
+    "title" : "08:04:37 Tiết Ii: Cái Cao Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=29387",
+    "title" : "08:09:47 A. Cao Cả Toán Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=29730",
+    "title" : "08:15:30 B. Cao Cả Sinh Động",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=31577",
+    "title" : "08:46:17 Chương Ii: Phán Đoán Mục Tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=31671",
+    "title" : "08:47:51 Tiết 1: Bản Chất Của Phán Đoán Mục Tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=32385",
+    "title" : "08:59:45 Tiết Ii: Biện Chứng Pháp Của Phán Đoán Mục Tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=32808",
+    "title" : "09:06:48 A. Nhóm Chủ Trương Không Có Chủ Ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=33095",
+    "title" : "09:11:35 B. Nhóm Chủ Trương Có Chủ Ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=33476",
+    "title" : "09:17:56 Tiết Iii: Luận Về Phương Pháp Của Phán Đoán Mục Tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=33571",
+    "title" : "09:19:31 A. Thiên Nhiên Và Cứu Cánh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=34264",
+    "title" : "09:31:04 B. Mục Đích Học Và Thần Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12852-triet-hoc-kant-thuviensach.vn.mp3?t=35039",
+    "title" : "09:43:59 Tổng Kết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

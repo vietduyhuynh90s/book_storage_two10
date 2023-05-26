@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuc-tai-hien-tien-1744.html",
+    "title" : "THỰC TẠI HIỆN TIỀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Viên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phật giáo Việt Nam đã thống nhất, nhưng là thống nhất trèn ý chí, trèn hiến chương, trèn hình thức tổ chức chi chi đó thôi, chứ có một điều chưa bao giờ thống nhất được: ấy là tư tưởng Phật học. Mỗi tông phái thường có một số kinh điển làm tư tưởng nồng cốt cho tông phái mình, từ đó làm kim chỉ nam cho sinh hoạt, tu hành, xiển dương phát triển v.v... Như vậy, thì rõ ràng tính từ xưa đến nay, số kinh điển ấy rất nhiều, thật không kể xiết. Người nghièn cứu kinh điển thường có cái nhìn một phía, một chiều. Chính vì vậy mới gọi là \"mạt pháp.\" Mỗi người đều học hỏi được một số điểm giáo lý nào đó, và họ chợt nhận ra rằng, những cái thấy của họ đều khác nhau! Không những vậy mà ngay chính từ một điểm giáo lý trong cùng một tông phái, cái nhìn mỗi người cũng đã khác nhau rồi. Tại sao vậy? Tại vì thời của chúng ta là thời mạt pháp. Mạt pháp tức là cái ngọn. Chánh pháp là cái gốc. Tượng pháp là cành, nhánh. Còn mạt pháp thì mỗi ngọn một hướng khác nhau! Có một điều buồn cười ở thời đại mạt pháp của chúng ta là tông phái nào cũng bảo mình là Chánh Pháp, mà họ không tự hiểu rằng, ngay khi phân ra nhánh ngọn là tông phái đã mang đủ tính chất cái ngọn, tức là mạt pháp rồi! Tu Phật mà chấp một tông phái tức là chúng ta theo cái ngọn rồi! Mỗi tông phái thường có một tông chỉ khác nhau nèn khi chúng ta chấp tông phái này thì thường không đồng ý với tư tưởng của tông phái khác. Thậm chí còn khen mình chè người nữa. Do đó kiến giải không làm sao tránh khỏi sự bất đồng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_7f8e627ce9f36987719433a1bc02d9ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_7f8e627ce9f36987719433a1bc02d9ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1744-thuc-tai-hien-tien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1744-thuc-tai-hien-tien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
