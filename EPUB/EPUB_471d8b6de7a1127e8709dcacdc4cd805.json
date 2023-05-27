@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/10-bai-hoc-thanh-cong-den-tu-nhung-that-bai-khong-phai-ai-cung-biet-13903.html",
+    "title" : "10 BÀI HỌC THÀNH CÔNG ĐẾN TỪ NHỮNG THẤT BẠI KHÔNG PHẢI AI CŨNG BIẾT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Michael Jordan đã từng nói rằng: “Tôi có thể chấp nhận thất bại, bất cứ ai cũng sẽ không thành công ở điều gì đó. Nhưng tôi không thể chấp nhận sự không cố gắng”. Thất bại sau đó sẽ trở thành một phương tiện để đi tới một kết thúc, chứ không phải là sự kết thúc của tất cả. Nói cách khác, thất bại là một phần trong cuộc hành trình chúng ta hướng tới thành công. Mọi người đều có thể không thành công ở một thời điểm nào đó, điều quan trọng là chúng ta cần phải can đảm để vượt qua và tiếp tục cố gắng. Giọng đọc: Sand</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_471d8b6de7a1127e8709dcacdc4cd805.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_471d8b6de7a1127e8709dcacdc4cd805.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13903-10-bai-hoc-thanh-cong-den-tu-nhung-that-bai-khong-phai-ai-cung-biet-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13903-10-bai-hoc-thanh-cong-den-tu-nhung-that-bai-khong-phai-ai-cung-biet-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

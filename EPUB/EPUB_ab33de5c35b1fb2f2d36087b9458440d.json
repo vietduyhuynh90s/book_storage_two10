@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-nguoi-tuyet-doi-dung-cui-dau-truoc-4-dieu-sau-13911.html",
+    "title" : "ĐỜI NGƯỜI, TUYỆT ĐỐI ĐỪNG CÚI ĐẦU TRƯỚC 4 ĐIỀU SAU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi ta đi xe hơi thì vẫn có người đi xe máy. Khi ta đi xe máy thì vẫn có người đi bộ. Khi ta đi bộ lại có người đang chống gậy. Khi ta chống gậy vẫn còn người cụt chân. Khi ta cụt chân hãy còn có người mất mạng. Như vậy, năm tháng trở nên không còn đáng sợ nữa. Ngày hôm qua đã trở thành dĩ vãng, ngày mai cũng chẳng thể biết trước điều chi. Mỗi ngày chẳng thể đều là một ngày vui, thuận lòng như ý, nhưng mỗi ngày chúng ta đều phải có một tâm trạng thật tốt. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_ab33de5c35b1fb2f2d36087b9458440d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_ab33de5c35b1fb2f2d36087b9458440d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13911-doi-nguoi-tuyet-doi-dung-cui-dau-truoc-4-dieu-sau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13911-doi-nguoi-tuyet-doi-dung-cui-dau-truoc-4-dieu-sau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

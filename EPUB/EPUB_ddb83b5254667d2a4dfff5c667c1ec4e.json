@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/anh-se-den-cung-con-mua-13940.html",
+    "title" : "ANH SẼ ĐẾN CÙNG CƠN MƯA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chiều thứ sáu, cơn mưa rả rích của mùa hạ như muốn cuốn trôi tất cả, nhấn chìm mọi tiếng ồn chốn đô thị. Ái Nhi ngồi bên khung cửa sổ của tòa nhà, lặng lẽ nhìn cơn mưa mà lòng phiền muộn. Đã lâu lắm rồi Ái Nhi mới ngồi ngắm mưa như vậy, nếu như không phải trời đã sẩm tối và cần phải về nhà thì Ái Nhi cũng chẳng buồn để ý đến cơn mưa ngoài kia. Vì Ái Nhi ghét mưa, những cơn mưa như khơi dậy nỗi đau âm ỉ trong lòng cô. Ngày ông mất, ngày cô chia tay mối tình đầu, ngày bố mẹ ly hôn, đều là những chiều mưa như thế</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_ddb83b5254667d2a4dfff5c667c1ec4e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_ddb83b5254667d2a4dfff5c667c1ec4e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13940-anh-se-den-cung-con-mua-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13940-anh-se-den-cung-con-mua-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

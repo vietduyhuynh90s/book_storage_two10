@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/buoc-qua-qua-khu-13962.html",
+    "title" : "BƯỚC QUA QUÁ KHỨ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn biết không, chúng ta sinh ra không thể lựa chọn được những điều đã xảy ra trong quá khứ. Chúng ta không thể lựa chọn việc yêu thương, gắn bó bên ai và rồi bị tổn thương sâu sắc bởi một người. Bởi vì tình yêu, không phải là sự lựa chọn những gì tốt nhất, mà là lựa chọn những gì phù hợp nhất. Ngày hôm nay của chúng ta chính là quá khứ của ngày mai, quyết định ngày hôm nay, chính là lựa chọn mà đến ngày mai, có muốn thay đổi cũng không thể nào được nữa.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_e81494bd49c17ba62dc21c7631c83283.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_e81494bd49c17ba62dc21c7631c83283.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Cuối Cùng Em Cũng Có Thể Bước Qua Quá Khứ Để Hạnh Phúc Rồi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:15:59 Quá Khứ Đã Ngủ Yên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=2285",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:38:05 Buông Bỏ Quá Khứ Để Bước Đến Nơi Thuộc Về Mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=3681",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:01:21 Anh Sẽ Lấp Đầy Quá Khứ Của Em",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=4503",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:15:03 Mong Anh Hãy Cất Lại Quá Khứ Khi Bên Em",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Cuối Cùng Em Cũng Có Thể Bước Qua Quá Khứ Để Hạnh Phúc Rồi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=959",
+    "title" : "00:15:59 Quá Khứ Đã Ngủ Yên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=2285",
+    "title" : "00:38:05 Buông Bỏ Quá Khứ Để Bước Đến Nơi Thuộc Về Mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=3681",
+    "title" : "01:01:21 Anh Sẽ Lấp Đầy Quá Khứ Của Em",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13962-buoc-qua-qua-khu-thuviensach.vn.mp3?t=4503",
+    "title" : "01:15:03 Mong Anh Hãy Cất Lại Quá Khứ Khi Bên Em",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

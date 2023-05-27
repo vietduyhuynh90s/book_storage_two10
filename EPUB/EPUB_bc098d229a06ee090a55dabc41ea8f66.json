@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/4-quy-tac-tam-linh-cua-nguoi-an-do-13879.html",
+    "title" : "4 QUY TẮC TÂM LINH CỦA NGƯỜI ẤN ĐỘ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Không ai xuất hiện trong cuộc đời chúng ta một cách tình cờ và vô lý. Mỗi người chúng ta gặp gỡ và giao lưu đều mang lại cho chúng ta một giá trị nào đó. Có thể là một bài học, cũng có thể là một kinh nghiệm, hoặc một cơ hội có một không hai trong cuộc sống mà bạn không thể ngờ tới. Bởi vậy, hãy trân trọng và biết ơn tất cả những người đã, đang và sẽ đi ngang qua cuộc đời bạn. Chính họ sẽ giúp bạn nhận ra nhiều điều tự bản thân bạn không thể hiểu hết. Giọng đọc: Hằng Nga</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_bc098d229a06ee090a55dabc41ea8f66.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_bc098d229a06ee090a55dabc41ea8f66.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13879-4-quy-tac-tam-linh-cua-nguoi-an-do-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13879-4-quy-tac-tam-linh-cua-nguoi-an-do-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

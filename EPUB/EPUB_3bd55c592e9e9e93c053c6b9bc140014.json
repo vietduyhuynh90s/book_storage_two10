@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/9-mau-chuyen-khien-ban-phai-suy-ngam-13884.html",
+    "title" : "9 MẨU CHUYỆN KHIẾN BẠN PHẢI SUY NGẪM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một đạo trưởng có người đệ tử rất thích than vãn. Một ngày nọ, đạo trưởng pha một nắm muối vào ly nước cho vị đệ tử này uống. Đệ tử nói: “Mặn đắng ghê người!” Đạo trưởng sau đó thả nhiều muối hơn vào một cái hồ nước và bảo vị đệ tử này nếm nước trong hồ. Người đệ tử uống xong thì nhận xét: “Tinh khiết và ngọt ngào ạ”. Đạo trưởng giảng giải: “Những điều khổ sở trong cuộc sống là muối, vị mặn của nó quyết định bởi thứ chứa đựng nó” Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_3bd55c592e9e9e93c053c6b9bc140014.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_3bd55c592e9e9e93c053c6b9bc140014.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13884-9-mau-chuyen-khien-ban-phai-suy-ngam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13884-9-mau-chuyen-khien-ban-phai-suy-ngam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

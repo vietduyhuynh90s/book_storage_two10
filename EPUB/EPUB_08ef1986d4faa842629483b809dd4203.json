@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gap-nhau-la-y-troi-ben-nhau-la-y-nguoi-13950.html",
+    "title" : "GẶP NHAU LÀ Ý TRỜI, BÊN NHAU LÀ Ý NGƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn thân mến mỗi người chúng ta, ai rồi cũng có cuộc sống riêng của chính bản thân mình. Và đương nhiên cả tôi và chàng trai ấy cũng không là ngoại lệ trong số đó. Cho dù đã từng xem đối phương là một phần quan trọng của mình thì hiện tại và tương lai cũng sẽ không thể nắm tay rồi cùng nhau đi hết quãng đường còn lại được nữa. Tôi và cậu ấy gặp nhau khi cả hai đang ở tuổi 17 - cái tuổi đẹp nhất trong cuộc đời mỗi người, cái tuổi biết rung động, quan tâm đến bạn khác giới. Cậu là một người khá hoàn mĩ, đẹp trai có, học giỏi có, ấm áp có,... Dường như ông trời đã dành tặng hết tất cả những gì đẹp nhất của con người để tạo ra con người cậu ấy. Chúng tôi đã từng coi nhau là cuộc sống của mình, tưởng rằng sẽ là một mảnh ghép hoàn hảo trong trái tim người kia. Nhưng thật tiếc rằng bây giờ đã khác, người ấy không còn là của riêng mình tôi nữa rồi. Hai người chúng tôi từ người lạ thành bạn thân, rồi là người yêu của nhau mà cuối cùng lại dừng lại ở ba chữ “người thương cũ”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_08ef1986d4faa842629483b809dd4203.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_08ef1986d4faa842629483b809dd4203.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13950-gap-nhau-la-y-troi-ben-nhau-la-y-nguoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13950-gap-nhau-la-y-troi-ben-nhau-la-y-nguoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

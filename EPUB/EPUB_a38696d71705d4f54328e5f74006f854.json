@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/10-dieu-hoi-han-lon-nhat-trong-cuoc-doi-moi-con-nguoi-13886.html",
+    "title" : "10 ĐIỀU HỐI HẬN LỚN NHẤT TRONG CUỘC ĐỜI MỖI CON NGƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cho đến khi đi tới cuối cuộc đời, bạn sẽ không nhớ mình đã kiếm được bao nhiêu tiền hoặc bạn đã đạt được những thành tựu gì trong sự nghiệp; bạn sẽ nhớ về những người bạn và cách họ ảnh hưởng đến cuộc sống của bạn. Bạn sẽ nhớ về những kỷ niệm của bạn với bạn bè và tất cả những điều vui vẻ bạn đã có với những người bạn yêu mến. Chúng ta cần làm việc để tồn tại, nhưng đừng làm việc quá nhiều đến nỗi bạn quên xây dựng các mối quan hệ và một cuộc sống ngoài công việc của bạn. Hãy nhớ rằng: “Người ta làm việc để sống, không phải sống để làm việc”. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a38696d71705d4f54328e5f74006f854.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a38696d71705d4f54328e5f74006f854.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13886-10-dieu-hoi-han-lon-nhat-trong-cuoc-doi-moi-con-nguoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13886-10-dieu-hoi-han-lon-nhat-trong-cuoc-doi-moi-con-nguoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

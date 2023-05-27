@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phu-nu-co-tuoi-yeu-nguoi-truong-thanh-13948.html",
+    "title" : "PHỤ NỮ CÓ TUỔI YÊU NGƯỜI TRƯỞNG THÀNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Họ không phải chạy theo những thứ khiến họ đã cũ còn trở nên chai sạn, cằn cỗi hơn. Khi này đây, họ cần nhiều hơn là muốn. Họ cần một người đàn ông bên cạnh mình thật giản đơn, bình lặng đi qua bão giông của cuộc đời. Tôi mở cửa ban công ra, một đêm Hà Nội tiết trời lạnh đầu xuân. Bầu trời một màu mù u với sắc xanh, sâu thăm thăm. Thỉnh thoảng lại có vài cơn gió lạnh buốt vội lướt qua. Một cảm giác gì đấy thật khó tả, pha trộn cái thăm thẳm của màu trời đêm với cái vội vàng của gió kia len lẻn, cuồn cuộn vào nỗi cô đơn, vui buồn lẫn lộn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a975e500f00ae291f41a07460e018370.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a975e500f00ae291f41a07460e018370.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13948-phu-nu-co-tuoi-yeu-nguoi-truong-thanh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13948-phu-nu-co-tuoi-yeu-nguoi-truong-thanh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
