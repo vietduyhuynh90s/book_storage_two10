@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-gioi-toan-thu-quyen-1-1136.html",
+    "title" : "TAM GIỚI TOÀN THƯ - QUYỂN 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Liên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sau nhiều năm hoạt động ở lĩnh vực tâm linh, nhìn thấy được sự khổ của nhiều người do không hiểu rõ những việc vô vi, tôi có tâm nguyện biên soạn một bộ từ điển về các sự tồn tại nơi Linh Giới, do chính bản thân được mắt thấy, tai nghe, trải nghiệm thực tế. Hơn nữa, trong cuộc sống hiện nay còn lưu truyền rất nhiều những quan niệm dân gian gây hiểu lầm về sự thật, hoặc chưa chính xác bản chất vấn đề, các tư liệu kinh sách tuy có ghi chép lại nhưng vẫn chưa rõ ràng cụ thể lắm. Từ những nhân duyên đó, Tam Giới Toàn Thư ra đời với mục đích vén màn sự thật các sự tồn tại trong Tam Giới, nhất là các sự tồn tại vô vi, bán hữu hình mà người thường khó lòng hiểu rõ, do không được tận mắt chứng kiến và trải nghiệm. Trong bộ từ điển này, có một số thông tin được sưu tầm và biên tập lại từ nhiều nguồn, để nó thể hiện một cách đầy đủ, phản ánh đúng đắn nhất thực tế qua những trải nghiệm của chính tác giả. Với sự hiểu biết hạn hẹp nhất định của bản thân, hẳn sẽ không tránh khỏi những thiếu sót. Thêm nữa, việc tiếp nhận thông tin của mỗi người lại có những cách hiểu khác nhau, mong quý độc giả sẽ hoan hỷ không phiền lòng nếu có điều gì đó khác với sự nghĩ, hiểu của mình nhé. Hy vọng bộ từ điển nhỏ này có thể đem lại cho quý độc giả những thông tin hữu ích, ứng dụng được vào thực tế cuộc sống. Đối với mỗi mục từ, tác giả đều chia sẻ nhiều khía cạnh khác nhau của vấn đề để quý độc giả tiện việc tra cứu và suy xét. Nếu có điều chi sơ sót, mong nhận được những ý kiến đóng góp, phản hồi của quý độc giả để các ấn phẩm lần sau được hoàn thiện hơn. Đã biết đến huyền vi Đạo Pháp Tự thân tâm về cửa sắc không Gấm hoa đổi áo tang bồng Thương mùi đạo đức mến dòng thiện dân…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_7dd474a1daae03e1bd4aaa8b698b38aa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_7dd474a1daae03e1bd4aaa8b698b38aa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1136-tam-gioi-toan-thu-quyen-1-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1136-tam-gioi-toan-thu-quyen-1-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

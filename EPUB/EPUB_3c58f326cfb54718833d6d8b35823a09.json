@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoa-sen-voi-nhung-pham-chat-cao-quy-13929.html",
+    "title" : "HOA SEN VỚI NHỮNG PHẨM CHẤT CAO QUÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tháng sáu, khi những đợt nắng vàng oi ả của mùa hạ ghé qua cũng là lúc mùa sen nở rộ. Nếu có dịp đến ngắm những hồ sen vào khoảng thời gian này, bạn sẽ cảm thấy lòng mình thư thái, dễ chịu khi ngắm những đóa hoa tinh khôi tỏa hương thơm nhè nhẹ. Hoa sen là một trong những loài hoa cao quý, được nhiều nước coi là quốc hoa như Ấn Độ, Ai Cập, Sri Lanka. Sen cũng là bông hoa tượng trưng cho Phật giáo. Sở dĩ hoa sen được ưu ái như vậy bởi vì nó hội tụ những phẩm chất cao quý sau đây. Giọng đọc Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_3c58f326cfb54718833d6d8b35823a09.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_3c58f326cfb54718833d6d8b35823a09.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13929-hoa-sen-voi-nhung-pham-chat-cao-quy-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13929-hoa-sen-voi-nhung-pham-chat-cao-quy-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

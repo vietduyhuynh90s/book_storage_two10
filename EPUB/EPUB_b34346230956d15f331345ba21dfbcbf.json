@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/di-san-tu-cac-vi-sao-1200.html",
+    "title" : "DI SẢN TỪ CÁC VÌ SAO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dolores Cannon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Với công việc của một chuyên gia thôi miên về tiền kiếp, bà Dolores Cannon (1931-2014) đã viết 17 cuốn sách với nhiều chủ đề khác nhau, thuật lại các câu chuyện mà thân chủ (bệnh nhân) của bà kể lại trong quá trình họ bị thôi miên sâu và quay về tiền kiếp. Sau phần 1, chúng ta sẽ tiếp tục theo dõi hành trình đáng kinh ngạc của bà. Thôi miên hồi quy cho điều tra UFO Từ giữa đến cuối những năm 1980, công việc của Dolores đưa bà đi theo một hướng khám phá hoàn toàn mới: điều tra Vật thể bay không xác định (Unidentified Flying Object - UFO) và người ngoài hành tinh (Extra Terrestrial - ET). Năm 1985, lần đầu tiên bà tham dự cuộc họp thường niên của MUFON (Mutual UFO Network), một trong những tổ chức điều tra UFO lớn nhất trên thế giới. Qua đó, Dolores biết rằng một số người đã có kinh nghiệm với người ngoài hành tinh từ thời thơ ấu và rằng thường tồn tại các mối quan hệ đa thế hệ giữa các dòng tộc gia đình trên Trái đất và các chủng tộc ngoài hành tinh. Trong suốt cuộc phiêu lưu khám phá ET và UFO, Dolores đã tiếp xúc với nhiều thực thể ngoài hành tinh, họ thông qua các đối tượng được thôi miên để cung cấp thông tin và sự hiểu biết lẫn nhau cho bà. Thực sự có rất nhiều sự sống ngoài kia trong vũ trụ, tồn tại dưới mọi hình dạng và kích cỡ. Quyển này hơi khó kiếm nên mình đăng ở wattpad để tiện đọc offline và làm ebook. Nếu nhận được phản ánh của người dịch mình sẽ gỡ sách, cảm ơn các dịch giả đã dịch những quyển sách này.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b34346230956d15f331345ba21dfbcbf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b34346230956d15f331345ba21dfbcbf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1200-di-san-tu-cac-vi-sao-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1200-di-san-tu-cac-vi-sao-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

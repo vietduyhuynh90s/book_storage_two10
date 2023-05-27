@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/xa-tan-chan-troi-gan-ngay-truoc-mat-13965.html",
+    "title" : "XA TẬN CHÂN TRỜI, GẦN NGAY TRƯỚC MẮT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đôi khi người ta cứ mải vương vấn một ảo ảnh xa vời mà không nhận ra người thương mình, người đáng trân trọng nhất vẫn luôn ở ngay bên cạnh mình. Tại sao lại để người ấy tổn thương quá nhiều rồi mới hối hận? Tại sao lòng mình đã yêu rồi mà mãi không chịu nhận ra? Anh đã sai một lần khi chọn cưới một người khi trong lòng còn vấn vương người cũ. Anh lại sai lần nữa khi vì cái bóng quá khứ mà bỏ lỡ những gì đang có ở hiện tại. Đôi mắt có thể mùa quáng, đôi chân có thể bước sai lầm nhưng trái tim sẽ luôn dẫn lối đưa người ta đến nơi đúng nhất. Truyện ngắn: Xa tận chân trời, gần ngay trước mắt Tác giả Nguyễn Thị Loan Giọng đọc: Sand, Hà Diễm Sản xuất: Hằng Nga, Hương Giang</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_1f4d53052d2e629ff491f9f6bafc7b23.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_1f4d53052d2e629ff491f9f6bafc7b23.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13965-xa-tan-chan-troi-gan-ngay-truoc-mat-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13965-xa-tan-chan-troi-gan-ngay-truoc-mat-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/co-nhan-day-ba-cach-nhin-nguoi-ai-cung-nen-hoc-de-song-khon-ngoan-hon-13893.html",
+    "title" : "CỔ NHÂN DẠY BA CÁCH NHÌN NGƯỜI, AI CŨNG NÊN HỌC ĐỂ SỐNG KHÔN NGOAN HƠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong giao tiếp xã hội, việc nhìn người là vô cùng quan trọng. Bất kể là kết giao bạn bè, tìm người tri kỉ, hay chỉ đơn giản là xã giao, hoặc tìm đối tác làm ăn thì việc nhìn nhận và đánh giá một con người vô cùng quan trọng. Điều này sẽ ảnh hưởng đến cả cuộc đời và sự thành bại của sự nghiệp, công việc của bạn. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_3dde8e2498029fbff34d27bdae733830.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_3dde8e2498029fbff34d27bdae733830.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13893-co-nhan-day-ba-cach-nhin-nguoi-ai-cung-nen-hoc-de-song-khon-ngoan-hon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13893-co-nhan-day-ba-cach-nhin-nguoi-ai-cung-nen-hoc-de-song-khon-ngoan-hon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

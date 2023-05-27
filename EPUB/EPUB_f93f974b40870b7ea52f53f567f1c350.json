@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/yeu-thuong-ai-cung-nhu-ai-13506.html",
+    "title" : "YÊU THƯƠNG AI CŨNG NHƯ AI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bob Goff",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hãy tìm cách yêu thương những người khó chịu hơn nữa và các bạn sẽ sống một cuộc sống đáng mơ ước. Hãy đi tìm ai đó bạn vẫn luôn né tránh và dành tình yêu thương thật lớn cho họ. Bạn sẽ học được thêm nhiều về hàng xóm của bạn, kẻ thù của bạn và niềm tin của bạn. Hãy tìm ai đó mà bạn nghĩ là sai trái, ai đó mà bạn không tán đồng, ai đó khác biệt so với bạn,và hãy quyết định yêu thương người đó như cách bạn được tạo ra từ yêu thương. Chúng ta cần yêu thương mọi người, ai cũng như ai!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f93f974b40870b7ea52f53f567f1c350.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f93f974b40870b7ea52f53f567f1c350.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13506-yeu-thuong-ai-cung-nhu-ai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13506-yeu-thuong-ai-cung-nhu-ai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/truyen-kieu-van-xuoi-danh-cho-nguoi-tre-147.html",
+    "title" : "TRUYỆN KIỀU VĂN XUÔI DÀNH CHO NGƯỜI TRẺ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Lời nói đầu. 4 Chương 01: Truyện Kiều văn xuôi.. 6 Chữ tài chữ mệnh... 6 Hoa ghen thua thắm.. 6 Kiếp hồng nhan mong manh... 7 Lưng túi gió trăng. 10 Trong sổ đoạn trường có tên. 11 Mua não chuốc sầu.. 13 Giống hữu tình... 14 Đá vàng thủy chung... 17 Cơ hội ngộ.. 19 Sầu chia phôi... 26 Đất bằng dậy sóng... 28 Đầu xanh đã tội tình gì.. 30 Trăm nghìn gởi lạy tình quân.. 33 Trà mi một đóa... 36 Một xe trong cõi hồng trần. 38 Tóm lược. 40 Gác kinh viện sách... 41 Ấy mới gan, ấy mới tài.. 43 Chùa đâu trông thấy nẻo xa.. 46 Tóm lược. 47 Nạn xưa trút sạch.. 49 Đau nỗi biệt ly. 52 Hoa chào ngõ hạnh.. 55 Ngọn triều non bạc.. 57 Trời còn để có hôm nay. 59 Hoa xưa ong cũ.. 62 Gạn đục khơi trong.. 64 Cuốn dây từ ấy về sau cũng chừa. 66 Mây bay hạc lánh.. 67 Chữ tâm kia mới bằng ba chữ tài.. 68 Chương 02: Kiều và văn nghệ đứt ruột. 69 Gió và bụi... 69 Khổ đau cùng cực. 70 Thú đau thương. 73 Giải nhất đứt ruột. 77 Ma đưa lối, quỷ dẫn đường... 80 Hoa và rác.. 82 Tỉnh thức và hạnh phúc... 84 Không gian thênh thang.. 88 Rõ mặt đôi ta. 93 Tan sương đầu ngõ.. 95 Chân tình. 98</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_8eb39edda94139d9aba14650749f9985.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_8eb39edda94139d9aba14650749f9985.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/147-truyen-kieu-van-xuoi-danh-cho-nguoi-tre-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/147-truyen-kieu-van-xuoi-danh-cho-nguoi-tre-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
