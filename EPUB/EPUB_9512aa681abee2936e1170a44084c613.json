@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-xung-dang-voi-mot-tinh-yeu-dep_20412.html",
+    "title" : "Bạn Xứng Đáng Với Một Tình Yêu Đẹp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jason",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 51438,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_9512aa681abee2936e1170a44084c613.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_9512aa681abee2936e1170a44084c613.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8905,
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 1.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9008,
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 2.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9743,
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 3.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8405,
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 4.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7057,
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 5.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8320,
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN CUỐI.",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-1.mp3",
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 1.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-2.mp3",
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 2.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-3.mp3",
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 3.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-4.mp3",
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 4.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-5.mp3",
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN 5.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-xung-3/ban-xung-6.mp3",
+    "title" : "[AUDIO BOOK] BẠN XỨNG ĐÁNG VỚI MỘT TÌNH YÊU ĐẸP | JASON & CRSYTALINA EVERT | PHẦN CUỐI.",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
