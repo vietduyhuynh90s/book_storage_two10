@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/que-toi-dat-doc-14010.html",
+    "title" : "QUÊ TÔI ĐẤT ĐỘC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sylar Gabriel",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Quê Tôi Đất Độc hay nguyên gốc: Những chuyện kì bí có thật: Quê em - Đất độc, là một truyện dài của thành viên có nickname Sylar_Gabriel thuộc diễn đàn voz. Ngay khi ra mắt bạn đọc, tác phẩm đã gây một tiếng vang lớn trong cộng đồng mạng và được rất nhiều trang đăng tải và làm audio. Tác phẩm gồm 18 chương ứng với 18 câu chuyện, kể lại những sự kiện kì bì, kinh dị xảy ra nơi quê tác giả. Xin được trích lại lời tác giả để làm rõ hơn về nội dung: Gần đây có nhiều thớt của anh em về chuyện ma quỷ, tuy nhiên đa phần chỉ là anh em được nghe kể lại, hoặc chứng kiến nhưng mờ ảo hoặc mụ mị. Em suy nghĩ lung lắm, cuối cùng cũng quyết định viết ra những chuyện em từng gặp. Em xin khẳng định tất cả đều là người thật việc thật, nhân vật hiện còn sống, là họ hàng thân thiết của em và chỉ xảy ra ở 1 nơi - quê ngoại em, xã Ngọc Thụy - phường Long Biên - Hà Nội. Chuỗi chuyện em sắp kể ra sau đây có những chuyện em biết từ bé, có những chuyện em trực tiếp chứng kiến,và có cả những chuyện xảy ra khi mẹ em còn nhỏ; tạo thành 1 chuỗi những điều kì lạ, phủ lên trong tuổi thơ của em và người nhà em sự u ám của khu đất đấy. Các bác có thể tin, có thể không, em kể cũng chỉ để giãi bày, xin đừng ném gạch Em muốn kể theo trình tự thời gian để các bác cùng hiểu tại sao em đặt tên thớt là Đất độc; nhưng em muốn kể câu chuyện này trước. Cách đây ít lâu tình cờ đọc được 1 chuyện liêu trai trên f17, em giật mình, vì những gì viết trong truyện là những gì đã xảy ra thực sự ở trong nhà ngoại em, và đó cũng là động lực thôi thúc em lập thớt này.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-10",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_8e97f84e4ea796f805c9115d85cc0354.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_8e97f84e4ea796f805c9115d85cc0354.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14010-que-toi-dat-doc-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đất Độc (Phần 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14010-que-toi-dat-doc-thuviensach.vn.mp3?t=2721",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:45:21 Đất Độc (Phần 2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14010-que-toi-dat-doc-thuviensach.vn.mp3?t=4703",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:18:23 Đất Độc (Phần 3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14010-que-toi-dat-doc-thuviensach.vn.mp3?t=7068",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:57:48 Đất Độc (Phần 4) ( Phần Kết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14010-que-toi-dat-doc-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đất Độc (Phần 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14010-que-toi-dat-doc-thuviensach.vn.mp3?t=2721",
+    "title" : "00:45:21 Đất Độc (Phần 2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14010-que-toi-dat-doc-thuviensach.vn.mp3?t=4703",
+    "title" : "01:18:23 Đất Độc (Phần 3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14010-que-toi-dat-doc-thuviensach.vn.mp3?t=7068",
+    "title" : "01:57:48 Đất Độc (Phần 4) ( Phần Kết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
