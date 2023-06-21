@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuoi-tre-khong-tri-hoan_20660.html",
+    "title" : "Tuổi Trẻ Không Trì Hoãn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thần Cách",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-21",
+    "duration" : 25155,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_2e1e162eebb486bcad697854555636b2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_2e1e162eebb486bcad697854555636b2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 515,
+    "title" : "Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2480,
+    "title" : "Chương 9 Kỷ Luật Tự Giác Có Thể Chữa Khỏi Trì Hoãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2165,
+    "title" : "Chương 10 Tuyệt Chiêu Cứu Giúp Những Người Mắc Bệnh Trì Hoãn Độ Nặng (Hết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "Chương 1 Bộ Mặt Thật Của Bệnh Trì Hoãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2685,
+    "title" : "Chương 2 Những Phương Pháp Phòng Bệnh Trì Hoãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2355,
+    "title" : "Chương 3 Trị Bệnh Lười Biếng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "Chương 4 Chiến Đấu Trực Diện Và Từ Chối Chạy Trốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "Chương 5 Hiệu Quả Là Thứ Đầu Tiên Giúp Thoát Trì Hoãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2280,
+    "title" : "Chương 6 Phương Pháp Quản Lý Thời Gian",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "Chương 7 Dùng Kế Hoạch Hợp Lý Đuổi Trì Hoãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2235,
+    "title" : "Chương 8 Dùng Khả Năng Hành Động Mạnh Mẽ Để Thay Đổi Và Kết Thúc Trì Hoãn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/1.mp3",
+    "title" : "Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/10.mp3",
+    "title" : "Chương 9 Kỷ Luật Tự Giác Có Thể Chữa Khỏi Trì Hoãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/11.mp3",
+    "title" : "Chương 10 Tuyệt Chiêu Cứu Giúp Những Người Mắc Bệnh Trì Hoãn Độ Nặng (Hết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/2.mp3",
+    "title" : "Chương 1 Bộ Mặt Thật Của Bệnh Trì Hoãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/3.mp3",
+    "title" : "Chương 2 Những Phương Pháp Phòng Bệnh Trì Hoãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/4.mp3",
+    "title" : "Chương 3 Trị Bệnh Lười Biếng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/5.mp3",
+    "title" : "Chương 4 Chiến Đấu Trực Diện Và Từ Chối Chạy Trốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/6.mp3",
+    "title" : "Chương 5 Hiệu Quả Là Thứ Đầu Tiên Giúp Thoát Trì Hoãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/7.mp3",
+    "title" : "Chương 6 Phương Pháp Quản Lý Thời Gian",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/8.mp3",
+    "title" : "Chương 7 Dùng Kế Hoạch Hợp Lý Đuổi Trì Hoãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-khong-tri-hoan/9.mp3",
+    "title" : "Chương 8 Dùng Khả Năng Hành Động Mạnh Mẽ Để Thay Đổi Và Kết Thúc Trì Hoãn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
