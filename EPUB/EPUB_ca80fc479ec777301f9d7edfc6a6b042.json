@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/song-trong-anh-sang-8079.html",
+    "title" : "SỐNG TRONG ÁNH SÁNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Shakti Gawain",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đây là ấn bản kỷ niệm 25 năm phát hành cuốn sách của tác giả Shakti Gawain. Cuốn sách đã tạo ra một tác động mạnh mẽ trong lần xuất bản đầu tiên, được dịch ra hơn 35 thứ tiếng, bán được hơn 10 triệu bản và dành được sự đón nhận nồng nhiệt của hàng triệu người trên khắp thế giới. Shakti Gawain chia sẻ với độc giả những thông tin vô cùng hữu ích và hiệu quả giúp họ thay đổi chính cuộc đời mình. Qua cuốn sách, bà đã làm dấy lên những câu hỏi: Làm sao để nắm bắt trực giácNULL Làm sao để chữa lành bản thân? Bằng cách nào ta có thể nhận thức sâu sắc hơn về những khía cạnh trong con người mình? Làm sao đánh giá chúng và biến chúng thành một phần của cuộc sống? Câu trả lời nằm trong chính chúng ta. Và cuốn sách này sẽ là người hướng dẫn để ta có thể phát triển mối quan hệ với “Ánh Sáng” bên trong ấy! Giá sản phẩm trên đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng)…..</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_ca80fc479ec777301f9d7edfc6a6b042.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_ca80fc479ec777301f9d7edfc6a6b042.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Chào Và Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=60",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:01:00 Phần 1: Các Nguyên Tắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=65",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:01:05 Chương 1: Một Lối Sống Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=582",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:09:42 Chương 2: Quyền Lực Cao Hơn Trong Chúng Ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=906",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:15:06 Chương 3: Trực Giác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=1602",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:26:42 Chương 4: Trở Thành Một Kênh Sáng Tạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=2667",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:44:27 Chương 5: Khám Phá Nhiều Bản Thân Của Chúng Ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=3422",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:02 Chương 6: Thế Giới Là Tấm Gương Của Chúng Ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=4639",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:19 Chương 7: Tinh Thần Và Hình Thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=5743",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:35:43 Chương 8: Nam Và Nữ Bên Trong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=6907",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:55:07 Chương 9: Đàn Ông Và Đàn Bà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=7861",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:11:01 Chương 10: Đông Và Tây: Một Thách Thức Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=8251",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:31 Phần 2: Sống Theo Nguyên Tắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=8255",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:35 Chương 1: Tin Tưởng Trực Giác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=9311",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:35:11 Chương 2: Cảm Xúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=10058",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:47:38 Chương 3: Các Mối Quan Hệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=11950",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:19:10 Chương 4: Làm Việc Và Chơi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=12811",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:33:31 Chương 5: Tiền Bạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=14480",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:01:20 Chương 6: Sức Khỏe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=15339",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:15:39 Chương 7: Thân Hình Hoàn Hảo Của Bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=16397",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:33:17 Chương 8: Sự Sống Và Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=16720",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:38:40 Chương 9: Biến Đổi Thế Giới Của Chúng Ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=18105",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:01:45 Chương 10: Một Tầm Nhìn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=18160",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:02:40 Lời Chào Và Lời Cảm Ơn!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Chào Và Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=60",
+    "title" : "00:01:00 Phần 1: Các Nguyên Tắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=65",
+    "title" : "00:01:05 Chương 1: Một Lối Sống Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=582",
+    "title" : "00:09:42 Chương 2: Quyền Lực Cao Hơn Trong Chúng Ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=906",
+    "title" : "00:15:06 Chương 3: Trực Giác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=1602",
+    "title" : "00:26:42 Chương 4: Trở Thành Một Kênh Sáng Tạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=2667",
+    "title" : "00:44:27 Chương 5: Khám Phá Nhiều Bản Thân Của Chúng Ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=3422",
+    "title" : "00:57:02 Chương 6: Thế Giới Là Tấm Gương Của Chúng Ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=4639",
+    "title" : "01:17:19 Chương 7: Tinh Thần Và Hình Thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=5743",
+    "title" : "01:35:43 Chương 8: Nam Và Nữ Bên Trong",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=6907",
+    "title" : "01:55:07 Chương 9: Đàn Ông Và Đàn Bà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=7861",
+    "title" : "02:11:01 Chương 10: Đông Và Tây: Một Thách Thức Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=8251",
+    "title" : "02:17:31 Phần 2: Sống Theo Nguyên Tắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=8255",
+    "title" : "02:17:35 Chương 1: Tin Tưởng Trực Giác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=9311",
+    "title" : "02:35:11 Chương 2: Cảm Xúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=10058",
+    "title" : "02:47:38 Chương 3: Các Mối Quan Hệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=11950",
+    "title" : "03:19:10 Chương 4: Làm Việc Và Chơi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=12811",
+    "title" : "03:33:31 Chương 5: Tiền Bạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=14480",
+    "title" : "04:01:20 Chương 6: Sức Khỏe",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=15339",
+    "title" : "04:15:39 Chương 7: Thân Hình Hoàn Hảo Của Bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=16397",
+    "title" : "04:33:17 Chương 8: Sự Sống Và Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=16720",
+    "title" : "04:38:40 Chương 9: Biến Đổi Thế Giới Của Chúng Ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=18105",
+    "title" : "05:01:45 Chương 10: Một Tầm Nhìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8079-song-trong-anh-sang-thuviensach.vn.mp3?t=18160",
+    "title" : "05:02:40 Lời Chào Và Lời Cảm Ơn!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

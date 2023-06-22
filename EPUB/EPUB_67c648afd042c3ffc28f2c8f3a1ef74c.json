@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/muoi-ton-gia-dai-de-tu-cua-duc-phat-1781.html",
+    "title" : "MƯỜI TÔN GIẢ - ĐẠI ĐỆ TỬ CỦA ĐỨC PHẬT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Sỹ Minh Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong suốt 45 năm giáo hóa, từ Thành đạo đến Niết Bàn, Phật quy tụ xung quanh hào quang của Ngài một số đệ tử cả xuất gia lẫn tại gia. Trong số này, những bậc xuất sắc ưu tú, chứng được thánh quả A La Hán gồm có 1250 vị. Đặc biệt có 10 vị được mệnh danh là Thập Đại Đệ tử. Trong 10 vị này, mỗi vị đều có sở trường riêng, sở chứng riêng và đạo hạnh riêng. Mười vị Đại Đệ tử của Phật là: Tôn Giả Đại Ca Diếp: Đầu Đà Đệ Nhất, Tôn Giả Xá Lợi Phất: Trí Huệ Đệ Nhất, Tôn Giả Mục Kiền Liên: Thần Thông Đệ Nhất, Tôn Giả Ca Diên Chiên: Luận Nghị Đệ Nhất, Tôn Giả A Nan Đà: Đa Văn Đệ Nhất, Tôn Giả A Na Luật: Thiên Nhẫn Đệ Nhất, Tôn Giả La Hầu La: Mật Hạnh Đệ Nhất, Tôn Giả Tu Bồ Đề: Giải Không Đệ Nhất, Tôn Giả Phú Lâu Na: Thuyết Pháp Đệ Nhất, Tôn Giả Ưu Ba Ly: Trì Giới Đệ Nhất. Chính các vị là những cánh tay đắc lực nhất đã giúp đức Phật trong việc hoàng pháp độ sinh, làm cho Phật pháp hưng thịnh trên khắp lãnh thổ Ấn Độ thời đó, và còn lưu truyền mãi đến ngày nay. Sách 10 Đại Đệ Tử Phật là tập hợp 124 câu chuyện về Thập Đại Đệ tử của Phật từ khi sinh ra với những năng lực ưu việt khác thường, quá trình tu hành hạnh đạo để gia nhập cõi Phật, tiếp tục tu thành chánh quả tại cõi Niết Bàn và đem công sức giúp ích cho đời, cho người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_67c648afd042c3ffc28f2c8f3a1ef74c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_67c648afd042c3ffc28f2c8f3a1ef74c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1781-muoi-ton-gia-dai-de-tu-cua-duc-phat-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1781-muoi-ton-gia-dai-de-tu-cua-duc-phat-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

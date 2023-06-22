@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/trong-dong-tuyet-son-468.html",
+    "title" : "TRONG ĐỘNG TUYẾT SƠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vicki Mackenzie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Lời Giới Thiệu..7 Chương I: Cuộc Gặp Gỡ.11 Chương II: Nơi Không Thích Hợp..18 Chương III: Buổi Bình Minh...26 Chương IV: Bước Đầu Tiên...33 Chương V: Vị Đạo Sư...40 Chương VI: Cô Đơn Và Đau Khổ.49 Chương VII: Lahoul.56 Chương VIII: Động Tuyết Sơn..63 Chương IX: Đối Diện Tử Thần..70 Chương X: Các Vị Đạo Sư Du Già.79 Chương XI: Con Đường Của Người Phụ Nữ..84 Chương XII: Xuất Động...92 Chương XIII: Thực Hiện Ước Mơ...102 Chương XIV: Vị Đạo Sư.112 Chương XV: Những Cuộc Thách Đố..123 Chương XVI: Một Hang Động Ẩn Tu Có Cần Thiết Không?..134 Chương XVII: Bây Giờ...146</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_caa4fe53889694bc493e6ac1f04809ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_caa4fe53889694bc493e6ac1f04809ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/468-trong-dong-tuyet-son-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/468-trong-dong-tuyet-son-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

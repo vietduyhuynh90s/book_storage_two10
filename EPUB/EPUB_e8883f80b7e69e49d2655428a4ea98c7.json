@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dep-va-buon-9353.html",
+    "title" : "ĐẸP VÀ BUỒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yasunari Kawabata",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_e8883f80b7e69e49d2655428a4ea98c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_e8883f80b7e69e49d2655428a4ea98c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 1 - Chuông Chùa Cuối Năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=2418",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:40:18 Chương 2 - Xuân Sớm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=5541",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:32:21 Chương 3 - Hội Trăng Rằm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=7613",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:53 Chương 4+5 - Tiểu Thuyết Đẹp Và Buồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=10959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:02:39 Chương 6 - Bông Sen Trong Lửa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=13690",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:48:10 Chương 7 - Món Tóc Huyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=16652",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:37:32 Chương 8 - Những Hư Hao Mùa Hè",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=18637",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:10:37 Chương Cuối - Kawabata Yasunari",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 1 - Chuông Chùa Cuối Năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=2418",
+    "title" : "00:40:18 Chương 2 - Xuân Sớm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=5541",
+    "title" : "01:32:21 Chương 3 - Hội Trăng Rằm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=7613",
+    "title" : "02:06:53 Chương 4+5 - Tiểu Thuyết Đẹp Và Buồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=10959",
+    "title" : "03:02:39 Chương 6 - Bông Sen Trong Lửa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=13690",
+    "title" : "03:48:10 Chương 7 - Món Tóc Huyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=16652",
+    "title" : "04:37:32 Chương 8 - Những Hư Hao Mùa Hè",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9353-dep-va-buon-thuviensach.vn.mp3?t=18637",
+    "title" : "05:10:37 Chương Cuối - Kawabata Yasunari",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,773 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kieu-hanh-va-dinh-kien-10374.html",
+    "title" : "KIÊU HÃNH VÀ ĐỊNH KIẾN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jane Austen",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Kiêu Hãnh và Định Kiến là truyện được yêu thích nhất trong số các tác phẩm của Jane Austen. Kiêu Hãnh và Định Kiến kể về cuộc đối đầu giữa Elizabeth Bennet, con gái của một gia đình trung lưu, và Fitzwilliam Darcy, một địa chủ giàu có. Mặc dù họ để tâm tìm hiểu lẫn nhau, tác giả đã đảo ngược ý niệm thông thường về \"thuở ban đầu\": tính kiêu hãnh về giai cấp và tài sản của mình cùng định kiến về vị thế thấp kém của gia đình Elizabeth khiến Darcy lúc đầu muốn tránh xa cô, trong khi cô Elizabeth cũng kiêu hãnh vì lòng tự trọng của mình và có định kiến về cung cách trưởng giả của Darcy, trở nên một người con gái không giống như những người con gái khác chung quanh Darcy. Elizabeth, với cá tính nhạy bén, dí dỏm và cứng cỏi, được xem là một trong những nhân vật lôi cuốn nhất trong nền văn học Anh.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_09acaa648969f6fec73559cf9f8edf24.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_09acaa648969f6fec73559cf9f8edf24.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Kiêu Hãnh Và Định Kiến - Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=276",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:04:36 Kiêu Hãnh Và Định Kiến - Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=536",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:08:56 Kiêu Hãnh Và Định Kiến - Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=1154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:19:14 Kiêu Hãnh Và Định Kiến - Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=1556",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:25:56 Kiêu Hãnh Và Định Kiến - Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=1944",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:32:24 Kiêu Hãnh Và Định Kiến - Chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=2836",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:47:16 Kiêu Hãnh Và Định Kiến - Chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=3565",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:59:25 Kiêu Hãnh Và Định Kiến - Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=4341",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:12:21 Kiêu Hãnh Và Định Kiến - Chương 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=4962",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:22:42 Kiêu Hãnh Và Định Kiến - Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=5764",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:36:04 Kiêu Hãnh Và Định Kiến - Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=6335",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:45:35 Kiêu Hãnh Và Định Kiến - Chương 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=6587",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:49:47 Kiêu Hãnh Và Định Kiến - Chương 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=7181",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:41 Kiêu Hãnh Và Định Kiến - Chương 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=7609",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:49 Kiêu Hãnh Và Định Kiến - Chương 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=8221",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:01 Kiêu Hãnh Và Định Kiến - Chương 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=9578",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:39:38 Kiêu Hãnh Và Định Kiến - Chương 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=10024",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:47:04 Kiêu Hãnh Và Định Kiến - Chương 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=11898",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:18:18 Kiêu Hãnh Và Định Kiến - Chương 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=12591",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:29:51 Kiêu Hãnh Và Định Kiến - Chương 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=13174",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:39:34 Kiêu Hãnh Và Định Kiến - Chương 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=13950",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:52:30 Kiêu Hãnh Và Định Kiến - Chương 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=14572",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:02:52 Kiêu Hãnh Và Định Kiến - Chương 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=15201",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:13:21 Kiêu Hãnh Và Định Kiến - Chương 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=15974",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:26:14 Kiêu Hãnh Và Định Kiến - Chương 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=16533",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:35:33 Kiêu Hãnh Và Định Kiến - Chương 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=17380",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:49:40 Kiêu Hãnh Và Định Kiến - Chương 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=17880",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:58:00 Kiêu Hãnh Và Định Kiến - Chương 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=18432",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:07:12 Kiêu Hãnh Và Định Kiến - Chương 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=19366",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:46 Kiêu Hãnh Và Định Kiến - Chương 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=19813",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:30:13 Kiêu Hãnh Và Định Kiến - Chương 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=20397",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:39:57 Kiêu Hãnh Và Định Kiến - Chương 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=20931",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:48:51 Kiêu Hãnh Và Định Kiến - Chương 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=21619",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:00:19 Kiêu Hãnh Và Định Kiến - Chương 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=22405",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:13:25 Kiêu Hãnh Và Định Kiến - Chương 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=23575",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:32:55 Kiêu Hãnh Và Định Kiến - Chương 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=24457",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:47:37 Kiêu Hãnh Và Định Kiến - Chương 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=25048",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:57:28 Kiêu Hãnh Và Định Kiến - Chương 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=25517",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:05:17 Kiêu Hãnh Và Định Kiến - Chương 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=26108",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:15:08 Kiêu Hãnh Và Định Kiến - Chương 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=26781",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:26:21 Kiêu Hãnh Và Định Kiến - Chương 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=27665",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:41:05 Kiêu Hãnh Và Định Kiến - Chương 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=28359",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:52:39 Kiêu Hãnh Và Định Kiến - Chương 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=30880",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:34:40 Kiêu Hãnh Và Định Kiến - Chương 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=31789",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:49:49 Kiêu Hãnh Và Định Kiến - Chương 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=32436",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:00:36 Kiêu Hãnh Và Định Kiến - Chương 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=33521",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:18:41 Kiêu Hãnh Và Định Kiến - Chương 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=34950",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:42:30 Kiêu Hãnh Và Định Kiến - Chương 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=35773",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:56:13 Kiêu Hãnh Và Định Kiến - Chương 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=36606",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:10:06 Kiêu Hãnh Và Định Kiến - Chương 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=37481",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:24:41 Kiêu Hãnh Và Định Kiến - Chương 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=38266",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:37:46 Kiêu Hãnh Và Định Kiến - Chương 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=39451",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:57:31 Kiêu Hãnh Và Định Kiến - Chương 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=40552",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:15:52 Kiêu Hãnh Và Định Kiến - Chương 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=41160",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:26:00 Kiêu Hãnh Và Định Kiến - Chương 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=42073",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:41:13 Kiêu Hãnh Và Định Kiến - Chương 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=43153",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:59:13 Kiêu Hãnh Và Định Kiến - Chương 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=43865",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:11:05 Kiêu Hãnh Và Định Kiến - Chương 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=44911",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:28:31 Kiêu Hãnh Và Định Kiến - Chương 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=45831",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:43:51 Kiêu Hãnh Và Định Kiến - Chương 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=46464",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:54:24 Kiêu Hãnh Và Định Kiến - Chương 61 - End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Kiêu Hãnh Và Định Kiến - Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=276",
+    "title" : "00:04:36 Kiêu Hãnh Và Định Kiến - Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=536",
+    "title" : "00:08:56 Kiêu Hãnh Và Định Kiến - Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=1154",
+    "title" : "00:19:14 Kiêu Hãnh Và Định Kiến - Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=1556",
+    "title" : "00:25:56 Kiêu Hãnh Và Định Kiến - Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=1944",
+    "title" : "00:32:24 Kiêu Hãnh Và Định Kiến - Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=2836",
+    "title" : "00:47:16 Kiêu Hãnh Và Định Kiến - Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=3565",
+    "title" : "00:59:25 Kiêu Hãnh Và Định Kiến - Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=4341",
+    "title" : "01:12:21 Kiêu Hãnh Và Định Kiến - Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=4962",
+    "title" : "01:22:42 Kiêu Hãnh Và Định Kiến - Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=5764",
+    "title" : "01:36:04 Kiêu Hãnh Và Định Kiến - Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=6335",
+    "title" : "01:45:35 Kiêu Hãnh Và Định Kiến - Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=6587",
+    "title" : "01:49:47 Kiêu Hãnh Và Định Kiến - Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=7181",
+    "title" : "01:59:41 Kiêu Hãnh Và Định Kiến - Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=7609",
+    "title" : "02:06:49 Kiêu Hãnh Và Định Kiến - Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=8221",
+    "title" : "02:17:01 Kiêu Hãnh Và Định Kiến - Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=9578",
+    "title" : "02:39:38 Kiêu Hãnh Và Định Kiến - Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=10024",
+    "title" : "02:47:04 Kiêu Hãnh Và Định Kiến - Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=11898",
+    "title" : "03:18:18 Kiêu Hãnh Và Định Kiến - Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=12591",
+    "title" : "03:29:51 Kiêu Hãnh Và Định Kiến - Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=13174",
+    "title" : "03:39:34 Kiêu Hãnh Và Định Kiến - Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=13950",
+    "title" : "03:52:30 Kiêu Hãnh Và Định Kiến - Chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=14572",
+    "title" : "04:02:52 Kiêu Hãnh Và Định Kiến - Chương 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=15201",
+    "title" : "04:13:21 Kiêu Hãnh Và Định Kiến - Chương 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=15974",
+    "title" : "04:26:14 Kiêu Hãnh Và Định Kiến - Chương 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=16533",
+    "title" : "04:35:33 Kiêu Hãnh Và Định Kiến - Chương 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=17380",
+    "title" : "04:49:40 Kiêu Hãnh Và Định Kiến - Chương 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=17880",
+    "title" : "04:58:00 Kiêu Hãnh Và Định Kiến - Chương 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=18432",
+    "title" : "05:07:12 Kiêu Hãnh Và Định Kiến - Chương 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=19366",
+    "title" : "05:22:46 Kiêu Hãnh Và Định Kiến - Chương 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=19813",
+    "title" : "05:30:13 Kiêu Hãnh Và Định Kiến - Chương 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=20397",
+    "title" : "05:39:57 Kiêu Hãnh Và Định Kiến - Chương 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=20931",
+    "title" : "05:48:51 Kiêu Hãnh Và Định Kiến - Chương 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=21619",
+    "title" : "06:00:19 Kiêu Hãnh Và Định Kiến - Chương 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=22405",
+    "title" : "06:13:25 Kiêu Hãnh Và Định Kiến - Chương 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=23575",
+    "title" : "06:32:55 Kiêu Hãnh Và Định Kiến - Chương 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=24457",
+    "title" : "06:47:37 Kiêu Hãnh Và Định Kiến - Chương 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=25048",
+    "title" : "06:57:28 Kiêu Hãnh Và Định Kiến - Chương 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=25517",
+    "title" : "07:05:17 Kiêu Hãnh Và Định Kiến - Chương 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=26108",
+    "title" : "07:15:08 Kiêu Hãnh Và Định Kiến - Chương 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=26781",
+    "title" : "07:26:21 Kiêu Hãnh Và Định Kiến - Chương 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=27665",
+    "title" : "07:41:05 Kiêu Hãnh Và Định Kiến - Chương 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=28359",
+    "title" : "07:52:39 Kiêu Hãnh Và Định Kiến - Chương 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=30880",
+    "title" : "08:34:40 Kiêu Hãnh Và Định Kiến - Chương 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=31789",
+    "title" : "08:49:49 Kiêu Hãnh Và Định Kiến - Chương 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=32436",
+    "title" : "09:00:36 Kiêu Hãnh Và Định Kiến - Chương 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=33521",
+    "title" : "09:18:41 Kiêu Hãnh Và Định Kiến - Chương 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=34950",
+    "title" : "09:42:30 Kiêu Hãnh Và Định Kiến - Chương 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=35773",
+    "title" : "09:56:13 Kiêu Hãnh Và Định Kiến - Chương 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=36606",
+    "title" : "10:10:06 Kiêu Hãnh Và Định Kiến - Chương 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=37481",
+    "title" : "10:24:41 Kiêu Hãnh Và Định Kiến - Chương 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=38266",
+    "title" : "10:37:46 Kiêu Hãnh Và Định Kiến - Chương 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=39451",
+    "title" : "10:57:31 Kiêu Hãnh Và Định Kiến - Chương 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=40552",
+    "title" : "11:15:52 Kiêu Hãnh Và Định Kiến - Chương 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=41160",
+    "title" : "11:26:00 Kiêu Hãnh Và Định Kiến - Chương 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=42073",
+    "title" : "11:41:13 Kiêu Hãnh Và Định Kiến - Chương 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=43153",
+    "title" : "11:59:13 Kiêu Hãnh Và Định Kiến - Chương 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=43865",
+    "title" : "12:11:05 Kiêu Hãnh Và Định Kiến - Chương 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=44911",
+    "title" : "12:28:31 Kiêu Hãnh Và Định Kiến - Chương 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=45831",
+    "title" : "12:43:51 Kiêu Hãnh Và Định Kiến - Chương 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10374-kieu-hanh-va-dinh-kien-thuviensach.vn.mp3?t=46464",
+    "title" : "12:54:24 Kiêu Hãnh Và Định Kiến - Chương 61 - End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

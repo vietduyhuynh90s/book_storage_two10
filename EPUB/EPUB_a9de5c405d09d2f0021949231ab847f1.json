@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuong-menh-khao-luan-1254.html",
+    "title" : "TƯỚNG MỆNH KHẢO LUẬN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Tài Lục",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách “Tướng mệnh khảo luận” của tác giả Vũ Tài Lục đúc kết những quan sát tỉ mỉ của nhiều thế hệ về sinh hoạt và cung cách của con người thành một hệ thống lý thuyết giải thích về cơ sở thực tiễn của tướng học, nhìn người, đoán vận qua tướng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_a9de5c405d09d2f0021949231ab847f1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_a9de5c405d09d2f0021949231ab847f1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tướng Mệnh Khảo Luận - Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=1925",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:32:05 Tướng Mệnh Khảo Luận - Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=3448",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:28 Tướng Mệnh Khảo Luận - Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=5298",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:28:18 Tướng Mệnh Khảo Luận - Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=7108",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:58:28 Tướng Mệnh Khảo Luận - Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=8948",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:29:08 Tướng Mệnh Khảo Luận - Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=10608",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:56:48 Tướng Mệnh Khảo Luận - Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=12458",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:27:38 Tướng Mệnh Khảo Luận - Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=14168",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:56:08 Tướng Mệnh Khảo Luận - Tập 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=16018",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:26:58 Tướng Mệnh Khảo Luận - Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=18508",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:08:28 Tướng Mệnh Khảo Luận - Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=20791",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:46:31 Tướng Mệnh Khảo Luận - Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=23111",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:25:11 Tướng Mệnh Khảo Luận - Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=24564",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:49:24 Tướng Mệnh Khảo Luận - Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=26974",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:29:34 Tướng Mệnh Khảo Luận - Tập 15 (Tập Cuối)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tướng Mệnh Khảo Luận - Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=1925",
+    "title" : "00:32:05 Tướng Mệnh Khảo Luận - Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=3448",
+    "title" : "00:57:28 Tướng Mệnh Khảo Luận - Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=5298",
+    "title" : "01:28:18 Tướng Mệnh Khảo Luận - Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=7108",
+    "title" : "01:58:28 Tướng Mệnh Khảo Luận - Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=8948",
+    "title" : "02:29:08 Tướng Mệnh Khảo Luận - Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=10608",
+    "title" : "02:56:48 Tướng Mệnh Khảo Luận - Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=12458",
+    "title" : "03:27:38 Tướng Mệnh Khảo Luận - Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=14168",
+    "title" : "03:56:08 Tướng Mệnh Khảo Luận - Tập 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=16018",
+    "title" : "04:26:58 Tướng Mệnh Khảo Luận - Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=18508",
+    "title" : "05:08:28 Tướng Mệnh Khảo Luận - Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=20791",
+    "title" : "05:46:31 Tướng Mệnh Khảo Luận - Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=23111",
+    "title" : "06:25:11 Tướng Mệnh Khảo Luận - Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=24564",
+    "title" : "06:49:24 Tướng Mệnh Khảo Luận - Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1254-tuong-menh-khao-luan-thuviensach.vn.mp3?t=26974",
+    "title" : "07:29:34 Tướng Mệnh Khảo Luận - Tập 15 (Tập Cuối)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

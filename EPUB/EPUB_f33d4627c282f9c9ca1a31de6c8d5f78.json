@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/me-teresa-tren-ca-tinh-yeu-567.html",
+    "title" : "MẸ TERESA - TRÊN CẢ TÌNH YÊU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thomas Moore",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bất cứ ai, khi nhắc đến cái tên Teresa, mọi người trên hành tinh này đều nghĩ đến một biểu tượng của một người phụ nữ thánh thiện, cao cả và vĩ đại nhất trên thế gian này. Mẹ Teresa đã dành trọn đời mình cho những người bất hạnh trên đời, từ những trẻ em mồ côi sống vất vưởng lang thang, cho đến những người khổ đau, bệnh tật, cùng cực ở khắp nơi… Thế giới có thể nhắc về Mẹ Teresa như một phụ nữ vĩ đại với nhiều giải thưởng cao quý, trong đó có giải Nobel Hòa bình. Nhưng điều khiến mẹ vĩ đại hơn cả, đó là sự giản dị và lòng nhân ái vô biên. Mẹ đã sống một cuộc đời cơ cực, vì như Mẹ nói, phải sống giữa người nghèo, nếm trải sự đói khổ cùng họ mới có thể thấu hiểu, và từ đó, mới có thể giúp xoa dịu nỗi đau của họ. Khi còn là một nữ tu dòng Loreto, chính cảnh sống bi thảm của người nghèo đã làm sống dậy mãnh liệt trong lòng Mẹ ý nguyện được sống giữa họ, được chia sẻ và giúp đỡ họ - một ý nguyện đã được ấp ủ từ những ngày thơ ấu ở quê hương Anbani. Bí quyết sống của Mẹ thật giản dị: Mẹ cầu nguyện. Khi cầu nguyện, Mẹ bày tỏ tình yêu, niềm tin và lòng trông cậy mãnh liệt của mình với Thiên Chúa, bày tỏ khát vọng hiến trọn đời mình. Chính trái tim rộng mở, chính tình yêu ấy đã khiến Mẹ nhìn thấy Chúa Jesus trong hình hài của những người cùng khổ. Và Mẹ đã chân tình giúp đỡ những con người ấy, và chính điều đó lại quay lại nâng cao niềm tin của Mẹ. Trong suốt những câu chuyện của Mẹ Teresa, Mẹ đã lồng vào đó một đức tin sắt đá của một nữ tu công giáo. Dù vậy, đây không phải là một cuốn sách giảng về giáo lý, mà đơn giản chỉ là những câu chuyện về tình yêu nhân loại. Mẹ đã làm những việc ấy vì Mẹ yêu con người, cũng là một cách để Mẹ bày tỏ lòng kính yêu của mình với Chúa, như Mẹ hằng tâm niệm: “Tôi chỉ là cây bút chì nhỏ trong bàn tay Thiên Chúa”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f33d4627c282f9c9ca1a31de6c8d5f78.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f33d4627c282f9c9ca1a31de6c8d5f78.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/567-me-teresa-tren-ca-tinh-yeu-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/567-me-teresa-tren-ca-tinh-yeu-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

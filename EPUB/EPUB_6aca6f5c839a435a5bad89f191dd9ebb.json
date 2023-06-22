@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguyen-du-14066.html",
+    "title" : "NGUYỄN DU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thế Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đọc Nguyễn Du, trước hết là để hiểu một tấm lòng Sau là để hiểu một thời đại… Và hơn hết, đọc Nguyễn Du để thấy bóng dáng những nhân vật trong câu chuyện xưa cũ vẫn thấp thoáng đến hôm nay: con người khao khát cái Đẹp nhưng chối bỏ cái Đẹp, khao khát tự do nhưng chối bỏ tự do. Vì cuộc sống quá nhiều thị phi hay vì những sân si trong chính con người? Nhưng dẫu thế nào con người vẫn khao khát, và tiếng tơ lòng tài hoa của người nghệ sĩ sẽ không ngừng ngân vang, đi tìm cái Đẹp, đi tìm tự do giữa cõi nhân gian này… Mời bạn đón đọc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_6aca6f5c839a435a5bad89f191dd9ebb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_6aca6f5c839a435a5bad89f191dd9ebb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14066-nguyen-du-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14066-nguyen-du-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

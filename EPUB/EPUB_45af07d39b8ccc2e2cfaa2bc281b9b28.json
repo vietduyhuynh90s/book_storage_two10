@@ -1,0 +1,893 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/trai-hoa-do-12773.html",
+    "title" : "TRẠI HOA ĐỎ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dili",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trại hoa đỏ cuốn hút ngay độc giả bởi đề tựa, màu đỏ ma mị, huyền bí nhưng lôi cuốn. Phải nói Trại hoa đỏ là cuốn truyện kinh dị pha chút trinh thám hay nhất của Việt Nam. Những tình tiết dồn dập, kì dị làm người đọc sởn gai ốc, từng vụ giết người liên tiếp xảy ra, ai mới là thủ phạm? Kết thúc bất ngờ, miêu tả tâm trạng nhân vật Vỹ rất đạt. Nếu nói tác phẩm xuất sắc đến mức đạt được 5 sao thì chưa hẳn nhưng với một tác phẩm kinh dị của Việt Nam mà rất khá như Trại hoa đỏ thì 5 sao là xứng đáng. Ngay trong những dòng đầu tiên của Trại Hoa Đỏ đã gây tò mò cho độc giả từ những chi tiết đầu, sự đè nghẹt xuất hiện trên những câu chữ đầu tiên thôi thúc người đọc dán mắt vào từng câu chữ và không thể nào ngừng đọc trước khi biết được hung thủ thật sự đằng sau tất cả những bí ẩn ma mị đó. Tác phẩm này khiến độc giả nghĩ lại về sự sâu thẳm và bản ngã trong mỗi con người. Nhiều người ngỡ như hiền lành và vô hại thế nhưng lại khiến ta bất ngờ khi bộ mặt thật bị công khai. Một điểm cộng cho tác phẩm này là bìa sách được thiết kế khá ma mị và phần nào thể hiện được sự u ám, bí ẩn ở Trại Hoa Đỏ. Những vụ án xảy ra ở hai nơi hoàn toàn khác nhau, nhưng lại có những mối quan hệ mật thiết với nhau. Để rồi khi bức màn bí ẩn được vén lên, người đọc thở phào nhẹ nhõm. Tác giả đã rất thành công khi dẫn người đọc đi hết từ bất ngờ này đến bất ngờ khác. Cách tái hiện những khung cảnh, những vụ án khiến cho người đọc nhưng đang trải qua từng cảm giác sợ hãi, run sợ. Chính những điều đó đã làm Trại Hoa Đỏ để lại trong lòng độc giả những ấn tượng rất sâu sắc. Thật sự,đây là một cuốn sách rất đáng để đọc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_45af07d39b8ccc2e2cfaa2bc281b9b28.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_45af07d39b8ccc2e2cfaa2bc281b9b28.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Trại Hoa Đỏ - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=1154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:19:14 Trại Hoa Đỏ - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=2364",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:24 Trại Hoa Đỏ - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=3583",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:59:43 Trại Hoa Đỏ - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=4931",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:22:11 Trại Hoa Đỏ - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=5699",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:34:59 Trại Hoa Đỏ - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=6327",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:45:27 Trại Hoa Đỏ - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=7074",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:57:54 Trại Hoa Đỏ - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=7686",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:08:06 Trại Hoa Đỏ - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=8419",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:20:19 Trại Hoa Đỏ - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=9082",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:31:22 Trại Hoa Đỏ - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=9772",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:42:52 Trại Hoa Đỏ - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=10515",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:55:15 Trại Hoa Đỏ - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=11278",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:07:58 Trại Hoa Đỏ - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=12007",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:20:07 Trại Hoa Đỏ - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=12734",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:32:14 Trại Hoa Đỏ - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=13510",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:45:10 Trại Hoa Đỏ - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=14432",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:00:32 Trại Hoa Đỏ - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=15165",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:12:45 Trại Hoa Đỏ - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=16038",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:27:18 Trại Hoa Đỏ - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=16697",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:38:17 Trại Hoa Đỏ - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=17443",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:50:43 Trại Hoa Đỏ - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=18105",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:01:45 Trại Hoa Đỏ - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=18838",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:13:58 Trại Hoa Đỏ - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=19513",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:25:13 Trại Hoa Đỏ - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=20206",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:36:46 Trại Hoa Đỏ - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=20999",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:49:59 Trại Hoa Đỏ - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=21717",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:01:57 Trại Hoa Đỏ - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=22337",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:12:17 Trại Hoa Đỏ - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=22983",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:23:03 Trại Hoa Đỏ - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=23746",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:35:46 Trại Hoa Đỏ - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=24532",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:48:52 Trại Hoa Đỏ - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=25442",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:04:02 Trại Hoa Đỏ - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=26292",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:18:12 Trại Hoa Đỏ - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=27141",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:32:21 Trại Hoa Đỏ - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=27790",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:43:10 Trại Hoa Đỏ - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=28397",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:53:17 Trại Hoa Đỏ - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=29156",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:05:56 Trại Hoa Đỏ - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=29954",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:19:14 Trại Hoa Đỏ - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=30641",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:30:41 Trại Hoa Đỏ - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=31252",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:40:52 Trại Hoa Đỏ - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=31797",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:49:57 Trại Hoa Đỏ - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=32365",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:59:25 Trại Hoa Đỏ - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=32966",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:09:26 Trại Hoa Đỏ - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=33713",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:21:53 Trại Hoa Đỏ - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=34404",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:33:24 Trại Hoa Đỏ - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=35018",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:43:38 Trại Hoa Đỏ - Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=35606",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:53:26 Trại Hoa Đỏ - Phần 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=36233",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:03:53 Trại Hoa Đỏ - Phần 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=37096",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:18:16 Trại Hoa Đỏ - Phần 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=37866",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:31:06 Trại Hoa Đỏ - Phần 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=38834",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:47:14 Trại Hoa Đỏ - Phần 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=39741",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:02:21 Trại Hoa Đỏ - Phần 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=40463",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:14:23 Trại Hoa Đỏ - Phần 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=41228",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:27:08 Trại Hoa Đỏ - Phần 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=41971",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:39:31 Trại Hoa Đỏ - Phần 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=42581",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:49:41 Trại Hoa Đỏ - Phần 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=43269",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:01:09 Trại Hoa Đỏ - Phần 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=44107",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:15:07 Trại Hoa Đỏ - Phần 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=44922",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:28:42 Trại Hoa Đỏ - Phần 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=45605",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:40:05 Trại Hoa Đỏ - Phần 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=46278",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:51:18 Trại Hoa Đỏ - Phần 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=47111",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:05:11 Trại Hoa Đỏ - Phần 63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=47827",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:17:07 Trại Hoa Đỏ - Phần 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=48600",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:30:00 Trại Hoa Đỏ - Phần 65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=49290",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:41:30 Trại Hoa Đỏ - Phần 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=49984",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:53:04 Trại Hoa Đỏ - Phần 67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=50729",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:05:29 Trại Hoa Đỏ - Phần 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=51552",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:19:12 Trại Hoa Đỏ - Phần 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=52387",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:33:07 Trại Hoa Đỏ - Phần 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=53243",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:47:23 Trại Hoa Đỏ - Phần 71",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Trại Hoa Đỏ - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=1154",
+    "title" : "00:19:14 Trại Hoa Đỏ - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=2364",
+    "title" : "00:39:24 Trại Hoa Đỏ - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=3583",
+    "title" : "00:59:43 Trại Hoa Đỏ - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=4931",
+    "title" : "01:22:11 Trại Hoa Đỏ - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=5699",
+    "title" : "01:34:59 Trại Hoa Đỏ - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=6327",
+    "title" : "01:45:27 Trại Hoa Đỏ - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=7074",
+    "title" : "01:57:54 Trại Hoa Đỏ - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=7686",
+    "title" : "02:08:06 Trại Hoa Đỏ - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=8419",
+    "title" : "02:20:19 Trại Hoa Đỏ - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=9082",
+    "title" : "02:31:22 Trại Hoa Đỏ - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=9772",
+    "title" : "02:42:52 Trại Hoa Đỏ - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=10515",
+    "title" : "02:55:15 Trại Hoa Đỏ - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=11278",
+    "title" : "03:07:58 Trại Hoa Đỏ - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=12007",
+    "title" : "03:20:07 Trại Hoa Đỏ - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=12734",
+    "title" : "03:32:14 Trại Hoa Đỏ - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=13510",
+    "title" : "03:45:10 Trại Hoa Đỏ - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=14432",
+    "title" : "04:00:32 Trại Hoa Đỏ - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=15165",
+    "title" : "04:12:45 Trại Hoa Đỏ - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=16038",
+    "title" : "04:27:18 Trại Hoa Đỏ - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=16697",
+    "title" : "04:38:17 Trại Hoa Đỏ - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=17443",
+    "title" : "04:50:43 Trại Hoa Đỏ - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=18105",
+    "title" : "05:01:45 Trại Hoa Đỏ - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=18838",
+    "title" : "05:13:58 Trại Hoa Đỏ - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=19513",
+    "title" : "05:25:13 Trại Hoa Đỏ - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=20206",
+    "title" : "05:36:46 Trại Hoa Đỏ - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=20999",
+    "title" : "05:49:59 Trại Hoa Đỏ - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=21717",
+    "title" : "06:01:57 Trại Hoa Đỏ - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=22337",
+    "title" : "06:12:17 Trại Hoa Đỏ - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=22983",
+    "title" : "06:23:03 Trại Hoa Đỏ - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=23746",
+    "title" : "06:35:46 Trại Hoa Đỏ - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=24532",
+    "title" : "06:48:52 Trại Hoa Đỏ - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=25442",
+    "title" : "07:04:02 Trại Hoa Đỏ - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=26292",
+    "title" : "07:18:12 Trại Hoa Đỏ - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=27141",
+    "title" : "07:32:21 Trại Hoa Đỏ - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=27790",
+    "title" : "07:43:10 Trại Hoa Đỏ - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=28397",
+    "title" : "07:53:17 Trại Hoa Đỏ - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=29156",
+    "title" : "08:05:56 Trại Hoa Đỏ - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=29954",
+    "title" : "08:19:14 Trại Hoa Đỏ - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=30641",
+    "title" : "08:30:41 Trại Hoa Đỏ - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=31252",
+    "title" : "08:40:52 Trại Hoa Đỏ - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=31797",
+    "title" : "08:49:57 Trại Hoa Đỏ - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=32365",
+    "title" : "08:59:25 Trại Hoa Đỏ - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=32966",
+    "title" : "09:09:26 Trại Hoa Đỏ - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=33713",
+    "title" : "09:21:53 Trại Hoa Đỏ - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=34404",
+    "title" : "09:33:24 Trại Hoa Đỏ - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=35018",
+    "title" : "09:43:38 Trại Hoa Đỏ - Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=35606",
+    "title" : "09:53:26 Trại Hoa Đỏ - Phần 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=36233",
+    "title" : "10:03:53 Trại Hoa Đỏ - Phần 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=37096",
+    "title" : "10:18:16 Trại Hoa Đỏ - Phần 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=37866",
+    "title" : "10:31:06 Trại Hoa Đỏ - Phần 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=38834",
+    "title" : "10:47:14 Trại Hoa Đỏ - Phần 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=39741",
+    "title" : "11:02:21 Trại Hoa Đỏ - Phần 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=40463",
+    "title" : "11:14:23 Trại Hoa Đỏ - Phần 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=41228",
+    "title" : "11:27:08 Trại Hoa Đỏ - Phần 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=41971",
+    "title" : "11:39:31 Trại Hoa Đỏ - Phần 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=42581",
+    "title" : "11:49:41 Trại Hoa Đỏ - Phần 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=43269",
+    "title" : "12:01:09 Trại Hoa Đỏ - Phần 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=44107",
+    "title" : "12:15:07 Trại Hoa Đỏ - Phần 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=44922",
+    "title" : "12:28:42 Trại Hoa Đỏ - Phần 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=45605",
+    "title" : "12:40:05 Trại Hoa Đỏ - Phần 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=46278",
+    "title" : "12:51:18 Trại Hoa Đỏ - Phần 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=47111",
+    "title" : "13:05:11 Trại Hoa Đỏ - Phần 63",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=47827",
+    "title" : "13:17:07 Trại Hoa Đỏ - Phần 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=48600",
+    "title" : "13:30:00 Trại Hoa Đỏ - Phần 65",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=49290",
+    "title" : "13:41:30 Trại Hoa Đỏ - Phần 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=49984",
+    "title" : "13:53:04 Trại Hoa Đỏ - Phần 67",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=50729",
+    "title" : "14:05:29 Trại Hoa Đỏ - Phần 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=51552",
+    "title" : "14:19:12 Trại Hoa Đỏ - Phần 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=52387",
+    "title" : "14:33:07 Trại Hoa Đỏ - Phần 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12773-trai-hoa-do-thuviensach.vn.mp3?t=53243",
+    "title" : "14:47:23 Trại Hoa Đỏ - Phần 71",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

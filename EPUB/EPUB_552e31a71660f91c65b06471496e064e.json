@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phat-mau-dieu-tri-kim-mau-298.html",
+    "title" : "PHẬT MẪU - DIÊU TRÌ KIM MẪU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đạo Cao Đài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục Lục PHẬT MẪU - DIÊU-TRÌ KIM-MẪU - Tiểu-Dẫn - Bản-Nguyên Và Quyền Năng Phật-Mẫu - Diêu-Trì Kim-Mẫu 9 - Sự Tương Quan Giữa Chí-Tôn Và Phật Mẫu 15 - Tình Thương Của Chí-Tôn Và Phật-Mẫu 19 - Kết-Luận 29 - Tư-Liệu Tham-Khảo 35</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_552e31a71660f91c65b06471496e064e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_552e31a71660f91c65b06471496e064e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/298-phat-mau-dieu-tri-kim-mau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/298-phat-mau-dieu-tri-kim-mau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tu-thu-lev-nikolayevich-tolstoy-1419.html",
+    "title" : "TỰ THÚ - LEV NIKOLAYEVICH TOLSTOY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lev Nikolayevich Tolstoy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Kỳ trước tớ đã giới thiệu đến các bạn tập sách Tự thuật (Confession) của một trong những nhà giáo phụ học lừng danh Kyto giáo là Augustin, quyển sách nói về những phản tỉnh nội tâm của một tín đồ - một triết gia - một nhà kinh viện tôn giáo. Hôm nay tớ muốn gửi tặng đến các bạn một quyển Confession (Tự thú) khác, của đại văn hào nước Nga - Lev Tolstoy. Chúng ta đã từng quen biết ông qua hai bộ tiểu thuyết đã đi vào kho tàng kinh điển của văn học thế giới là Chiến tranh và hòa bình (1869) và Anna Karenina (1877). Sau hai năm ra đời những giằng xé nội tâm đầy xung đột của nhân vật Levin trong Anna Karenina, ông hoàn thành bản thảo Tự thú vào năm 1879, nhưng mãi cho đến năm 1884 nó mới chính thức được xuất bản. Nội dung chính của Tự thú chính là chặng đường tìm ý nghĩa của sự sống, dưới góc nhìn của nhà văn. Có thể coi 16 chương trong tác phẩm chính là 16 ngã rẽ mà nhà văn của chúng ta đã trải qua trên con đường khai lộ chân lý. Có thể chúng ta đồng ý hay không đồng ý câu trả lời tối hậu của nhà văn về ý nghĩa của cuộc sống, nhưng cách thức truy vấn từ trong tác phẩm thật đáng để học hỏi. Khi nói về tác phẩm, Ernst J.Simmon mô tả Tự thú như là \"một trong những phát ngôn cao cả nhất và dũng cảm nhất của con người, những tuôn trào của một linh hồn bị bối rối cực độ bởi vấn đề lớn của cuộc sống - mối quan hệ của con người với cái vô hạn - nhưng được thực hiện với sự chân thành trọn vẹn và nghệ thuật cao\". Và nói như nhà biên tập David Patterson khi giới thiệu tác phẩm: \"quả thật cái ý nghĩa mà ông phấn đấu để đạt tới, nó tự tiết lộ ra trong cuộc truy tầm nhiều hơn là trong sự phát hiện, và việc nêu câu hỏi về ý nghĩa cuộc sống thì quan trọng hơn là việc trả lời câu hỏi ấy\"...và rằng \"đó là câu hỏi về cuộc sống mà Tolstoy đã nêu ra trong Tự thú của ông, một câu hỏi cũng phi thời gian như tinh thần vậy\"... Tôi tin rằng, khi đọc tác phẩm, mỗi chúng ta sẽ bắt gặp những thao thức của chính mình, đang được hiển lộ trên từng con chữ. Chặng đường của Lev Tolstoy không nhất thiết là chặng đường của mỗi chúng ta nhưng mục đích của sự tìm kiếm thì không bị bó buộc bởi không gian hay thời gian, và thao thức về bản chất của sinh tồn thì không bị lệ thuộc bởi phong thổ hay tập quán. *** “Bá tước” Lev Nikolayevich Tolstoy sinh ngày 9 tháng 9 năm 1828 tại điền trang Yasnaya Polyana thuộc tỉnh Tula. Yasnaya Polyana là nơi Tolstoy khởi đầu sự sống của mình, là nơi khơi nguồn sáng tạo nghệ thuật, là nơi chứng kiến những tìm tòi, những biến chuyển trong nghệ thuật cũng như trong những tư tưởng triết lý, đạo đức của ông, và đó cũng là nơi mà vào đêm 28 tháng 10 năm 1910 ông đã chạy trốn khỏi, từ bỏ tất cả: gia đình, tài sản... để đi trên con tàu vô định đến cái chết khi đã ở tuổi 82 với tên tuổi đã nổi tiếng trên thế giới.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_15e166e5521f753da49b181c767388ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_15e166e5521f753da49b181c767388ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1419-tu-thu-lev-nikolayevich-tolstoy-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1419-tu-thu-lev-nikolayevich-tolstoy-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

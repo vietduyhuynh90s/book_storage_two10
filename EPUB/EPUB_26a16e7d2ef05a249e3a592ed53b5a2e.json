@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bi-mat-noi-cung-cuu-hoang-bao-dai-14021.html",
+    "title" : "BÍ MẬT NỘI CUNG CỰU HOÀNG BẢO ĐẠI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Trọng Miên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Cựu hoàng Bảo Đại\" là sự tái hiện sinh động cuộc đời, sự nghiệp, cái được mất của nhân vật lịch sử - ông vua cuối cùng của Triều đình Nhà Nguyễn - Nguyễn Vĩnh Thuỵ - Bảo Đại. Tác giả Hoàng Trọng Miên đã tỏ ra thật sắc sảo trong cách tiếp cận các nguồn tư liệu quý của lịch sử, qua sự khảo nghiệm của các nhân chứng, vật chứng và sự gạn lọc đào thải của thời gian để tiểu thuyết hoá thành công hình tượng vua Bảo Đại, một nhân vật chính của quyển sách này. Cuốn sách giúp bạn đọc ôn lại một thời lịch sử nhiều cam go, gian khổ nhưng cũng đầy anh dũng của dân tộc. Cuốn sách đã ghi lại những sự thực bị che đậy bấy lâu về cựu hoàng Bảo Đại, về chính phủ Nam Triều, về những mâu thuẫn, xâu xé, giành quyền, phế truất nhau, của các tướng tá chế độ Mỹ Ngụy - Ngô Đình Diệm, về âm mưu của Pháp và Mỹ cùng các thế lực phản động trong và ngoài nước khác hòng thôn tính, chia cắt, xâm lược Việt Nam.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_26a16e7d2ef05a249e3a592ed53b5a2e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_26a16e7d2ef05a249e3a592ed53b5a2e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14021-bi-mat-noi-cung-cuu-hoang-bao-dai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14021-bi-mat-noi-cung-cuu-hoang-bao-dai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

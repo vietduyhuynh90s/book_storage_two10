@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/de-co-mot-tam-hon-dep-14057.html",
+    "title" : "ĐỂ CÓ MỘT TÂM HỒN ĐẸP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Edward de Bono",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tâm hồn đẹp trong cuốn sách độc đáo này là vẻ đẹp hoàn toàn có thể cảm nhận được qua cách suy nghĩ, giao tiếp, ngôn ngữ, qua những ý tưởng của bạn, và trên hết là sự thật lòng... Khi người khác ngắm nhìn dáng vẻ bên ngoài của bạn, họ cũng đồng thời lắng nghe tâm hồn bạn… Và một tâm hồn đẹp chính là một tâm hồn thú vị. Nếu tâm hồn bạn thú vị, ngoài việc mọi người sẽ thích ở bên bạn, tin tưởng nơi bạn, bạn còn cảm thấy luôn thoải mái, tự tin và hạnh phúc. Để Có Một Tâm Hồn Đẹp là một cuốn sách độc đáo và rất hữu ích cho mọi người. Sau khi đọc xong cuốn sách này bạn khám phá tìm ra những điều thú vị ngay trong bản thân mình và mọi thứ liên quan, luyện tập cho mình thói quen cần thiết. Rồi rất nhanh thôi, bạn sẽ thấy tâm hồn mình thay đổi, thú vị thêm, rộng mở hơn, cuộc sống thật đáng sống hơn và những điều diệu kỳ nhất sẽ đến… cuộc sống của bạn sẽ thay đổi, hạnh phúc hơn cùng với sự tin cậy và quý mến của mọi người xung quanh.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_93a569dae2e30f9248a7fa9a301cbe97.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_93a569dae2e30f9248a7fa9a301cbe97.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=1636",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:16 Nghệ Thuật Biểu Lộ Sự Khác Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=3646",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:46 Nghệ Thuật Lắng Nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=4959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:22:39 Sáu Chiếc Nón Tư Duy Hay Phương Pháp Tư Duy Song Song",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=6835",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:55 Các Khả Năng Lựa Chọn Thay Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=8503",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:21:43 Các Giá Trị Chuẩn Mực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=9679",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:41:19 Thông Tin - Kiến Thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=11005",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:03:25 Ngắt Lời",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=1636",
+    "title" : "00:27:16 Nghệ Thuật Biểu Lộ Sự Khác Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=3646",
+    "title" : "01:00:46 Nghệ Thuật Lắng Nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=4959",
+    "title" : "01:22:39 Sáu Chiếc Nón Tư Duy Hay Phương Pháp Tư Duy Song Song",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=6835",
+    "title" : "01:53:55 Các Khả Năng Lựa Chọn Thay Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=8503",
+    "title" : "02:21:43 Các Giá Trị Chuẩn Mực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=9679",
+    "title" : "02:41:19 Thông Tin - Kiến Thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14057-de-co-mot-tam-hon-dep-thuviensach.vn.mp3?t=11005",
+    "title" : "03:03:25 Ngắt Lời",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

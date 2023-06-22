@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ba-chi-em-nha-ho-tong-8134.html",
+    "title" : "BA CHỊ EM NHÀ HỌ TỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Vạn Lý",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong lịch sử cận đại, không có một gia đình nào có thể khuynh đảo lịch sử quốc gia và đời sống của hàng trăm triệu người như gia đình họ Tống của Trung Hoa. Trên một nửa thế kỷ, những người của gia đình này đã dùng mọi thủ đoạn để độc chiếm quyền lực chính trị và tài chánh của Trung Hoa, và đã thu thập được những tài sản khổng lồ, lớn nhất thời đại. Dòng họ Tống gồm những ai? Họ là con cháu của một gã thiếu niên đi hoang. Gã thiếu niên đó gặp cơ duyên may mắn qua được Hoa Kỳ, sống dưới sự che chở của giáo hội Methodist vào khoảng cuối thế kỷ 19. Gã thiếu niên may mắn đó vốn người họ Hàn tại đảo Hải Nam, nhưng khi sang Hoa Kỳ, hắn đổi tên là Tống Charlie. Khi trưởng thành và trở về Trung Hoa, Tống Charlie lấy tên là Tống Giáo Nhân, và tạo được một sản nghiệp đồ sộ bằng nghề in và bán sách Thánh Kinh. Tống Giáo Nhân cũng bí mật tham gia phong trào cách mạng của Tôn Dật Tiên, chống lại triều đình Mãn Thanh. Nếu Tống Giáo Nhân không có ba cô con gái thì cuối cùng gia đình nhà họ Tống sẽ không giầu sang quyền thế đến thế, và cũng sẽ chỉ là một gia đình trọc phú tầm thường trong cái đám đông đảo những người Trung Hoa giầu có. Nhưng Tống Giáo Nhân sinh được ba cô con gái rất quý tướng. Đúng ra Tống Giáo Nhân có sáu người con, ba trai và ba gái. Nhưng chính ba cô con gái này đã trở thành những nhân vật xuất chúng trên chính trường Trung Hoa, vì kết hôn với những lãnh tụ lớn của Trung Hoa. Ba chị em nhà họ Tống đã tạo được một sự nghiệp chính trị hiển hách và những sản nghiệp vĩ đại cho nhà họ Tống. Trong số ba người con gái của Tống Giáo Nhân, chỉ có bà Tống Khánh Linh tạo được một địa vị cao quý trong lịch sử và tâm hồn người Trung Hoa. Bà được cả hai phe cộng sản và Quốc dân đảng kính trọng. Tống Khánh Linh kết hôn với Tôn Dật Tiên, nhà đại cách mạng Trung hoa của đầu thế kỷ 20.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_e3ce3eb68e62279d0a65d24a044611a8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_e3ce3eb68e62279d0a65d24a044611a8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8134-ba-chi-em-nha-ho-tong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8134-ba-chi-em-nha-ho-tong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,605 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-vai-do-12144.html",
+    "title" : "TẤM VẢI ĐỎ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Nương Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tấm Vải Đỏ là một cuốn tiểu thuyết kinh dị. Một tiểu thuyết ma đậm chất phương Đông với lời nguyền chết người, những hồn ma bóng quỷ, những lực lượng siêu nhiên - cả Thiện lẫn Ác. Mọi chuyện bắt đầu kể từ khi cô Đường Thi Thi, một người trong nhóm bốn bạn gái, sau chuyến du lịch đã mang về tấm vải đỏ tuyệt đẹp. Họ quyết định dùng tấm vải đỏ này để may cho mỗi người một thứ đồ - áo xườn xám, áo yếm, khăn choàng đầu, khăn quàng. Nào ngờ, tấm vải đỏ này đã mang một lời nguyền sát nhân ma mị - Lời nguyền Ca Băng. Cái ngày nhóm bạn ấy bận các thứ đồ được may từ tấm vải đỏ cũng là ngày bắt đầu xảy ra các sự việc kinh hồn: Lam Kỳ (một người trong nhóm bốn bạn gái) cùng người tình của mình bị móc mắt, chết một cách ghê rợn và đầy bí ẩn. Một người nữa - cô Anh Kỳ, phát điên v.v… Tiếp theo là những vụ án mạng, những tình tiết kỳ lạ, ghê sợ dồn dập xảy ra. Cùng đó là sự xuất hiện của một loạt nhân vật mới: Kha Lương- bạn học cũ của Tần Cẩm (một người trong nhóm bạn gái) - là hậu duệ của một dòng họ pháp sư bắt ma nổi tiếng, Tử Minh - nhân viên cảnh sát điều tra, bóng hồn ông nội Kha Lương, người mẹ tưởng đã bỏ đi biệt xứ của Tần Cẩm, cha mẹ Kha Lương… Cuộc chiến đầy cam go, khổ đau đã nổ ra nhằm xóa bỏ lời nguyền độc ác. Làm cách nào chế ngự được nó? Liệu nó có bị xóa bỏ?... Hồng Nương Tử là nữ nhà văn trẻ của Trung Quốc, hiện đang sống ở Thâm Quyến. Là một nhà văn viết truyện kinh dị xuất sắc. Truyện của cô vừa đa đoan kỳ ảo nhưng cũng lắm khi thê lương mà huyền bí. Ngôn từ sử dụng tinh túy mà duy mỹ vẽ nên những cung bậc khác nhau trong lòng mỗi độc giả. Có người đọc truyện của cô thấy sợ hãi, có người cảm thương, có người lại buồn bã. Cô sử dụng một phong cách rất độc đáo mà tạo nên những câu chuyện rất riêng của mình. Cô được biết đến với biệt danh là “Nữ hoàng kinh dị” của Trung Quốc. Các tác phẩm kinh dị tiêu biểu: - Hồng đoạn (Tấm vải đỏ), - Huyết sắc diện cụ (Mặt nạ máu), - Nghiệt oán tóc xanh, - Chanh tử (Quả cam luân hồi), - Lục môn (Cánh cửa xanh), - Thất bộ kiều (Cầu bảy bước)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f6fbdc1c25075dc58988db73e727dfaf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f6fbdc1c25075dc58988db73e727dfaf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tấm Vải Đỏ - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=824",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:13:44 Tấm Vải Đỏ - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=1425",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:23:45 Tấm Vải Đỏ - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=2444",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:40:44 Tấm Vải Đỏ - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=3097",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:51:37 Tấm Vải Đỏ - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=3751",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:02:31 Tấm Vải Đỏ - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=4392",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:13:12 Tấm Vải Đỏ - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=5058",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:24:18 Tấm Vải Đỏ - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=5610",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:33:30 Tấm Vải Đỏ - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=6111",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:41:51 Tấm Vải Đỏ - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=6762",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:52:42 Tấm Vải Đỏ - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=7631",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:07:11 Tấm Vải Đỏ - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=8236",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:16 Tấm Vải Đỏ - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=9071",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:31:11 Tấm Vải Đỏ - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=9963",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:46:03 Tấm Vải Đỏ - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=10968",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:02:48 Tấm Vải Đỏ - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=11859",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:17:39 Tấm Vải Đỏ - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=12453",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:27:33 Tấm Vải Đỏ - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=13103",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:38:23 Tấm Vải Đỏ - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=13970",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:52:50 Tấm Vải Đỏ - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=14901",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:08:21 Tấm Vải Đỏ - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=15728",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:22:08 Tấm Vải Đỏ - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=16500",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:35:00 Tấm Vải Đỏ - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=17223",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:47:03 Tấm Vải Đỏ - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=18002",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:00:02 Tấm Vải Đỏ - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=18547",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:09:07 Tấm Vải Đỏ - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=19364",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:44 Tấm Vải Đỏ - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=19969",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:32:49 Tấm Vải Đỏ - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=20569",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:42:49 Tấm Vải Đỏ - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=21218",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:53:38 Tấm Vải Đỏ - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=21977",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:06:17 Tấm Vải Đỏ - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=22674",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:17:54 Tấm Vải Đỏ - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=23291",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:28:11 Tấm Vải Đỏ - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=23974",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:39:34 Tấm Vải Đỏ - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=24624",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:50:24 Tấm Vải Đỏ - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=25316",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:01:56 Tấm Vải Đỏ - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=25978",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:12:58 Tấm Vải Đỏ - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=26755",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:25:55 Tấm Vải Đỏ - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=27661",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:41:01 Tấm Vải Đỏ - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=28375",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:52:55 Tấm Vải Đỏ - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=29281",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:08:01 Tấm Vải Đỏ - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=30054",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:20:54 Tấm Vải Đỏ - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=30830",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:33:50 Tấm Vải Đỏ - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=31595",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:46:35 Tấm Vải Đỏ - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=32340",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:59:00 Tấm Vải Đỏ - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=33100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:11:40 Tấm Vải Đỏ - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=33759",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:22:39 Tấm Vải Đỏ - Phần 47 (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tấm Vải Đỏ - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=824",
+    "title" : "00:13:44 Tấm Vải Đỏ - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=1425",
+    "title" : "00:23:45 Tấm Vải Đỏ - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=2444",
+    "title" : "00:40:44 Tấm Vải Đỏ - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=3097",
+    "title" : "00:51:37 Tấm Vải Đỏ - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=3751",
+    "title" : "01:02:31 Tấm Vải Đỏ - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=4392",
+    "title" : "01:13:12 Tấm Vải Đỏ - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=5058",
+    "title" : "01:24:18 Tấm Vải Đỏ - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=5610",
+    "title" : "01:33:30 Tấm Vải Đỏ - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=6111",
+    "title" : "01:41:51 Tấm Vải Đỏ - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=6762",
+    "title" : "01:52:42 Tấm Vải Đỏ - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=7631",
+    "title" : "02:07:11 Tấm Vải Đỏ - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=8236",
+    "title" : "02:17:16 Tấm Vải Đỏ - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=9071",
+    "title" : "02:31:11 Tấm Vải Đỏ - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=9963",
+    "title" : "02:46:03 Tấm Vải Đỏ - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=10968",
+    "title" : "03:02:48 Tấm Vải Đỏ - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=11859",
+    "title" : "03:17:39 Tấm Vải Đỏ - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=12453",
+    "title" : "03:27:33 Tấm Vải Đỏ - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=13103",
+    "title" : "03:38:23 Tấm Vải Đỏ - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=13970",
+    "title" : "03:52:50 Tấm Vải Đỏ - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=14901",
+    "title" : "04:08:21 Tấm Vải Đỏ - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=15728",
+    "title" : "04:22:08 Tấm Vải Đỏ - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=16500",
+    "title" : "04:35:00 Tấm Vải Đỏ - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=17223",
+    "title" : "04:47:03 Tấm Vải Đỏ - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=18002",
+    "title" : "05:00:02 Tấm Vải Đỏ - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=18547",
+    "title" : "05:09:07 Tấm Vải Đỏ - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=19364",
+    "title" : "05:22:44 Tấm Vải Đỏ - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=19969",
+    "title" : "05:32:49 Tấm Vải Đỏ - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=20569",
+    "title" : "05:42:49 Tấm Vải Đỏ - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=21218",
+    "title" : "05:53:38 Tấm Vải Đỏ - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=21977",
+    "title" : "06:06:17 Tấm Vải Đỏ - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=22674",
+    "title" : "06:17:54 Tấm Vải Đỏ - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=23291",
+    "title" : "06:28:11 Tấm Vải Đỏ - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=23974",
+    "title" : "06:39:34 Tấm Vải Đỏ - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=24624",
+    "title" : "06:50:24 Tấm Vải Đỏ - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=25316",
+    "title" : "07:01:56 Tấm Vải Đỏ - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=25978",
+    "title" : "07:12:58 Tấm Vải Đỏ - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=26755",
+    "title" : "07:25:55 Tấm Vải Đỏ - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=27661",
+    "title" : "07:41:01 Tấm Vải Đỏ - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=28375",
+    "title" : "07:52:55 Tấm Vải Đỏ - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=29281",
+    "title" : "08:08:01 Tấm Vải Đỏ - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=30054",
+    "title" : "08:20:54 Tấm Vải Đỏ - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=30830",
+    "title" : "08:33:50 Tấm Vải Đỏ - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=31595",
+    "title" : "08:46:35 Tấm Vải Đỏ - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=32340",
+    "title" : "08:59:00 Tấm Vải Đỏ - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=33100",
+    "title" : "09:11:40 Tấm Vải Đỏ - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12144-tam-vai-do-thuviensach.vn.mp3?t=33759",
+    "title" : "09:22:39 Tấm Vải Đỏ - Phần 47 (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

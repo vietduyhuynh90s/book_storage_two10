@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhat-ky-dang-thuy-tram-1355.html",
+    "title" : "NHẬT KÝ ĐẶNG THÙY TRÂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đặng Thuỳ Trâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một cuốn nhật kí nhặt được bên xác của một nữ Việt Cộng đã suýt bị người lính Mỹ ném vào lửa, nhưng người phiên dịch đã khuyên anh ta nên giữ lại vì \"trong đó có lửa\". Nhật kí Đặng Thùy Trâm là những ghi chép hàng ngày của một người nữ bác sĩ về cuộc sống của chị nơi chiến tuyến. Cuốn nhật kí là thế giới riêng của người trí thức nhạy cảm mà không yếu đuối, tha thiết với cuộc sống mà không hề sợ hãi trước những gian nan. Ở đó ta vẫn gặp những băn khoăn trăn trở trước tình yêu, trước cuộc sống phức tạp hàng ngày, những nỗi buồn, nỗi nhớ nhung, sự cô đơn của một người con gái, nhưng đồng thời chúng ta cũng thấy được một ý chí mãnh liệt, những lời nói tự động viên cảnh tỉnh, một lòng can đảm phi thường - những điều đã làm nên một thế hệ anh hùng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b756be24010ca4d12808103360f2f9ac.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b756be24010ca4d12808103360f2f9ac.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Nhật Ký Đặng Thùy Trâm - Lời Dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=1260",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:21:00 Nhật Ký Đặng Thùy Trâm - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=4959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:22:39 Nhật Ký Đặng Thùy Trâm - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=8623",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:23:43 Nhật Ký Đặng Thùy Trâm - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=12258",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:24:18 Nhật Ký Đặng Thùy Trâm - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=15927",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:25:27 Nhật Ký Đặng Thùy Trâm - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=19761",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:29:21 Nhật Ký Đặng Thùy Trâm - Phần 6 (Phần Cuối)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Nhật Ký Đặng Thùy Trâm - Lời Dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=1260",
+    "title" : "00:21:00 Nhật Ký Đặng Thùy Trâm - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=4959",
+    "title" : "01:22:39 Nhật Ký Đặng Thùy Trâm - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=8623",
+    "title" : "02:23:43 Nhật Ký Đặng Thùy Trâm - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=12258",
+    "title" : "03:24:18 Nhật Ký Đặng Thùy Trâm - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=15927",
+    "title" : "04:25:27 Nhật Ký Đặng Thùy Trâm - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1355-nhat-ky-dang-thuy-tram-thuviensach.vn.mp3?t=19761",
+    "title" : "05:29:21 Nhật Ký Đặng Thùy Trâm - Phần 6 (Phần Cuối)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

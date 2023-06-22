@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/giot-mau-chung-tinh-9793.html",
+    "title" : "GIỌT MÁU CHUNG TÌNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tân Dân Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Võ Đông Sơ là con của Hoài Quốc công Võ Tánh và công chúa Ngọc Du. Bạch Thu Hà là con quan Tổng trấn Tây Thành Bạch Công (Hà Nội). Sau khi Võ Tánh tuẫn tiết, Võ Đông Sơ sống với người chú ruột tại Bình Định luyện võ, ôn văn chờ dịp cứu nước. Lúc bấy giờ có giặc Tàu Ô (chỉ những toán cướp biển từ Trung Quốc) đang hoành hành ở Biển Đông, triều đình mở khoa thi để chọn tướng tài dẹp giặc. Võ Đông Sơ ra kinh ứng thí. Trong thời gian lưu lại ở kinh kỳ, chàng làm quen với Triệu Dõng - một người con có hiếu \"bán kiếm báu\" nuôi mẹ. Cũng tại đây Võ Đông Sơ gặp phải sự đố kỵ tài năng của Bạch Xuân Phương - anh ruột của tiểu thư Bạch Thu Hà, là một công tử rất độc ác, bất tài, hãm hại Võ Đông Sơ nhiều lần suýt mất mạng. Trong một lần Võ Đông Sơ ra tay đánh bọn cướp cứu tiểu thư Bạch Thu Hà trên đường đi lễ chùa, đôi trai tài gái sắc đã phải lòng nhau. Dưới ánh trăng rằm, bên ngôi cổ tự, hai người đã thề nguyện chuyện trăm năm. Sau đó, Võ Đông Sơ thi đỗ võ quan được phong làm Đô úy lãnh quân đi dẹp giặc. Ở nhà, Bạch Thu Hà bị gia đình bắt phải lấy một tên vô lại - bạn của anh trai Bạch Xuân Phương tên là Trần Xuân. Bạch Thu Hà bỏ trốn khỏi nhà, thân gái dặm trường phiêu bạt đi tìm người yêu Võ Đông Sơ. Trong cơn hoạn nạn, Bạch Thu Hà được Triệu Dõng và em gái Triệu Dõng là Triệu Nương cứu giúp thoát khỏi tay chủ sơn trại Nhứt Lang ép làm vợ. Sau cùng, Võ Đông Sơ - Bạch Thu Hà lại được trùng phùng nhưng không lâu sau, biên ải có giặc xâm phạm, vua ban chiếu cử Võ Đông Sơ cầm binh lên Lạng Sơn đánh đuổi giặc xâm phạm bờ cõi. Nhiều trận đánh nhau ác liệt, Võ Đông Sơ bị tử trận. Trong phút giây hấp hối chàng không ngừng gọi tên Bạch Thu Hà và nhắn gởi ba quân báo hung tin cho nàng hay. Bạch Thu Hà đã khóc thảm thiết bên linh cữu Võ Đông Sơ và dùng gươm báu quyên sinh để giữ trọn chung thủy với người tình.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_864517040414e768dcb2e980f8121fdf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_864517040414e768dcb2e980f8121fdf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9793-giot-mau-chung-tinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9793-giot-mau-chung-tinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
