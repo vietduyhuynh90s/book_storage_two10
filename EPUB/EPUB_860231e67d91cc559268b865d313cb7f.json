@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lanh-dao-phong-cach-barack-obama-14092.html",
+    "title" : "LÃNH ĐẠO PHONG CÁCH BARACK OBAMA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Shel Leanne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Năm 2008, Thượng nghị sĩ Barack Obama đã vượt qua vô vàn khó khăn để vươn lên đến một trong những vị trí quyền lực nhất thế giới và trở thành Tổng thống thứ 44 của Hoa Kỳ. Trong hành trình kỳ diệu đó, Obama đã tạo nên một phong cách lãnh đạo đặc trưng, thu hút được hàng triệu người ủng hộ và khiến ngay cả những đối thủ của ông cũng phải ngả mũ thán phục. Trong quyển sách Lãnh Đạo Phong Cách Barack Obama này, tác giả Shel Leanne, một chuyên gia về kỹ thuật lãnh đạo thường xuyên làm việc với các công ty trong nhóm Fortune 500, viết về những kỹ năng nổi bật của Obama trong việc dẫn dắt các đội ngũ và tổ chức của mình đạt đến thành công. Những kỹ năng đó bao gồm: Truyền đạt tầm nhìn của bản thân một cách rành mạch và thuyết phục Tạo lập và dẫn dắt những đội ngũ xuất sắc Khai thác sức mạnh của công nghệ Tạo niềm tin ở người khác Xây dựng cầu nối giữa những cá nhân khác biệt</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_860231e67d91cc559268b865d313cb7f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_860231e67d91cc559268b865d313cb7f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14092-lanh-dao-phong-cach-barack-obama-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14092-lanh-dao-phong-cach-barack-obama-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ky-vi-nui-deo-14086.html",
+    "title" : "KỲ VĨ NÚI ĐÈO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách \"Thiên Nhiên Đất Nước Ta - Kì Vĩ Núi Đèo\" đem đến những kiến thức bổ trợ giúp tăng cường vốn hiểu biết về thiên nhiên nước Việt, khơi gợi tình yêu của mỗi chúng ta, đặc biệt là các bạn trẻ, đối với non sông đất nước, bắt đầu ý thức tìm hiểu và nhận biết rõ về sông, núi, biển, rừng quê hương, từ đó bồi đắp tình yêu, lòng tự hào đối với Tổ Quốc thân yêu. Để có sự hiểu biết về non nước mình, chúng ta phải học trong nhà trường, đọc trong sách báo và trải nghiệm trong thực tế. Đồng thời, lại phải có ý thức thường xuyên bồi bổ các kiến thức về địa lí, về thiên nhiên rất cần thiết cho mỗi con người trong cuộc sống và cả trong công việc sau này. Bạn cần biết về cương vực, lãnh thổ đất nước khi muốn đi vào nghiệp văn chương, sử học, ngoại giao. Bạn cần thông thuộc địa hình, địa mạo khi làm quy hoạch hay kiến trúc. Bạn càng cần nắm rõ về sông, núi, biển, rừng của Tổ quốc nếu bạn làm nông nghiệp, khai thác tài nguyên hay thương mại... Khỏi phải nói, trong cuộc sống hằng ngày, những kiến thức ấy giúp ích thế nào khi bạn đi du lịch khám phá; sự hiểu biết sẽ làm cho bạn có ấn tượng sâu sắc hơn và thu lượm được nhiều điều bổ ích hơn sau mỗi chuyến đi... Nội dung cuốn sách Kì vĩ núi đèo, bạn sẽ tìm hiểu về: - Núi được hình thành như thế nào? - Các dạng núi chính ở Việt Nam. - Núi có quan hệ ra sao với lịch sử và văn hóa của dân tộc? - Những bí ẩn của núi. - Núi, đèo và các hang động nổi tiếng của nước ta.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_babf783c9c48006448012de774c447ef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_babf783c9c48006448012de774c447ef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14086-ky-vi-nui-deo-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14086-ky-vi-nui-deo-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-co-gai-trong-cao-oc-van-phong-13988.html",
+    "title" : "NHỮNG CÔ GÁI TRONG CAO ỐC VĂN PHÒNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hiền Lương Xal",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tác giả: Dương Thụy - MC: Hiền Lương Xal - Kỹ thuật: Greenstar - Biên tập: Dương Trang Beat: 1. Walking Towards You - Sunny Choi 2. Iswear - Jim Brickman 3. Confess - Mr Dal Bong E 4. Love Is Right - Kim Yeon Ji</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_ee6cb240d337652b78a837004fe201c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_ee6cb240d337652b78a837004fe201c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13988-nhung-co-gai-trong-cao-oc-van-phong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Những Cô Gái Trong Cao Ốc Văn Phòng - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13988-nhung-co-gai-trong-cao-oc-van-phong-thuviensach.vn.mp3?t=600",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:10:00 Những Cô Gái Trong Cao Ốc Văn Phòng - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13988-nhung-co-gai-trong-cao-oc-van-phong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Những Cô Gái Trong Cao Ốc Văn Phòng - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13988-nhung-co-gai-trong-cao-oc-van-phong-thuviensach.vn.mp3?t=600",
+    "title" : "00:10:00 Những Cô Gái Trong Cao Ốc Văn Phòng - Phần 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

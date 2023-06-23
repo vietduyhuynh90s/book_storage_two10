@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyen-tap-truyen-ngan-yeu-mot-nguoi-vo-tam-14019.html",
+    "title" : "TUYỂN TẬP TRUYỆN NGẮN: YÊU MỘT NGƯỜI VÔ TÂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Yêu một người vô tâm” quả là một truyện ngắn đáng để độc giả tìm tới. Ong đã đọc nó ba lần và mỗi lần đều có những cảm nhận rất riêng. Câu chuyện không có nhiều cuộc đối thoại, không có người ngoài chen vào, không mang quá đậm nét tình cảm nhưng lại rất độc đáo bởi sự hiện hữu của những lời độc thoại nội tâm sâu sắc, khuynh hướng cam chịu của nhân vật và lối văn mượt mà, trôi chảy của tác giả Thiên Dương Lâm. Mở đầu cũng như xuyên suốt tác phẩm, ta bắt gặp một người đàn ông trưởng thành, có cả tiền, tài, tình. Nhưng sao “hắn” vẫn ẩn chứa nét gì đó ưu phiền quá! Hắn yêu nàng, yêu người con gái bé nhỏ có nét dễ thương. Phải, hắn gọi nàng là bảo bối, hắn có thể chờ nàng, cố gắng vì nàng nhưng hắn không dám thừa nhận tình cảm ấy. Tại sao ư? Vì hắn chẳng còn được ở bên nàng bao lâu nữa. Nàng cũng yêu hắn, tình cảm xuất phát từ hai phía lẽ ra phải trọn vẹn biết bao nhưng tình yêu của hai người như ngôi sao đêm trên dải ngân hà, đẹp mà không chạm tới. “Hạnh phúc là những gì chúng ta không biết? Hạnh phúc là những gì chúng ta không giữ được? Hạnh phúc là những gì chúng ta có thể lãng quên. Hắn không trả lời, nhưng nàng vẫn chờ… Chờ hắn trả lời về hạnh phúc!” (Trích trong truyện ngắn “Yêu một người vô tâm”) Rõ là có yêu, tại sao không nói? Rõ là có thương, tại sao lại buông?</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5df3fe105d353c725c22d4343c0f500a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5df3fe105d353c725c22d4343c0f500a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14019-tuyen-tap-truyen-ngan-yeu-mot-nguoi-vo-tam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14019-tuyen-tap-truyen-ngan-yeu-mot-nguoi-vo-tam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
