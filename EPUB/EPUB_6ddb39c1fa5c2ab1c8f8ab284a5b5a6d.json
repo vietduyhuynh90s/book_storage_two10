@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nghiep-bao-ke-trom-mo.html",
+    "title" : "Nghiệp báo kẻ trộm mộ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Âm Sát",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_6ddb39c1fa5c2ab1c8f8ab284a5b5a6d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_6ddb39c1fa5c2ab1c8f8ab284a5b5a6d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801407.us.archive.org/32/items/nghiep-bao-ke-trom-mo/NghiepBaoKeTromMo_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghiệp báo kẻ trộm mộ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801407.us.archive.org/32/items/nghiep-bao-ke-trom-mo/NghiepBaoKeTromMo_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghiệp báo kẻ trộm mộ tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801407.us.archive.org/32/items/nghiep-bao-ke-trom-mo/NghiepBaoKeTromMo_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghiệp báo kẻ trộm mộ tập 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801407.us.archive.org/32/items/nghiep-bao-ke-trom-mo/NghiepBaoKeTromMo_01.mp3",
+    "title" : "Nghiệp báo kẻ trộm mộ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801407.us.archive.org/32/items/nghiep-bao-ke-trom-mo/NghiepBaoKeTromMo_02.mp3",
+    "title" : "Nghiệp báo kẻ trộm mộ tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801407.us.archive.org/32/items/nghiep-bao-ke-trom-mo/NghiepBaoKeTromMo_03.mp3",
+    "title" : "Nghiệp báo kẻ trộm mộ tập 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

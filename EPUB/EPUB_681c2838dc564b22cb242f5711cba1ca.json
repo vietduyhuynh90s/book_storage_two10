@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/sau-ang-suong-mo.html",
+    "title" : "Sau áng sương mờ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thanh Hùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_681c2838dc564b22cb242f5711cba1ca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_681c2838dc564b22cb242f5711cba1ca.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sau áng sương mờ tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sau áng sương mờ tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sau áng sương mờ tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sau áng sương mờ tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sau áng sương mờ tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sau áng sương mờ tập 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_01.mp3",
+    "title" : "Sau áng sương mờ tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_02.mp3",
+    "title" : "Sau áng sương mờ tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_03.mp3",
+    "title" : "Sau áng sương mờ tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_04.mp3",
+    "title" : "Sau áng sương mờ tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_05.mp3",
+    "title" : "Sau áng sương mờ tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/9/items/sau-ang-suong-mo/SauAngSuongMo_06.mp3",
+    "title" : "Sau áng sương mờ tập 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

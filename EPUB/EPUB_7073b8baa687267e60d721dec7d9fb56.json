@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tien-ca-tho-chau.html",
+    "title" : "Cửu Long Quái Sự Ký Phần 7 – Tiên Cá Thổ Châu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Gia - Thái Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 51427,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_7073b8baa687267e60d721dec7d9fb56.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_7073b8baa687267e60d721dec7d9fb56.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "tiencathochau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3859,
+    "title" : "tiencathochau_2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3749,
+    "title" : "tiencathochau_3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "tiencathochau_4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "tiencathochau_5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "tiencathochau_6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "tiencathochau_7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3474,
+    "title" : "tiencathochau_8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3097,
+    "title" : "tiencathochau_9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "tiencathochau_10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "tiencathochau_11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3599,
+    "title" : "tiencathochau_12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3955,
+    "title" : "tiencathochau_13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "tiencathochau_14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau.mp3",
+    "title" : "tiencathochau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_2.mp3",
+    "title" : "tiencathochau_2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_3.mp3",
+    "title" : "tiencathochau_3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_4.mp3",
+    "title" : "tiencathochau_4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_5.mp3",
+    "title" : "tiencathochau_5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_6.mp3",
+    "title" : "tiencathochau_6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_7.mp3",
+    "title" : "tiencathochau_7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_8.mp3",
+    "title" : "tiencathochau_8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_9.mp3",
+    "title" : "tiencathochau_9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_10.mp3",
+    "title" : "tiencathochau_10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_11.mp3",
+    "title" : "tiencathochau_11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_12.mp3",
+    "title" : "tiencathochau_12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_13.mp3",
+    "title" : "tiencathochau_13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiencathochau/tiencathochau_14.mp3",
+    "title" : "tiencathochau_14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

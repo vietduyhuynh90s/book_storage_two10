@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ong-toi-la-phap-su.html",
+    "title" : "Ông Tôi Là Pháp Sư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Như",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_23bb2b68eeeec2151cc136497bc94a0a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_23bb2b68eeeec2151cc136497bc94a0a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801501.us.archive.org/20/items/phap-su-tru-ma/phap-su-tru-ma-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ông tôi là pháp sư tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801501.us.archive.org/20/items/phap-su-tru-ma/phap-su-tru-ma-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ông tôi là pháp sư tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801501.us.archive.org/20/items/phap-su-tru-ma/phap-su-tru-ma-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ông tôi là pháp sư tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801501.us.archive.org/20/items/phap-su-tru-ma/phap-su-tru-ma-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ông tôi là pháp sư tập 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801501.us.archive.org/20/items/phap-su-tru-ma/phap-su-tru-ma-tap-1.mp3",
+    "title" : "Ông tôi là pháp sư tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801501.us.archive.org/20/items/phap-su-tru-ma/phap-su-tru-ma-tap-2.mp3",
+    "title" : "Ông tôi là pháp sư tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801501.us.archive.org/20/items/phap-su-tru-ma/phap-su-tru-ma-tap-3.mp3",
+    "title" : "Ông tôi là pháp sư tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801501.us.archive.org/20/items/phap-su-tru-ma/phap-su-tru-ma-tap-4.mp3",
+    "title" : "Ông tôi là pháp sư tập 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

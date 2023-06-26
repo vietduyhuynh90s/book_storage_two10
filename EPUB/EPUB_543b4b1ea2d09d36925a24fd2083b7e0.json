@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/goc-khuat-chung-cu.html",
+    "title" : "Góc Khuất Chung Cư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Linh Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_543b4b1ea2d09d36925a24fd2083b7e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_543b4b1ea2d09d36925a24fd2083b7e0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801506.us.archive.org/35/items/goc-khuat-chung-cu-full_202008/goc-khuat-chung-cu-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Góc Khuất Chung Cư Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801506.us.archive.org/35/items/goc-khuat-chung-cu-full_202008/goc-khuat-chung-cu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Góc Khuất Chung Cư Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801506.us.archive.org/35/items/goc-khuat-chung-cu-full_202008/goc-khuat-chung-cu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Hậu Góc khuất chung cư - Truyện ma góc tối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801506.us.archive.org/35/items/goc-khuat-chung-cu-full_202008/goc-khuat-chung-cu-tap-1.mp3",
+    "title" : "Góc Khuất Chung Cư Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801506.us.archive.org/35/items/goc-khuat-chung-cu-full_202008/goc-khuat-chung-cu-tap-2.mp3",
+    "title" : "Góc Khuất Chung Cư Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801506.us.archive.org/35/items/goc-khuat-chung-cu-full_202008/goc-khuat-chung-cu-tap-3.mp3",
+    "title" : "Hậu Góc khuất chung cư - Truyện ma góc tối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

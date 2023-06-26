@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/so-kiep.html",
+    "title" : "Số Kiếp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cú Heo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_15cd77e0632b6478fff9ac5b1126b5d0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_15cd77e0632b6478fff9ac5b1126b5d0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Số Kiếp Tập 1 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Số Kiếp Tập 2 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Số Kiếp Tập 3 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Số Kiếp Tập 4 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Số Kiếp Tập 5 - Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-1.mp3",
+    "title" : "Số Kiếp Tập 1 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-2.mp3",
+    "title" : "Số Kiếp Tập 2 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-3.mp3",
+    "title" : "Số Kiếp Tập 3 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-4.mp3",
+    "title" : "Số Kiếp Tập 4 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801501.us.archive.org/27/items/so-kiep-quang-a-tun/so-kiep-quang-a-tun-tap-5.mp3",
+    "title" : "Số Kiếp Tập 5 - Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
