@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dat-am-hon.html",
+    "title" : "Đất Âm Hồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 69362,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_1c91a2440e2ad71adf5a87c740433518.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_1c91a2440e2ad71adf5a87c740433518.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4259,
+    "title" : "dat-am-hon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "dat-am-hon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4086,
+    "title" : "dat-am-hon-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3714,
+    "title" : "dat-am-hon-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "dat-am-hon-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3885,
+    "title" : "dat-am-hon-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3899,
+    "title" : "dat-am-hon-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3921,
+    "title" : "dat-am-hon-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "dat-am-hon-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "dat-am-hon-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "dat-am-hon-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3738,
+    "title" : "dat-am-hon-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "dat-am-hon-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4103,
+    "title" : "dat-am-hon-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "dat-am-hon-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4871,
+    "title" : "dat-am-hon-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6029,
+    "title" : "dat-am-hon-tap-17",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon.mp3",
+    "title" : "dat-am-hon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-2.mp3",
+    "title" : "dat-am-hon-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-3.mp3",
+    "title" : "dat-am-hon-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-4.mp3",
+    "title" : "dat-am-hon-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-5.mp3",
+    "title" : "dat-am-hon-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-6.mp3",
+    "title" : "dat-am-hon-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-7.mp3",
+    "title" : "dat-am-hon-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-8.mp3",
+    "title" : "dat-am-hon-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-9.mp3",
+    "title" : "dat-am-hon-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-10.mp3",
+    "title" : "dat-am-hon-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-11.mp3",
+    "title" : "dat-am-hon-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-12.mp3",
+    "title" : "dat-am-hon-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-13.mp3",
+    "title" : "dat-am-hon-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-14.mp3",
+    "title" : "dat-am-hon-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-15.mp3",
+    "title" : "dat-am-hon-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-16.mp3",
+    "title" : "dat-am-hon-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-am-hon/dat-am-hon-tap-17.mp3",
+    "title" : "dat-am-hon-tap-17",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

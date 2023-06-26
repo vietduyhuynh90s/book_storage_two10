@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngoi-lang-tu-dia.html",
+    "title" : "Ngôi Làng Tử Địa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 31292,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_d99c454cd6bb4fa0be73e2c64e175b66.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_d99c454cd6bb4fa0be73e2c64e175b66.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3929,
+    "title" : "ngoi-lang-tu-dia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3792,
+    "title" : "ngoi-lang-tu-dia-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3903,
+    "title" : "ngoi-lang-tu-dia-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "ngoi-lang-tu-dia-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "ngoi-lang-tu-dia-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4611,
+    "title" : "ngoi-lang-tu-dia-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "ngoi-lang-tu-dia-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3636,
+    "title" : "ngoi-lang-tu-dia-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia.mp3",
+    "title" : "ngoi-lang-tu-dia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-2.mp3",
+    "title" : "ngoi-lang-tu-dia-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-3.mp3",
+    "title" : "ngoi-lang-tu-dia-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-4.mp3",
+    "title" : "ngoi-lang-tu-dia-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-5.mp3",
+    "title" : "ngoi-lang-tu-dia-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-6.mp3",
+    "title" : "ngoi-lang-tu-dia-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-7.mp3",
+    "title" : "ngoi-lang-tu-dia-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-lang-tu-dia/ngoi-lang-tu-dia-tap-8.mp3",
+    "title" : "ngoi-lang-tu-dia-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

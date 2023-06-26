@@ -1,0 +1,449 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hau-le-du-hanh-ky.html",
+    "title" : "Hậu Lê Du Hành Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 115484,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_06398318494d607f9d9db54f285b316c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_06398318494d607f9d9db54f285b316c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lazy-01042021/bendo-coma1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5023,
+    "title" : "bendo-coma1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/ben-do-co-ma-tap-3-ket-am-phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "ben-do-co-ma-tap-3-ket-am-phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/hau-le-du-hanh-ky-quyen-4-tap-1-dinh-soan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3337,
+    "title" : "hau-le-du-hanh-ky-quyen-4-tap-1-dinh-soan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/hau-le-du-hanh-ky-quyen-4-tap-2-dinh-soan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "hau-le-du-hanh-ky-quyen-4-tap-2-dinh-soan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/hau-le-du-hanh-ky-quyen-4-tap-3-dinh-soan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "hau-le-du-hanh-ky-quyen-4-tap-3-dinh-soan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/no-duyen-kho-thoat-tap-99-am-phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4076,
+    "title" : "no-duyen-kho-thoat-tap-99-am-phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/no-duyen-kho-thoat-tap-100-am-phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "no-duyen-kho-thoat-tap-100-am-phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/no-duyen-kho-thoat-tap-101-am-phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "no-duyen-kho-thoat-tap-101-am-phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4309,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-200",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3658,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-201",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4271,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-202",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4288,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-203",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 91,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-204",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4239,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-205",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-206",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4426,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-207",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3709,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-208",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4478,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-209",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-210",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4426,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-211",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3633,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-212",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 78,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-213",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2950,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-214",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-215",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-216",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 92,
+    "title" : "vo-luyen-dien-phong-tran-van-tap-217",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-318-phi-tung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3890,
+    "title" : "tien-nghich-tap-318-phi-tung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-319-phi-tung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "tien-nghich-tap-319-phi-tung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-320-phi-tung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "tien-nghich-tap-320-phi-tung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-321-phi-tung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2992,
+    "title" : "tien-nghich-tap-321-phi-tung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-322-phi-tung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3227,
+    "title" : "tien-nghich-tap-322-phi-tung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-323-phi-tung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3066,
+    "title" : "tien-nghich-tap-323-phi-tung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-324-phi-tung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2819,
+    "title" : "tien-nghich-tap-324-phi-tung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-325-phi-tung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "tien-nghich-tap-325-phi-tung",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lazy-01042021/bendo-coma1.mp3",
+    "title" : "bendo-coma1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/ben-do-co-ma-tap-3-ket-am-phong.mp3",
+    "title" : "ben-do-co-ma-tap-3-ket-am-phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/hau-le-du-hanh-ky-quyen-4-tap-1-dinh-soan.mp3",
+    "title" : "hau-le-du-hanh-ky-quyen-4-tap-1-dinh-soan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/hau-le-du-hanh-ky-quyen-4-tap-2-dinh-soan.mp3",
+    "title" : "hau-le-du-hanh-ky-quyen-4-tap-2-dinh-soan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/hau-le-du-hanh-ky-quyen-4-tap-3-dinh-soan.mp3",
+    "title" : "hau-le-du-hanh-ky-quyen-4-tap-3-dinh-soan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/no-duyen-kho-thoat-tap-99-am-phong.mp3",
+    "title" : "no-duyen-kho-thoat-tap-99-am-phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/no-duyen-kho-thoat-tap-100-am-phong.mp3",
+    "title" : "no-duyen-kho-thoat-tap-100-am-phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/no-duyen-kho-thoat-tap-101-am-phong.mp3",
+    "title" : "no-duyen-kho-thoat-tap-101-am-phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-200.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-200",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-201.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-201",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-202.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-202",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-203.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-203",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-204.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-204",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-205.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-205",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-206.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-206",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-207.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-207",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-208.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-208",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-209.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-209",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-210.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-210",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-211.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-211",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-212.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-212",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-213.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-213",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-214.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-214",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-215.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-215",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-216.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-216",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/vo-luyen-dien-phong-tran-van-tap-217.mp3",
+    "title" : "vo-luyen-dien-phong-tran-van-tap-217",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-318-phi-tung.mp3",
+    "title" : "tien-nghich-tap-318-phi-tung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-319-phi-tung.mp3",
+    "title" : "tien-nghich-tap-319-phi-tung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-320-phi-tung.mp3",
+    "title" : "tien-nghich-tap-320-phi-tung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-321-phi-tung.mp3",
+    "title" : "tien-nghich-tap-321-phi-tung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-322-phi-tung.mp3",
+    "title" : "tien-nghich-tap-322-phi-tung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-323-phi-tung.mp3",
+    "title" : "tien-nghich-tap-323-phi-tung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-324-phi-tung.mp3",
+    "title" : "tien-nghich-tap-324-phi-tung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lazy-01042021/tien-nghich-tap-325-phi-tung.mp3",
+    "title" : "tien-nghich-tap-325-phi-tung",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
