@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/loi-nguyen-thap-nhi-tu.html",
+    "title" : "Lời Nguyền Thập Nhị Tứ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thanh Hùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 10888,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b822de943abae26f3a42857b8f43c90f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b822de943abae26f3a42857b8f43c90f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-thap-nhi-tu/loi-nguyen-thap-nhi-tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5662,
+    "title" : "loi-nguyen-thap-nhi-tu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-thap-nhi-tu/loi-nguyen-thap-nhi-tu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5226,
+    "title" : "loi-nguyen-thap-nhi-tu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-thap-nhi-tu/loi-nguyen-thap-nhi-tu.mp3",
+    "title" : "loi-nguyen-thap-nhi-tu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-thap-nhi-tu/loi-nguyen-thap-nhi-tu-tap-2.mp3",
+    "title" : "loi-nguyen-thap-nhi-tu-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

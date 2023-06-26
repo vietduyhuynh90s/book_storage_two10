@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nhung-hon-ma-mien-tay.html",
+    "title" : "Những Hồn Ma Miền Tây",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phương Trà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 9782,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0361cd115654ee4168e3035041f120fe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0361cd115654ee4168e3035041f120fe.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-hon-ma-mien-tay/nhung-hon-ma-mien-tay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4272,
+    "title" : "nhung-hon-ma-mien-tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-hon-ma-mien-tay/nhung-hon-ma-mien-tay-phan-2-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5510,
+    "title" : "nhung-hon-ma-mien-tay-phan-2-tap-1",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-hon-ma-mien-tay/nhung-hon-ma-mien-tay.mp3",
+    "title" : "nhung-hon-ma-mien-tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-hon-ma-mien-tay/nhung-hon-ma-mien-tay-phan-2-tap-1.mp3",
+    "title" : "nhung-hon-ma-mien-tay-phan-2-tap-1",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

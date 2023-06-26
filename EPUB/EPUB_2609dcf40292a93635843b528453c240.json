@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dat-doc-vung-cao.html",
+    "title" : "Đất Độc Vùng Cao",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Thanh An",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 13832,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_2609dcf40292a93635843b528453c240.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_2609dcf40292a93635843b528453c240.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dat-doc-vung-cao/dat-doc-vung-cao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6399,
+    "title" : "dat-doc-vung-cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-doc-vung-cao/dat-doc-vung-cao-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7433,
+    "title" : "dat-doc-vung-cao-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dat-doc-vung-cao/dat-doc-vung-cao.mp3",
+    "title" : "dat-doc-vung-cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-doc-vung-cao/dat-doc-vung-cao-tap-2.mp3",
+    "title" : "dat-doc-vung-cao-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

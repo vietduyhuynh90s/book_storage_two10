@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nghiep-chuong-3-doi-bat-ran.html",
+    "title" : "Nghiệp Chướng 3 Đời Bắt Rắn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Hoa Thi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 5962,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_22cd5e62481781ebd11baae0a6ccf4c3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_22cd5e62481781ebd11baae0a6ccf4c3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghiep-chuong-3-doi-bat-ran/nghiep-chuong-3-doi-bat-ran.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5962,
+    "title" : "nghiep-chuong-3-doi-bat-ran",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghiep-chuong-3-doi-bat-ran/nghiep-chuong-3-doi-bat-ran.mp3",
+    "title" : "nghiep-chuong-3-doi-bat-ran",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ruoc-ma-ve-que-an-tet.html",
+    "title" : "Rước Ma Về Quê Ăn Tết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Triết Sâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 5675,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_27ce4d43a28b26136039f1deb8b7f20e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_27ce4d43a28b26136039f1deb8b7f20e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ruoc-ma-ve-que-an-tet/ruoc-ma-ve-que-an-tet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5675,
+    "title" : "ruoc-ma-ve-que-an-tet",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ruoc-ma-ve-que-an-tet/ruoc-ma-ve-que-an-tet.mp3",
+    "title" : "ruoc-ma-ve-que-an-tet",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

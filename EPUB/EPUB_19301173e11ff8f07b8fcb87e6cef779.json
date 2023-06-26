@@ -1,0 +1,1181 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thuat-xam-sinh-tu.html",
+    "title" : "Thuật Xăm Sinh Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thụy Du",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 411878,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_19301173e11ff8f07b8fcb87e6cef779.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_19301173e11ff8f07b8fcb87e6cef779.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4565,
+    "title" : "thuat-xam-sinh-tu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4119,
+    "title" : "thuat-xam-sinh-tu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4188,
+    "title" : "thuat-xam-sinh-tu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4151,
+    "title" : "thuat-xam-sinh-tu-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4560,
+    "title" : "thuat-xam-sinh-tu-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4422,
+    "title" : "thuat-xam-sinh-tu-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4164,
+    "title" : "thuat-xam-sinh-tu-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4242,
+    "title" : "thuat-xam-sinh-tu-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4125,
+    "title" : "thuat-xam-sinh-tu-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "thuat-xam-sinh-tu-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4011,
+    "title" : "thuat-xam-sinh-tu-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "thuat-xam-sinh-tu-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4384,
+    "title" : "thuat-xam-sinh-tu-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4078,
+    "title" : "thuat-xam-sinh-tu-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3312,
+    "title" : "thuat-xam-sinh-tu-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3837,
+    "title" : "thuat-xam-sinh-tu-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4249,
+    "title" : "thuat-xam-sinh-tu-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3993,
+    "title" : "thuat-xam-sinh-tu-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4035,
+    "title" : "thuat-xam-sinh-tu-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "thuat-xam-sinh-tu-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4034,
+    "title" : "thuat-xam-sinh-tu-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4692,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4225,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6293,
+    "title" : "thuat-xam-sinh-tu-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4214,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4198,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4289,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4233,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4061,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4231,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4189,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4946,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4343,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4655,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4579,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4796,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4471,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5101,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4604,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4548,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4536,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4414,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4412,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4382,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4311,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3847,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3938,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3983,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4330,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4313,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4431,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4392,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4159,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4298,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4400,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4336,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4272,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4328,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4381,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4031,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4199,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5136,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6172,
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4419,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4517,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4774,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4651,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4804,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-su-phan-3-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4738,
+    "title" : "thuat-xam-sinh-su-phan-3-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4702,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4322,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4676,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4342,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4440,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4379,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4676,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4464,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4170,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4275,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4250,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4342,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4496,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4568,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4538,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4476,
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4277,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3429,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3976,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4053,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4206,
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-17",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu.mp3",
+    "title" : "thuat-xam-sinh-tu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-2.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-3.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-4.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-5.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-6.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-7.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-8.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-9.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-10.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-11.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-12.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-13.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-14.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-15.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-16.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-17.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-18.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-19.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-20.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-21.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-1.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-2.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-tap-22.mp3",
+    "title" : "thuat-xam-sinh-tu-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-3.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-4.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-5.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-6.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-7.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-8.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-9.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-1.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-2.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-3.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-4.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-5.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-6.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-7.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-8.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-9.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-1.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-2.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-3.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-4.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-5.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-6.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-7.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-8.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-9.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-10.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-11.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-12.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-13.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-14.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-15.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-16.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-17.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-18.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-19.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-20.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-21.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-22.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-23.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-2-tap-24.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-2-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-10.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-11.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-12.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-13.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-14.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-su-phan-3-tap-15.mp3",
+    "title" : "thuat-xam-sinh-su-phan-3-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-16.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-17.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-18.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-19.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-20.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-21.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-22.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-23.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-24.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-25.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-26.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-27.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-28.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-29.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-30.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-31.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-3-tap-32.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-3-tap-32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-10.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-11.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-12.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-13.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-14.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-15.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-16.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-xam-sinh-tu/thuat-xam-sinh-tu-phan-4-tap-17.mp3",
+    "title" : "thuat-xam-sinh-tu-phan-4-tap-17",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
