@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-hon-nguoi-yeu-bao-oan.html",
+    "title" : "Oan Hồn Người Yêu Báo Oán",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mây Hạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 7653,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_14f30d4756ef9dacbfdff9b4f4fb032c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_14f30d4756ef9dacbfdff9b4f4fb032c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-hon-nguoi-yeu-bao-oan/oan-hon-nguoi-yeu-bao-oan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3518,
+    "title" : "oan-hon-nguoi-yeu-bao-oan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nguoi-yeu-bao-oan/oan-hon-nguoi-yeu-bao-oan-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "oan-hon-nguoi-yeu-bao-oan-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-hon-nguoi-yeu-bao-oan/oan-hon-nguoi-yeu-bao-oan.mp3",
+    "title" : "oan-hon-nguoi-yeu-bao-oan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nguoi-yeu-bao-oan/oan-hon-nguoi-yeu-bao-oan-tap-2.mp3",
+    "title" : "oan-hon-nguoi-yeu-bao-oan-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

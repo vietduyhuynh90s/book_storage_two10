@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chi-chi-chanh-chanh-2.html",
+    "title" : "Chi Chi Chành Chành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Phùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12386,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_e0337a115de66fea5cf446ec2f1cc3ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_e0337a115de66fea5cf446ec2f1cc3ea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chi-chi-chanh-chanh_202111/chi-chi-chanh-chanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6458,
+    "title" : "chi-chi-chanh-chanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-chi-chanh-chanh_202111/chi-chi-chanh-chanh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5928,
+    "title" : "chi-chi-chanh-chanh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chi-chi-chanh-chanh_202111/chi-chi-chanh-chanh.mp3",
+    "title" : "chi-chi-chanh-chanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-chi-chanh-chanh_202111/chi-chi-chanh-chanh-tap-2.mp3",
+    "title" : "chi-chi-chanh-chanh-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hoan-hon-doat-xa.html",
+    "title" : "Hoàn Hồn Đoạt Xá",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Tuấn Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 14422,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_c7db86f6d11451329d97c1f1341431bb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_c7db86f6d11451329d97c1f1341431bb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoan-hon-doat-xa/hoan-hon-doat-xa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6649,
+    "title" : "hoan-hon-doat-xa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoan-hon-doat-xa/hoan-hon-doat-xa-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7773,
+    "title" : "hoan-hon-doat-xa-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoan-hon-doat-xa/hoan-hon-doat-xa.mp3",
+    "title" : "hoan-hon-doat-xa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoan-hon-doat-xa/hoan-hon-doat-xa-tap-2.mp3",
+    "title" : "hoan-hon-doat-xa-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

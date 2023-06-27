@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/bao-ve-dem-thang-7-co-hon.html",
+    "title" : "Bảo Vệ Đêm Tháng 7 Cô Hồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Quyền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 17685,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_1b87ece4a3e692b489a736ff744e3cc3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_1b87ece4a3e692b489a736ff744e3cc3.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bao-ve-dem-thang-7-co-hon/bao-ve-dem-thang-7-co-hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6200,
+    "title" : "bao-ve-dem-thang-7-co-hon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-ve-dem-thang-7-co-hon/bao-ve-dem-thang-7-co-hon-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5285,
+    "title" : "bao-ve-dem-thang-7-co-hon-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-ve-dem-thang-7-co-hon/bao-ve-dem-thang-7-co-hon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6200,
+    "title" : "bao-ve-dem-thang-7-co-hon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bao-ve-dem-thang-7-co-hon/bao-ve-dem-thang-7-co-hon.mp3",
+    "title" : "bao-ve-dem-thang-7-co-hon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-ve-dem-thang-7-co-hon/bao-ve-dem-thang-7-co-hon-tap-1.mp3",
+    "title" : "bao-ve-dem-thang-7-co-hon-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-ve-dem-thang-7-co-hon/bao-ve-dem-thang-7-co-hon-tap-2.mp3",
+    "title" : "bao-ve-dem-thang-7-co-hon-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

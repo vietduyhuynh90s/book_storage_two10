@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phap-su-den-phan-3.html",
+    "title" : "Pháp Sư Đen Phần 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Kun",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 15397,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_0f6f4cb0eace03cb72866e15e384e6a2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_0f6f4cb0eace03cb72866e15e384e6a2.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phap-su-den-phan-3-full/phap-su-den-phan-3-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3985,
+    "title" : "phap-su-den-phan-3-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-phan-3-full/phap-su-den-phan-3-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4028,
+    "title" : "phap-su-den-phan-3-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-phan-3-full/phap-su-den-phan-3-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3771,
+    "title" : "phap-su-den-phan-3-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-phan-3-full/phap-su-den-phan-3-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "phap-su-den-phan-3-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phap-su-den-phan-3-full/phap-su-den-phan-3-tap-1.mp3",
+    "title" : "phap-su-den-phan-3-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-phan-3-full/phap-su-den-phan-3-tap-2.mp3",
+    "title" : "phap-su-den-phan-3-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-phan-3-full/phap-su-den-phan-3-tap-3.mp3",
+    "title" : "phap-su-den-phan-3-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-phan-3-full/phap-su-den-phan-3-tap-4.mp3",
+    "title" : "phap-su-den-phan-3-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

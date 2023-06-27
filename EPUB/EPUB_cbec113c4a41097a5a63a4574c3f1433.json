@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-tay-bat-ma-manh-o-ninh-binh.html",
+    "title" : "Cậu Tẩy Bắt Ma Mãnh Ở Ninh Bình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Cơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 29459,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_cbec113c4a41097a5a63a4574c3f1433.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_cbec113c4a41097a5a63a4574c3f1433.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-bat-ma-manh-o-ninh-binh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5651,
+    "title" : "cau-tay-bat-ma-manh-o-ninh-binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-bat-vong-o-ninh-binh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6368,
+    "title" : "cau-tay-bat-vong-o-ninh-binh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-bat-vong-o-ninh-binh-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6156,
+    "title" : "cau-tay-bat-vong-o-ninh-binh-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-di-ninh-binh-phan-2-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6074,
+    "title" : "cau-tay-di-ninh-binh-phan-2-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-di-ninh-binh-phan-2-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5210,
+    "title" : "cau-tay-di-ninh-binh-phan-2-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-bat-ma-manh-o-ninh-binh.mp3",
+    "title" : "cau-tay-bat-ma-manh-o-ninh-binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-bat-vong-o-ninh-binh-tap-2.mp3",
+    "title" : "cau-tay-bat-vong-o-ninh-binh-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-bat-vong-o-ninh-binh-tap-3.mp3",
+    "title" : "cau-tay-bat-vong-o-ninh-binh-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-di-ninh-binh-phan-2-tap-1.mp3",
+    "title" : "cau-tay-di-ninh-binh-phan-2-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-bat-ma-manh-o-ninh-binh/cau-tay-di-ninh-binh-phan-2-tap-2.mp3",
+    "title" : "cau-tay-di-ninh-binh-phan-2-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

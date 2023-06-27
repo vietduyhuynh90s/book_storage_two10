@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/lau-ran-oan-nghiet.html",
+    "title" : "Lẩu rắn oan nghiệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thành Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_051dade4546d6ac2a28bbf724e49d505.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_051dade4546d6ac2a28bbf724e49d505.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801401.us.archive.org/34/items/lau-ran-oan-nghiet-full/LauRanOanNghiet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lẩu rắn oan nghiệt tập 1 - MC Ngọc Lâm - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801401.us.archive.org/34/items/lau-ran-oan-nghiet-full/LauRanOanNghiet_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lẩu rắn oan nghiệt tập 2 - MC Ngọc Lâm - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801401.us.archive.org/34/items/lau-ran-oan-nghiet-full/LauRanOanNghiet.mp3",
+    "title" : "Lẩu rắn oan nghiệt tập 1 - MC Ngọc Lâm - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801401.us.archive.org/34/items/lau-ran-oan-nghiet-full/LauRanOanNghiet_02.mp3",
+    "title" : "Lẩu rắn oan nghiệt tập 2 - MC Ngọc Lâm - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

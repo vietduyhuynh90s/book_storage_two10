@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-do-luyen-phep.html",
+    "title" : "Thầy Đồ Luyện Phép",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huy Rùi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 13997,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_21253cdb7077f978e392f284a89a6097.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_21253cdb7077f978e392f284a89a6097.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-do-luyen-phep/thay-do-luyen-phep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5149,
+    "title" : "thay-do-luyen-phep",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-do-luyen-phep/thay-do-luyen-phep-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4522,
+    "title" : "thay-do-luyen-phep-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-do-luyen-phep/thay-do-luyen-phep-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "thay-do-luyen-phep-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-do-luyen-phep/thay-do-luyen-phep.mp3",
+    "title" : "thay-do-luyen-phep",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-do-luyen-phep/thay-do-luyen-phep-tap-2.mp3",
+    "title" : "thay-do-luyen-phep-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-do-luyen-phep/thay-do-luyen-phep-tap-3.mp3",
+    "title" : "thay-do-luyen-phep-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

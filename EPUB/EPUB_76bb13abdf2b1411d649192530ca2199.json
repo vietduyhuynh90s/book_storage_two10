@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chi-dau-da-mat.html",
+    "title" : "Chị Dâu Đã Mất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 17144,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_76bb13abdf2b1411d649192530ca2199.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_76bb13abdf2b1411d649192530ca2199.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chi-dau-da-mat/chi-dau-da-mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4029,
+    "title" : "chi-dau-da-mat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-dau-da-mat/chi-dau-da-mat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4001,
+    "title" : "chi-dau-da-mat-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-dau-da-mat/chi-dau-da-mat-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4193,
+    "title" : "chi-dau-da-mat-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-dau-da-mat/chi-dau-da-mat-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4921,
+    "title" : "chi-dau-da-mat-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chi-dau-da-mat/chi-dau-da-mat.mp3",
+    "title" : "chi-dau-da-mat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-dau-da-mat/chi-dau-da-mat-tap-2.mp3",
+    "title" : "chi-dau-da-mat-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-dau-da-mat/chi-dau-da-mat-tap-3.mp3",
+    "title" : "chi-dau-da-mat-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-dau-da-mat/chi-dau-da-mat-tap-4.mp3",
+    "title" : "chi-dau-da-mat-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nguoi-ky-lenh-trung-phat.html",
+    "title" : "Người Ký Lệnh Trừng Phạt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 34829,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_7c1eac1429728ea8957acddb1bf2b61c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_7c1eac1429728ea8957acddb1bf2b61c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4027,
+    "title" : "nguoi-ky-lenh-trung-phat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3943,
+    "title" : "nguoi-ky-lenh-trung-phat-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4471,
+    "title" : "nguoi-ky-lenh-trung-phat-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4229,
+    "title" : "nguoi-ky-lenh-trung-phat-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4567,
+    "title" : "nguoi-ky-lenh-trung-phat-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4289,
+    "title" : "nguoi-ky-lenh-trung-phat-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4377,
+    "title" : "nguoi-ky-lenh-trung-phat-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4926,
+    "title" : "nguoi-ky-lenh-trung-phat-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat.mp3",
+    "title" : "nguoi-ky-lenh-trung-phat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-2.mp3",
+    "title" : "nguoi-ky-lenh-trung-phat-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-3.mp3",
+    "title" : "nguoi-ky-lenh-trung-phat-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-4.mp3",
+    "title" : "nguoi-ky-lenh-trung-phat-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-5.mp3",
+    "title" : "nguoi-ky-lenh-trung-phat-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-6.mp3",
+    "title" : "nguoi-ky-lenh-trung-phat-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-7.mp3",
+    "title" : "nguoi-ky-lenh-trung-phat-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-ky-lenh-trung-phat/nguoi-ky-lenh-trung-phat-tap-8.mp3",
+    "title" : "nguoi-ky-lenh-trung-phat-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
