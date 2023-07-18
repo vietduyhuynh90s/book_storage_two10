@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-07-18",
     "duration" : 7237,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dai-duong-den_202111/dai-duong-den.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/AUDIO/AUDIO_cf2b32e43a62f418f29f13a17457f564_17e4073e49417564ae3453b1551e86dd_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7237,
-    "title" : "dai-duong-den",
+    "duration" : 0,
+    "title" : "dai-duong-den (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/AUDIO/AUDIO_cf2b32e43a62f418f29f13a17457f564_17e4073e49417564ae3453b1551e86dd_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dai-duong-den (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/AUDIO/AUDIO_cf2b32e43a62f418f29f13a17457f564_17e4073e49417564ae3453b1551e86dd_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "dai-duong-den (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dai-duong-den_202111/dai-duong-den.mp3",
-    "title" : "dai-duong-den",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/AUDIO/AUDIO_cf2b32e43a62f418f29f13a17457f564_17e4073e49417564ae3453b1551e86dd_1.mp3",
+    "title" : "dai-duong-den (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/AUDIO/AUDIO_cf2b32e43a62f418f29f13a17457f564_17e4073e49417564ae3453b1551e86dd_2.mp3",
+    "title" : "dai-duong-den (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/AUDIO/AUDIO_cf2b32e43a62f418f29f13a17457f564_17e4073e49417564ae3453b1551e86dd_3.mp3",
+    "title" : "dai-duong-den (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
