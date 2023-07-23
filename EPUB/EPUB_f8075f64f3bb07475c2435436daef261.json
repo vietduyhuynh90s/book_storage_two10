@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chi-da-8693.html",
+    "title" : "CHÍ DÃ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đinh Mặc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vào một ngày đông tuyết trắng, trong không gian bay bổng những nốt nhạc du dương, Sầm Dã và ban nhạc rock Triều Mộ bất ngờ xông vào cuộc sống của Hứa Tầm Sênh. Thế giới êm ả bên chiếc đàn tranh của cô bỗng có thêm sự xuất hiện của tiếng đàn guitar rộn rã. Hai âm điệu vừa đối lập vừa quấn quýt, giao thoa. Khi những cung đàn khẽ rung, chính là lúc hai trái tim hòa chung nhịp đập. Anh mải miết chinh phục những đỉnh cao âm nhạc, cũng âm thầm chinh phục trái tim cô. Có chán nản, có tổn thương, có vấp ngã, có huy hoàng, vòng tròn thành bại không ngừng lặp lại, nhưng cô gái đứng trước mặt anh vẫn mãi là Hứa Tầm Sênh như ngày đầu mới gặp. Từ lúc hai bàn tay trắng đến khi bước trên điện thần rực rỡ hào quang, trái tim Sầm Dã chỉ tồn tại duy nhất hai điều: Âm nhạc và Hứa Tầm Sênh.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f8075f64f3bb07475c2435436daef261.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f8075f64f3bb07475c2435436daef261.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chí Dã - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=1625",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:05 Chí Dã - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=4534",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:15:34 Chí Dã - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=8333",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:18:53 Chí Dã - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=11819",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:16:59 Chí Dã - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=15862",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:24:22 Chí Dã - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=19876",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:31:16 Chí Dã - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=23576",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:32:56 Chí Dã - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=27253",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:34:13 Chí Dã - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=31039",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:37:19 Chí Dã - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=34031",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:27:11 Chí Dã - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=37707",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:28:27 Chí Dã - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=41486",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:31:26 Chí Dã - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=45222",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:33:42 Chí Dã - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=48850",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:34:10 Chí Dã - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=52605",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:36:45 Chí Dã - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=55677",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:27:57 Chí Dã - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=59306",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:28:26 Chí Dã - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=62980",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:29:40 Chí Dã - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=67117",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:38:37 Chí Dã - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=71622",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:53:42 Chí Dã - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=75215",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:53:35 Chí Dã - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=79105",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:58:25 Chí Dã - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=82810",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:00:10 Chí Dã - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=86992",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:09:52 Chí Dã - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=91282",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:21:22 Chí Dã - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=95812",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:36:52 Chí Dã - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=99577",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:39:37 Chí Dã - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=103378",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:42:58 Chí Dã - Phần 29 - End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chí Dã - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=1625",
+    "title" : "00:27:05 Chí Dã - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=4534",
+    "title" : "01:15:34 Chí Dã - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=8333",
+    "title" : "02:18:53 Chí Dã - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=11819",
+    "title" : "03:16:59 Chí Dã - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=15862",
+    "title" : "04:24:22 Chí Dã - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=19876",
+    "title" : "05:31:16 Chí Dã - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=23576",
+    "title" : "06:32:56 Chí Dã - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=27253",
+    "title" : "07:34:13 Chí Dã - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=31039",
+    "title" : "08:37:19 Chí Dã - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=34031",
+    "title" : "09:27:11 Chí Dã - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=37707",
+    "title" : "10:28:27 Chí Dã - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=41486",
+    "title" : "11:31:26 Chí Dã - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=45222",
+    "title" : "12:33:42 Chí Dã - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=48850",
+    "title" : "13:34:10 Chí Dã - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=52605",
+    "title" : "14:36:45 Chí Dã - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=55677",
+    "title" : "15:27:57 Chí Dã - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=59306",
+    "title" : "16:28:26 Chí Dã - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=62980",
+    "title" : "17:29:40 Chí Dã - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=67117",
+    "title" : "18:38:37 Chí Dã - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=71622",
+    "title" : "19:53:42 Chí Dã - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=75215",
+    "title" : "20:53:35 Chí Dã - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=79105",
+    "title" : "21:58:25 Chí Dã - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=82810",
+    "title" : "23:00:10 Chí Dã - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=86992",
+    "title" : "24:09:52 Chí Dã - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=91282",
+    "title" : "25:21:22 Chí Dã - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=95812",
+    "title" : "26:36:52 Chí Dã - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=99577",
+    "title" : "27:39:37 Chí Dã - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8693-chi-da-thuviensach.vn.mp3?t=103378",
+    "title" : "28:42:58 Chí Dã - Phần 29 - End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

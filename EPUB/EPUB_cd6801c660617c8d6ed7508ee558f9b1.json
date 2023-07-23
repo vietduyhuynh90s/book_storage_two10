@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-lang-gia-5068.html",
+    "title" : "KINH LĂNG GIÀ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Duy Lực",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Kinh Lăng Già có ba bản dịch từ Phạn sang Hán: Tống dịch, Ngụy dịch và Đường dịch. Hiện đang phổ biến lưu thông là bản Tống dịch, dịch giả bản này là người Ấn-độ, đối với Hán văn chưa được thông thạo lắm, nên lời văn đảo qua lộn lại, có chỗ thì trùng lắp quá dư thừa, dẫu cho nhà Nho tinh thông tiếng Hán cũng cảm thấy khó hiểu. Chúng tôi dịch Kinh này phải tham khảo thêm hai bản dịch đời Ngụy và đời Đường, đồng thời dựa theo quyển Lăng Già Tông Thông của ngài Tăng Phụng Nghi (Cư-sĩ kiến tánh đời Minh), xếp lời văn cho xuôi và thêm bổ từ ngữ để sáng tỏ nghĩa Kinh, cũng có lược bỏ vài chỗ quá dư thừa. Đối với những danh từ tiếng Hán hay tiếng Phạn không thể dịch sang tiếng Việt thì chúng tôi ghi chú, còn những câu nghĩa lý quá thâm sâu thì chúng tôi chú giải thêm. Yếu chỉ của Kinh này là dùng nghĩa Duy-thức để phá kiến chấp của Ngoại-đạo, vì danh từ và nghĩa lý của Ngoại-đạo cũng tựa như lời Phật, xem thì Ngoại-đạo với Phật hai ý khác hẳn, Ngoại-đạo có Sở-trụ mà Phật thì Vô-sở-trụ, nếu độc giả xem xét kỹ sẽ tự thấy rõ. Nói tóm lại, chúng tôi dịch Kinh này rất cố gắng giữ nguyên ý trong bản dịch của Ngài Cầu-na-bạt-đà-la, từng chữ, từng câu mà sáng tỏ nghĩa Kinh, mong giúp cho người đọc xem thấy dễ hiểu hơn. Nhưng chúng tôi cũng chưa được hài lòng, e vẫn còn có nhiều chỗ sơ sót, kính xin các bậc tiền bối và độc giả từ bi chỉ giáo cho. Thích Duy Lực</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_cd6801c660617c8d6ed7508ee558f9b1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_cd6801c660617c8d6ed7508ee558f9b1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Dịch Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=135",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:02:15 Quyển I",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=4581",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:16:21 Quyển II",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=10051",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:47:31 Quyển III",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=14447",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:00:47 Quyển IV",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Dịch Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=135",
+    "title" : "00:02:15 Quyển I",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=4581",
+    "title" : "01:16:21 Quyển II",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=10051",
+    "title" : "02:47:31 Quyển III",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5068-kinh-lang-gia-thuviensach.vn.mp3?t=14447",
+    "title" : "04:00:47 Quyển IV",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

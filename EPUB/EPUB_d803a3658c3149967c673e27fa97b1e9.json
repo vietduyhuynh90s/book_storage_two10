@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/di-san-ho-chi-minh-bac-ho-ke-chuyen-tay-du-ky-3280.html",
+    "title" : "DI SẢN HỒ CHÍ MINH - BÁC HỒ KỂ CHUYỆN TÂY DU KÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Văn Giang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chuẩn Đô đốc Trần Văn Giang, người gắn bó cả cuộc đời của mình với biển trời Tổ quốc, được đồng đội trìu mến gọi là “Chính ủy của trời và biển”. Ông may mắn được gặp Hồ Chủ tịch nhiều lần trong các hội nghị, các lớp học, buổi liên hoan cũng như tại các đơn vị Bác tới thăm. Với cái nhìn tinh tế và trí nhớ tốt, cách kể chuyện trung thực những điều tai nghe mắt thấy và suy nghĩ của bản thân mình, trong tác phẩm này, ông đã viết 14 mẩu chuyện về Bác Hồ khá sinh động, hóm hỉnh và xúc động như: Bác của chúng ta là như thế; Bác Hồ khao quân; Bác Hồ kể chuyện Tây Du Ký; Ba câu hỏi của Bác Hồ; Bác Hồ với Sư đoàn Phòng không Hà Nội; Lẵng hoa của Bác; Mười lăm phút thiêng liêng… Các câu chuyện độc đáo ở chỗ chính tác giả “là người trong cuộc”; nội dung phản ánh tình yêu thương của Bác Hồ đối với quân và dân ta; và lòng kính yêu của bộ đội và đồng bào đối với Người, mỗi câu chuyện sinh động đều hàm chứa những bài học thực tiễn, cho đến bây giờ vẫn còn nguyên giá trị. Tác giả Trần Văn Giang là một vị tướng trong Quân đội Nhân dân, tham gia cách mạng từ thời bí mật, sau cách mạng tháng 8 - 1945 ông được cử sang Quân đội và phục vụ Quân đội suốt 45 năm liên tục cho đến ngày về hưu. Là cán bộ cao cấp trong Quân đội, ông may mắn được gặp Hồ Chủ tịch nhiều lần trong các hội nghị, các lớp học, buổi liên hoan... Với cái nhìn tinh tế và trí nhớ tốt, cách kể chuyện trung thực những điều tai nghe mắt thấy và suy nghĩ của bản thân mình, ông đã viết lên những khúc hồi ký về Bác Hồ khá sinh động, hóm hỉnh và xúc động.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_d803a3658c3149967c673e27fa97b1e9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_d803a3658c3149967c673e27fa97b1e9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3280-di-san-ho-chi-minh-bac-ho-ke-chuyen-tay-du-ky-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3280-di-san-ho-chi-minh-bac-ho-ke-chuyen-tay-du-ky-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

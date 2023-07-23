@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bong-toi-kinh-hoang-8437.html",
+    "title" : "BÓNG TỐI KINH HOÀNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sidney Sheldon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Truyện Bóng Tối Kinh Hoàng, không ngờ từ đây những giây phút cuối cùng nàng còn hiện diện trên cõi trần. Nàng thơ thẩn hòa mình vào giữa đám đông khách du lịch bước chân trên hè phố. Nhanh chân lên, Sonja! Đến ngay khách sạn. Em yên tâm ở lại đó chờ mệnh lệnh từ, bức điện hết giữa chừng? Tại sao Franz không chuyển đi cho hết? Chuyện gì đây? Nhớ lại đêm trước trong câu chuyện chồng nàng kể trên điện thoại với người bên kia cần phải chặn đứng ngay Prima bằng mọi giá. Prima là ai? Tới gần phố Brandenburgische Strasse, chỗ khách sạn Artemisia dành riêng cho mấy bà. Nàng ở lại đây chờ nghe chồng nàng kể đầu đuôi câu chuyện ra sao.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_b8284fb368d51df74e2ba130576dc3b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_b8284fb368d51df74e2ba130576dc3b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Bóng Tối Kinh Hoàng - Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=2354",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:14 Bóng Tối Kinh Hoàng - Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=4022",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:07:02 Bóng Tối Kinh Hoàng - Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=5973",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:39:33 Bóng Tối Kinh Hoàng - Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=8100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:15:00 Bóng Tối Kinh Hoàng - Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=10262",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:51:02 Bóng Tối Kinh Hoàng - Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=12660",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:31:00 Bóng Tối Kinh Hoàng - Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=15053",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:10:53 Bóng Tối Kinh Hoàng - Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=17243",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:47:23 Bóng Tối Kinh Hoàng - Tập 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=19494",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:24:54 Bóng Tối Kinh Hoàng - Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=21567",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:59:27 Bóng Tối Kinh Hoàng - Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=23657",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:34:17 Bóng Tối Kinh Hoàng - Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=25888",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:11:28 Bóng Tối Kinh Hoàng - Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=28071",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:47:51 Bóng Tối Kinh Hoàng - Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=30291",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:24:51 Bóng Tối Kinh Hoàng - Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=32664",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:04:24 Bóng Tối Kinh Hoàng - Tập 16 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Bóng Tối Kinh Hoàng - Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=2354",
+    "title" : "00:39:14 Bóng Tối Kinh Hoàng - Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=4022",
+    "title" : "01:07:02 Bóng Tối Kinh Hoàng - Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=5973",
+    "title" : "01:39:33 Bóng Tối Kinh Hoàng - Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=8100",
+    "title" : "02:15:00 Bóng Tối Kinh Hoàng - Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=10262",
+    "title" : "02:51:02 Bóng Tối Kinh Hoàng - Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=12660",
+    "title" : "03:31:00 Bóng Tối Kinh Hoàng - Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=15053",
+    "title" : "04:10:53 Bóng Tối Kinh Hoàng - Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=17243",
+    "title" : "04:47:23 Bóng Tối Kinh Hoàng - Tập 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=19494",
+    "title" : "05:24:54 Bóng Tối Kinh Hoàng - Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=21567",
+    "title" : "05:59:27 Bóng Tối Kinh Hoàng - Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=23657",
+    "title" : "06:34:17 Bóng Tối Kinh Hoàng - Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=25888",
+    "title" : "07:11:28 Bóng Tối Kinh Hoàng - Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=28071",
+    "title" : "07:47:51 Bóng Tối Kinh Hoàng - Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=30291",
+    "title" : "08:24:51 Bóng Tối Kinh Hoàng - Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/8437-bong-toi-kinh-hoang-thuviensach.vn.mp3?t=32664",
+    "title" : "09:04:24 Bóng Tối Kinh Hoàng - Tập 16 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
