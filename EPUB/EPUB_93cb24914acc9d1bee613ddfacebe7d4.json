@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cuoc-doi-va-dao-nghiep-hoa-thuong-tuyen-hoa-14139.html",
+    "title" : "CUỘC ĐỜI VÀ ĐẠO NGHIỆP HÒA THƯỢNG TUYÊN HÓA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nội dung quyển sách này gồm những mẩu chuyện có liên quan từ khoảng đời thơ ấu đến lúc trưởng thành xuất gia tu đạo của Hòa Thượng, kể cả những bài khai thị trong lúc Ngài giảng kinh thuyết pháp thương ngày. Ngoài ra chúng tôi cũng kết tập thêm bài viết của giáo sư Dương Phú Sâm, gồm những câu chuyện do chính ông thưa thỉnh Hòa Thượng kể lại cuộc đời Ngài với nhiều chi tiết đặc sắc, rất tỉ mỉ. Qua đó khiến các giới nhân sĩ cảm nhận và lãnh hội được những bài học, những kinh nghiệm quý báu được thể hiện qua cuộc đời tu đạo của Hòa Thượng, hầu nối gót Ngài tu học Phật Pháp. Hoà thượng Tuyên Hóa (tiếng Hán: 宣化上人), pháp danh là An Từ, tự Độ Luân; 26 tháng 4 năm 1918 - 7 tháng 6 năm 1995) là một tu sĩ Phật giáo gốc Trung Quốc, người kế thừa đời thứ 9 của Quy Ngưỡng tông. Hòa thượng Tuyên Hóa được đông đảo người dân yêu mến, tôn thờ như một vị bồ tát sống. Ngài không chỉ có tấm lòng từ bi, luôn giúp đỡ mọi người, mà những gì mà ngài để lại cho thế hệ sau này thực sự vô cùng quý giá. Sư chế định tiêu chuẩn tu hành cho mình và cho chính các đệ tử xuất gia lẫn tại gia theo sáu tông chỉ: Không tranh, không tham, không mong cầu, không ích kỷ, không tự lợi, không nói láo. Một trong những hành động khoáng đạt là sư đã nỗ lực hàn gắn lại sự phân chia hơn hai ngàn năm của hai truyền thống Phật Giáo, Nam Tông và Bắc Tông. Sư thường cung thỉnh danh tăng Nam tông đến chùa truyền giới, cùng thương thảo và giải quyết những quan điểm dị đồng. Suốt cuộc đời, Sư luôn khiêm cung, vô ngã và tận tụy rãi lòng đại bi đến tất cả chúng sanh. Sư hành đạo không nghỉ ngơi, chỉ muốn dẹp trừ màn vô minh, mê si đang che lấp bản tính chân thật của chúng sanh. Sư luôn hành đạo vì hòa bình nhân loại, tôn giáo, quốc gia, thế giới. &quot;Khi tôi đến, tôi không có gì cả; khi tôi đi, tôi vẫn không có gì cả. Tôi không muốn để lại dấu vết gì trên thế gian. Tôi từ hư không đến. Tôi sẽ trở về hư không!&quot;</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_93cb24914acc9d1bee613ddfacebe7d4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_93cb24914acc9d1bee613ddfacebe7d4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14139-cuoc-doi-va-dao-nghiep-hoa-thuong-tuyen-hoa-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14139-cuoc-doi-va-dao-nghiep-hoa-thuong-tuyen-hoa-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

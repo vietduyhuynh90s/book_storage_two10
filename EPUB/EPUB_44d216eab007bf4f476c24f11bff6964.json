@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/se-khong-sao-mac-doi-lao-nhao-14241.html",
+    "title" : "SẼ KHÔNG SAO: MẶC ĐỜI LAO NHAO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Trinh Tường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sẽ Không Sao Mặc Đời Lao Nhao là quyển cẩm nang giải đáp những vấn đề về sự nghiệp, về con đường phát triển bản thân, về tình yêu và gia đình… của tác giả Trần Trinh Tường dành cho các bạn trẻ - những người đã gửi đến cho vị thầy giáo trẻ tâm tư của họ, gói ghém vào đó những băn khoăn, trăn trở của một người trẻ khi đối mặt với thực tế cuộc sống vốn dĩ đã bắt đầu không còn êm ái, nhẹ nhàng như khi còn ở trong vòng tay cha mẹ. Tất cả những câu hỏi đó đều là tâm trạng tác giả đã từng trải qua, những khủng hoảng thời tuổi trẻ mà anh đã từng gặp phải. Viết, đối với Trần Trinh Tường, đơn giản chỉ là đem những trải nghiệm của một người đi trước để chia sẻ cùng độc giả. Cuốn sách này tập hợp những câu hỏi phổ biến nhất, điển hình nhất - những trăn trở của tuổi thanh xuân mà tác giả đã nhận được từ các bạn học viên của mình.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_44d216eab007bf4f476c24f11bff6964.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_44d216eab007bf4f476c24f11bff6964.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14241-se-khong-sao-mac-doi-lao-nhao-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14241-se-khong-sao-mac-doi-lao-nhao-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

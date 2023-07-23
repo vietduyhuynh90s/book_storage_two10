@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/luoc-giang-kinh-phap-bao-dan-14138.html",
+    "title" : "LƯỢC GIẢNG KINH PHÁP BẢO ĐÀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tuyên Hóa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hoà thượng Tuyên Hóa (tiếng Hán: 宣化上人), pháp danh là An Từ, tự Độ Luân; 26 tháng 4 năm 1918 - 7 tháng 6 năm 1995) là một tu sĩ Phật giáo gốc Trung Quốc, người kế thừa đời thứ 9 của Quy Ngưỡng tông. Hòa thượng Tuyên Hóa được đông đảo người dân yêu mến, tôn thờ như một vị bồ tát sống. Ngài không chỉ có tấm lòng từ bi, luôn giúp đỡ mọi người, mà những gì mà ngài để lại cho thế hệ sau này thực sự vô cùng quý giá. Sư chế định tiêu chuẩn tu hành cho mình và cho chính các đệ tử xuất gia lẫn tại gia theo sáu tông chỉ: Không tranh, không tham, không mong cầu, không ích kỷ, không tự lợi, không nói láo. Một trong những hành động khoáng đạt là sư đã nỗ lực hàn gắn lại sự phân chia hơn hai ngàn năm của hai truyền thống Phật Giáo, Nam Tông và Bắc Tông. Sư thường cung thỉnh danh tăng Nam tông đến chùa truyền giới, cùng thương thảo và giải quyết những quan điểm dị đồng. Suốt cuộc đời, Sư luôn khiêm cung, vô ngã và tận tụy rãi lòng đại bi đến tất cả chúng sanh. Sư hành đạo không nghỉ ngơi, chỉ muốn dẹp trừ màn vô minh, mê si đang che lấp bản tính chân thật của chúng sanh. Sư luôn hành đạo vì hòa bình nhân loại, tôn giáo, quốc gia, thế giới. &quot;Khi tôi đến, tôi không có gì cả; khi tôi đi, tôi vẫn không có gì cả. Tôi không muốn để lại dấu vết gì trên thế gian. Tôi từ hư không đến. Tôi sẽ trở về hư không!&quot;</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_9db1f926e9a3fbb7328d536a1ec8b5c8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_9db1f926e9a3fbb7328d536a1ec8b5c8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14138-luoc-giang-kinh-phap-bao-dan-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Kinh Pháp Bảo Đàn (1/2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14138-luoc-giang-kinh-phap-bao-dan-thuviensach.vn.mp3?t=23793",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:36:33 Kinh Pháp Bảo Đàn (2/2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14138-luoc-giang-kinh-phap-bao-dan-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Kinh Pháp Bảo Đàn (1/2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14138-luoc-giang-kinh-phap-bao-dan-thuviensach.vn.mp3?t=23793",
+    "title" : "06:36:33 Kinh Pháp Bảo Đàn (2/2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

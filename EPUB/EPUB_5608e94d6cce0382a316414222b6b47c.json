@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mot-luong-tam-trong-suong-mu-14464.html",
+    "title" : "MỘT LƯƠNG TÂM TRONG SƯƠNG MÙ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Văn Trương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lê Văn Trương khi viết báo lấy bút danh là Cô Lý. Năm 1934, viết tập truyện ngắn Trước cảnh hoang tàn Đế Thiên Đế Thích. Từ 1939, chuyên viết tiểu thuyết, viết rất nhiều, rất nhanh và cũng rất ẩu. Người ta bảo Lê Văn Trương còn giao cho bọn « đàn em » viết và chỉ đọc lại, chữa qua loa rồi ký tên đưa Nhà xuất bản. Lê Văn Trương luôn luôn hô hào « thuyết sức mạnh » và xây dựng nhân vật theo kiểu một « người hùng » tưởng tượng, khí khái rởm và anh hùng rơm. Có theo kháng chiến một thời gian, đến năm 1953 vào Hà-nội rồi đi Nam, làm việc ở Nha chiến tranh tâm lý Mỹ-Diệm, Đài phát thanh Sài-gòn. Lê Văn Trương mất ngày 25 tháng 2 năm 1964 tại 67 hẽm 100, đường Trần Hưng Đạo (Sài-gòn).</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_5608e94d6cce0382a316414222b6b47c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_5608e94d6cce0382a316414222b6b47c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14464-mot-luong-tam-trong-suong-mu-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Một Lương Tâm Trong Sương Mù. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14464-mot-luong-tam-trong-suong-mu-thuviensach.vn.mp3?t=3719",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:01:59 Một Lương Tâm Trong Sương Mù. Tập 02 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14464-mot-luong-tam-trong-suong-mu-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Một Lương Tâm Trong Sương Mù. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14464-mot-luong-tam-trong-suong-mu-thuviensach.vn.mp3?t=3719",
+    "title" : "01:01:59 Một Lương Tâm Trong Sương Mù. Tập 02 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

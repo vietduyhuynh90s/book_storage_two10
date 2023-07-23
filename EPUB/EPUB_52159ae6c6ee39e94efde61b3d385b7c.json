@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ai-hat-giua-rung-khuya-14420.html",
+    "title" : "AI HÁT GIỮA RỪNG KHUYA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đái Đức Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Truyện truyền kỳ “Ai hát giữa rừng khuya” giải mã tiếng đàn hát ả đào đêm đêm vang lên giữa rừng khuya ở khu vực đèo Tam Điệp (giữa Thanh Hóa và Ninh Bình). Đó là linh hồn của ba anh em phường hát bị thần hổ ăn thịt, hóa kiếp ma trành, mãi không siêu thoát được. Trong số họ có nàng Oanh Cơ, nhan sắc nghiêng nước nghiêng thành, tài hoa, bạc mệnh…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_52159ae6c6ee39e94efde61b3d385b7c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_52159ae6c6ee39e94efde61b3d385b7c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ai Hát Giữa Rừng Khuya - Giới Thiệu Tác Phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=562",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:09:22 Ai Hát Giữa Rừng Khuya - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=2960",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:20 Ai Hát Giữa Rừng Khuya - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=4933",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:22:13 Ai Hát Giữa Rừng Khuya - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=7218",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:00:18 Ai Hát Giữa Rừng Khuya - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=9914",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:45:14 Ai Hát Giữa Rừng Khuya - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=12264",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:24:24 Ai Hát Giữa Rừng Khuya - Phần 6 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ai Hát Giữa Rừng Khuya - Giới Thiệu Tác Phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=562",
+    "title" : "00:09:22 Ai Hát Giữa Rừng Khuya - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=2960",
+    "title" : "00:49:20 Ai Hát Giữa Rừng Khuya - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=4933",
+    "title" : "01:22:13 Ai Hát Giữa Rừng Khuya - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=7218",
+    "title" : "02:00:18 Ai Hát Giữa Rừng Khuya - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=9914",
+    "title" : "02:45:14 Ai Hát Giữa Rừng Khuya - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14420-ai-hat-giua-rung-khuya-thuviensach.vn.mp3?t=12264",
+    "title" : "03:24:24 Ai Hát Giữa Rừng Khuya - Phần 6 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

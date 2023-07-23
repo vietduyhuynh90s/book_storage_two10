@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nang-loi-non-nuoc-14465.html",
+    "title" : "NẶNG LỜI NON NƯỚC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Đại Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_4bc6a6c24bdd9964f659aa8ebd8d9d02.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_4bc6a6c24bdd9964f659aa8ebd8d9d02.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14465-nang-loi-non-nuoc-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Nặng Lời Non Nước - Tập Một",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14465-nang-loi-non-nuoc-thuviensach.vn.mp3?t=2030",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:50 Nặng Lời Non Nước - Tập Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14465-nang-loi-non-nuoc-thuviensach.vn.mp3?t=4662",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:42 Nặng Lời Non Nước - Tập Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14465-nang-loi-non-nuoc-thuviensach.vn.mp3?t=6673",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:13 Nặng Lời Non Nước - Tập Bốn - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14465-nang-loi-non-nuoc-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Nặng Lời Non Nước - Tập Một",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14465-nang-loi-non-nuoc-thuviensach.vn.mp3?t=2030",
+    "title" : "00:33:50 Nặng Lời Non Nước - Tập Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14465-nang-loi-non-nuoc-thuviensach.vn.mp3?t=4662",
+    "title" : "01:17:42 Nặng Lời Non Nước - Tập Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14465-nang-loi-non-nuoc-thuviensach.vn.mp3?t=6673",
+    "title" : "01:51:13 Nặng Lời Non Nước - Tập Bốn - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

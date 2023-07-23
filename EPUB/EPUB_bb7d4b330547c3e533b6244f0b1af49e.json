@@ -1,0 +1,641 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/linh-chu-phan-3-14206.html",
+    "title" : "LINH CHU - PHẦN 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Đương Gia",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đây là bộ truyện “Linh chu” của tác giả Cửu Đương Gia, một thế giới tiên - người - quái cùng tồn tại đầy bất ngờ, thú vị. Mời mọi người cùng theo dõi bộ truyện thuộc thể loại Huyền huyễn này nha ^^. Đạo gia tu luyện kiếp này, Phật gia tu luyện kiếp sau! Đạo tại bến bờ, Phật tại cõi Niết bàn, con người tại trung gian! Mà Linh chu không tại bến bờ, không tại Niết bàn và cũng không tại trung gian… Vậy Linh chu ở đâu và vì đâu mà xuất hiện? … Truyện Linh chu là một thế giới kì dị mênh mông, có người tu hành liều mạng cùng với trời đất, có người con gái xinh đẹp tuyệt vời, dáng vẻ mềm mại thước tha, có người cổ đại mạnh mẽ kiên cường chuyển kiếp, còn có cổ thú hung mãnh, rồi bạch cốt ở giữa hắc thạch, dưới thổ nhưỡng là Hoàng tuyền, trên trời thì có cung điện, … Còn có bảy con Linh chu cổ lão... Và người thiếu niên anh hùng kiệt xuất với ý chí kiên cường bất khuất Phong Phi Vân - cầm tinh Phượng hoàng sẽ đưa bạn đi đến một câu chuyện đầy tình tiết gây cấn, mê hoặc và cả những nụ cười bất ngờ. Chết dưới hoa mẫu đơn làm quỷ cũng phong lưu.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_bb7d4b330547c3e533b6244f0b1af49e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_bb7d4b330547c3e533b6244f0b1af49e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Linh Chu - Tập 101: Thần Hà Cấm Vệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=3779",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:02:59 Linh Chu - Tập 102: Hồng Loan Yêu Kiếm Truyền Thuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=7753",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:09:13 Linh Chu - Tập 103: Long Thanh Dương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=11637",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:13:57 Linh Chu - Tập 104: Ám Cục Tử Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=15448",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:17:28 Linh Chu - Tập 105: Thế Sự Vô Thường Ngọc Tịnh Hàn Khí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=19359",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:39 Linh Chu - Tập 106: Bại Lộ Thân Phận Nhân Sinh Như Khúc Ca Buồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=23227",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:27:07 Linh Chu - Tập 107: Bất Tử Thánh Thụ Đế Cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=26961",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:29:21 Linh Chu - Tập 108: Đơn Độc 1 Mình Thần Đô Chiến Hoả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=30853",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:34:13 Linh Chu - Tập 109: Âm Mưu Quỷ Kế Vĩnh Biệt Hồng Nhan Ám Sát Công Chúa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=34895",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:41:35 Linh Chu - Tập 110: Nữ Thần Thái Vi Ngự Thú Trai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=38620",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:43:40 Linh Chu - Tập 111: Nữ Đệ Tử Mang Thai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=42693",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:51:33 Linh Chu - Tập 112: Xua Lang Đuổi Hổ Một Vết Chân?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=46607",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:56:47 Linh Chu - Tập 113: Tà Hoàng Thiếu Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=50161",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:56:01 Linh Chu - Tập 114: Vô Sắc Vô Tướng Hoàng Cấp Truyền Tống Trận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=53908",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:58:28 Linh Chu - Tập 115: Rời Khỏi Ngự Thú Trai Bổ Thiên-Cửu Đương Gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=57802",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:03:22 Linh Chu - Tập 116: Khách Sạn Linh Vực Quách Thần Tướng-Cửu Đương Gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=61453",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:04:13 Linh Chu - Tập 117: Hắc Bào Nữ Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=65110",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:05:10 Linh Chu - Tập 118: Thiên Mệnh Đệ Ngữ Trọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=68861",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:07:41 Linh Chu - Tập 119: Tình Thế Phủ Cổ Cương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=72637",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:10:37 Linh Chu - Tập 120: Tuệ Cốt Vu Thần Man Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=76225",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:10:25 Linh Chu - Tập 121: Thần Nữ Gặp Nạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=79909",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:11:49 Linh Chu - Tập 122: Viễn Cổ Tế Tự Thánh Địa Linh Thú Xổ Lồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=83661",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:14:21 Linh Chu - Tập 123: Khí Tức Phượng Hoàng Bộ Lạc Cổ Xưa Trong Thập Vạn Hà Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=87954",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:25:54 Linh Chu - Tập 124: Nữ Tử Tuyệt Mỹ Bị Băng Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=91616",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:26:56 Linh Chu - Tập 125: Thần Nữ Mở Mắt Kim Tàm Kinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=95300",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:28:20 Linh Chu - Tập 126: Hung Uy Của Kình Thiên Côn Tà Hoàng Thiếu Chủ Lộ Diện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=99100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:31:40 Linh Chu - Tập 127: Trở Lại Đỉnh Phong Lục Nhân Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=103123",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:38:43 Linh Chu - Tập 128: Quần Hùng Tụ Tập Đồng Lô Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=106930",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:42:10 Linh Chu - Tập 129: Diệp Ti Loan Vân Phi Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=110700",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:45:00 Linh Chu - Tập 130: Phượng Hoàng Nhãn Cốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=114455",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:47:35 Linh Chu - Tập 131: Thiên Phệ Địa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=118232",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:50:32 Linh Chu - Tập 132: Kỳ Trân Hiếm Thấy Bạch Nguyệt Sứ Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=122187",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:56:27 Linh Chu - Tập 133: Địa Phệ Thiên Hồ Tộc Mặc Dao Dao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=125973",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:59:33 Linh Chu - Tập 134: Đôi Mắt Như Nhật Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=129717",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:01:57 Linh Chu - Tập 135: Phong Si Chiến Uy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=133462",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:04:22 Linh Chu - Tập 136: Ra Khỏi Đồng Lô Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=137283",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:08:03 Linh Chu - Tập 137: Đại Đạo Hái Hoa Nhất Trận Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=140992",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:09:52 Linh Chu - Tập 138: Di Tích Tháp Cổ Pháp Hoằng Cổ Điện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=144740",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:12:20 Linh Chu - Tập 139: Một Chọi Bốn Tử Minh Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=148595",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:16:35 Linh Chu - Tập 140: Vào Pháp Hoằng Điện Cánh Cửa Thiên Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=152408",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:20:08 Linh Chu - Tập 141: Tiểu Thừa Bất Tử Phượng Hoàng Thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=156272",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "43:24:32 Linh Chu - Tập 142: Tiếp Dẫn Cổ Trấn Phu Nhân Giáo Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=160142",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:29:02 Linh Chu - Tập 143: Tiểu Công Chúa Dương Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=163802",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "45:30:02 Linh Chu - Tập 144: Đại Tự Tại Chân Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=167635",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:33:55 Linh Chu - Tập 145: Bí Mật Vũ Hoá Đài Thịnh Hội Tà Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=171536",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:38:56 Linh Chu - Tập 146: Nam Hải Sôi Trào Ngũ Tuyến Chí Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=174928",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "48:35:28 Linh Chu - Tập 147: Đến Vũ Hoá Mộ Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=178827",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "49:40:27 Linh Chu - Tập 148: Tại Hiện Hồng Loan Hoả Thường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=182697",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:44:57 Linh Chu - Tập 149: Lão Bổng Tử Bán Cháo Sát Kiếp Của Kỷ Gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=186680",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:51:20 Linh Chu - Tập 150: Kỷ Hạo Thiên Con Rùa Hung Dữ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Linh Chu - Tập 101: Thần Hà Cấm Vệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=3779",
+    "title" : "01:02:59 Linh Chu - Tập 102: Hồng Loan Yêu Kiếm Truyền Thuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=7753",
+    "title" : "02:09:13 Linh Chu - Tập 103: Long Thanh Dương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=11637",
+    "title" : "03:13:57 Linh Chu - Tập 104: Ám Cục Tử Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=15448",
+    "title" : "04:17:28 Linh Chu - Tập 105: Thế Sự Vô Thường Ngọc Tịnh Hàn Khí",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=19359",
+    "title" : "05:22:39 Linh Chu - Tập 106: Bại Lộ Thân Phận Nhân Sinh Như Khúc Ca Buồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=23227",
+    "title" : "06:27:07 Linh Chu - Tập 107: Bất Tử Thánh Thụ Đế Cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=26961",
+    "title" : "07:29:21 Linh Chu - Tập 108: Đơn Độc 1 Mình Thần Đô Chiến Hoả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=30853",
+    "title" : "08:34:13 Linh Chu - Tập 109: Âm Mưu Quỷ Kế Vĩnh Biệt Hồng Nhan Ám Sát Công Chúa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=34895",
+    "title" : "09:41:35 Linh Chu - Tập 110: Nữ Thần Thái Vi Ngự Thú Trai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=38620",
+    "title" : "10:43:40 Linh Chu - Tập 111: Nữ Đệ Tử Mang Thai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=42693",
+    "title" : "11:51:33 Linh Chu - Tập 112: Xua Lang Đuổi Hổ Một Vết Chân?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=46607",
+    "title" : "12:56:47 Linh Chu - Tập 113: Tà Hoàng Thiếu Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=50161",
+    "title" : "13:56:01 Linh Chu - Tập 114: Vô Sắc Vô Tướng Hoàng Cấp Truyền Tống Trận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=53908",
+    "title" : "14:58:28 Linh Chu - Tập 115: Rời Khỏi Ngự Thú Trai Bổ Thiên-Cửu Đương Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=57802",
+    "title" : "16:03:22 Linh Chu - Tập 116: Khách Sạn Linh Vực Quách Thần Tướng-Cửu Đương Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=61453",
+    "title" : "17:04:13 Linh Chu - Tập 117: Hắc Bào Nữ Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=65110",
+    "title" : "18:05:10 Linh Chu - Tập 118: Thiên Mệnh Đệ Ngữ Trọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=68861",
+    "title" : "19:07:41 Linh Chu - Tập 119: Tình Thế Phủ Cổ Cương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=72637",
+    "title" : "20:10:37 Linh Chu - Tập 120: Tuệ Cốt Vu Thần Man Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=76225",
+    "title" : "21:10:25 Linh Chu - Tập 121: Thần Nữ Gặp Nạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=79909",
+    "title" : "22:11:49 Linh Chu - Tập 122: Viễn Cổ Tế Tự Thánh Địa Linh Thú Xổ Lồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=83661",
+    "title" : "23:14:21 Linh Chu - Tập 123: Khí Tức Phượng Hoàng Bộ Lạc Cổ Xưa Trong Thập Vạn Hà Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=87954",
+    "title" : "24:25:54 Linh Chu - Tập 124: Nữ Tử Tuyệt Mỹ Bị Băng Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=91616",
+    "title" : "25:26:56 Linh Chu - Tập 125: Thần Nữ Mở Mắt Kim Tàm Kinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=95300",
+    "title" : "26:28:20 Linh Chu - Tập 126: Hung Uy Của Kình Thiên Côn Tà Hoàng Thiếu Chủ Lộ Diện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=99100",
+    "title" : "27:31:40 Linh Chu - Tập 127: Trở Lại Đỉnh Phong Lục Nhân Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=103123",
+    "title" : "28:38:43 Linh Chu - Tập 128: Quần Hùng Tụ Tập Đồng Lô Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=106930",
+    "title" : "29:42:10 Linh Chu - Tập 129: Diệp Ti Loan Vân Phi Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=110700",
+    "title" : "30:45:00 Linh Chu - Tập 130: Phượng Hoàng Nhãn Cốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=114455",
+    "title" : "31:47:35 Linh Chu - Tập 131: Thiên Phệ Địa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=118232",
+    "title" : "32:50:32 Linh Chu - Tập 132: Kỳ Trân Hiếm Thấy Bạch Nguyệt Sứ Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=122187",
+    "title" : "33:56:27 Linh Chu - Tập 133: Địa Phệ Thiên Hồ Tộc Mặc Dao Dao",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=125973",
+    "title" : "34:59:33 Linh Chu - Tập 134: Đôi Mắt Như Nhật Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=129717",
+    "title" : "36:01:57 Linh Chu - Tập 135: Phong Si Chiến Uy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=133462",
+    "title" : "37:04:22 Linh Chu - Tập 136: Ra Khỏi Đồng Lô Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=137283",
+    "title" : "38:08:03 Linh Chu - Tập 137: Đại Đạo Hái Hoa Nhất Trận Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=140992",
+    "title" : "39:09:52 Linh Chu - Tập 138: Di Tích Tháp Cổ Pháp Hoằng Cổ Điện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=144740",
+    "title" : "40:12:20 Linh Chu - Tập 139: Một Chọi Bốn Tử Minh Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=148595",
+    "title" : "41:16:35 Linh Chu - Tập 140: Vào Pháp Hoằng Điện Cánh Cửa Thiên Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=152408",
+    "title" : "42:20:08 Linh Chu - Tập 141: Tiểu Thừa Bất Tử Phượng Hoàng Thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=156272",
+    "title" : "43:24:32 Linh Chu - Tập 142: Tiếp Dẫn Cổ Trấn Phu Nhân Giáo Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=160142",
+    "title" : "44:29:02 Linh Chu - Tập 143: Tiểu Công Chúa Dương Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=163802",
+    "title" : "45:30:02 Linh Chu - Tập 144: Đại Tự Tại Chân Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=167635",
+    "title" : "46:33:55 Linh Chu - Tập 145: Bí Mật Vũ Hoá Đài Thịnh Hội Tà Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=171536",
+    "title" : "47:38:56 Linh Chu - Tập 146: Nam Hải Sôi Trào Ngũ Tuyến Chí Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=174928",
+    "title" : "48:35:28 Linh Chu - Tập 147: Đến Vũ Hoá Mộ Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=178827",
+    "title" : "49:40:27 Linh Chu - Tập 148: Tại Hiện Hồng Loan Hoả Thường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=182697",
+    "title" : "50:44:57 Linh Chu - Tập 149: Lão Bổng Tử Bán Cháo Sát Kiếp Của Kỷ Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14206-linh-chu-phan-3-thuviensach.vn.mp3?t=186680",
+    "title" : "51:51:20 Linh Chu - Tập 150: Kỷ Hạo Thiên Con Rùa Hung Dữ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-vong-tron-ky-niem-14472.html",
+    "title" : "NHỮNG VÒNG TRÒN KỶ NIỆM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dung Sài Gòn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_67f91d5ed67dd8cee29a858370644ac7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_67f91d5ed67dd8cee29a858370644ac7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14472-nhung-vong-tron-ky-niem-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Những Vòng Tròn Kỷ Niệm. Tập Một",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14472-nhung-vong-tron-ky-niem-thuviensach.vn.mp3?t=1661",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:41 Đừng Gọi Anh Bằng Chú. (Những Vòng Tròn Kỷ Niệm, Tập Hai)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14472-nhung-vong-tron-ky-niem-thuviensach.vn.mp3?t=4049",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:07:29 Mùa Xuân Của Mỹ. (Những Vòng Tròn Kỷ Niệm, Tập Ba)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14472-nhung-vong-tron-ky-niem-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Những Vòng Tròn Kỷ Niệm. Tập Một",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14472-nhung-vong-tron-ky-niem-thuviensach.vn.mp3?t=1661",
+    "title" : "00:27:41 Đừng Gọi Anh Bằng Chú. (Những Vòng Tròn Kỷ Niệm, Tập Hai)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14472-nhung-vong-tron-ky-niem-thuviensach.vn.mp3?t=4049",
+    "title" : "01:07:29 Mùa Xuân Của Mỹ. (Những Vòng Tròn Kỷ Niệm, Tập Ba)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
