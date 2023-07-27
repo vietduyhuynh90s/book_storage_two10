@@ -1,0 +1,2465 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-cuc-pham-gia-dinh-vu-nham-sac-hiep_2307.html",
+    "title" : "Cực Phẩm Gia Đinh - Vũ Nham.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Nham",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 659157,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/EPUB/EPUB_f11162ef402f3f2492b6984f0f0e16a2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two10/main/IMAGE/IMAGE_f11162ef402f3f2492b6984f0f0e16a2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 01 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3015,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 10 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập100 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3426,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 101 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2814,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 102 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2994,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 103| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 104 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3193,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 105 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập106 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3050,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 107 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2992,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 108 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3119,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 11 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3147,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 110 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3328,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 111 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3033,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 112 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3066,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 113| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 114 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2938,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 115 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3177,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 116| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2876,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 117 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3651,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 118 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 119 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2785,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 12 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3023,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 120| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 121| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3044,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 122 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 123 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 124 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 125 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2975,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 126 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 127 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 128 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3310,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 129 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 13 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 130 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3137,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 131 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3406,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 132 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập133 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 134 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3053,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 135 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập136| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập137| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 138 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3180,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 139 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2865,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 14 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 140 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 141| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 142| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 143 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 144 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3302,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 145 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 146 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 147| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 148| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3211,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 149 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2824,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 15 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3129,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 150 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3386,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 151 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 152 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 153 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3486,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 154 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3341,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 155 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 156 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 157 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3150,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 158 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3326,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 159 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 16 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3433,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 160 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 161 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 162| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 163 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 164 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 165 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 166 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3249,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 167 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 168 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 169 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3075,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập17 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3053,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 170 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3037,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 171 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3074,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 172| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 173 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3274,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 174 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3231,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 175 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 176 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3157,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 177 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3049,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 178 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 179 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2851,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 18 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 180 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 181| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3539,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 182 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 183 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3405,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 184 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3106,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 185 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 186 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3132,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 187 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3126,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập188 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 189 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3961,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 19 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 190| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3175,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 191| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3006,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 192 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 193 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3751,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 194 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3266,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 195| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập196 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3027,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 197 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "198",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 199 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 02| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2950,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 20 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 200 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3590,
+    "title" : "201",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6002,
+    "title" : "CỰC PHẨM GIA ĐINH TẬP CUỐI 202 - MC Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 21 Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 22 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3521,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 23 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3826,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 24 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập25 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 26 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2850,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 27 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 28 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2907,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 29 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2900,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 03 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 30 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3157,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 31 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3810,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 32 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 33 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3493,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 34 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 35 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4502,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 36 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3426,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 37 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4170,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 38 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 39 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 04 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 40 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3079,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 41 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3482,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 42 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 43 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3162,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 44 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3623,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 45 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 46| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3435,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 47 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3134,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 48 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3005,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 49 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2475,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 05 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3211,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 50 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 51 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3016,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 52| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 53 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 54 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2819,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 55 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 56 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 57 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3693,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 58 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3222,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 59 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "06| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4714,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 60 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3016,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 61| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2940,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 62 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3083,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 63 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3218,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 64| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 65 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4139,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 66 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3285,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 67| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3302,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 68 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3045,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 69 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2866,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập07 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 70 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 71| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3164,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 72 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 73 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3975,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 74 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3027,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 75 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3915,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 76 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3870,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 77 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 78 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3417,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 79 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 08 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 80| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 81 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3342,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 82 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 83 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3371,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 84 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 85 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 86| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 87 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3539,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 88 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3302,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 89 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 09| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3178,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 90 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 91| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3405,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 92 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 93 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2805,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 94 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3250,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 95| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2952,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 96| Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3535,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 97 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 98 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 99 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/1.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 01 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/10.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 10 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/100.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập100 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/101.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 101 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/102.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 102 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/103.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 103| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/104.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 104 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/105.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 105 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/106.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập106 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/107.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 107 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/108.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 108 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/109.mp3",
+    "title" : "109",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/11.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 11 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/110.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 110 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/111.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 111 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/112.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 112 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/113.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 113| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/114.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 114 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/115.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 115 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/116.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 116| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/117.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 117 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/118.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 118 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/119.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 119 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/12.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 12 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/120.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 120| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/121.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 121| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/122.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 122 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/123.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 123 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/124.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 124 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/125.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 125 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/126.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 126 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/127.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 127 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/128.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 128 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/129.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 129 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/13.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 13 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/130.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 130 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/131.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 131 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/132.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 132 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/133.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập133 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/134.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 134 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/135.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 135 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/136.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập136| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/137.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập137| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/138.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 138 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/139.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 139 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/14.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 14 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/140.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 140 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/141.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 141| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/142.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 142| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/143.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 143 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/144.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 144 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/145.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 145 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/146.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 146 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/147.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 147| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/148.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 148| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/149.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 149 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/15.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 15 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/150.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 150 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/151.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 151 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/152.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 152 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/153.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 153 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/154.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 154 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/155.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 155 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/156.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 156 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/157.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 157 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/158.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 158 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/159.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 159 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/16.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 16 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/160.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 160 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/161.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 161 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/162.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 162| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/163.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 163 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/164.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 164 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/165.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 165 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/166.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 166 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/167.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 167 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/168.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 168 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/169.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 169 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/17.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập17 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/170.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 170 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/171.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 171 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/172.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 172| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/173.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 173 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/174.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 174 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/175.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 175 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/176.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 176 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/177.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 177 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/178.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 178 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/179.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 179 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/18.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 18 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/180.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 180 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/181.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 181| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/182.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 182 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/183.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 183 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/184.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 184 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/185.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 185 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/186.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 186 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/187.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 187 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/188.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập188 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/189.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 189 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/19.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 19 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/190.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 190| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/191.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 191| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/192.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 192 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/193.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 193 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/194.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 194 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/195.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 195| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/196.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập196 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/197.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 197 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/198.mp3",
+    "title" : "198",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/199.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 199 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/2.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 02| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/20.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 20 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/200.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 200 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/201.mp3",
+    "title" : "201",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/202.mp3",
+    "title" : "CỰC PHẨM GIA ĐINH TẬP CUỐI 202 - MC Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/21.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 21 Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/22.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 22 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/23.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 23 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/24.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 24 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/25.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập25 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/26.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 26 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/27.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 27 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/28.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 28 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/29.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 29 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/3.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 03 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/30.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 30 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/31.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 31 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/32.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 32 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/33.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 33 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/34.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 34 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/35.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 35 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/36.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 36 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/37.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 37 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/38.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 38 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/39.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 39 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/4.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 04 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/40.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 40 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/41.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 41 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/42.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 42 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/43.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 43 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/44.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 44 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/45.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 45 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/46.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 46| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/47.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 47 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/48.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 48 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/49.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 49 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/5.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 05 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/50.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 50 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/51.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 51 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/52.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 52| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/53.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 53 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/54.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 54 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/55.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 55 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/56.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 56 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/57.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 57 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/58.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 58 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/59.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 59 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/6.mp3",
+    "title" : "06| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/60.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 60 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/61.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 61| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/62.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 62 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/63.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 63 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/64.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 64| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/65.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 65 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/66.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 66 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/67.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 67| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/68.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 68 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/69.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 69 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/7.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập07 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/70.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 70 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/71.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 71| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/72.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 72 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/73.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 73 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/74.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 74 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/75.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 75 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/76.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 76 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/77.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 77 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/78.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 78 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/79.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 79 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/8.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 08 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/80.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 80| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/81.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 81 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/82.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 82 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/83.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 83 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/84.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 84 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/85.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 85 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/86.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 86| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/87.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 87 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/88.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 88 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/89.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 89 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/9.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 09| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/90.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 90 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/91.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 91| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/92.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 92 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/93.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 93 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/94.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 94 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/95.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 95| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/96.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 96| Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/97.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 97 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/98.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 98 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cucphamgiadinh_201903/99.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | CỰC PHẨM GIA ĐINH | Tập 99 | Mc Đình Duy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
