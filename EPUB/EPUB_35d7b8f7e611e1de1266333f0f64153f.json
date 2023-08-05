@@ -36,14 +36,6 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://thuviensach.vn/img/audio/403-dac-nhan-tam-thuviensach.vn.m4a",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ",
-    "properties" : null,
-    "alternate" : null
-  }, {
     "href" : "https://thuviensach.vn/img/audio/403-dac-nhan-tam-thuviensach.vn.mp3?t=0",
     "type" : "audio/mpeg",
     "bitrate" : 128,
@@ -125,10 +117,6 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://thuviensach.vn/img/audio/403-dac-nhan-tam-thuviensach.vn.m4a",
-    "title" : "Trọn bộ",
-    "children" : [ ]
-  }, {
     "href" : "https://thuviensach.vn/img/audio/403-dac-nhan-tam-thuviensach.vn.mp3?t=0",
     "title" : "00:00:00 Lời Nhà Xuất Bản",
     "children" : [ ]
