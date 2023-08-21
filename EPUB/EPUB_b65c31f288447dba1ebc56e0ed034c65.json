@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-19",
     "duration" : 26929,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,89 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/3-1-bang-may/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_dd647dbbe37444ec54ce8723bd405404_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11821,
-    "title" : "mấy ??? MC Tuấn Anh P1",
+    "duration" : 0,
+    "title" : "mấy ??? MC Tuấn Anh P1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3-1-bang-may/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_dd647dbbe37444ec54ce8723bd405404_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 15108,
-    "title" : "mấy ??? MC Tuấn Anh P2 (hết)",
+    "duration" : 0,
+    "title" : "mấy ??? MC Tuấn Anh P1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_dd647dbbe37444ec54ce8723bd405404_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mấy ??? MC Tuấn Anh P1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_ad1e8934ebb57336d331ff7dbd073734_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mấy ??? MC Tuấn Anh P2 (hết) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_ad1e8934ebb57336d331ff7dbd073734_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mấy ??? MC Tuấn Anh P2 (hết) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_ad1e8934ebb57336d331ff7dbd073734_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mấy ??? MC Tuấn Anh P2 (hết) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_ad1e8934ebb57336d331ff7dbd073734_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mấy ??? MC Tuấn Anh P2 (hết) (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/3-1-bang-may/1.mp3",
-    "title" : "mấy ??? MC Tuấn Anh P1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_dd647dbbe37444ec54ce8723bd405404_1.mp3",
+    "title" : "mấy ??? MC Tuấn Anh P1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3-1-bang-may/2.mp3",
-    "title" : "mấy ??? MC Tuấn Anh P2 (hết)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_dd647dbbe37444ec54ce8723bd405404_2.mp3",
+    "title" : "mấy ??? MC Tuấn Anh P1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_dd647dbbe37444ec54ce8723bd405404_3.mp3",
+    "title" : "mấy ??? MC Tuấn Anh P1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_ad1e8934ebb57336d331ff7dbd073734_1.mp3",
+    "title" : "mấy ??? MC Tuấn Anh P2 (hết) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_ad1e8934ebb57336d331ff7dbd073734_2.mp3",
+    "title" : "mấy ??? MC Tuấn Anh P2 (hết) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_ad1e8934ebb57336d331ff7dbd073734_3.mp3",
+    "title" : "mấy ??? MC Tuấn Anh P2 (hết) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_b65c31f288447dba1ebc56e0ed034c65_ad1e8934ebb57336d331ff7dbd073734_4.mp3",
+    "title" : "mấy ??? MC Tuấn Anh P2 (hết) (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
