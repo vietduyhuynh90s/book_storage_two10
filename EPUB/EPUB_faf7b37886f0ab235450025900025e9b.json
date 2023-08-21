@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 6593,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/como_20200227/CoMo_01.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_faf7b37886f0ab235450025900025e9b_13479b50d170aaaf4132879a74370874_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3088,
-    "title" : "CoMo 01",
+    "duration" : 0,
+    "title" : "CoMo 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/como_20200227/CoMo_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_faf7b37886f0ab235450025900025e9b_13479b50d170aaaf4132879a74370874_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3505,
-    "title" : "CoMo 02",
+    "duration" : 0,
+    "title" : "CoMo 01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_faf7b37886f0ab235450025900025e9b_ec8434111fd958b90619a7c7e92cd6ca_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CoMo 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_faf7b37886f0ab235450025900025e9b_ec8434111fd958b90619a7c7e92cd6ca_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CoMo 02 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/como_20200227/CoMo_01.mp3",
-    "title" : "CoMo 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_faf7b37886f0ab235450025900025e9b_13479b50d170aaaf4132879a74370874_1.mp3",
+    "title" : "CoMo 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/como_20200227/CoMo_02.mp3",
-    "title" : "CoMo 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_faf7b37886f0ab235450025900025e9b_13479b50d170aaaf4132879a74370874_2.mp3",
+    "title" : "CoMo 01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_faf7b37886f0ab235450025900025e9b_ec8434111fd958b90619a7c7e92cd6ca_1.mp3",
+    "title" : "CoMo 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_faf7b37886f0ab235450025900025e9b_ec8434111fd958b90619a7c7e92cd6ca_2.mp3",
+    "title" : "CoMo 02 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

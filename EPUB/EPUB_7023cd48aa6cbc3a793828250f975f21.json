@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 16429,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/3_20210116_20210116/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_e9fc0f6f728088338922cafb13d7bd25_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5321,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3_20210116_20210116/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_e9fc0f6f728088338922cafb13d7bd25_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5082,
-    "title" : "2",
+    "duration" : 0,
+    "title" : "1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3_20210116_20210116/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_bc9095a5dc0772233d39737f64561a9e_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6026,
-    "title" : "3",
+    "duration" : 0,
+    "title" : "2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_bc9095a5dc0772233d39737f64561a9e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_83f62721f2d2c4b324ed3276ba34b488_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_83f62721f2d2c4b324ed3276ba34b488_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/3_20210116_20210116/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_e9fc0f6f728088338922cafb13d7bd25_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3_20210116_20210116/2.mp3",
-    "title" : "2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_e9fc0f6f728088338922cafb13d7bd25_2.mp3",
+    "title" : "1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3_20210116_20210116/3.mp3",
-    "title" : "3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_bc9095a5dc0772233d39737f64561a9e_1.mp3",
+    "title" : "2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_bc9095a5dc0772233d39737f64561a9e_2.mp3",
+    "title" : "2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_83f62721f2d2c4b324ed3276ba34b488_1.mp3",
+    "title" : "3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7023cd48aa6cbc3a793828250f975f21_83f62721f2d2c4b324ed3276ba34b488_2.mp3",
+    "title" : "3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
