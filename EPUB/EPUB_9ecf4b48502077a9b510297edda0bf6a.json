@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 16633,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tai-gia/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_091a3abfee57fd931e28fbc47e3e7ef1_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4926,
-    "title" : "TÁI GIÁ - Tập 1/3",
+    "duration" : 0,
+    "title" : "TÁI GIÁ - Tập 1/3 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tai-gia/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_091a3abfee57fd931e28fbc47e3e7ef1_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4525,
-    "title" : "TÁI GIÁ - Tập 2/3",
+    "duration" : 0,
+    "title" : "TÁI GIÁ - Tập 1/3 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tai-gia/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_86c8bc181736a958eff7ebafe4a79df5_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7182,
-    "title" : "TÁI GIÁ - Tập 3/3 End",
+    "duration" : 0,
+    "title" : "TÁI GIÁ - Tập 2/3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_86c8bc181736a958eff7ebafe4a79df5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TÁI GIÁ - Tập 2/3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_457b7742747110803a7b57084a9dca08_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TÁI GIÁ - Tập 3/3 End (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_457b7742747110803a7b57084a9dca08_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TÁI GIÁ - Tập 3/3 End (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tai-gia/1.mp3",
-    "title" : "TÁI GIÁ - Tập 1/3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_091a3abfee57fd931e28fbc47e3e7ef1_1.mp3",
+    "title" : "TÁI GIÁ - Tập 1/3 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tai-gia/2.mp3",
-    "title" : "TÁI GIÁ - Tập 2/3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_091a3abfee57fd931e28fbc47e3e7ef1_2.mp3",
+    "title" : "TÁI GIÁ - Tập 1/3 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tai-gia/3.mp3",
-    "title" : "TÁI GIÁ - Tập 3/3 End",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_86c8bc181736a958eff7ebafe4a79df5_1.mp3",
+    "title" : "TÁI GIÁ - Tập 2/3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_86c8bc181736a958eff7ebafe4a79df5_2.mp3",
+    "title" : "TÁI GIÁ - Tập 2/3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_457b7742747110803a7b57084a9dca08_1.mp3",
+    "title" : "TÁI GIÁ - Tập 3/3 End (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_9ecf4b48502077a9b510297edda0bf6a_457b7742747110803a7b57084a9dca08_2.mp3",
+    "title" : "TÁI GIÁ - Tập 3/3 End (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
