@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 4902,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/phan-2_202111/phan-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_5c4991be55d0de13b7646e2f69c32fde_f1668afb50238c3432e33df8c2f97b54.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 506,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phan-2_202111/phan-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_5c4991be55d0de13b7646e2f69c32fde_e9ca19e4a6172ef3d908c2967f79c910.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1859,
@@ -52,25 +52,37 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phan-2_202111/phan-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_5c4991be55d0de13b7646e2f69c32fde_75db6747da131a1aefb83acd0f0fab34_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2537,
-    "title" : "phan-3",
+    "duration" : 0,
+    "title" : "phan-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_5c4991be55d0de13b7646e2f69c32fde_75db6747da131a1aefb83acd0f0fab34_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "phan-3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/phan-2_202111/phan-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_5c4991be55d0de13b7646e2f69c32fde_f1668afb50238c3432e33df8c2f97b54.mp3",
     "title" : "phan-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phan-2_202111/phan-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_5c4991be55d0de13b7646e2f69c32fde_e9ca19e4a6172ef3d908c2967f79c910.mp3",
     "title" : "Dám Nghĩ Lớn C1 Thành Công Bắt Nguồn Từ Niềm Tin Ở Bản Thân",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phan-2_202111/phan-3.mp3",
-    "title" : "phan-3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_5c4991be55d0de13b7646e2f69c32fde_75db6747da131a1aefb83acd0f0fab34_1.mp3",
+    "title" : "phan-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_5c4991be55d0de13b7646e2f69c32fde_75db6747da131a1aefb83acd0f0fab34_2.mp3",
+    "title" : "phan-3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
