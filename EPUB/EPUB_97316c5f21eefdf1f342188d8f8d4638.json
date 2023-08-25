@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-24",
     "duration" : 26759,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,197 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ac-y-tac-gia-higashino-keigo/%231%20%5BAudio%5D%20A%CC%81c%20Y%CC%81%20-%20Higashino%20Keigo%20_%20Mo%CC%A3%CC%82c%20Mo%CC%A3%CC%82c%20%28192kbit_AAC%29.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_9af2d3fbf9fd16beec904f74ed0e7b2c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6007,
-    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC)",
+    "duration" : 0,
+    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ac-y-tac-gia-higashino-keigo/%232%20%5BAudio%5D%20A%CC%81c%20Y%CC%81%20-%20Higashino%20Keigo%20_%20Mo%CC%A3%CC%82c%20Mo%CC%A3%CC%82c%20%28192kbit_AAC%29.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_9af2d3fbf9fd16beec904f74ed0e7b2c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8091,
-    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC)",
+    "duration" : 0,
+    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ac-y-tac-gia-higashino-keigo/%233%20%5BAudio%5D%20A%CC%81c%20Y%CC%81%20-%20Higashino%20Keigo%20_%20Mo%CC%A3%CC%82c%20Mo%CC%A3%CC%82c%20%28192kbit_AAC%29.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_9af2d3fbf9fd16beec904f74ed0e7b2c_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9366,
-    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC)",
+    "duration" : 0,
+    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (3)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ac-y-tac-gia-higashino-keigo/%23END%20%5BAudio%5D%20A%CC%81c%20Y%CC%81%20-%20Higashino%20Keigo%20_%20Mo%CC%A3%CC%82c%20Mo%CC%A3%CC%82c%20%28192kbit_AAC%29.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_9af2d3fbf9fd16beec904f74ed0e7b2c_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3295,
-    "title" : "#END [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC)",
+    "duration" : 0,
+    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_a555ca2aef24cda5ee4b39a667b7c5f9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#END [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_a555ca2aef24cda5ee4b39a667b7c5f9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "#END [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ac-y-tac-gia-higashino-keigo/%231%20%5BAudio%5D%20A%CC%81c%20Y%CC%81%20-%20Higashino%20Keigo%20_%20Mo%CC%A3%CC%82c%20Mo%CC%A3%CC%82c%20%28192kbit_AAC%29.m4a",
-    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_9af2d3fbf9fd16beec904f74ed0e7b2c_1.mp3",
+    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ac-y-tac-gia-higashino-keigo/%232%20%5BAudio%5D%20A%CC%81c%20Y%CC%81%20-%20Higashino%20Keigo%20_%20Mo%CC%A3%CC%82c%20Mo%CC%A3%CC%82c%20%28192kbit_AAC%29.m4a",
-    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_9af2d3fbf9fd16beec904f74ed0e7b2c_2.mp3",
+    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ac-y-tac-gia-higashino-keigo/%233%20%5BAudio%5D%20A%CC%81c%20Y%CC%81%20-%20Higashino%20Keigo%20_%20Mo%CC%A3%CC%82c%20Mo%CC%A3%CC%82c%20%28192kbit_AAC%29.m4a",
-    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_9af2d3fbf9fd16beec904f74ed0e7b2c_3.mp3",
+    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (3)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ac-y-tac-gia-higashino-keigo/%23END%20%5BAudio%5D%20A%CC%81c%20Y%CC%81%20-%20Higashino%20Keigo%20_%20Mo%CC%A3%CC%82c%20Mo%CC%A3%CC%82c%20%28192kbit_AAC%29.m4a",
-    "title" : "#END [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_9af2d3fbf9fd16beec904f74ed0e7b2c_4.mp3",
+    "title" : "#1 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_1.mp3",
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_2.mp3",
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_3.mp3",
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_4.mp3",
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_1676015ec46f78d630956503528fa6d4_5.mp3",
+    "title" : "#2 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_1.mp3",
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_2.mp3",
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_3.mp3",
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_4.mp3",
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_cf36028988c0b3dae64c76523ba7e4fa_5.mp3",
+    "title" : "#3 [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_a555ca2aef24cda5ee4b39a667b7c5f9_1.mp3",
+    "title" : "#END [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_97316c5f21eefdf1f342188d8f8d4638_a555ca2aef24cda5ee4b39a667b7c5f9_2.mp3",
+    "title" : "#END [Audio] Ác Ý - Higashino Keigo   Mộc Mộc (192kbit AAC) (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
