@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-25",
     "duration" : 4592,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chuong-4/chuong%201.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_70cfb509b0de6646e9bbc7803b5eacde_6df45be6d4371736f8848bb67624bb49.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 677,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuong-4/chuong%202.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_70cfb509b0de6646e9bbc7803b5eacde_8ac9032a2bd12356fa6850f984d7ad2f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1485,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuong-4/chuong%203.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_70cfb509b0de6646e9bbc7803b5eacde_2f825e23f35d778e2c995e3e5cc36b21.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 768,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chuong-4/chuong%204.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_70cfb509b0de6646e9bbc7803b5eacde_15db5af72c50a29ad8f9539c1a9fc612.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1662,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chuong-4/chuong%201.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_70cfb509b0de6646e9bbc7803b5eacde_6df45be6d4371736f8848bb67624bb49.mp3",
     "title" : "chuong 1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuong-4/chuong%202.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_70cfb509b0de6646e9bbc7803b5eacde_8ac9032a2bd12356fa6850f984d7ad2f.mp3",
     "title" : "chuong 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuong-4/chuong%203.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_70cfb509b0de6646e9bbc7803b5eacde_2f825e23f35d778e2c995e3e5cc36b21.mp3",
     "title" : "chuong 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chuong-4/chuong%204.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_70cfb509b0de6646e9bbc7803b5eacde_15db5af72c50a29ad8f9539c1a9fc612.mp3",
     "title" : "chuong 4",
     "children" : [ ]
   } ],
