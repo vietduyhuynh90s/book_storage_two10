@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-28",
     "duration" : 17839,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chiec-khuy-dong/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_23d2f957adae41b938e0673f61cd1077_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6181,
-    "title" : "phần 1",
+    "duration" : 0,
+    "title" : "phần 1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chiec-khuy-dong/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_23d2f957adae41b938e0673f61cd1077_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "phần 1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_16a88fe0edd5f7d39e6faa6f6ba3c232.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3591,
@@ -52,15 +60,23 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chiec-khuy-dong/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_3c572391130e30e235d51a371ad3ba85_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4966,
-    "title" : "Phần 3",
+    "duration" : 0,
+    "title" : "Phần 3 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chiec-khuy-dong/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_3c572391130e30e235d51a371ad3ba85_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_5524166bae603db9798f860fd01b29e3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3101,
@@ -69,19 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chiec-khuy-dong/1.mp3",
-    "title" : "phần 1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_23d2f957adae41b938e0673f61cd1077_1.mp3",
+    "title" : "phần 1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chiec-khuy-dong/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_23d2f957adae41b938e0673f61cd1077_2.mp3",
+    "title" : "phần 1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_16a88fe0edd5f7d39e6faa6f6ba3c232.mp3",
     "title" : "phần 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chiec-khuy-dong/3.mp3",
-    "title" : "Phần 3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_3c572391130e30e235d51a371ad3ba85_1.mp3",
+    "title" : "Phần 3 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chiec-khuy-dong/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_3c572391130e30e235d51a371ad3ba85_2.mp3",
+    "title" : "Phần 3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7c9fe4ab4e2928d9765b354533ed9318_5524166bae603db9798f860fd01b29e3.mp3",
     "title" : "Phần cuối",
     "children" : [ ]
   } ],
