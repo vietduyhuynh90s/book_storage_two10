@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 19432,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_71452b45416be6fdea5fb962bc85da28_868271df5b2fc6e4e68b6611c76866ce_1.mp3",
+    "href" : "https://archive.org/download/cphp_20200508/Chinh%20ph%E1%BB%A5c%20h%E1%BA%A1nh%20ph%C3%BAc%20-%20B.Russell%20%28128kbit_AAC%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_71452b45416be6fdea5fb962bc85da28_868271df5b2fc6e4e68b6611c76866ce_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_71452b45416be6fdea5fb962bc85da28_868271df5b2fc6e4e68b6611c76866ce_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC) (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_71452b45416be6fdea5fb962bc85da28_868271df5b2fc6e4e68b6611c76866ce_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC) (4)",
+    "duration" : 19432,
+    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_71452b45416be6fdea5fb962bc85da28_868271df5b2fc6e4e68b6611c76866ce_1.mp3",
-    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_71452b45416be6fdea5fb962bc85da28_868271df5b2fc6e4e68b6611c76866ce_2.mp3",
-    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_71452b45416be6fdea5fb962bc85da28_868271df5b2fc6e4e68b6611c76866ce_3.mp3",
-    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC) (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_71452b45416be6fdea5fb962bc85da28_868271df5b2fc6e4e68b6611c76866ce_4.mp3",
-    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC) (4)",
+    "href" : "https://archive.org/download/cphp_20200508/Chinh%20ph%E1%BB%A5c%20h%E1%BA%A1nh%20ph%C3%BAc%20-%20B.Russell%20%28128kbit_AAC%29.mp3",
+    "title" : "Chinh phục hạnh phúc - B.Russell (128kbit AAC)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

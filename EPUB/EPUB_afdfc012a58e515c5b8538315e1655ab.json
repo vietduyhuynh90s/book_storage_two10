@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-17",
+    "published" : "2023-09-06",
     "duration" : 3167,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_afdfc012a58e515c5b8538315e1655ab_a929b92951394f96a04f03ec2876b53e_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_vetdtc/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Đinh Mặc (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_afdfc012a58e515c5b8538315e1655ab_a929b92951394f96a04f03ec2876b53e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Đinh Mặc (2)",
+    "duration" : 3167,
+    "title" : "Đinh Mặc",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_afdfc012a58e515c5b8538315e1655ab_a929b92951394f96a04f03ec2876b53e_1.mp3",
-    "title" : "Đinh Mặc (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_afdfc012a58e515c5b8538315e1655ab_a929b92951394f96a04f03ec2876b53e_2.mp3",
-    "title" : "Đinh Mặc (2)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_vetdtc/1.mp3",
+    "title" : "Đinh Mặc",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

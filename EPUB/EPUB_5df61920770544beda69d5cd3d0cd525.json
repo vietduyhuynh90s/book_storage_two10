@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 7326,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5df61920770544beda69d5cd3d0cd525_6c9bdcecb4dfbb14c55c145d2a9ebd02_1.mp3",
+    "href" : "https://archive.org/download/ve-mai-chua-xua/ve-mai-chua-xua.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ve-mai-chua-xua (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5df61920770544beda69d5cd3d0cd525_6c9bdcecb4dfbb14c55c145d2a9ebd02_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ve-mai-chua-xua (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5df61920770544beda69d5cd3d0cd525_6c9bdcecb4dfbb14c55c145d2a9ebd02_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ve-mai-chua-xua (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5df61920770544beda69d5cd3d0cd525_6c9bdcecb4dfbb14c55c145d2a9ebd02_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ve-mai-chua-xua (4)",
+    "duration" : 7326,
+    "title" : "ve-mai-chua-xua",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5df61920770544beda69d5cd3d0cd525_6c9bdcecb4dfbb14c55c145d2a9ebd02_1.mp3",
-    "title" : "ve-mai-chua-xua (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5df61920770544beda69d5cd3d0cd525_6c9bdcecb4dfbb14c55c145d2a9ebd02_2.mp3",
-    "title" : "ve-mai-chua-xua (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5df61920770544beda69d5cd3d0cd525_6c9bdcecb4dfbb14c55c145d2a9ebd02_3.mp3",
-    "title" : "ve-mai-chua-xua (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5df61920770544beda69d5cd3d0cd525_6c9bdcecb4dfbb14c55c145d2a9ebd02_4.mp3",
-    "title" : "ve-mai-chua-xua (4)",
+    "href" : "https://archive.org/download/ve-mai-chua-xua/ve-mai-chua-xua.mp3",
+    "title" : "ve-mai-chua-xua",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

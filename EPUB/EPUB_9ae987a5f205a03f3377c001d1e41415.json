@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-03",
-    "duration" : 14572,
+    "published" : "2023-09-06",
+    "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,77 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_f2663d9a5faf01b25714e22739859753_1.mp3",
+    "href" : "https://ia902706.us.archive.org/10/items/mot-cuon-sach-tram-cam/mot-cuon-sach-tram-cam.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P1 (1)",
+    "duration" : 3643,
+    "title" : "P1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_f2663d9a5faf01b25714e22739859753_2.mp3",
+    "href" : "https://ia902705.us.archive.org/22/items/mot-cuon-sach-tram-cam-p3-end/mot-cuon-sach-tram-cam-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P1 (2)",
+    "duration" : 3643,
+    "title" : "P2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_07c247161d233abf586c5900eef483e3_1.mp3",
+    "href" : "https://ia902705.us.archive.org/22/items/mot-cuon-sach-tram-cam-p3-end/mot-cuon-sach-tram-cam-p3-end.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_07c247161d233abf586c5900eef483e3_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_933a7a068a199ee5d48622e9b06a30ec_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P3 (End) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_933a7a068a199ee5d48622e9b06a30ec_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P3 (End) (2)",
+    "duration" : 3643,
+    "title" : "P3 (End)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_f2663d9a5faf01b25714e22739859753_1.mp3",
-    "title" : "P1 (1)",
+    "href" : "https://ia902706.us.archive.org/10/items/mot-cuon-sach-tram-cam/mot-cuon-sach-tram-cam.mp3",
+    "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_f2663d9a5faf01b25714e22739859753_2.mp3",
-    "title" : "P1 (2)",
+    "href" : "https://ia902705.us.archive.org/22/items/mot-cuon-sach-tram-cam-p3-end/mot-cuon-sach-tram-cam-p2.mp3",
+    "title" : "P2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_07c247161d233abf586c5900eef483e3_1.mp3",
-    "title" : "P2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_07c247161d233abf586c5900eef483e3_2.mp3",
-    "title" : "P2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_933a7a068a199ee5d48622e9b06a30ec_1.mp3",
-    "title" : "P3 (End) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_9ae987a5f205a03f3377c001d1e41415_933a7a068a199ee5d48622e9b06a30ec_2.mp3",
-    "title" : "P3 (End) (2)",
+    "href" : "https://ia902705.us.archive.org/22/items/mot-cuon-sach-tram-cam-p3-end/mot-cuon-sach-tram-cam-p3-end.mp3",
+    "title" : "P3 (End)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
