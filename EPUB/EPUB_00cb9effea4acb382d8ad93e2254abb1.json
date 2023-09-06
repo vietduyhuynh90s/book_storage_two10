@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 9358,
+    "published" : "2023-09-06",
+    "duration" : 18716,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_00cb9effea4acb382d8ad93e2254abb1_cc195159b6a473a7f96b5059b6f3f3eb.mp3",
+    "href" : "https://archive.org/download/cay-da-oan-nghiet/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3211,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_00cb9effea4acb382d8ad93e2254abb1_b092b041f0836b2be37aa9540df17812.mp3",
+    "href" : "https://archive.org/download/cay-da-oan-nghiet/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3131,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_00cb9effea4acb382d8ad93e2254abb1_2156ae38881aac77a14c864435b43b68.mp3",
+    "href" : "https://archive.org/download/cay-da-oan-nghiet/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3016,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_00cb9effea4acb382d8ad93e2254abb1_cc195159b6a473a7f96b5059b6f3f3eb.mp3",
+    "href" : "https://archive.org/download/cay-da-oan-nghiet/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_00cb9effea4acb382d8ad93e2254abb1_b092b041f0836b2be37aa9540df17812.mp3",
+    "href" : "https://archive.org/download/cay-da-oan-nghiet/2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_00cb9effea4acb382d8ad93e2254abb1_2156ae38881aac77a14c864435b43b68.mp3",
+    "href" : "https://archive.org/download/cay-da-oan-nghiet/3.mp3",
     "title" : "3",
     "children" : [ ]
   } ],
